@@ -26,15 +26,15 @@ Depending on the violation, it’s best to address it directly.  If possible, it
 ## Violations
 
 ### Stage 1 violation
-Examples:  a bad joke, an underlying sexual reference, mocking someone’s choice of editor
+#### Examples:  a bad joke, an underlying sexual reference, mocking someone’s choice of editor
 Point out the violation and we could say something like “it’s not in the spirit of our community.”  Taking steps to bring awareness to a person’s behavior is a good way to begin addressing the violation and prevent future violations.    
 
 ### Stage 2 violation
-Examples:  heckler, disrespectful post on online forum
+#### Examples:  heckler, disrespectful post on online forum
 It’s good to give a warning first.  Bring attention of the behavior to  the violator.  Let them know it is a violation of our CoC and we handle this violation with a warning.  
 
 ### Stage 3 violation
-Examples:  sexual harassment
+#### Examples:  sexual harassment
 Let the violator know how they have violated the CoC.  Speak to venue host and escort person out of event and remove them from our meetup roster.
 
 ## Conclusion
