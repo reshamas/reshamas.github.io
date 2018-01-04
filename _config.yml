@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : " "
+title                    : "my blog"
 title_separator          : "-"
 name                     : "Reshama"
 description              : "Data Science & More"
@@ -29,7 +29,7 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : light # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
   branch                 : # "master"
@@ -61,7 +61,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : reshamas
 facebook:
   username               :
   app_id                 :
