@@ -28,7 +28,10 @@ Depending on the violation, it’s best to address it directly.  If possible, it
 
 ### Category 1 violation
 #### Examples:  a bad joke, an underlying sexual reference, mocking someone’s choice of editor
-Point out the violation and we could say something like “it’s not in the spirit of our community.”  Taking steps to bring awareness to a person’s behavior is a good way to begin addressing the violation and prevent future violations.    
+Taking steps to bring awareness to a person’s behavior is a good way to begin addressing the violation and prevent future violations.  
+* "I noticed you said/wrote 'xxx'.  That's not in the _spirit_ of our community."
+* Here's an example of how that could have been phrased:  [include more acceptable text here]
+
 
 ### Category 2 violation
 #### Examples:  heckler, disrespectful post on online forum
