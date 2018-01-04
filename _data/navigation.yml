@@ -12,3 +12,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: About
+  #   url: /about/
+  # - title: Blog Posts
+  #   url: /posts/
+  #- title: Projects
+  #   url: /projects/
