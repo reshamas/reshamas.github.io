@@ -1,11 +1,10 @@
 # NYC PyLadies Meetup:  Managing our Code of Conduct
 
+## PyLadies Code of Conduct (CoC)
+Our CoC is available on our website, and it applies to all our spaces, both online and off.  
 
 ## Goal
 The goal of having and administering a CoC is to create an environment which is respectful, comfortable and professional for our meetup attendees.
-
-## PyLadies Code of Conduct (CoC)
-Our CoC is available on our website, and it applies to all our spaces, both online and off.  
 
 ## Communication
 The best way to set a welcoming and professional environment is by prevention.  That can be done by communicating our CoC to our members and by bringing awareness that a certain level of etiquette is expected behavior at our events.  
