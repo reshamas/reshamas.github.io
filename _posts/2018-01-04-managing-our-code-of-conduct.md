@@ -1,7 +1,7 @@
 # NYC PyLadies Meetup:  Managing our Code of Conduct
 
 ## Introduction
-Codes of Conduct are popping up everywhere these days.  We see them, we read them.  But, what happens next?  How are they implemented?  Here's a brief post on the PyLadies Code of Conduct, and how to implement it.  I hope you'll be able to use this as a starting point for managing code of conduct violations in your meetups and open source communities.  
+Codes of Conduct are popping up everywhere these days.  We see them, we read them.  But, what happens next?  How are they implemented?  Here's a brief post on the PyLadies Code of Conduct, and how to implement it.  I hope you'll be able to use this as a starting point for managing code of conduct violations in your meetup and open source communities.  
 
 ## Code of Conduct (CoC)
 The [PyLadies CoC](http://www.pyladies.com/CodeOfConduct/) is available on our website, and it applies to all our spaces, both online and off.  
