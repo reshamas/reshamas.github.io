@@ -19,10 +19,9 @@ This is done in the following ways:
 >We are committed to providing a respectful space for our attendees.  All attendees are expected to abide by the [PyLadies CoC](http://www.pyladies.com/CodeOfConduct/) (that includes no harassment or heckling in any form). Anyone who violates the Code of Conduct will be asked to leave, and they will be removed from our meetup roster permanently.
 
 This sets the tone and atmosphere for event.  It also makes it easier to call out any violations, should they occur.  It also communicates the consequences of a CoC violation.   
-Addressing Violations
-Depending on the violation, it’s best to address it directly.  If possible, it would be good to do it privately between the CoC violator and the organizer.  Preferably, it would be good to have a third person, such as another organizer or event helper in the discussion.  
 
-## Violations
+## Addressing Violations
+Depending on the violation, it’s best to address it directly.  If possible, it would be good to do it privately between the CoC violator and the organizer.  Preferably, it would be good to include a third person, such as another organizer or event helper in the discussion.  
 
 ### Category 1 violation
 #### Examples:  a bad joke, an underlying sexual reference, mocking someone’s choice of editor
