@@ -4,7 +4,7 @@ main:
   #  url: /_posts/
   # main links links
   - title: About
-    url: ../../_page/about/
+    url: /_page/about/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
