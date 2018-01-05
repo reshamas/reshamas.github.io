@@ -9,7 +9,7 @@ I am a freelance data scientist/statistician and MBA with skills in Python, R an
 
 History
 - born in India
-- raised in New Jersey
+- grew up in New Jersey
 - living in New York City
 
 Education:  
@@ -22,5 +22,6 @@ What I love:
 - reading books (especially business school books)
 - the French language
 - movies
+- writing
 - life in NYC, the subway and all
  
