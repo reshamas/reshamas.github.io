@@ -11,4 +11,10 @@ Education:
 - MS in statistics from Rutgers University
 - MBA from NYU Stern School of Business
 
-What I love:  yoga, reading books, the French language, movies, NYC life
+Hobbies:
+- yoga
+- reading books (especially business school books)
+- the French language
+- movies
+- life in NYC, the subway and all
+ 
