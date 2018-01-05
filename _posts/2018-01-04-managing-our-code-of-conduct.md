@@ -1,7 +1,7 @@
 # NYC PyLadies Meetup
 
 <br> <br>
-<img src="pyladies_coc.png"   height="200" width="350" >   
+<img src="pyladies_coc.png"   height="300" width="450" >   
 <br> <br>
 
 ---
