@@ -3,10 +3,8 @@ main:
   # - title: "Posts"
   #  url: /_posts/
   # main links links
-  - title: About Me
+  - title: About
     url: /about/
-  - title: Resume
-    url: /resume/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
