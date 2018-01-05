@@ -21,7 +21,7 @@ This is done in the following ways:
 1.  Include link to CoC in the event description
 2.  Include link to CoC in “touch base - update RSVP” email which is sent a couple of days prior to the event
 3.  Announce that all attendees must abide by our CoC at the start of an event.  If anyone has experienced any issues, they should feel free to come and speak to one of the organizers.  
-4.  We also provide a form, which can optionally be submitted anonymously, if a member chooses to.  The form is [CFaaS](https://goo.gl/forms/HiwT4P3uvEgVB3Xz2) (Communicating Feedback as a Service).
+4.  We also provide a form, which can be submitted anonymously, if a member chooses to.  The form is [CFaaS](https://goo.gl/forms/HiwT4P3uvEgVB3Xz2) (Communicating Feedback as a Service).
 
 ### Communicating CoC text:
 >We are committed to providing a respectful space for our attendees.  All attendees are expected to abide by the [PyLadies CoC](http://www.pyladies.com/CodeOfConduct/) (that includes no harassment or heckling in any form). Anyone who violates the Code of Conduct will be asked to leave, and they will be removed from our meetup roster permanently.
