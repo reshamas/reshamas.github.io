@@ -11,7 +11,8 @@ Education:
 - MS in statistics from Rutgers University
 - MBA from NYU Stern School of Business
 
-Hobbies:
+What I love:
+- teaching (Git, and other technical topics too)
 - yoga
 - reading books (especially business school books)
 - the French language
