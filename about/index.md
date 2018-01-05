@@ -1,7 +1,7 @@
 ---
 layout: single
 title: About
-tags: [about]
+tags: 
 comments: false
 ---
 
