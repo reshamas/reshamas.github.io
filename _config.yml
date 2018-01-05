@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" #"default" # "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en"
-title                    : "my posts"
+title                    : ""
 title_separator          : "-"
 name                     : "Reshama"
 description              : "Data Science & More"
@@ -40,7 +40,7 @@ staticman:
   path                   : # "/_data/comments/{options.slug}" (default)
   requiredFields         : # ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : rs2715@stern.nyu.edu # "md5"
   generatedFields:
     date:
       type               : # "date"
