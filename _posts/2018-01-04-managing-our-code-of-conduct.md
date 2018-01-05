@@ -1,5 +1,9 @@
 # NYC PyLadies Meetup
 
+![coc](pyladies_coc.png)
+<img src="pyladies_coc.png" align="left" height="40" width="180" >   <br> <br>
+
+
 ## Introduction
 Codes of Conduct are popping up everywhere these days.  We see them, we read them.  But, what happens next?  How are they implemented?  Here's a brief post on the PyLadies Code of Conduct, and how to implement it.  I hope you'll be able to use this as a starting point for managing code of conduct violations in your meetup and open source communities.  
 
