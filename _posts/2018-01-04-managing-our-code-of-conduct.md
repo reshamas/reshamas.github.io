@@ -1,8 +1,8 @@
 # NYC PyLadies Meetup
 
-<br> <br>
+<br> 
 <img src="../assets/images/pyladies_coc.png" align="center"  height="300" width="450" >   
-<br> <br>
+
 
 ---
 
