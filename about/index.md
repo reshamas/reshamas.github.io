@@ -5,7 +5,7 @@ tags:
 comments: false
 ---
 
-I am a freelance data scientist/statistician and MBA with skills in Python, R and SAS. I worked for over 10 years as a biostatistician in the pharmaceutical industry.  I'm also an organizer of the meetup group [NYC Women in Machine Learning and Data Science](wimlds.org) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+I am a freelance data scientist/statistician and MBA with skills in Python, R and SAS. I worked for over 10 years as a biostatistician in the pharmaceutical industry.  I'm also an organizer of the meetup groups [NYC Women in Machine Learning and Data Science](wimlds.org) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 History
 - born in India
