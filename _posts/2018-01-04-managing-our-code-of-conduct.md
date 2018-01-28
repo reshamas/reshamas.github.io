@@ -50,7 +50,7 @@ Let the violator know how they have violated the CoC.  Speak to venue host and e
 Note that the above list of violations are examples and are not meant to represent the exhaustive list of possible violations.  
 
 ---
-## Attributions
+## Acknowledgments
 Special thanks to the following whose insight has been profoundly helpful:  
 * [NumFOCUS](https://www.numfocus.org/blog/) and their recent Diversity in STEM Unconference
 * [Kelle Cruz](https://twitter.com/kellecruz)  
