@@ -54,7 +54,7 @@ atom_feed:
 search                   : # true, false (default)
 
 # SEO Related
-google_site_verification : <meta name="google-site-verification" content="9FYf4zQBihoM8WqPUaGrjw_JfUxeOj0yTGQyTmUA1dM" />
+google_site_verification : "9FYf4zQBihoM8WqPUaGrjw_JfUxeOj0yTGQyTmUA1dM"
 bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
