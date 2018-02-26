@@ -6,8 +6,8 @@ As an organizer for a data science meetup group, I am often asked this question:
 
 There are some key steps:  
 1.  Showcase your work
-2.  Participate in the community
-3.  Be connected
+2.  Be connected
+3.  Participate in the community
 4.  Find the opportunities
 
 ## Portfolio
