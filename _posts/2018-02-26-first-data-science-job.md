@@ -23,7 +23,6 @@ Make sure your accounts show your **full name** with a professional photo.  Use 
 
 Check out the blog by [Rachel Thomas](https://twitter.com/math_rachel) entitled [Making Peace with Personal Branding](http://www.fast.ai/2017/12/18/personal-brand/).  There is sage advice there on:  
 - Why personal branding is useful
-- Making peace with personal branding
 - Twitter for beginners
 - Speaking at conferences / meetups
 - Public speaking resources
