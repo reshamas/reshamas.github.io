@@ -81,6 +81,7 @@ Participate...by liking tweets, retweeting or contributing to a conversation.
 ---
 ## Education
 With 12-week bootcamps costing about $16K these days, and 2-year university graduate programs costing significantly more, do your research.  Find out what the **placement statistics** are and what **resources** they offer to entry level analysts / data scientists.  
+- How many / which hiring partners do they work with?
 - Are there opportunities for internships or small projects?  
 - How extensive is their alumni network?  
 - Reach out to alumni of the bootcamp (via LinkedIn) and ask about their experience in the program as well as job placement support and to get the **inside scoop**.    
