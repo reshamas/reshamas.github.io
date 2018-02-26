@@ -92,7 +92,7 @@ Almost every meetup group or organization has a community Slack team you can joi
 
 Subscribe to data science newsletters.  Here's a list of [7 awesome data science newsletters to keep you informed](https://www.dataquest.io/blog/data-science-newsletters/).
 
-Read your emails.  Meetup groups and newsletters regularly post job opportunities that are more "real" than the postings that appear in the well known job boards such as LinkedIn, Indeed, etc. 
+**Read your emails.**  Meetup groups and newsletters regularly post job opportunities that are more "real" than the postings that appear in the well known job boards such as LinkedIn, Indeed, etc. 
 
 ---
 ## Managing Expectations
