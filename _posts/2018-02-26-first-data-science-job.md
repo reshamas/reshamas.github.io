@@ -71,6 +71,7 @@ If you're new to twitter, here are some of my favorite twitter accounts to follo
 - [@jeremyphoward](https://twitter.com/jeremyphoward), Jeremy Howard
 - [@drob](https://twitter.com/drob), David Robinson
 - [@robinson_es](https://twitter.com/robinson_es), Emily Robinson
+- [@BecomingDataSci](https://twitter.com/BecomingDataSci), Data Science Renee
 - [@fchollet](https://twitter.com/fchollet), Francois Chollet
 - [@dpatil](https://twitter.com/dpatil), DJ Patil
 - [@AndrewYNg](https://twitter.com/AndrewYNg), Andrew Ng
