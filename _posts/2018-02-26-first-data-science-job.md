@@ -11,7 +11,7 @@ There are some key steps:
 4.  Find the opportunities
 
 ## Portfolio
-The advantage of living at a time when technology and social media are accessible, is that there are so many opportuntities to showcase your portfolio.  Here are the aspects of your portfolio that you have direct control over and which you can use to represent you and your work, hence your "brand":  
+The advantage, of living at a time when technology and social media are accessible, is that there are so many opportuntities to showcase your portfolio.  Here are the aspects of your portfolio that you have direct control over and which you can use to represent you and your work, hence your "brand":  
 - Resume
 - LinkedIn profile
 - GitHub repository
