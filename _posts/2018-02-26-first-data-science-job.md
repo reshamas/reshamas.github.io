@@ -2,7 +2,7 @@
 
 ## Intro
 As an organizer for a data science meetup group, I am often asked this question:  
->*I have studied data science [either university degree or bootcamp or self-study].  How do I go about getting my first job in data science?*
+>*I am studying data science [either university degree or bootcamp or self-study].  How do I go about getting my first job in data science?*
 
 There are some key steps:  
 1.  Showcase your work
