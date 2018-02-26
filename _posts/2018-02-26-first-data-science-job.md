@@ -59,7 +59,7 @@ But it's so much more complicated than that.  [Emily Robinson](https://twitter.c
 Emily has also written a post entitled [Sponsorship](https://robinsones.github.io/The-Importance-of-Sponsorship/) which discusses her experience in getting her first data science job.  
 
 ### Classroom
-When in a formal educational program, make sure to speak and connect with everyone, not just the folks you feel most comfortable hanging out with.  Make sure your professors/instructors know your name.  Get to know every Teaching Assistant in the classroom.  Get to know all of your fellow classmates.  Every person has different strengths and networks and skills and something to offer, *including you*. 
+When in a formal educational program, make sure to speak and connect with everyone, not just the folks with whom you feel most comfortable socializing.  Make sure your professors/instructors know your name.  Get to know every Teaching Assistant in the classroom.  Get to know all of your fellow classmates.  Every person has different strengths and networks and skills and something to offer, *including you*. 
 
 ### Twitter
 If you're new to twitter, here are some of my favorite twitter accounts to follow.  Follow who they follow, follow the insightful (and sometimes fiery) conversations on data science, and build your network:  
