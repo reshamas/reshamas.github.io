@@ -42,7 +42,7 @@ There are some data scientists on Twitter that are committed to promoting new bl
 ### Showcase Your Work
 Sharing your work, particularly in data science where the community relies on open source software, is a great way to show your sklls.  Whether it's Kaggle competitions or projects, make your code available in a GitHub repository and write a corresponding blog.  Employers *do look* at GitHub accounts of candidates to see their GitHub activity, coding level and projects.  
 
----
+
 ## Networking
 Networking is critical.  A definition of networking is:  
 >*interact with other people to exchange information and develop contacts, especially to further one's career.*   
@@ -78,7 +78,7 @@ If you're new to twitter, here are some of my favorite twitter accounts to follo
 
 Participate... by liking tweets, retweeting or contributing to a conversation.  
 
----
+
 ## Education
 With 12-week bootcamps costing about $16K these days, and 2-year university graduate programs costing significantly more, do your research.  Find out what the **placement statistics** are and what **resources** they offer to entry level analysts / data scientists.  
 - How many / which hiring partners do they work with?
@@ -86,7 +86,7 @@ With 12-week bootcamps costing about $16K these days, and 2-year university grad
 - How extensive is their alumni network?  
 - Reach out to alumni of the bootcamp (via LinkedIn) and ask about their experience in the program as well as job placement support and to get the **inside scoop**.    
 
----
+
 ## Underground Resources
 Almost every meetup group or organization has a community Slack team you can join.  You can find this information in their announcements, join their Slack teams and watch out for the job postings.  
 
@@ -94,7 +94,7 @@ Subscribe to data science newsletters.  Here's a list of [7 awesome data science
 
 **Read your emails.**  Meetup groups and newsletters regularly post job opportunities that are more "real" than the postings that appear in the well known job boards such as LinkedIn, Indeed, etc. 
 
----
+
 ## Managing Expectations
 If the title is other than "Data Scientist", such as "Analyst" or "Junior Data Scientist", and it allows you the opportunity to use and refine the data science tools you've learned, that is most important.  Your first data science job may not be the job of your dreams.  You may not have the exact title you envisioned.  Think of it as a learning experience and stepping stone.  As long as you are moving in the right direction, that is good progress.  
 
