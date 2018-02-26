@@ -76,7 +76,7 @@ If you're new to twitter, here are some of my favorite twitter accounts to follo
 - [@AndrewYNg](https://twitter.com/AndrewYNg), Andrew Ng
 - [@mrogati](https://twitter.com/mrogati), Monica Rogati
 
-Participate...by liking tweets, retweeting or contributing to a conversation.  
+Participate... by liking tweets, retweeting or contributing to a conversation.  
 
 ---
 ## Education
