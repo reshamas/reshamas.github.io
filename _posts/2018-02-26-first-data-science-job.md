@@ -47,7 +47,7 @@ Sharing your work, particularly in data science, where the community relies on o
 Networking is critical.  A definition of networking is:  
 >*interact with other people to exchange information and develop contacts, especially to further one's career.*   
 
-But it's so much more complicated than that.  [Emily Robinson](https://twitter.com/robinson_es) has written a couple of insightful blogs on what networking really is, and how to do it effectively:  
+But it's so much more complicated than that.  [Emily Robinson](https://twitter.com/robinson_es) has written a couple of insightful blogs on what networking really is, and how to do it both effectively and respectfully:  
 - [Building Your Data Science Network: Finding Community](https://robinsones.github.io/Building-Your-Data-Science-Network-Finding-Community/)
   - meetups
   - twitter
