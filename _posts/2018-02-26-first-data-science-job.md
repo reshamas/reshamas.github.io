@@ -96,6 +96,6 @@ Subscribe to data science newsletters.  Here's a list of [7 awesome data science
 
 
 ## Managing Expectations
-If the title is other than "Data Scientist", such as "Analyst" or "Junior Data Scientist", and it allows you the opportunity to use and refine the data science tools you've learned, that is most important.  Your first data science job may not be the job of your dreams.  You may not have the exact title you envisioned.  Think of it as a learning experience and stepping stone.  As long as you are moving in the right direction, that is good progress.  
+If the title is other than "Data Scientist", such as "Analyst" or "Junior Data Scientist", and it allows you the opportunity to use and refine the data science tools you've learned, that is most important.  Your first data science job may not be the job of your dreams.  You may not have the exact title you envisioned.  And it may not be for a tech company that is a household name.  Think of it as a learning experience and stepping stone.  As long as you are moving in the right direction, that is good progress.  
 
 
