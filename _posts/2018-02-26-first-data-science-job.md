@@ -80,7 +80,7 @@ Participate... by liking tweets, retweeting or contributing to a conversation.
 
 
 ## Education
-With 12-week bootcamps costing about $16K these days, 2-year university graduate programs costing significantly more, and the costs associated with online data science programs, do your research.  Find out what the **placement statistics** are and what **resources** they offer to entry level analysts / data scientists.  
+With 12-week bootcamps costing about $16K these days, 2-year university graduate programs costing significantly more, and the costs associated with online data science programs, the investment is significant.  Considering the monetary, time and opportunity costs in learning data science, do your research.  Find out what the **placement statistics** are and what **resources** they offer to entry level analysts / data scientists.  
 - How many / which hiring partners do they work with?
 - Are there opportunities for internships or small projects?  
 - How extensive is their alumni network?  
