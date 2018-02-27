@@ -39,8 +39,8 @@ You can set up your public profile to share and showcase your work.  It's also a
 ### Blogging
 There are some data scientists on Twitter that are committed to promoting new bloggers.  Check out [David Robinson](https://twitter.com/drob)'s article [Advice to Aspiring Data Scientists: Start a Blog](http://varianceexplained.org/r/start-blog/)
 
-### Showcase Your Work
-Sharing your work, particularly in data science where the community relies on open source software, is a great way to show your skills.  Whether it's Kaggle competitions or projects, make your code available in a GitHub repository and write a corresponding blog.  Employers *do look* at GitHub accounts of candidates to see their GitHub activity, coding level and projects.  
+### GitHub: Show Your Code
+Sharing your code, particularly in data science where the community relies on open source software, is a great way to show your skills.  Whether it's Kaggle competitions or projects, make your code available in a GitHub repository and write a corresponding blog.  Employers *do look* at GitHub accounts of candidates to see their GitHub activity, coding level and projects.  
 
 
 ## Networking
