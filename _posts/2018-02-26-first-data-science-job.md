@@ -84,7 +84,7 @@ With 12-week bootcamps costing about $16K these days, 2-year university graduate
 - How many / which hiring partners do they work with?
 - Are there opportunities for internships or small projects?  
 - How extensive is their alumni network?  
-- Reach out to alumni of the bootcamp (via LinkedIn) and ask about their experience in the program as well as job placement support and to get the **inside scoop**.    
+- Reach out to alumni of the bootcamp (via LinkedIn) and ask about their experience in the program, as well as job placement support.  Get the **inside scoop**.    
 
 
 ## Underground Resources
