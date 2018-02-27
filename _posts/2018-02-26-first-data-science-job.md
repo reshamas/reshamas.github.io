@@ -90,6 +90,8 @@ With 12-week bootcamps costing about $16K these days, and 2-year university grad
 ## Underground Resources
 Almost every meetup group or organization has a community Slack team you can join.  You can find this information in their announcements, join their Slack teams and watch out for the job postings.  
 
+Often, at the start of a meetup, attendees will share any job openings at their company.  It's a convenient opportunity to speak to them for more information.  
+
 Subscribe to data science newsletters.  Here's a list of [7 awesome data science newsletters to keep you informed](https://www.dataquest.io/blog/data-science-newsletters/).
 
 **Read your emails.**  Meetup groups and newsletters regularly post job opportunities that are more "real" than the postings that appear in the well known job boards such as LinkedIn, Indeed, etc. 
