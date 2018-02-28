@@ -30,7 +30,7 @@ Check out the blog by [Rachel Thomas](https://twitter.com/math_rachel) entitled 
 ### [Kaggle Competitions](https://www.kaggle.com/competitions)
 Participating in Kaggle competitions has numerous benefits:  
 - there's a friendly community
-- there are *kernels* (code that others share and showcase) that can help you get started, both in Python and R
+- there are *kernels* (code that others share and you can copy and use, generally on the Kaggle website) that can help you get started, both in Python and R
 - you can work with others in a team
 - you become familiar with popular datasets
 
