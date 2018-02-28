@@ -30,11 +30,12 @@ Check out the blog by [Rachel Thomas](https://twitter.com/math_rachel) entitled 
 ### [Kaggle Competitions](https://www.kaggle.com/competitions)
 Participating in Kaggle competitions has numerous benefits:  
 - there's a friendly community
-- there are *kernels* (code that others share and you can copy and use, generally on the Kaggle website) that can help you get started, both in Python and R
 - you can work with others in a team
 - you become familiar with popular datasets
 
-You can set up your public profile to share and showcase your work.  It's also a lot of fun.  
+An added bonus is there are *kernels*, which is code in Jupyter Notebooks that others have shared.  You are free to copy and use them to get started on a competition.  Code is available in both R and Python.  
+
+You can set up your public profile and share your work.  It's also a lot of fun.  
 
 ### Blogging
 Blogging is a way to display your communication and writing skills.  Writing about a project or a data science topic allows you to share with the community as well as encourages you to write out your work process and thoughts.  This is particularly handy when interviewing.  
