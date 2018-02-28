@@ -4,7 +4,7 @@
 As an organizer for a data science meetup group, I am often asked this question:  
 >*I am studying data science [either university degree, bootcamp, online or self-study].  How do I go about getting my first job in data science?*
 
-There are some key steps:  
+Here are some key steps:  
 1.  Showcase your work
 2.  Be connected
 3.  Participate in the community
