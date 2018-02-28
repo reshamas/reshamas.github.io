@@ -37,7 +37,14 @@ Participating in Kaggle competitions has numerous benefits:
 You can set up your public profile to share and showcase your work.  It's also a lot of fun.  
 
 ### Blogging
-There are some data scientists on Twitter that are committed to promoting new bloggers.  Check out [David Robinson](https://twitter.com/drob)'s article [Advice to Aspiring Data Scientists: Start a Blog](http://varianceexplained.org/r/start-blog/)
+Blogging is a way to display your communication and writing skills.  Writing about a project or a data science topic allows you to share with the community as well as encourages you to write out your work process and thoughts.  This is particularly handy when interviewing.  
+
+Check out [David Robinson](https://twitter.com/drob)'s article [Advice to Aspiring Data Scientists: Start a Blog](http://varianceexplained.org/r/start-blog/).  The blog includes:  
+- possible blog topics
+- creating a portfolio
+- getting feedback
+
+David shares his experience in social media and how he obtained his first data scientist job.  He also generously offers to retweet your first post.  With 20K+ followers, that's an offer that can't be refused.    
 
 ### GitHub: Show Your Code
 Sharing your code, particularly in data science where the community relies on open source software, is a great way to show your skills.  Whether it's Kaggle competitions or projects, make your code available in a GitHub repository and write a corresponding blog.  Employers *do look* at GitHub accounts of candidates to see their GitHub activity, coding level and projects.  
