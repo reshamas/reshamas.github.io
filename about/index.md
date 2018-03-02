@@ -12,14 +12,14 @@ History
 - grew up in New Jersey
 - living in New York City
 
-Education:  
+Education
 - MS in statistics from Rutgers University
-- MBA from NYU Stern School of Business
+- MBA from NYU Stern School of Business, with specializations in: technology, business analytics and strategy
 
-What I love:
+What I love
 - teaching (Git, and other technical topics too)
 - yoga
-- reading books (especially business school books)
+- reading books (especially business school books on leadership and strategy)
 - the French language
 - movies
 - writing
