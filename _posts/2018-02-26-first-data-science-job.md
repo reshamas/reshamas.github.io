@@ -102,7 +102,7 @@ Often, at the start of a meetup, attendees will share any job openings at their 
 
 Subscribe to data science newsletters.  Here's a list of [7 awesome data science newsletters to keep you informed](https://www.dataquest.io/blog/data-science-newsletters/).
 
-**Read your emails.**  Meetup groups and newsletters regularly post job opportunities that are more "real" than the postings that appear in the well known job boards such as LinkedIn, Indeed, etc. 
+**Read your emails.**  Meetup groups and newsletters regularly post job opportunities that are more "real" than the postings that appear in the well known job boards such as LinkedIn, Glassdoor, Indeed, etc. 
 
 
 ## Managing Expectations
