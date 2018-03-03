@@ -84,6 +84,8 @@ If you're new to twitter, here are some of my favorite twitter accounts to follo
 - [@AndrewYNg](https://twitter.com/AndrewYNg), Andrew Ng
 - [@mrogati](https://twitter.com/mrogati), Monica Rogati
 
+To make it easier, subscribe to this list on Twitter for one-touch following:  [Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists/members).  
+
 Participate... by liking tweets, retweeting or contributing to a conversation.  
 
 
