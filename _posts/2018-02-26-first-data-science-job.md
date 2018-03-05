@@ -68,21 +68,7 @@ But it's so much more complicated than that.  [Emily Robinson](https://twitter.c
 When in a formal educational program, make sure to speak and connect with everyone, not just the folks with whom you feel most comfortable socializing.  Make sure your professors/instructors know your name.  Get to know every Teaching Assistant in the classroom.  Get to know *all* of your fellow classmates.  Every person has different strengths and networks and skills and something to offer, *including you*. 
 
 ### Twitter
-If you're new to twitter, here are some of my favorite twitter accounts to follow.  Follow who they follow, follow the insightful (and sometimes fiery) conversations on data science, and build your network:  
-- [@hmason](https://twitter.com/hmason), Hilary Mason
-- [@mathbabedotorg](https://twitter.com/mathbabedotorg), Cathy O'Neill
-- [@wimlds](https://twitter.com/wimlds), Women in Machine Learning & Data Science
-- [@math_rachel](https://twitter.com/math_rachel), Rachel Thomas
-- [@jeremyphoward](https://twitter.com/jeremyphoward), Jeremy Howard
-- [@drob](https://twitter.com/drob), David Robinson
-- [@robinson_es](https://twitter.com/robinson_es), Emily Robinson
-- [@BecomingDataSci](https://twitter.com/BecomingDataSci), Data Science Renee
-- [@fchollet](https://twitter.com/fchollet), Francois Chollet
-- [@dpatil](https://twitter.com/dpatil), DJ Patil
-- [@AndrewYNg](https://twitter.com/AndrewYNg), Andrew Ng
-- [@mrogati](https://twitter.com/mrogati), Monica Rogati
-
-To make it easier, subscribe to this list on Twitter for one-touch following:  [Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists/members).  It includes all of the above names and some more.  
+If you're new to twitter, I am sharing some of my favorite twitter accounts to follow.  Follow who they follow, follow the insightful (and sometimes fiery) conversations on data science, and build your network.  To make it easier, subscribe to this list on Twitter for one-touch following:  [Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists/members). 
 
 Participate... by liking tweets, retweeting or contributing to a conversation.  
 
