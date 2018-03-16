@@ -21,6 +21,8 @@ The advantage, of living at a time when technology and social media are accessib
 
 Make sure your accounts show your **full name** with a professional-looking photo.  Use technology to your advantage - being anonymous on the internet makes it really challenging for employers to find and research you.  They'll just move along to the next candidate.  
 
+<img src="../assets/images/github_profile.png" align="center"  height="300" width="450" >  
+
 Check out the blog by [Rachel Thomas](https://twitter.com/math_rachel) entitled [Making Peace with Personal Branding](http://www.fast.ai/2017/12/18/personal-brand/).  There is sage advice there on:  
 - Why personal branding is useful
 - Twitter for beginners
