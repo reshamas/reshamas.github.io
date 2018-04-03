@@ -13,8 +13,9 @@ History
 - living in New York City
 
 Education
-- MS in statistics from Rutgers University
 - MBA from NYU Stern School of Business, with specializations in: technology, business analytics and strategy
+- MS in statistics from Rutgers University
+- BA in statistics, minor in French, from Rutgers University
 
 What I love
 - teaching (Git, and other technical topics too)
