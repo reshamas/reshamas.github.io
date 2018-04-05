@@ -5,6 +5,8 @@ main:
   # main links links
   - title: About
     url: /about/
+  - title: Publications
+    url: /publications/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
