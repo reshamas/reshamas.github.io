@@ -71,7 +71,7 @@ I contributed to open source!
 
 I live in the United States, specifically New York City.  It’s a time period where any topic under discussion is inherently divisive.  I am reminded of Charles Dickens’ famous lines:  
 
-< insert image of Charles Dickens here>
+<img src="../assets/images/charles_dickens.png" align="center"  height="300" width="450" >  
 
 What I love about data science is the passion that all who are bit by the data bug bring to it.  Data science ignores artificial boundaries, nationalities, profession, religion, languages and time zones.  I have benefited from the work and tools of many contributors to build my data science skills, and I have been happy to give something back to the community.  It’s been enormously gratifying to create and share this repo which enables so many aspiring and practicing data scientists to manage dev ops tools and move forward to continue deep learning.  That’s the true depth and value of open source.  It really is open to everyone.  
 
