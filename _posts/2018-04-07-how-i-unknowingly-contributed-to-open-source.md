@@ -1,5 +1,3 @@
-<img src="../assets/images/ncm_gephi.jpg" align="center"  height="150" width="200" >  
-
 ## Take 1 :clapper:
 
 Like many data scientists, I thought that “open source contribution” meant creating a new library in Python.  That would require knowledge of objects, inheritance, parallelism, asynchronous, classes, methods, decorators, and more to write that long, complex code.  But, I’m a statistician and that level of Python/computer science is beyond my scope of knowledge.  
