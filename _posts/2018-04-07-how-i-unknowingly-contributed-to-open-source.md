@@ -1,12 +1,4 @@
-# How I Unknowingly Contributed to Open Source Data Science
-
-
----
-
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="en"><p lang="en" dir="ltr">This is just one example of how supportive and helpful I&#39;ve found the <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> community. The community is one of the main reasons I choose R (vs Python) and recommend it to DS beginners. So, thank you to everyone who makes it that way. Fin.</p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/930815983996080128?ref_src=twsrc%5Etfw">November 15, 2017</a></blockquote>
-
----
-## Take 1 :clapper:
+# Take 1 :clapper:
 
 Like many data scientists, I thought that “open source contribution” meant creating a new library in Python.  That would require knowledge of objects, inheritance, parallelism, asynchronous, classes, methods, decorators, and more to write that long, complex code.  But, I’m a statistician and that level of Python/computer science is beyond my scope of knowledge.  
 
