@@ -73,16 +73,6 @@ xxx
 
 xxx
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you're doing the new http://fast.ai  course, this list of terms compiled by @reshamas is likely to be a great help; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/956321940536410112">January 24, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-xxx
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I get email about a lot of speaking opportunities. if you&#39;re looking to give more talks (especially if you&#39;re from a marginalized group), reply to this with a link to a video of a talk you&#39;re proud of!</p>&mdash; 🔎Julia Evans🔍 (@b0rk) <a href="https://twitter.com/b0rk/status/960884397644898305?ref_src=twsrc%5Etfw">February 6, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-For more ideas, Caitlin Hudon has a great twitter thread: 
-
  
 ## Conclusion & Inspiration
 
