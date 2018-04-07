@@ -60,18 +60,12 @@ My personal experience in data science (both as a student and teacher) is that D
 
 Initially, while enrolled in this online course, I took notes in google docs for myself.  After a week or so, I decided to create a repo on GitHub,  [fastai_deeplearn_part1](https://github.com/reshamas/fastai_deeplearn_part1), and share my notes in case a *few other students* might find them helpful.  
 
-To date, almost 400 users have starred this repo, and thousands have referenced the documents.  
+To date, thousands of users have referenced the documents and almost 400 users have starred this repo.
 
 I contributed to open source!  
 
-<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">If you&#39;re doing the new <a href="https://t.co/GEOZuodrZj">https://t.co/GEOZuodrZj</a> course, this list of terms compiled by <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> is likely to be a great help<a href="https://t.co/N3JOWaujGM">https://t.co/N3JOWaujGM</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/956321940536410112?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-xxx
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you&#39;re doing the new <a href="https://t.co/GEOZuodrZj">https://t.co/GEOZuodrZj</a> course, this list of terms compiled by <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> is likely to be a great help<a href="https://t.co/N3JOWaujGM">https://t.co/N3JOWaujGM</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/956321940536410112?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-xxx
 
  
 ## Conclusion & Inspiration
