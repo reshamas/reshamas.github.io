@@ -48,7 +48,7 @@ Because everyone uses it, benefits from it, and there’s a lot of work to be do
 - augmenting your portfolio by including your OS contributions
 - networking opportunities
 
-There is more information available in this dossier, [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source) which is an outcome of the DiSC Unconference.
+There is more information available in this dossier, [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source) which is an outcome of the DISC Unconference.
 
 
 ## Take 2 :clapper:
@@ -82,7 +82,7 @@ All data scientists use open source tools.  I foresee a section on the resume en
 ## References
 [Interview with Andreas Mueller, Lecturer at Columbia University and Core Contributor to Scikit-Learn](https://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
 
-[NumFocus project: Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source)
+[NumFocus Project: Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source)
 
 [What Is Open Source Software, and Why Does It Matter?](https://www.howtogeek.com/129967/htg-explains-what-is-open-source-software-and-why-you-should-care/)
 
