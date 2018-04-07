@@ -68,6 +68,10 @@ I contributed to open source!
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 xxx
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you&#39;re doing the new <a href="https://t.co/GEOZuodrZj">https://t.co/GEOZuodrZj</a> course, this list of terms compiled by <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> is likely to be a great help<a href="https://t.co/N3JOWaujGM">https://t.co/N3JOWaujGM</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/956321940536410112?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+xxx
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you're doing the new http://fast.ai  course, this list of terms compiled by @reshamas is likely to be a great help; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/956321940536410112">January 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
