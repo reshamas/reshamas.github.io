@@ -42,7 +42,7 @@ An updated definition could be:
  
 
 ## Why Contribute to Open Source
-Because everyone uses it, benefits from it, and there’s a lot of work to be done.  Other advantages include:  
+Because everyone uses it, benefits from it, and there is a *lot of work* to be done.  Other advantages include:  
 - learning a skill by contributing
 - sharing work
 - augmenting your portfolio by including your OS contributions
