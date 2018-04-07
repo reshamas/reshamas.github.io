@@ -29,7 +29,7 @@ We can widen the purview of open source to include the following contributions:
 - creating additional libraries for programming languages
 - contributing to programming languages by fixing bugs or adding features via GitHub
 - documentation
-- tutorials and training materials
+- tutorials and training materials (text, video)
 - blogs
 - research papers
 - answering user questions on forums such as StackOverflow and Quora
