@@ -82,7 +82,7 @@ Alas, I contributed to open source!
  
 ## Conclusion & Inspiration
 
-I live in the United States, specifically New York City.  It’s a time period where any topic under discussion is inherently divisive.  I am reminded of Charles Dickens’ famous lines:  
+I live in the United States, specifically New York City.  It’s a time period when any topic under discussion is inherently divisive.  I am reminded of Charles Dickens’ famous lines:  
 
 <img src="../assets/images/charles_dickens.png" align="center"  height="200" width="300" >  
 
