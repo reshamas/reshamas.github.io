@@ -1,19 +1,4 @@
 
-## How can you be a sponsor? 
-
-The best way to thank those who have helped you is to "pay it forward." When you start to get more influence and opportunities, it becomes your responsibility to help pull others up behind you. For example, if you're a seasoned speaker, think about recommending others for opportunities, especially when you can't go yourself, like Julia Evans recently did:
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I get email about a lot of speaking opportunities. if you&#39;re looking to give more talks (especially if you&#39;re from a marginalized group), reply to this with a link to a video of a talk you&#39;re proud of!</p>&mdash; 🔎Julia Evans🔍 (@b0rk) <a href="https://twitter.com/b0rk/status/960884397644898305?ref_src=twsrc%5Etfw">February 6, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-For more ideas, Caitlin Hudon has a great twitter thread: 
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Below are examples of &quot;good guys in tech&quot; and things they have done that have helped my career. I hope others can follow their example.</p>&mdash; Caitlin Hudon👩🏼‍💻 (@beeonaposy) <a href="https://twitter.com/beeonaposy/status/895799250055024640?ref_src=twsrc%5Etfw">August 11, 2017</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-Some examples she gives include colleagues praising her work in front of her boss, sharing their salary information with her, and promoting the work of women, including by doing something as seemingly small as tweeting about it. When Caitlin started RLadies Austin, she had men reaching out to offer their time, training materials, meeting spaces, and promotion of the meetup. 
-
----
 ## Take 1 :clapper:
 
 Like many data scientists, I thought that “open source contribution” meant creating a new library in Python.  That would require knowledge of objects, inheritance, parallelism, asynchronous, classes, methods, decorators, and more to write that long, complex code.  But, I’m a statistician and that level of Python/computer science is beyond my scope of knowledge.  
@@ -79,9 +64,15 @@ To date, almost 400 users have starred this repo, and thousands have referenced 
 
 I contributed to open source!  
 
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">If you&#39;re doing the new <a href="https://t.co/GEOZuodrZj">https://t.co/GEOZuodrZj</a> course, this list of terms compiled by <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> is likely to be a great help<a href="https://t.co/N3JOWaujGM">https://t.co/N3JOWaujGM</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/956321940536410112?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+xxx
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you're doing the new http://fast.ai  course, this list of terms compiled by @reshamas is likely to be a great help; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/956321940536410112">January 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+xxx
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I get email about a lot of speaking opportunities. if you&#39;re looking to give more talks (especially if you&#39;re from a marginalized group), reply to this with a link to a video of a talk you&#39;re proud of!</p>&mdash; 🔎Julia Evans🔍 (@b0rk) <a href="https://twitter.com/b0rk/status/960884397644898305?ref_src=twsrc%5Etfw">February 6, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
