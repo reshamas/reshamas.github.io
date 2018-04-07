@@ -9,7 +9,12 @@ After much planning, the event [Scikit-learn Sprint](https://www.meetup.com/NYC-
 - to make a dent in the [700+ open issues at the time (now 1000+)](https://github.com/scikit-learn/scikit-learn/issues)
 - for me to contribute by submitting a pull request to a critical Python library
 
-And, after all that planning, I was unfortunately unable to attend due to a severe ankle injury.  My dreams of contributing to open source in March 2017 were crushed.  Perhaps next time.  
+After all that planning, I was unfortunately unable to attend due to a severe ankle injury.  My dreams of contributing to open source in March 2017 were crushed.  Perhaps next time.  
+
+Fortunately, the event was still a success.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A big thank you to everyone that made it out. Open source needs you! I hope we&#39;ll see more from you all in the future! <a href="https://t.co/7xgWklizMO">https://t.co/7xgWklizMO</a></p>&mdash; Andreas Mueller (@amuellerml) <a href="https://twitter.com/amuellerml/status/838186956022513665?ref_src=twsrc%5Etfw">March 5, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## What is Open Source
@@ -71,6 +76,9 @@ Alas, I contributed to open source!
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you&#39;re doing the new <a href="https://t.co/GEOZuodrZj">https://t.co/GEOZuodrZj</a> course, this list of terms compiled by <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> is likely to be a great help<a href="https://t.co/N3JOWaujGM">https://t.co/N3JOWaujGM</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/956321940536410112?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Many <a href="https://twitter.com/fastdotai?ref_src=twsrc%5Etfw">@fastdotai</a> students find tmux really useful with Jupyter Notebook, so <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> has written a nice intro to help get you started! <a href="https://t.co/99OjQCdM9A">https://t.co/99OjQCdM9A</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/929568271795306498?ref_src=twsrc%5Etfw">November 12, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
  
 ## Conclusion & Inspiration
 
@@ -85,6 +93,8 @@ Given the expanded definition of open source, the opportunity to contribute to o
 
 ## References
 [Interview with Andreas Mueller, Lecturer at Columbia University and Core Contributor to Scikit-Learn](https://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
+
+[WiMLDS Scikit Sprint][http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)
 
 [NumFocus Project: Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source)
 
