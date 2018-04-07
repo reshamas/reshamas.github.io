@@ -94,7 +94,7 @@ Given the expanded definition of open source, the opportunity to contribute to o
 ## References
 [Interview with Andreas Mueller, Lecturer at Columbia University and Core Contributor to Scikit-Learn](https://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
 
-[WiMLDS Scikit Sprint][http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)
+[WiMLDS Scikit Sprint](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)
 
 [NumFocus Project: Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source)
 
