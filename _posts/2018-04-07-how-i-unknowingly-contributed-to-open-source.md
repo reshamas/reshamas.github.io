@@ -1,4 +1,4 @@
----
+
 ## How can you be a sponsor? 
 
 The best way to thank those who have helped you is to "pay it forward." When you start to get more influence and opportunities, it becomes your responsibility to help pull others up behind you. For example, if you're a seasoned speaker, think about recommending others for opportunities, especially when you can't go yourself, like Julia Evans recently did:
