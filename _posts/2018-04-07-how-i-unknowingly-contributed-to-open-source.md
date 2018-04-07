@@ -78,6 +78,7 @@ I live in the United States, specifically New York City.  It’s a time period w
 What I love about data science is the passion that all who are bit by the data bug bring to it.  Data science ignores artificial boundaries, nationalities, profession, religion, languages and time zones.  I have benefited from the work and tools of many contributors to build my data science skills, and I have been happy to give something back to the community.  It’s been enormously gratifying to create and share this repo which enables so many aspiring and practicing data scientists to manage dev ops tools and move forward to continue deep learning.  That’s the true depth and value of open source.  It really is open to everyone.  
 
 ## What the Future Holds
+Given the expanded definition of open source, the opportunity to contribute to open source is available to data scientists of all levels.  
 All data scientists use open source tools.  I foresee a section on the resume entitled “Open Source Contributions” where folks will include how they’ve contributed to open source.
 
 ## References
