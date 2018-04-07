@@ -1,3 +1,4 @@
+<img src="../assets/images/ncm_gephi.jpg" align="center"  height="150" width="200" >  
 
 ## Take 1 :clapper:
 
