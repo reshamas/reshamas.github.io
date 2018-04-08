@@ -26,6 +26,7 @@ Examples include:
 - [Linux](https://www.linux.org/) operating system
 - [Apache projects](https://projects.apache.org/projects.html?name)
 - [NumFocus Sponsored Projects](https://www.numfocus.org/sponsored-projects)
+- [Software Carpentry](https://software-carpentry.org/lessons/) / [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons
 - more [programming languages](https://github.com/collections/programming-languages)
 - [web browsers](http://www.linuxandubuntu.com/home/best-open-source-web-browsers)
 - [text editors](https://www.slant.co/topics/3418/~open-source-programming-text-editors)
