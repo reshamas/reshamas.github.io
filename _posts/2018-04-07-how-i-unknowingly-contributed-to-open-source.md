@@ -69,7 +69,7 @@ My personal experience in data science (both as a student and teacher) is that D
 
 Initially, while enrolled in this online course, I took notes in google docs for myself.  After a week or so, I decided to create a repo on GitHub,  [fastai_deeplearn_part1](https://github.com/reshamas/fastai_deeplearn_part1), and share my notes in case a *few other students* might find them helpful.  
 
-To date, thousands of users have referenced the documents and almost 400 users have starred this repo.
+To date, **thousands of users** have referenced the documents in this repo.
 
 Alas, I contributed to open source!  
 
