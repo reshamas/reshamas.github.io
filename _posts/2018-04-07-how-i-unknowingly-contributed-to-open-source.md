@@ -41,7 +41,7 @@ We can widen the purview of open source to include the following contributions:
 - blogs
 - research papers
 - answering user questions on forums ([StackOverflow](https://stackoverflow.com/questions))
-- useful tweets <a href="https://twitter.com/reshamas/lists/notable-data-scientists/members" style="color:red; font-weight: bold">(Notable Data Scientists)</a>
+- useful tweets <a href="https://twitter.com/reshamas/lists/notable-data-scientists/members" style="color:blue">(Notable Data Scientists)</a>
 - talk slides and videos
 - datasets ([Kaggle](https://www.kaggle.com/datasets))
 - [trending repositories on GitHub](https://github.com/trending)
