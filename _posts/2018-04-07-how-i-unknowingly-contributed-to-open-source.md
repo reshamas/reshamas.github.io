@@ -23,12 +23,12 @@ Open source has traditionally been known as:
 >free software whose source code is open to the public  
 
 Examples include:  
-- Linux operating system
+- [Linux](https://www.linux.org/) operating system
 - [Apache projects](https://projects.apache.org/projects.html?name)
 - [NumFocus Sponsored Projects](https://www.numfocus.org/sponsored-projects)
 - more [programming languages](https://github.com/collections/programming-languages)
 - [web browsers](http://www.linuxandubuntu.com/home/best-open-source-web-browsers)
-- text editors
+- [text editors](https://www.slant.co/topics/3418/~open-source-programming-text-editors)
 - & even more [open source applications](https://opensource.com/resources/projects-and-applications)
 
 In November 2017, I participated in the inaugural [Diversity & Inclusion in Scientific Computing (DISC)](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/), specifically the sub-committee on [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source) where I expanded my knowledge of open source.    
