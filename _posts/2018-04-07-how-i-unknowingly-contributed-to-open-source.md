@@ -43,7 +43,7 @@ We can widen the purview of open source to include the following contributions:
 - answering user questions on forums ([StackOverflow](https://stackoverflow.com/questions))
 - useful tweets ([Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists))
 - talk slides and videos
-- datasets ([Kaggle](https://www.kaggle.com/datasets)
+- datasets ([Kaggle](https://www.kaggle.com/datasets))
 - [trending repositories on GitHub](https://github.com/trending)
 - translations of English documentation
 
