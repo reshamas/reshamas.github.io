@@ -70,8 +70,10 @@ But it's so much more complicated than that.  [Emily Robinson](https://twitter.c
 When in a formal educational program, make sure to speak and connect with everyone, not just the folks with whom you feel most comfortable socializing.  Make sure your professors/instructors know your name.  Get to know every Teaching Assistant in the classroom.  Get to know *all* of your fellow classmates.  Every person has different strengths and networks and skills and something to offer, *including you*. 
 
 ### Twitter
-If you're new to twitter, I am sharing some of my favorite twitter accounts to follow.  Follow who they follow, follow the insightful (and sometimes fiery) conversations on data science, and build your network.  To make it easier, subscribe to this list on Twitter for one-touch following:  <font color="orange">
+If you're new to twitter, I am sharing some of my favorite twitter accounts to follow.  Follow who they follow, follow the insightful (and sometimes fiery) conversations on data science, and build your network.  To make it easier, subscribe to this list on Twitter for one-touch following:  <font color="red">
 **[Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists/members)**. </font>
+
+<font color="red"; link rel="Notable Data Scientists" href="https://twitter.com/reshamas/lists/notable-data-scientists/members"> </font>
 
 Participate... by liking tweets, retweeting or contributing to a conversation.  
 
