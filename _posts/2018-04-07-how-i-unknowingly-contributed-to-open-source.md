@@ -31,7 +31,7 @@ Examples include:
 - [text editors](https://www.slant.co/topics/3418/~open-source-programming-text-editors)
 - & even more [open source applications](https://opensource.com/resources/projects-and-applications)
 
-In November 2017, I participated in the inaugural [Diversity & Inclusion in Scientific Computing (DISC)](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/), specifically the sub-committee on [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source) where I expanded my knowledge of open source.    
+In November 2017, I participated in the inaugural [Diversity & Inclusion in Scientific Computing (DISC)](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/) Unconference, specifically the sub-committee on [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source) where I expanded my knowledge of open source.    
 
 We can widen the purview of open source to include the following contributions:
 - creating additional libraries for programming languages
