@@ -75,6 +75,9 @@ If you're new to twitter, I am sharing some of my favorite twitter accounts to f
 
 <font color="red"; link rel="Notable Data Scientists" href="https://twitter.com/reshamas/lists/notable-data-scientists/members"> </font>
 
+<p><a color="red" href="https://www.w3schools.com">W3Schools.com</a></p>
+
+
 Participate... by liking tweets, retweeting or contributing to a conversation.  
 
 
