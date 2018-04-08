@@ -1,4 +1,4 @@
-Like many data scientists, I desired to contribute to open source, but I thought that “open source contribution” meant creating a new library in Python.  That would require knowledge of objects, inheritance, parallelism, asynchronous, classes, methods, decorators, and more to write that long, complex code.  But, I’m a statistician and that level of Python/computer science is beyond my scope of knowledge.  
+Like many data scientists, I desired to contribute to open source, but I thought that “open source contribution” meant creating a new library in Python.  That would require expertise in objects, inheritance, parallelism, asynchronous, classes, methods, decorators, and more to write that long, complex code.  But, I’m a statistician and that level of Python/computer science is beyond my scope of knowledge.  
 
 ## Take 1 :clapper:
 
