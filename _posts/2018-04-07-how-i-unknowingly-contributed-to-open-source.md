@@ -27,7 +27,7 @@ Examples include:
 - [Apache projects](https://projects.apache.org/projects.html?name)
 - [NumFocus Sponsored Projects](https://www.numfocus.org/sponsored-projects)
 - more [programming languages](https://github.com/collections/programming-languages)
-- [web browsers (Firefox, Mozilla)](http://www.linuxandubuntu.com/home/best-open-source-web-browsers)
+- [web browsers](http://www.linuxandubuntu.com/home/best-open-source-web-browsers)
 - text editors
 - & even more [open source applications](https://opensource.com/resources/projects-and-applications)
 
