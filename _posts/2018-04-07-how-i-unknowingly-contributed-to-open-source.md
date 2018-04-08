@@ -26,7 +26,6 @@ Examples include:
 - [Linux](https://www.linux.org/) operating system
 - [Apache projects](https://projects.apache.org/projects.html?name)
 - [NumFocus Sponsored Projects](https://www.numfocus.org/sponsored-projects)
-- [Software Carpentry](https://software-carpentry.org/lessons/) / [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons
 - more [programming languages](https://github.com/collections/programming-languages)
 - [web browsers](http://www.linuxandubuntu.com/home/best-open-source-web-browsers)
 - [text editors](https://www.slant.co/topics/3418/~open-source-programming-text-editors)
@@ -104,3 +103,6 @@ Given the expanded definition of open source, the opportunity to contribute to o
  (C. Titus Browns)](http://ivory.idyll.org/blog/2018-software-and-data-better-than-papers.html)
 
 [Why Should I Contribute to Open Source?](https://github.com/numfocus/getting-started-with-open-source/blob/master/what_is_open_source_and_why_contribute.md#why-should-i-contribute-to-open-source)
+
+Other Open Source Projects
+- [Software Carpentry](https://software-carpentry.org/lessons/) / [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons
