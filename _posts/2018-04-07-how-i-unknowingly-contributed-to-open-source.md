@@ -40,11 +40,12 @@ We can widen the purview of open source to include the following contributions:
 - tutorials and training materials (text, video)
 - blogs
 - research papers
-- answering user questions on forums such as [StackOverflow](https://stackoverflow.com/questions)
+- answering user questions on forums ([StackOverflow](https://stackoverflow.com/questions))
 - useful tweets ([Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists))
 - talk slides and videos
 - datasets
 - [trending repositories on GitHub](https://github.com/trending)
+- translations of English documentation
 
 An updated definition could be:  
 >Free software whose source code is open to the public, as well as any documentation, examples, applications, maintenance and support of software and related tools for all users.
