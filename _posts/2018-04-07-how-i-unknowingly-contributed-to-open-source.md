@@ -104,5 +104,6 @@ Given the expanded definition of open source, the opportunity to contribute to o
 
 [Why Should I Contribute to Open Source?](https://github.com/numfocus/getting-started-with-open-source/blob/master/what_is_open_source_and_why_contribute.md#why-should-i-contribute-to-open-source)
 
-Other Open Source Projects
+Open Source Projects
 - [Software Carpentry](https://software-carpentry.org/lessons/) / [Data Carpentry](http://www.datacarpentry.org/lessons/) lessons
+- [fastai Deep Learning Library](https://github.com/fastai/fastai)
