@@ -40,7 +40,7 @@ We can widen the purview of open source to include the following contributions:
 - tutorials and training materials (text, video)
 - blogs
 - research papers
-- answering user questions on forums such as StackOverflow and Quora
+- answering user questions on forums such as StackOverflow
 - useful tweets
 - talk slides and videos
 - datasets
