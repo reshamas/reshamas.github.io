@@ -1,5 +1,7 @@
 # How Do I Get My First Data Science Job?
 
+<font color="red">This is some text!</font>
+
 ## Intro
 As an organizer for a data science meetup group, I am often asked this question:  
 >*I am studying data science [either university degree, bootcamp, online or self-study].  How do I go about getting my first job in data science?*
