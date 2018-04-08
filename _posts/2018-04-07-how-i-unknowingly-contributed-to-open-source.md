@@ -66,7 +66,7 @@ There is more information available in this dossier, [Getting Started with Open 
 
 My personal experience in data science (both as a student and teacher) is that Dev Ops can be a barrier to entry.  Dev Ops are those skills needed to set up a workable environment even before doing any data science.  It includes skills in:  Git (version control), setting up a machine in the cloud (via AWS or Paperspace or a myriad of other options), configuring environment, navigating bash and editor on a terminal on the cloud machine, downloading images and transferring them to a cloud machine.  It is separate from the machine learning part.  Beginner data scientists often struggle with these dev ops skills.
 
-Initially, while enrolled in this online course, I took notes in google docs for myself.  After a week or so, I decided to create a repo on GitHub,  [fastai_deeplearn_part1](https://github.com/reshamas/fastai_deeplearn_part1), and share my notes in case a *few other students* might find them helpful.  
+Initially, while enrolled in this online course, I took notes in google docs for myself.  After a week or so, I decided to create a repo on GitHub, <a href="(https://github.com/reshamas/fastai_deeplearn_part1)" style="color:blue">fastai_deeplearn_part1</a>, and share my notes in case a *few other students* might find them helpful.  
 
 To date, **thousands of users** have referenced the documents in this repo.
 
