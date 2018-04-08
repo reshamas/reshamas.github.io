@@ -31,7 +31,7 @@ Examples include:
 - [text editors](https://www.slant.co/topics/3418/~open-source-programming-text-editors)
 - & even more [open source applications](https://opensource.com/resources/projects-and-applications)
 
-In November 2017, I participated in the inaugural [Diversity & Inclusion in Scientific Computing (DISC)](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/) Unconference, specifically the sub-committee on [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source) where I expanded my knowledge of open source.    
+In November 2017, I participated in the inaugural [Diversity & Inclusion in Scientific Computing (DISC)](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/) Unconference, specifically the sub-committee on [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source) where I broadened my knowledge of open source.    
 
 We can widen the purview of open source to include the following contributions:
 - creating additional libraries for programming languages
@@ -49,8 +49,6 @@ We can widen the purview of open source to include the following contributions:
 
 An updated definition could be:  
 >Free software whose source code is open to the public, as well as any documentation, examples, applications, maintenance and support of software and related tools for all users.
-
- 
 
 ## Why Contribute to Open Source
 Because everyone uses it, benefits from it, and there is a *lot of work* to be done.  Other advantages include:  
