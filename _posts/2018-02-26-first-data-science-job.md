@@ -77,6 +77,7 @@ If you're new to twitter, I am sharing some of my favorite twitter accounts to f
 
 <a font color="red" href="https://www.w3schools.com">  <bold> W3Schools.com  </bold> </a>
 
+<a href="http://example.com/" style="color:#FF0000;">Red Link</a>
 
 Participate... by liking tweets, retweeting or contributing to a conversation.  
 
