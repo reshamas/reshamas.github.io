@@ -70,7 +70,7 @@ Initially, while enrolled in this online course, I took notes in google docs for
 
 To date, **thousands of users** have referenced the documents in this repo.
 
-And, I contributed to open source!  
+I had contributed to open source!  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you&#39;re doing the new <a href="https://t.co/GEOZuodrZj">https://t.co/GEOZuodrZj</a> course, this list of terms compiled by <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> is likely to be a great help<a href="https://t.co/N3JOWaujGM">https://t.co/N3JOWaujGM</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/956321940536410112?ref_src=twsrc%5Etfw">January 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
