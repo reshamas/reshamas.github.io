@@ -1,5 +1,5 @@
 
-<img src="../assets/images/tkb-1804-g.png" align="right"  height="95" width="94" >  
+<img href="https://www.w3schools.com" src="../assets/images/tkb-1804-g.png" align="right"  height="95" width="94" >  
 
 # How Do I Get My First Data Science Job?
 
