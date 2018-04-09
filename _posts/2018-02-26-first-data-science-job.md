@@ -1,8 +1,5 @@
 
-<img href="https://www.w3schools.com" src="../assets/images/tkb-1804-g.png" align="right"  height="95" width="94" >  
-
-<img href="https://www.kdnuggets.com/2018/04/top-news-week-0402-0408.html" src="https://www.kdnuggets.com/images/tkb-1804-g.png" width=94 alt="Gold Blog" align="right">
-
+<img href="https://www.kdnuggets.com/2018/04/top-news-week-0402-0408.html" src="../assets/images/tkb-1804-g.png" align="right"  height="95" width="94" >  
 
 # How Do I Get My First Data Science Job?
 
