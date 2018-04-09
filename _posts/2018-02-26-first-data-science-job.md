@@ -1,5 +1,5 @@
 
-<img src="../assets/images/tkb-1804-g.png" align="center"  height="300" width="450" >  
+<img src="../assets/images/tkb-1804-g.png" align="center"  height="10" width="300" >  
 
 # How Do I Get My First Data Science Job?
 
