@@ -1,15 +1,10 @@
-<p>
+
 <a href="https://www.kdnuggets.com/2018/04/top-news-week-0402-0408.html">
-<img  alt="kdnuggets" src="../assets/images/tkb-1804-g.png" width="94" height="95" align="right>
+<img border="0" alt="W3Schools" src="../assets/images/tkb-1804-g.png" width="100" height="100">
 </a>
-                                                                                          </p>
-
-
 
 
 # How Do I Get My First Data Science Job?
-
-
 
 ## Intro
 As an organizer for a data science meetup group, I am often asked this question:  
