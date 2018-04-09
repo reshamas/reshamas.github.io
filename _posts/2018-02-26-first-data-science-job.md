@@ -1,3 +1,5 @@
+<a href="https://www.kdnuggets.com/2018/04/top-news-week-0402-0408.html"><img src="https://www.kdnuggets.com/images/tkb-1804-g.png" width=94 alt="Gold Blog" align="right"></a>
+
 # How Do I Get My First Data Science Job?
 
 ## Intro
