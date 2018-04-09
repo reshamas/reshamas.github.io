@@ -1,5 +1,11 @@
+<p>
+<a href="https://www.kdnuggets.com/2018/04/top-news-week-0402-0408.html">
+<img  alt="kdnuggets" src="../assets/images/tkb-1804-g.png" width="94" height="95" align="right>
+</a>
+                                                                                          </p>
 
-<img href="https://www.kdnuggets.com/2018/04/top-news-week-0402-0408.html" src="../assets/images/tkb-1804-g.png" align="right"  height="95" width="94" >  
+
+
 
 # How Do I Get My First Data Science Job?
 
