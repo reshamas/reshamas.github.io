@@ -1,6 +1,6 @@
 
 <a href="https://www.kdnuggets.com/2018/04/top-news-week-0402-0408.html">
-<img border="0" alt="W3Schools" src="../assets/images/tkb-1804-g.png" width="100" height="100">
+<img border="0" alt="W3Schools" src="../assets/images/tkb-1804-g.png" width="100" height="100" align="right">
 </a>
 
 
