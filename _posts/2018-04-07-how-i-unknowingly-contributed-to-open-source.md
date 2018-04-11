@@ -33,7 +33,7 @@ Examples include:
 
 In November 2017, I participated in the inaugural [Diversity & Inclusion in Scientific Computing (DISC)](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/) Unconference where I broadened my knowledge of open source.    
 
-We can widen the purview of open source to include the following contributions:
+We can expand the purview of open source to include the following contributions:
 - creating additional libraries for programming languages
 - contributing to programming languages by fixing bugs or adding features via GitHub
 - documentation
