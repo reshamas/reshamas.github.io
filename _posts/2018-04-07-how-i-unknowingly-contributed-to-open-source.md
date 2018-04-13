@@ -57,7 +57,7 @@ Because everyone uses it, benefits from it, and there is a *lot of work* to be d
 - augmenting your portfolio by including your OS contributions
 - networking opportunities
 
-There is more information available in this dossier, [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source) which is an outcome of the [DISC Unconference Projects](https://github.com/numfocus/DISC-unconf-17).
+There is more information available in this dossier, [Getting Started with Open Source](https://github.com/numfocus/getting-started-with-open-source), which is an outcome of the [DISC Unconference Projects](https://github.com/numfocus/DISC-unconf-17).
 
 
 ## Take 2 :clapper:
