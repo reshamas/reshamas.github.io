@@ -10,7 +10,7 @@ I found a teammate in NYC who was interested, and we worked on the [Statoil/C-CO
  | Ship or iceberg, can you decide from space.](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)  Our GitHub repository is [kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg).  
  
 We chose this competition for a few reasons:
-- image data (we wanted to use the fastai deep learning library)
+- image data (we wanted to use the [fastai](https://github.com/fastai/fastai) deep learning library)
 - it was an active competition at the time
 - the dataset size was manageable (~1300 images in the training dataset, with 4 features)
 
