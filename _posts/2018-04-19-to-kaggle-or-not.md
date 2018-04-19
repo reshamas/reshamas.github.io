@@ -20,7 +20,7 @@ Like many people, I had some preconceived notions about Kaggle competitions.  I 
 - I am not sure where to begin...
 
 # My First Kaggle Competition
-After years of resistance, I participated in my first Kaggle competition this past December (2017), [Is it a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)  I wrote a post on my first competition.  It is here.....
+After years of resistance, I participated in my first Kaggle competition this past December (2017), [Is it a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge).  I wrote a post on [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/)
 
 # Kaggle Competitions and the NYC Marathon
 What I discovered is that Kaggle competitions are a lot like the NYC marathon.  Most people participate for the journey, not for winning first place.  
@@ -84,8 +84,7 @@ Kaggle has a Slack team:  [KaggleNoobs slack channel](http://kagglenoobs.herokua
 - Note that it is best to have separate teams on Kaggle so you can each make the maximum daily submissions of results, but merge teams later towards the end
 
 # Conclusion
-Yes, do at least one competition.  There’s a difference in having opinion on something you have tried vs not.
-Kaggle is evolving, like everything.  Check back periodically.
+I would encourage folks to participate in at least one competition.  There’s a difference in having opinion on something you have tried versus not.  Kaggle is evolving, like everything, especially since its acquisition by Google.  Check back periodically and see what is new.
 
 # It Doesn’t Have to be Kaggle 
 While Kaggle is the most well-known platform, there are many other opportunities to participate in competitions:
