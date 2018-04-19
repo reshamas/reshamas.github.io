@@ -26,7 +26,7 @@ There is a routine process when using AWS such as:
 - updating Ubuntu packages
 - using latest version of fastai library
 - updating Anaconda packages
-- remembering where the data and working directory are located
+- remembering where the data and my working directory are located
 
 I wrote up notes in [0_login](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/courses/mes_projets/0_login.md) so I could easily reference the steps in the future.
 
