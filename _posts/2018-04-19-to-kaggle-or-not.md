@@ -20,7 +20,7 @@ Like many people, I had some preconceived notions about Kaggle competitions.  I 
 - I am not sure where to begin...
 
 # My First Kaggle Competition
-After years of resistance, I participated in my first Kaggle competition this past December (2017), [Is it a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge).  I wrote a post on [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/)
+After years of resistance, I participated in my first Kaggle competition recently, [Is it a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge).  I wrote a post on [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/) on my experience.  
 
 # Kaggle Competitions and the NYC Marathon
 What I discovered is that Kaggle competitions are a lot like the NYC marathon.  Most people participate for the journey, not for winning first place.  
