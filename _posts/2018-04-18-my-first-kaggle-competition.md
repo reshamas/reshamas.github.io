@@ -54,7 +54,7 @@ I learned of some shortcuts for Jupyter Notebook from the fastai lectures and wr
 ### Domain Knowledge:  Understanding Data
 It took some time to explore the data.  Differentiating between dogs and cats is one thing.  But separating the satellite images of icebergs and ships was visually challenging.  
 
-<img src="../assets/images/ship_iceberg.png" align="center"  height="200" width="300" >  
+<img src="../assets/images/ship_iceberg.png" align="center"  height="400" width="600" >  
 
 
 ### Benchmark:  Logloss
