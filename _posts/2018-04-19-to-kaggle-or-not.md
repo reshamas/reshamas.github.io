@@ -92,7 +92,7 @@ While Kaggle is the most well-known platform, there are many other opportunities
 - conferences often have competitions or what are called "tasks"
 - private companies sponsor their own competition
 
-Here is a sample list of other [data science competitions](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/notes/competitions.md).  Spending some time with google search may produce more recent opportunities.  
+Here is a sample list of other [data science competitions](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/notes/competitions.md).  Spending some time with google search will produce more recent and active opportunities.  
 
 # References
 
