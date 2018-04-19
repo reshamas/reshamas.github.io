@@ -23,8 +23,7 @@ Like many people, I had some preconceived notions about Kaggle competitions.  I 
 After years of resistance, I participated in my first Kaggle competition recently, [Is it a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge).  I wrote a post [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/) of my experience.  
 
 # Kaggle Competitions and the NYC Marathon
-What I discovered is that Kaggle competitions are a lot like the NYC marathon.  Most people participate for the journey, not for winning first place.  
-<a   style="color:orange"><b>Most people participate for the journey, not for winning first place. </b></a>
+What I discovered is that Kaggle competitions are a lot like the NYC marathon.  <a   style="color:orange">Most people participate for the journey, not for winning first place. </a>
 
 # Verdict:  Yes to Kaggle
 I would say "yes", there is value in doing a Kaggle competition, either for the beginner or seasoned data scientist.  Here are the many reasons why.
