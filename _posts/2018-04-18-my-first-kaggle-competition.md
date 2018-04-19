@@ -60,8 +60,8 @@ It took some time to explore the data.  Differentiating between dogs and cats is
 <img src="../assets/images/ship_iceberg.png" align="center"    >  
 
 
-#### Benchmark:  Logloss
-Accuracy is a metric generally used to evaluate model performance.  However, Kaggle often uses [logloss](http://wiki.fast.ai/index.php/Log_Loss).  We investigated and discovered why:
+#### Benchmark:  Log Loss
+Accuracy is a metric generally used to evaluate model performance.  However, Kaggle often uses [log loss](http://wiki.fast.ai/index.php/Log_Loss).  We investigated and discovered why:
 - accuracy is the sum of correctly classified images, each image is assigned to 0 or 1
 - log loss begins by examining the probability of each class.  So, if it is < 0.50, it is classified as 0, and if > 0.50, it is classified as 1
 - log loss then measures the difference, or distance, between actual and predicted probabilities
