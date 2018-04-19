@@ -54,6 +54,9 @@ I learned of some shortcuts for Jupyter Notebook from the fastai lectures and wr
 ### Domain Knowledge:  Understanding Data
 It took some time to explore the data.  Differentiating between dogs and cats is one thing.  But separating the satellite images of icebergs and ships was visually challenging.  
 
+<img src="../assets/images/ship_iceberg.png" align="center"  height="200" width="300" >  
+
+
 ### Benchmark:  Logloss
 Accuracy is a metric generally used to evaluate model performance.  However, Kaggle often uses [logloss](http://wiki.fast.ai/index.php/Log_Loss).  We investigated and discovered why:
 - accuracy is the sum of correctly classified images, each image is assigned to 0 or 1
