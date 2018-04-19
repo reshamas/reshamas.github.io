@@ -74,6 +74,6 @@ When we first [submitted results](https://www.kaggle.com/c/statoil-iceberg-class
 It was exciting and encouraging to see our rankings increase as we became more familiar with the data and tried various hyperparameters.
 
 ## Conclusion
-My first Kaggle competition was a lot of fun!  It was enlightening to learn the wide skillset required to getting started.  I was grateful to work with my teammate where we could bounce ideas off of each other.  I am also thankful for the all the guidance that the fastai lectures provided to participate in my first Kaggle competition.  It was neither easy nor difficult; it was manageable based on my skills and the background that fastai provided.  <a style="color:orange">It was neither easy nor difficult; it was manageable based on my skills and the background that fastai provided.   </a>
+My first Kaggle competition was a lot of fun!  It was enlightening to learn the wide skillset required to getting started.  I was grateful to work with my teammate where we could bounce ideas off of each other.  I am also thankful for the all the guidance that the fastai lectures provided to participate in my first Kaggle competition.  <a style="color:orange">It was neither easy nor difficult; it was manageable based on my skills and the background that fastai provided.   </a>
 
 
