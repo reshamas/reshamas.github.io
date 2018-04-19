@@ -55,9 +55,10 @@ I learned of some shortcuts for Jupyter Notebook from the fastai lectures and wr
 It took some time to explore the data.  Differentiating between dogs and cats is one thing.  But separating the satellite images of icebergs and ships was visually challenging.  
 
 ### Benchmark:  Logloss
-Accuracy is a metric generally used to evaluate model performance.  However, Kaggle often uses logloss.  We investigated and discovered why:
+Accuracy is a metric generally used to evaluate model performance.  However, Kaggle often uses [logloss](http://wiki.fast.ai/index.php/Log_Loss).  We investigated and discovered why:
 - accuracy is the sum of correctly classified images, each image is assigned to 0 or 1
-- log loss provides the probability of class.  So, if it is < 0.50, it is classified as 0, and if > 0.50, it is classified as 1
+- log loss begins by examining the probability of each class.  So, if it is < 0.50, it is classified as 0, and if > 0.50, it is classified as 1
+- log loss then measures the difference, or distance, between actual and predicted probabilities
 - log loss provides more detail on how close the predicted is to actual.  For example, if a prediction for an image is 0.45 (while classified corrrectly), it is less precise than if the prediction was 0.05.  That indicates our model could be improved.  
 
 ### Hyperparameters
