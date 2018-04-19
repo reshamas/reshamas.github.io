@@ -1,13 +1,11 @@
-Images, screenshots
-
-# About Kaggle
+## About Kaggle
 
 [Kaggle](https://www.kaggle.com/) is the most well known competition platform for **predictive modeling and analytics**.  The company was founded in 2010 in Melbourne, Australia, and a year later, it moved to San Francisco after receiving funding from Silicon Valley.  In 2017, it was acquired by Google.  Read more in [Interview with Anthony Goldbloom, CEO of Kaggle.](https://medium.com/implodinggradients/ama-with-anthony-goldbloom-ceo-of-kaggle-the-open-data-science-platform-6a2012538316)
 
 The term “data science” has gradually floated and elevated into the English lexicon over the past decade.  And so, the words “data science” and “kaggle” have become inextricably linked, and many in the data science community contemplate and debate the utility of the platform:  
 > <a   style="color:orange; font:italic"><i>Is Kaggle... useful?</i></a>
 
-# My Initial Thoughts on Kaggle
+## My Initial Thoughts on Kaggle
 Like many people, I had some preconceived notions about Kaggle competitions.  I had heard about them for several years, and these were my thoughts or opinions from others in the field:  
 - I had heard the legend that retired PhD’s with decades of experience were the ones winning the Kaggle comps 
 - I had close to zero chance of winning
@@ -19,22 +17,22 @@ Like many people, I had some preconceived notions about Kaggle competitions.  I 
 - Doing one Kaggle competition isn’t going to make me a qualified data scientist, so why bother?
 - I am not sure where to begin...
 
-# My First Kaggle Competition
+## My First Kaggle Competition
 After years of resistance, I participated in my first Kaggle competition recently, [Is it a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge).  I wrote a post [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/) of my experience.  
 
 <img src="../assets/images/kaggle_iceberg.png" align="center"  >  
 
 
-# Kaggle Competitions and the NYC Marathon
+## Kaggle Competitions and the NYC Marathon
 What I discovered is that Kaggle competitions are a lot like the NYC marathon.  <a   style="color:orange">Most people participate for the journey, not for winning first place. </a>
 
-# Verdict:  Yes to Kaggle
+## Verdict:  Yes to Kaggle
 I would say "yes", there is value in doing a Kaggle competition, either for the beginner or seasoned data scientist.  Here are the many reasons why.
 
-## Benchmark
+### Benchmark
 There are benefits to acquiring your own datasets or scraping the web.  The downside to that is there is no benchmark, no way to compare your findings.  There is the possibility of significant errors, and no one would know because there is no validation.  Kaggle competitions provide a platform for "checking your work."
 
-## For All Levels, There is Learning
+### For All Levels, There is Learning
 For the beginner, there is lots to learn:
 - Becoming familiar with the Kaggle platform
 - Downloading data using Kaggle [CLI](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md) or [API](https://github.com/Kaggle/kaggle-api)
@@ -52,44 +50,44 @@ For the experienced pactitioner, there is always more to learn:
 - Use deep learning and compare results to traditionally used algorithms
 
 
-## Data 
+### Data 
 All throughout the data science community, you will hear references to datasets.  You will become familiar with the other popular datasets to which other learning platforms and conference speakers refer.
 
 Despite the fact that the dataset is provided, there remains the requirement to understand the data and the evaluation metrics.  Contrary to popular belief, there is still "dirty data" which requires further investigation.  Digging deeper into misclassified items begets adjustments to the algorithm.  
 
-## Portfolio Segment
+### Portfolio Segment
 It is true, doing one Kaggle competition does not guarantee that you will be a data scientist.  Neither does taking one class or attending one conference tutorial or analyzing one dataset or reading one book in data science.  Working on competition(s) adds to your experience and augments your portfolio.  It is a complement to your other projects, not the sole litmus test of one's data science skillset. 
 
-## Having Fun
+### Having Fun
 Often, people are unsure whether to pursue a career in data science.  Participating in a competition is a great way to gauge your experience.  If you really enjoy the process of Kaggle, it will point you more clearly in the right direction.  If you prefer to spend your time doing something else, that is all right too; it is one way to find out. 
 
 
-# Getting Started with Kaggle
+## Getting Started with Kaggle
 
-## Beginner's Guide
+### Beginner's Guide
 This article provides extensive information on Kaggle as well as tips on getting started:  [The Beginner’s Guide to Kaggle](https://elitedatascience.com/beginner-kaggle)
 
-## Kernels
+### Kernels
 There are kernels, which is code in Jupyter Notebooks that others have shared.  You are free to copy and use them to get started on a competition.  Code is available in both R and Python. 
 
-## Discussion Board
+### Discussion Board
 Each competition has a discussion board for asking questions and upvoting kernels and topics.
 
-### Slack
+#### Slack
 Kaggle has a Slack team:  [KaggleNoobs slack channel](http://kagglenoobs.herokuapp.com).  There are almost 4000 members, and there is a channel for AMA(Ask Me Anything), where they regularly interview Kaggle participants.  
 
-## Choices
+### Choices
 - You can participate in competitions that have closed.  Keep in mind, it is about the learning, not the end result.  
 - There are a variety of topics (random forests, multi-class, neural networks, NLP) and types of datasets (image analysis, structured data, NLP, big data)
 
-## Partner with Someone
+### Partner with Someone
 - Whether you are a beginner or experienced in data science, work with someone
 - Note that it is best to have separate teams on Kaggle so you can each make the maximum daily submissions of results, but merge teams later towards the end
 
-# Conclusion
+## Conclusion
 I would encourage data scientists to participate in at least one competition.  There’s a difference in having opinion on something you have tried versus not.  Kaggle is evolving, like everything, especially since its acquisition by Google.  Check back periodically and see what is new.
 
-# It Doesn’t Have to be Kaggle 
+## It Doesn’t Have to be Kaggle 
 While Kaggle is the most well-known platform, there are many other opportunities to participate in competitions:
 - many university analytics departments have an annual competition
 - conferences often have competitions or what are called "tasks"
@@ -97,7 +95,7 @@ While Kaggle is the most well-known platform, there are many other opportunities
 
 Here is a sample list of other [data science competitions](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/notes/competitions.md).  Spending some time with google search will produce more recent and active opportunities.  
 
-# References
+## References
 
 [The Beginner’s Guide to Kaggle](https://elitedatascience.com/beginner-kaggle), Jul 2017
 
