@@ -16,11 +16,9 @@ We chose this competition for a few reasons:
 
 There are kernels available to start the analysis.  However, we were unable to run GPU on the kernels, so we went to [AWS GPU](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md) to do our work.  We set up the cloud machine, downloaded the data, ran a neural network and submitted our first results within one Saturday afternoon.  
 
-## What I Learned
+## What I Learned:  Dev Ops Tools
 
-### Dev Ops Tools
-
-#### Logging into AWS
+### Logging into AWS
 There is a routine process when using AWS such as:
 - remembering my login syntax
 - updating Ubuntu packages
@@ -30,10 +28,10 @@ There is a routine process when using AWS such as:
 
 I wrote up notes in [0_login](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/courses/mes_projets/0_login.md) so I could easily reference the steps in the future.
 
-#### Downloading Data
+### Downloading Data
 Since we were working on AWS, it was necessary to load the data to that cloud machine.  Kaggle has a command line interface (CLI) that makes it easy, and I have written up notes in [downloading data from Kaggle](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md).  
 
-#### Tmux
+### Tmux
 Tmux stands for "terminal multiplexer" which lets you switch easily between several programs or windows in one terminal, which is particularly useful when working on a remote machine.  It also:  
 * Lets you tile window panes in a command-line environment.
 * This in turn allows you to run, or keep an eye on, multiple programs within one terminal.
@@ -44,36 +42,36 @@ I have written up [tmux instructions](https://github.com/reshamas/fastai_deeplea
 <img src="../assets/images/tmux_panes.png" align="center"  height="500" width="750" >  
 
 
-#### Git
+### Git
 We wanted to ensure that our code was backed up on GitHub at [reshamas/kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg).  I was familiar with Git through my prior experience, and I have provided useful notes for the Git beginner here [git-intro-workshop8-datanauts](https://github.com/reshamas/git-intro-workshop8-datanauts).
 
 During the competition, the repository was set to private.  Once the competition was complete, we changed the privileges to public.
 
-#### Jupyter Notebook
+### Jupyter Notebook
 I learned of some shortcuts for Jupyter Notebook from the fastai lectures and wrote them up for easy reference in [jupyter_notebook](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/jupyter_notebook).
 
-### Data / Algorithm Knowledge
+## What I Learned:  Data / Algorithm Knowledge
 
-#### Domain Knowledge:  Understanding Data
+### Domain Knowledge:  Understanding Data
 It took some time to explore the data.  Differentiating between dogs and cats is one thing.  But separating the satellite images of icebergs and ships was visually challenging.  
 
 <img src="../assets/images/ship_iceberg.png" align="center"    >  
 
 
-#### Benchmark:  Log Loss
+### Benchmark:  Log Loss
 Accuracy is a metric generally used to evaluate model performance.  However, Kaggle often uses [log loss](http://wiki.fast.ai/index.php/Log_Loss).  We investigated and discovered why:
 - accuracy is the sum of correctly classified images, each image is assigned to 0 or 1
 - log loss begins by examining the probability of each class.  So, if it is < 0.50, it is classified as 0, and if > 0.50, it is classified as 1
 - log loss then measures the difference, or distance, between actual and predicted probabilities
 - log loss provides more detail on how close the predicted is to actual.  For example, if a prediction for an image is 0.45 (while classified corrrectly), it is less precise than if the prediction was 0.05.  That indicates our model could be improved.  
 
-#### Hyperparameters
+### Hyperparameters
 As someone with a background in statistics, I really enjoyed tuning the hyperparameters.  I played with various architectures, batch sizes, learning rates, epochs and image sizes to obtain optimal results, that is minimum log loss.
 
-### Submitting Results
+## Submitting Results
 When we first [submitted results](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/submissions?sortBy=date&group=all&page=1), we were way off.  It turned out there were errors in how we created our submission file.  We fixed it and saw our results more in alignment with others on the [leaderboard](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/leaderboard).
 
-#### Rankings
+### Rankings
 It was exciting and encouraging to see our rankings increase as we became more familiar with the data and tried various hyperparameters.
 
 ## Conclusion
