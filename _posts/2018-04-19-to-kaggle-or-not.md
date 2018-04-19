@@ -8,7 +8,7 @@ The term “data science” has gradually floated and elevated into the English 
 > <a   style="color:orange; font:italic"><i>Is Kaggle... useful?</i></a>
 
 # My Initial Thoughts on Kaggle
-Like many people, I had some preconceived notions about Kaggle competitions.  I had heard about them for several years, and these were my thoughts:  
+Like many people, I had some preconceived notions about Kaggle competitions.  I had heard about them for several years, and these were my thoughts or opinions from others in the field:  
 - I had heard the legend that retired PhD’s with decades of experience were the ones winning the Kaggle comps 
 - I had close to zero chance of winning
 - Would I really learn something of value?
