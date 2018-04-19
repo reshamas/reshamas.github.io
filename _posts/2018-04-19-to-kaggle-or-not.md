@@ -96,13 +96,13 @@ Here is a sample list of other [data science competitions](https://github.com/re
 
 ## References
 
-[The Beginner’s Guide to Kaggle](https://elitedatascience.com/beginner-kaggle), Jul 2017
+[The Beginner’s Guide to Kaggle](https://elitedatascience.com/beginner-kaggle), 2017
 
-[ Interview with Jeremy Howard on Deep Learning, Kaggle, Data Science, and more](https://www.kdnuggets.com/2017/01/exclusive-interview-jeremy-howard-deep-learning-kaggle-data-science.html), Jan 2017
+[ Interview with Jeremy Howard on Deep Learning, Kaggle, Data Science, and more](https://www.kdnuggets.com/2017/01/exclusive-interview-jeremy-howard-deep-learning-kaggle-data-science.html), 2017
 
-[My Kaggle Experience & Spot-Chasing Retirement](http://blog.kaggle.com/2016/02/10/my-kaggle-experience-spot-chasing-retirement/), Marios Michailidis, Feb 2016
+[My Kaggle Experience & Spot-Chasing Retirement](http://blog.kaggle.com/2016/02/10/my-kaggle-experience-spot-chasing-retirement/), Marios Michailidis, 2016
 
-[Machine Learning Isn’t Kaggle Competitions](https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions/), Julia Evans, Jun 2014
+[Machine Learning Isn’t Kaggle Competitions](https://jvns.ca/blog/2014/06/19/machine-learning-isnt-kaggle-competitions/), Julia Evans, 2014
 
-[A Very Short History of Data Science](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/#2dbc356155cf), May 2013
+[A Very Short History of Data Science](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/#2dbc356155cf), 2013
 
