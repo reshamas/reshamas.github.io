@@ -44,7 +44,7 @@ For the experienced pactitioner, there is always more to learn:
 - The structured ecosystem allows for people with more advanced statistical skills to focus on that
 - Explore hyperparameters more deeply
 - Focus on state of the art and emerging methodologies
-- Post mortem of winners
+- Post-competition analysis of winner entries
 - Using cloud computing for large datasets or GPU 
 - Use deep learning and compare results to traditionally used algorithms
 
