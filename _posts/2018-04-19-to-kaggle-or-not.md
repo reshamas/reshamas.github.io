@@ -75,11 +75,11 @@ Each competition has a discussion board for asking questions and upvoting kernel
 ### Slack
 Kaggle has a Slack team:  [KaggleNoobs slack channel](http://kagglenoobs.herokuapp.com).  There are almost 4000 members, and there is a channel for AMA(Ask Me Anything), where they regularly interview Kaggle participants.  
 
-### Choices
+## Choices
 - You can participate in competitions that have closed.  Keep in mind, it is about the learning, not the end result.  
 - There are a variety of topics (random forests, multi-class, neural networks, NLP) and types of datasets (image analysis, structured data, NLP, big data)
 
-### Partner with Someone
+## Partner with Someone
 - Whether you are a beginner or experienced in data science, work with someone
 - Note that it is best to have separate teams on Kaggle so you can each make the maximum daily submissions of results, but merge teams later towards the end
 
