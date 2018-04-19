@@ -5,7 +5,7 @@ Images, screenshots
 [Kaggle](https://www.kaggle.com/) is the most well known competition platform for **predictive modeling and analytics**.  The company was founded in 2010 in Melbourne, Australia, and a year later, it moved to San Francisco after receiving funding from Silicon Valley.  In 2017, it was acquired by Google.  Read more in [Interview with Anthony Goldbloom, CEO of Kaggle.](https://medium.com/implodinggradients/ama-with-anthony-goldbloom-ceo-of-kaggle-the-open-data-science-platform-6a2012538316)
 
 The term “data science” has gradually floated and elevated into the English lexicon over the past decade.  And so, the words “data science” and “kaggle” have become inextricably linked, and many in the data science community contemplate and debate the utility of the platform:  *Is Kaggle... useful?*
-
+<a   style="color:blue; font:italic">Is Kaggle... useful?</a>
 
 # My Initial Thoughts on Kaggle
 Like many people, I had some preconceived notions about Kaggle competitions.  I had heard about them for several years, and these were my thoughts:  
