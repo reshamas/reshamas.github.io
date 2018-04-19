@@ -55,7 +55,7 @@ All throughout the data science community, you will hear references to datasets.
 Despite the fact that the dataset is provided, there remains the requirement to understand the data and the evaluation metrics.  Contrary to popular belief, there is still "dirty data" which requires further investigation.  Digging deeper into misclassified items begets adjustments to the algorithm.  
 
 ### Portfolio Segment
-It is true, doing one Kaggle competition does not guarantee that you will be a data scientist.  Neither does taking one class or attending one conference tutorial or analyzing one dataset or reading one book in data science.  Working on competition(s) adds to your experience and augments your portfolio.  It is a complement to your other projects, not the sole litmus test of one's data science skillset. 
+It is true, doing one Kaggle competition does not qualify someone to be a data scientist.  Neither does taking one class or attending one conference tutorial or analyzing one dataset or reading one book in data science.  Working on competition(s) adds to your experience and augments your portfolio.  It is a complement to your other projects, not the sole litmus test of one's data science skillset. 
 
 ### Having Fun
 Often, people are unsure whether to pursue a career in data science.  Participating in a competition is a great way to gauge your experience.  If you really enjoy the process of Kaggle, it will point you more clearly in the right direction.  If you prefer to spend your time doing something else, that is all right too; it is one way to find out. 
