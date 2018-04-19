@@ -19,6 +19,9 @@ Like many people, I had some preconceived notions about Kaggle competitions.  I 
 ## My First Kaggle Competition
 After years of resistance, I participated in my first Kaggle competition recently, [Is it a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge).  I wrote a post [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/) of my experience.  
 
+<a href="https://reshamas.github.io/my-first-kaggle-competition/" style="color:red">My First Kaggle Competition</a>
+
+
 <img src="../assets/images/kaggle_iceberg.png" align="center"  >  
 
 
