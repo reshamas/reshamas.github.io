@@ -84,7 +84,7 @@ Kaggle has a Slack team:  [KaggleNoobs slack channel](http://kagglenoobs.herokua
 - Note that it is best to have separate teams on Kaggle so you can each make the maximum daily submissions of results, but merge teams later towards the end
 
 ## Conclusion
-I would encourage data scientists to participate in at least one competition.  There’s a difference in having opinion on something you have tried versus not.  Kaggle is evolving, like everything, especially since its acquisition by Google.  Check back periodically and see what is new.
+I think it is worthwhile to participate in at least one competition.  There is a difference in having opinion on something you have tried versus not.  Kaggle is evolving, like everything, especially since its acquisition by Google.  Check back periodically and see what is new.
 
 ## It Doesn’t Have to be Kaggle 
 While Kaggle is the most well-known platform, there are many other opportunities to participate in competitions:
