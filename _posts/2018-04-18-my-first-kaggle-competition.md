@@ -41,6 +41,9 @@ Tmux stands for "terminal multiplexer" which lets you switch easily between seve
 
 I have written up [tmux instructions](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/tmux.md) for easy reference.  
 
+<img src="../assets/images/tmux_panes.png" align="center"  height="500" width="750" >  
+
+
 ### Git
 We wanted to ensure that our code was backed up on GitHub at [reshamas/kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg).  I was familiar with Git through my prior experience, and I have provided useful notes for the Git beginner here [git-intro-workshop8-datanauts](https://github.com/reshamas/git-intro-workshop8-datanauts).
 
