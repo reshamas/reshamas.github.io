@@ -23,7 +23,7 @@ After years of resistance, I participated in my first Kaggle competition recentl
 
 
 ## Kaggle Competitions and the NYC Marathon
-What I discovered is that Kaggle competitions are a lot like the NYC marathon.  <a   style="color:orange">Most people participate for the journey, not for winning first place. </a>
+What I discovered is that Kaggle competitions are a lot like the NYC marathon.  <a   style="color:blue">Most people participate for the journey, not for winning first place. </a>
 
 ## Verdict:  Yes to Kaggle
 I would say "yes", there is value in doing a Kaggle competition, either for the beginner or seasoned data scientist.  Here are the many reasons why.
