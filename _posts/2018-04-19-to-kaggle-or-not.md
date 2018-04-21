@@ -6,7 +6,7 @@ The term “data science” has gradually floated and elevated into the English 
 
 ## My Initial Thoughts on Kaggle
 Like many people, I had some preconceived notions about Kaggle competitions.  I had heard about them for several years, and these were my thoughts or opinions from others in the field:  
-- I had heard the legend that retired PhD’s with decades of experience were the ones winning the Kaggle comps.  <a   style="color:gray; font:italic"><i>(I had often wondered if these geniuses were on a beach with clear turquoise water and flawless wifi access or in a dusty, dark, cluttered office</i></a>
+- I had heard the legend that retired PhD’s with decades of experience were the ones winning the Kaggle comps.  <a   style="color:gray; font:italic"><i>(I had often wondered if these geniuses were on a beach with clear turquoise water and flawless wifi access or in a dusty, dark, cluttered office)</i></a>
 - I had close to zero chance of winning
 - Would I really learn something of value?
 - What is the point of investing time to improve accuracy by 0.01 points?
