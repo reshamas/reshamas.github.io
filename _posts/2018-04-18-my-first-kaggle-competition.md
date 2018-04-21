@@ -14,9 +14,12 @@ We chose this competition for a few reasons:
 - it was an active competition at the time
 - the dataset size was manageable (~1300 images in the training dataset, with 4 features)
 
-There are kernels available to start the analysis.  However, we were unable to run GPU on the kernels, so we went to [AWS GPU](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md) to do our work.  We set up the cloud machine, downloaded the data, ran a neural network and submitted our first results within one Saturday afternoon.  
+There are kernels available to start the analysis.  However, we were unable to run GPU on the kernels, so we went to AWS to do our work.  We set up the cloud machine, downloaded the data, ran a neural network and submitted our first results within one Saturday afternoon.  
 
 ## What I Learned:  Dev Ops Tools
+
+### Cloud Computing
+Fastai created a public template for users.  There are detailed instructions in this [Set up AWS](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md) document.
 
 ### Logging into AWS
 There is a routine process when using AWS such as:
@@ -66,7 +69,9 @@ Accuracy is a metric generally used to evaluate model performance.  However, Kag
 - log loss provides more detail on how close the predicted is to actual.  For example, if a prediction for an image is 0.45 (while classified corrrectly), it is less precise than if the prediction was 0.05.  That indicates our model could be improved.  
 
 ### Hyperparameters
-As someone with a background in statistics, I really enjoyed tuning the hyperparameters.  I played with various architectures, batch sizes, learning rates, epochs and image sizes to obtain optimal results, that is minimum log loss.
+Since this competition is image analysis, we used state of the art, which is convolutional neural networks (CNN).  We began with the resnet18 architecture which was a *simple* architecture; another benefit to using it was that is was in one of the kernels which helped us to establish a baseline.  After the baseline was confirmed, we moved on to resnet34 and resnext50, which we covered in the fastai course.  I also tried a more advanced architecture, nasnet, which did not work at the time since it had not been fully incorporated into the fastai library at the time.
+
+Once we As someone with a background in statistics, I really enjoyed tuning the hyperparameters.  I played with various architectures, batch sizes, learning rates, epochs and image sizes to obtain optimal results which is to minimize log loss.
 
 ## Submitting Results
 When we first [submitted results](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/submissions?sortBy=date&group=all&page=1), we were way off.  It turned out there were errors in how we created our submission file.  We fixed it and saw our results more in alignment with others on the [leaderboard](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/leaderboard).
