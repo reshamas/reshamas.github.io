@@ -19,7 +19,7 @@ There are kernels available to start the analysis.  However, we were unable to r
 ## What I Learned:  Dev Ops Tools
 
 ### Cloud Computing
-Fastai created a public template for users.  There are detailed instructions in this [Set up AWS](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md) document.
+Fastai created a public template for users.  There are detailed instructions in this [Set up AWS GPU](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/aws_ami_gpu_setup.md) document for getting started.  
 
 ### Logging into AWS
 There is a routine process when using AWS such as:
