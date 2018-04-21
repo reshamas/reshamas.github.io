@@ -73,7 +73,7 @@ There are kernels, which is code in Jupyter Notebooks that others have shared.  
 Each competition has a discussion board for asking questions and upvoting kernels and topics.
 
 #### Slack
-Kaggle has a Slack team:  [KaggleNoobs slack channel](http://kagglenoobs.herokuapp.com).  There are almost 4000 members, and there is a channel for AMA(Ask Me Anything), where they regularly interview Kaggle participants.  
+Kaggle has a Slack team:  [KaggleNoobs slack channel](http://kagglenoobs.herokuapp.com).  There are almost 4000 members, and there is a channel for AMA(Ask Me Anything), where they regularly interview Kaggle participants and winners. 
 
 ### Choices
 - You can participate in competitions that have closed.  Keep in mind, it is about the learning, not the end result.  
