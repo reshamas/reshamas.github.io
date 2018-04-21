@@ -19,11 +19,9 @@ comments: false
 * [12th Annual Machine Learning Symposium, NYAS](https://www.nyas.org/events/2018/12th-annual-machine-learning-symposium/) (March, NYC)
   - [keynote livestreams](https://livestream.com/newyorkacademyofsciences)
 
-* [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) (March, Stanford University) 
+* [Women in Data Science (WiDS)](http://www.widsconference.org/about1.html) (March, Stanford University) 
   - [WiDS 2018 playlist](https://www.youtube.com/playlist?list=PLn62CdVLnT-ehGV9_cv1VX2SfZI_Suu7r&disable_polymer=true)
   
-* [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ny) (Feb, NYC)
-
 ## Conference Videos for 2017
 * [H2O World](http://h2oworld.h2o.ai) (December, Mountainview, CA)
   - [videos](https://www.youtube.com/playlist?list=PLNtMya54qvOHQs2ZmV-pPSW_etMUykE0_) and [slides](https://www.slideshare.net/0xdata/presentations)
