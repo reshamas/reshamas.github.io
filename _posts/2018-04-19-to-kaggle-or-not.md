@@ -39,6 +39,7 @@ For the beginner, there is lots to learn:
 - Understanding the evaluation metrics
 - Use dev ops skills:  Git, cloud computing 
 - Practice
+- Kaggle offers some free interactive [tutorials](https://www.kaggle.com/learn/overview)
 
 For the experienced practitioner, there is always more to learn:
 - The structured ecosystem allows for people with more advanced statistical skills to focus on that
