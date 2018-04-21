@@ -71,7 +71,7 @@ Accuracy is a metric generally used to evaluate model performance.  However, Kag
 ### Hyperparameters
 Since this competition is image analysis, we used convolutional neural networks (CNN) which is state of art.  We began with the resnet18 architecture which was a simple architecture; another benefit was its presence in one of the kernels which helped us to establish a baseline.  After the baseline was confirmed, we moved on to resnet34 and resnext50, which were introduced in the fastai course.  I also tried a more advanced architecture, nasnet, which did not work since it had not been fully incorporated into the fastai library at the time.
 
-As someone with a background in statistics, I really enjoyed tuning the hyperparameters.  I played with various architectures, batch sizes, cyclical learning rates, epochs and image sizes to obtain optimal results which is to minimize log loss.
+As someone with a background in statistics, my favorite step was of the competition was tuning the hyperparameters.  I played with various architectures, batch sizes, cyclical learning rates, epochs and image sizes to obtain optimal results which is to minimize log loss.
 
 ## Submitting Results
 When we first [submitted results](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/submissions?sortBy=date&group=all&page=1), we were way off.  It turned out there were errors in how we created our submission file.  We fixed it and saw our results more in alignment with others on the [leaderboard](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/leaderboard).
