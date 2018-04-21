@@ -10,10 +10,10 @@ Like many people, I had some preconceived notions about Kaggle competitions.  I 
 - I had close to zero chance of winning
 - Would I really learn something of value?
 - What is the point of investing time to improve accuracy by 0.01 points?
-- Is it really the best use of my time?  Ought I not invest the time learning another, more valuable, data science skill?
+- Is it really the *best use* of my time?  Ought I not invest the time learning another, more valuable, data science skill?
 - The winners have to use complex ensemble methods
 - The data is artificially clean, and that is unrealistic
-- Doing one Kaggle competition isn’t going to make me a qualified data scientist, so why bother?
+- Doing one Kaggle competition will not make me a qualified data scientist, so why bother?
 - I am not sure where to begin...
 
 ## My First Kaggle Competition
