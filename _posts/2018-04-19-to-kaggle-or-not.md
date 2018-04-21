@@ -90,13 +90,11 @@ I think it is worthwhile to participate in at least one competition.  There is a
 While Kaggle is the most well-known platform, there are many other opportunities to participate in competitions:
 - many university analytics departments have an annual competition
 - conferences often have competitions or what are called "tasks"
-- private companies sponsor their own competition
+- private companies sponsor their own competitions
 
 Here is a sample list of other [data science competitions](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/notes/competitions.md).  Spending some time with google search will produce more recent and active opportunities.  
 
 ## References
-
-[The Beginner’s Guide to Kaggle](https://elitedatascience.com/beginner-kaggle), 2017
 
 [ Interview with Jeremy Howard on Deep Learning, Kaggle, Data Science, and more](https://www.kdnuggets.com/2017/01/exclusive-interview-jeremy-howard-deep-learning-kaggle-data-science.html), 2017
 
