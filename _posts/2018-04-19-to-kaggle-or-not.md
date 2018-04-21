@@ -77,7 +77,7 @@ Kaggle has a Slack team:  [KaggleNoobs slack channel](http://kagglenoobs.herokua
 
 ### Choices
 - You can participate in competitions that have closed.  Keep in mind, it is about the learning, not the end result.  
-- There are a variety of topics (random forests, multi-class, neural networks, NLP) and types of datasets (image analysis, structured data, NLP, big data)
+- There are a variety of topics (random forests, multi-class, neural networks, NLP) and types of datasets (images, structured data, text, big data)
 
 ### Partner with Someone
 - Whether you are a beginner or experienced in data science, work with someone
