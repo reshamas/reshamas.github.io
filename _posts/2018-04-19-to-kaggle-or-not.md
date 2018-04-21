@@ -40,7 +40,7 @@ For the beginner, there is lots to learn:
 - Use dev ops skills:  Git, cloud computing 
 - Practice
 
-For the experienced pactitioner, there is always more to learn:
+For the experienced practitioner, there is always more to learn:
 - The structured ecosystem allows for people with more advanced statistical skills to focus on that
 - Explore hyperparameters more deeply
 - Focus on state of the art and emerging methodologies
