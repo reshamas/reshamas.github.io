@@ -29,7 +29,7 @@ What I discovered is that Kaggle competitions are a lot like the NYC marathon.  
 I would say "yes", there is value in doing a Kaggle competition, either for the beginner or seasoned data scientist.  Here are the many reasons why.
 
 ### Benchmark
-There are benefits to acquiring your own datasets or scraping the web.  The downside to that is there is no benchmark, no way to compare your findings.  There is the possibility of significant errors, and no one would know because there is no validation.  Kaggle competitions provide a platform for "checking your work."
+While there are learning benefits to acquiring your own datasets or scraping the web, the downside to that is there is no benchmark, no way to compare your findings.  There is the possibility of significant errors, and no one would know because there is no validation being performed.  Kaggle competitions provide a platform for "checking your work."
 
 ### For All Levels, There is Learning
 For the beginner, there is lots to learn:
@@ -50,7 +50,7 @@ For the experienced pactitioner, there is always more to learn:
 
 
 ### Data 
-All throughout the data science community, you will hear references to datasets.  You will become familiar with the other popular datasets to which other learning platforms and conference speakers refer.
+All throughout the data science community, you will hear references to datasets.  You will become familiar with popular datasets to which other learning platforms and conference speakers refer.
 
 Despite the fact that the dataset is provided, there remains the requirement to understand the data and the evaluation metrics.  Contrary to popular belief, there is still "dirty data" which requires further investigation.  Digging deeper into misclassified items begets adjustments to the algorithm.  
 
@@ -58,7 +58,7 @@ Despite the fact that the dataset is provided, there remains the requirement to 
 It is true, doing one Kaggle competition does not qualify someone to be a data scientist.  Neither does taking one class or attending one conference tutorial or analyzing one dataset or reading one book in data science.  Working on competition(s) adds to your experience and augments your portfolio.  It is a complement to your other projects, not the sole litmus test of one's data science skillset. 
 
 ### Having Fun
-Often, people are unsure whether to pursue a career in data science.  Participating in a competition is a great way to gauge your experience.  If you really enjoy the process of Kaggle, it will point you more clearly in the right direction.  If you prefer to spend your time doing something else, that is all right too; it is one way to find out. 
+Often, people are unsure whether to pursue a career in data science.  Participating in a competition is one informative way to gauge your abilities and excitement.  If you truly enjoy the process of Kaggle, it will point you more clearly in the right direction.  If you prefer to spend your time doing something else, that is all right too; it is one way to find out. 
 
 
 ## Getting Started with Kaggle
