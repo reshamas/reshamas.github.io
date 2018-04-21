@@ -20,7 +20,7 @@ comments: false
   - [keynote livestreams](https://livestream.com/newyorkacademyofsciences)
 
 * [Women in Data Science (WiDS) Conference](http://www.widsconference.org/about1.html) (March, Stanford University) 
-  - [WiDS 2018 playlist](https://www.youtube.com/playlist?list=PLn62CdVLnT-ehGV9_cv1VX2SfZI_Suu7r&disable_polymer=true
+  - [WiDS 2018 playlist](https://www.youtube.com/playlist?list=PLn62CdVLnT-ehGV9_cv1VX2SfZI_Suu7r&disable_polymer=true)
   
 * [O'Reilly Software Architecture Conference](https://conferences.oreilly.com/software-architecture/sa-ny) (Feb, NYC)
 
