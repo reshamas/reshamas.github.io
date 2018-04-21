@@ -55,7 +55,7 @@ I learned of some shortcuts for Jupyter Notebook from the fastai lectures and wr
 
 ## What I Learned:  Data / Algorithm Knowledge
 
-### Domain Knowledge:  Understanding Data
+### Domain Knowledge:  Understanding the Data
 It took some time to explore the data.  Differentiating between dogs and cats is one thing.  But separating the satellite images of icebergs and ships was visually challenging.  
 
 <img src="../assets/images/ship_iceberg.png" align="center"    >  
