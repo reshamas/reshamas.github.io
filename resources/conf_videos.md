@@ -1,3 +1,10 @@
+---
+layout: single
+title: Conference Videos
+tags: 
+comments: false
+---
+
 ## Conference Videos for 2018
 
 <a href="http://en.wikipedia.org/wiki/Petersen_graph">Petersen Graph</a>
