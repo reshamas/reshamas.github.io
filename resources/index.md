@@ -31,8 +31,11 @@ comments: false
 * [fast.ai Practical Deep Learning For Coders MOOC](http://forums.fast.ai)
 * [Kaggle Noobs](http://kagglenoobs.herokuapp.com)
 
-## Slack Teams for Women
+---
+## Slack Teams for * Women *
 * [PyLadies](http://slackin.pyladies.com)
+* R-Ladies:  send an email to nyc@rladies.org to request your invite
+* WiMLDS:  email slack@wimlds.org for invite link
 
 ## Women in Data Science / ML
 * twitter list of 1400+ [Women in DS](https://twitter.com/BecomingDataSci/lists/women-in-data-science)
