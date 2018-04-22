@@ -9,7 +9,7 @@ comments: false
 
 <a href="http://en.wikipedia.org/wiki/Petersen_graph">Petersen Graph</a>
 
-<a href="http://en.wikipedia.org/wiki/Petersen_graph">Petersen Graph</a>
+<a href="ds_learning">dslearning</a>
 
 
 * [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect) (March, Mountainview, CA)
