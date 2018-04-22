@@ -7,12 +7,6 @@ comments: false
 
 ## Conference Videos for 2018
 
-<a href="http://en.wikipedia.org/wiki/Petersen_graph">Petersen Graph</a>
-
-<a href="ds_learning">dslearning</a>
-
-[ds stuff](ds_learning.md)
-
 * [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect) (March, Mountainview, CA)
   - [videos](https://www.youtube.com/watch?v=iq0GQy4-0XY&list=PLAwxTw4SYaPnx-iemVLvedeuc2pUazOUj)
   
