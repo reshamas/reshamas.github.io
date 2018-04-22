@@ -5,7 +5,7 @@ tags:
 comments: false
 ---
 
-Here is a wonderfully valuable list of my favorite data science resources.
+Here is a wonderfully valuable list of my favorite data science resources.  If you would like to see a resource added, email me at `rs2715@stern.nyu.edu`
 
 ## Conference Videos
 * [links to videos from data science conferences](conf_videos.md)
