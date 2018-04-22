@@ -11,3 +11,6 @@ comments: false
 
 ### [Learning Data Science](ds_learning.md)
 * useful links to begin learning data science
+
+### [Data Science / Machine Learning Podcasts](https://github.com/rShetty/awesome-podcasts#data-sciencemachine-learning)
+* list of podcasts which are helpful for software engineers/programmers
