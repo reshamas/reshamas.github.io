@@ -5,6 +5,7 @@ tags:
 comments: false
 ---
 
+Here is a wonderfully valuable list of my favorite data science resources.
 
 ## Conference Videos
 * [links to videos from data science conferences](conf_videos.md)
