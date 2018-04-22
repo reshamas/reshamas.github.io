@@ -35,8 +35,8 @@ I wanted to share this list of my favorite data science resources.  If you would
 ---
 ## Slack Teams for * Women *
 * [PyLadies](http://slackin.pyladies.com)
-* R-Ladies:  send an email to nyc@rladies.org to request your invite
-* WiMLDS:  email slack@wimlds.org for invite link
+* R-Ladies:  send an email to `nyc@rladies.org` to request your invite
+* WiMLDS:  email `slack@wimlds.org` for invite link
 
 ## Women in Data Science / ML
 * twitter list of 1400+ [Women in DS](https://twitter.com/BecomingDataSci/lists/women-in-data-science)
