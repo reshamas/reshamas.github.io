@@ -1,8 +1,8 @@
 ---
-layout: double
+layout: single
 title: Data Science Resources
 tags: 
-comments: false
+comments: true
 ---
 
 ### Beginner
