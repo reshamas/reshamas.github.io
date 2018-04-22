@@ -27,9 +27,9 @@ comments: false
 * [Towards Data Science](https://towardsdatascience.com)
 * [Cathy O'Neil](https://mathbabe.org)
 
-## Slack / Discourse Teams
+## Slack / Discourse Public Teams
 * [fast.ai Practical Deep Learning For Coders MOOC](http://forums.fast.ai)
-* [Join Kaggle Noobs](http://kagglenoobs.herokuapp.com)
+* [Kaggle Noobs](http://kagglenoobs.herokuapp.com)
 
 ## Women in Data Science / ML
 * twitter list of 1400+ [Women in DS](https://twitter.com/BecomingDataSci/lists/women-in-data-science)
