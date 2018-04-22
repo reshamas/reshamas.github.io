@@ -74,7 +74,7 @@ Since this competition is image analysis, we used convolutional neural networks 
 With my background in statistics, my favorite step of the competition was tuning the hyperparameters.  I played with various architectures, batch sizes, cyclical learning rates, epochs and image sizes to obtain optimal results which is to minimize log loss.
 
 ## Submitting Results
-When we first [submitted results](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/submissions?sortBy=date&group=all&page=1), we were way off.  It turned out there were errors in how we created our submission file.  We fixed it and saw our results more in alignment with others on the [leaderboard](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/leaderboard).
+When we first submitted results, we were way off.  It turned out there were errors in how we created our submission file.  We fixed it and saw our results more in alignment with others on the [leaderboard](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/leaderboard).
 
 ### Rankings
 It was exciting and encouraging to see our rankings increase as we became more familiar with the data and tried various hyperparameters.
