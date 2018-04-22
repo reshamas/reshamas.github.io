@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: double
 title: Data Science Resources
 tags: 
 comments: false
