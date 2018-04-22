@@ -7,7 +7,7 @@ comments: false
 
 
 ## Conference Videos
-* [links to videos from data science conferences]((conf_videos.md))
+* [links to videos from data science conferences](conf_videos.md)
 
 ## Twitter
 * subscribe to this curated list of [Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists/members)
