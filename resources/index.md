@@ -20,7 +20,7 @@ comments: false
 
 ## Favorite Blogs
 * [KD Nuggets](https://www.kdnuggets.com)
-* [Fastai Blog Posts (by Rachel Thomas & Jeremy Howard)](http://www.fast.ai/topics/)
+* [fastai (by Rachel Thomas & Jeremy Howard)](http://www.fast.ai/topics/)
 * [Towards Data Science](https://towardsdatascience.com)
 * [Cathy O'Neil](https://mathbabe.org)
 
