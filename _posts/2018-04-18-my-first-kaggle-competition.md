@@ -7,7 +7,7 @@ I watched the videos and took notes studiously, but it was not until the course 
 ## My First Kaggle Competition
 
 I found a teammate in NYC who was interested, and we worked on the [Statoil/C-CORE Iceberg Classifier Challenge
- | Ship or iceberg, can you decide from space.](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)  Our GitHub repository is [kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg).  
+ | Ship or iceberg, can you decide from space.](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)  
  
 We chose this competition for a few reasons:
 - image data (we wanted to use the [fastai](https://github.com/fastai/fastai) deep learning library)
@@ -15,6 +15,9 @@ We chose this competition for a few reasons:
 - the dataset size was manageable (~1300 images in the training dataset, with 4 features)
 
 There are kernels available to start the analysis.  However, we were unable to run GPU on the kernels, so we went to AWS to do our work.  We set up the cloud machine, downloaded the data, ran a neural network and submitted our first results within one Saturday afternoon.  
+
+## GitHub Project Repository
+Our GitHub repository is [kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg).  
 
 ## What I Learned:  Dev Ops Tools
 
