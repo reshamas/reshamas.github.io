@@ -28,7 +28,7 @@ comments: false
 * [Cathy O'Neil](https://mathbabe.org)
 
 ## Slack / Discourse Public Teams
-* [fast.ai Practical Deep Learning For Coders MOOC](http://forums.fast.ai)
+* [Discourse fast.ai](http://forums.fast.ai) Practical Deep Learning For Coders MOOC
 * [Kaggle Noobs](http://kagglenoobs.herokuapp.com)
 
 ---
