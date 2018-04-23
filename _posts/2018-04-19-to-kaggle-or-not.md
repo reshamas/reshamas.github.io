@@ -46,7 +46,8 @@ For the experienced practitioner, there is always more to learn:
 - Explore hyperparameters more deeply
 - Focus on state of the art and emerging methodologies
 - Post-competition analysis of winner entries
-- Using cloud computing for large datasets or GPU 
+- Managing with very large datasets (1 million records or more)
+- Setting up GPU-enabled machine for deep learning
 - Use deep learning and compare results to traditionally used algorithms
 
 
