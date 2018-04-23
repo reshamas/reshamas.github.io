@@ -5,5 +5,13 @@ tags:
 comments: false
 ---
 
-### Beginner
+## Beginner Data Science
 [Data Science Learning Plan](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
+
+## Python Tutorials
+- [CodeCademy](https://www.codecademy.com)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/python3/)
+- [HackerRank](https://www.hackerrank.com/domains/python)
+- [PyCharm](https://www.jetbrains.com/pycharm-edu/)
+- [Automate the Boring Stuff](https://automatetheboringstuff.com)
+- [Free Code Camp](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
