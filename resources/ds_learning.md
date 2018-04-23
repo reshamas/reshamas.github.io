@@ -17,8 +17,8 @@ comments: false
 - [Free Code Camp](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 
 ## [My Curated Data Science Resources](https://github.com/reshamas/ds_resources)
-- [Cheat Sheets]
-- [Markdown]
-- [Pandas]
-- [Shell Terminals]
-- [Unix]
+- Cheat Sheets
+- Markdown
+- Pandas
+- Shell Terminals
+- Unix
