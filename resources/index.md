@@ -7,8 +7,12 @@ comments: false
 
 I wanted to share this list of my favorite data science resources.  If you would like to see a resource added, email me at `rs2715@stern.nyu.edu`
 
-## Conference Videos
+## Conference 
+### Videos
 * [links to videos from data science conferences](conf_videos.md)
+
+### Conference Listings
+- [list of conferences](https://github.com/WiMLDS/conferences)
 
 ## Learning (Python / DS)
 * useful links to begin [learning data science](ds_learning.md)
