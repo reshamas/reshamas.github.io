@@ -83,6 +83,6 @@ When we first submitted results, we were way off.  It turned out there were erro
 It was exciting and encouraging to see our rankings increase as we became more familiar with the data and tried various hyperparameters.
 
 ## Conclusion
-My first Kaggle competition was a lot of fun!  It was enlightening to learn the wide skillset required to getting started.  I was grateful to work with my teammate where we could bounce ideas off of each other.  I am also thankful for the all the guidance that the fastai lectures provided for participating in my first Kaggle competition.  **It was neither easy nor difficult; it was manageable based on my skills and the background that fastai provided. **
+My first Kaggle competition was a lot of fun!  It was enlightening to learn the wide skillset required to getting started.  I was grateful to work with my teammate where we could bounce ideas off of each other.  I am also thankful for the all the guidance that the fastai lectures provided for participating in my first Kaggle competition.  **It was neither easy nor difficult; it was manageable based on my skills and the background that fastai provided.**
 
 
