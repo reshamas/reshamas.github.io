@@ -17,6 +17,7 @@ I wanted to share this list of my favorite data science resources.  If you would
 ## Learning (Python / DS)
 * useful links to begin [learning data science](ds_learning.md)
 * Python tutorials
+* [cheat sheets](https://github.com/reshamas/ds_resources/tree/master/cheat_sheets)
 
 ## Twitter
 * subscribe to this curated list of [Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists/members)
