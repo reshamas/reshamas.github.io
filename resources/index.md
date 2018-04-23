@@ -10,14 +10,12 @@ I wanted to share this list of my favorite data science resources.  If you would
 ## Conference Videos
 * [links to videos from data science conferences](conf_videos.md)
 
+## Learning (Python / DS)
+* useful links to begin [learning data science](ds_learning.md)
+* Python tutorials
+
 ## Twitter
 * subscribe to this curated list of [Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists/members)
-
-## Learning
-* useful links to begin [learning data science](ds_learning.md)
-
-## Competitions
-* [list of competitions / tasks](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/notes/competitions.md)
 
 ## Podcasts
 * [list of Data Science / Machine Learning podcasts](https://github.com/rShetty/awesome-podcasts#data-sciencemachine-learning) and more
@@ -27,6 +25,9 @@ I wanted to share this list of my favorite data science resources.  If you would
 * [fastai (by Rachel Thomas & Jeremy Howard)](http://www.fast.ai/topics/)
 * [Towards Data Science](https://towardsdatascience.com)
 * [Cathy O'Neil](https://mathbabe.org)
+
+## Competitions
+* [list of competitions / tasks](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/notes/competitions.md)
 
 ## Slack / Discourse Public Teams
 * [Discourse fast.ai](http://forums.fast.ai) Practical Deep Learning For Coders MOOC
