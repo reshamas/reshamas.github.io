@@ -14,10 +14,10 @@ I wanted to share this list of my favorite data science resources.  If you would
 ### Conference Listings
 - [list of conferences](https://github.com/WiMLDS/conferences)
 
-## Learning (Python / DS)
-* useful links to begin [learning data science](ds_learning.md)
+## [Learning (Python / DS)](ds_learning.md)
+* useful links to begin learning data science
 * Python tutorials
-* [cheat sheets](https://github.com/reshamas/ds_resources/tree/master/cheat_sheets)
+* cheat sheets
 
 ## Twitter
 * subscribe to this curated list of [Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists/members)
