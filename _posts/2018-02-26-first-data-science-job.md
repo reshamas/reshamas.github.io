@@ -88,7 +88,7 @@ With 12-week bootcamps costing about $16K these days, 2-year university graduate
 
 
 ## Underground Resources
-Almost every meetup group or organization has a community Slack team you can join.  You can find this information in their announcements, join their Slack teams and watch out for the job postings.  
+Almost every meetup group or organization has a community Slack team you can join.  You can find this information in their announcements.  Join their Slack teams and watch out for the job postings.  
 
 Often, at the start of a meetup, attendees will share any job openings at their company.  It's a convenient opportunity to speak to them for more information.  
 
