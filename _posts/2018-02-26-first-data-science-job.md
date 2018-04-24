@@ -92,7 +92,7 @@ Almost every meetup group or organization has a community Slack team you can joi
 
 Often, at the start of a meetup, attendees will share any job openings at their company.  It's a convenient opportunity to speak to them for more information.  
 
-Subscribe to data science newsletters.  Here's a list of [7 awesome data science newsletters to keep you informed](https://www.dataquest.io/blog/data-science-newsletters/).
+Subscribe to data science newsletters.  Here's a list of [Top 75 Data Science Blogs](https://blog.feedspot.com/data_science_blogs/).
 
 **Read your emails.**  Meetup groups and newsletters regularly post job opportunities that are more "real" than the postings that appear in the well known job boards such as LinkedIn, Glassdoor, Indeed, etc. 
 
