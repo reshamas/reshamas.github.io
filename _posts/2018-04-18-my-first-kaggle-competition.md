@@ -74,7 +74,7 @@ Accuracy is a metric generally used to evaluate model performance.  However, Kag
 ### Hyperparameters
 Since this competition is image analysis, we used convolutional neural networks (CNN) which is state of art.  We began with the resnet18 architecture which was a simple architecture; another benefit was its presence in one of the kernels which helped us to establish a baseline.  After the baseline was confirmed, we moved on to resnet34 and resnext50, which were introduced in the fastai course.  I also tried a more advanced architecture, nasnet, which did not work since it had not been fully incorporated into the fastai library at the time.
 
-With my background in statistics, my favorite step of the competition was tuning the hyperparameters.  I played with various architectures, batch sizes, cyclical learning rates, epochs and image sizes to obtain optimal results which is to minimize log loss.  I learned that there are many forms of regularization in deep learning:  
+With my background in statistics, my favorite step of the competition was tuning the hyperparameters.  I played with various architectures, batch sizes, cyclical learning rates, epochs, dropout rate, and image sizes to obtain optimal results which is to minimize log loss.  I learned that there are many forms of regularization in deep learning:  
 - large learning rates
 - small batch sizes
 - weight decay
