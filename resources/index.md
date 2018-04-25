@@ -30,6 +30,7 @@ I wanted to share this list of my favorite data science resources.  If you would
 * [fastai (by Rachel Thomas & Jeremy Howard)](http://www.fast.ai/topics/)
 * [Towards Data Science](https://towardsdatascience.com)
 * [Cathy O'Neil](https://mathbabe.org)
+* [Top 75 Data Science Blogs](https://blog.feedspot.com/data_science_blogs/)
 
 ## Competitions
 * [list of competitions / tasks](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/notes/competitions.md)
