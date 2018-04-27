@@ -84,7 +84,10 @@ With my background in statistics, my favorite step of the competition was tuning
 When we first submitted results, we were way off.  It turned out there were errors in how we created our submission file.  We fixed it and saw our results more in alignment with others on the [leaderboard](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge/leaderboard).
 
 ### Rankings
-It was exciting and encouraging to see our rankings increase as we became more familiar with the data and tried various hyperparameters.
+It was exciting and encouraging to see our rankings increase as we became more familiar with the data and tried various hyperparameters.  
+
+<img src="../assets/images/kaggle_ranking.png" align="center"  >  
+
 
 ## Conclusion
 My first Kaggle competition was a lot of fun!  It was enlightening to learn the wide skillset required to getting started.  I was grateful to work with my teammate where we could bounce ideas off of each other.  I am also thankful for the all the guidance that the fastai lectures provided for participating in my first Kaggle competition.  **It was neither easy nor difficult; it was manageable based on my skills and the background that fastai provided.**
