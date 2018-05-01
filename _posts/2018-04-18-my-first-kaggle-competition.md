@@ -49,7 +49,7 @@ I have written up [tmux instructions](https://github.com/reshamas/fastai_deeplea
 
 
 ### Git
-We wanted to ensure that our code was backed up on GitHub at [reshamas/kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg).  I was familiar with Git through my prior experience, and I have provided useful notes for the Git beginner here [git-intro-workshop8-datanauts](https://github.com/reshamas/git-intro-workshop8-datanauts).
+We wanted to ensure that our code was backed up on GitHub at [reshamas/kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg).  I was familiar with Git through my prior experience, and I have provided useful notes for the Git beginner here [git-intro-workshop](https://github.com/reshamas/git-intro-workshop).
 
 During the competition, the repository was set to private.  Once the competition was complete, we changed the privileges to public.
 
