@@ -35,7 +35,7 @@ There is a routine process when using AWS such as:
 I wrote up notes in [0_login](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/courses/mes_projets/0_login.md) so I could easily reference the steps in the future.
 
 ### Downloading Data
-Since we were working on AWS, it was necessary to load the data to that cloud machine.  Kaggle has a command line interface (CLI) that makes it easy, and I have written up notes in [downloading data from Kaggle](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md).  
+Since we were working on AWS, it was necessary to load the data to that cloud machine.  Kaggle has a command line interface (CLI) that makes it convenient, and I have written up notes in [downloading data from Kaggle](https://github.com/reshamas/fastai_deeplearn_part1/blob/master/tools/download_data_kaggle_cli.md).  
 
 ### Tmux
 Tmux stands for "terminal multiplexer" which lets you switch easily between several programs or windows in one terminal, which is particularly useful when working on a remote machine.  It also:  
