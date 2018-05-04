@@ -34,7 +34,7 @@ Check out the blog by [Rachel Thomas](https://twitter.com/math_rachel) entitled 
 - Public speaking resources
 
 ### [Kaggle Competitions](https://www.kaggle.com/competitions)
-Participating in Kaggle competitions has numerous benefits:  
+[Participating in Kaggle competitions](https://reshamas.github.io/to-kaggle-or-not/) has numerous benefits:  
 - there's a friendly community
 - you can work with others in a team
 - you become familiar with popular datasets
