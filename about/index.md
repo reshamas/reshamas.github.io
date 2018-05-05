@@ -9,7 +9,7 @@ I am a freelance data scientist/statistician and MBA with skills in Python, R an
 
 History
 - born in India
-- grew up in New Jersey
+- grew up in New Jersey, the Garden State
 - living in New York City
 
 Education
