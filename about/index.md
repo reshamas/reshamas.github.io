@@ -22,7 +22,7 @@ What I love, in no particular order
 - yoga
 - reading books:  on leadership, strategy, change management, as well as John Irving
 - the French language
-- watching films
+- watching films, especially Indies
 - writing
 - life in NYC, the subway and all
  
