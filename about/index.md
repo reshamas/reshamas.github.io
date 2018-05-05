@@ -17,7 +17,7 @@ Education
 - MS in statistics from Rutgers University
 - BA in statistics, minor in French, from Rutgers University
 
-What I love
+What I love, in no particular order
 - teaching (Git, and other technical topics too)
 - yoga
 - reading books (on leadership, strategy, change management), as well as John Irving
