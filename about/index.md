@@ -20,7 +20,7 @@ Education
 What I love, in no particular order
 - teaching (Git, and other technical topics too)
 - yoga
-- reading books (on leadership, strategy, change management), as well as John Irving
+- reading books:  on leadership, strategy, change management, as well as John Irving
 - the French language
 - movies
 - writing
