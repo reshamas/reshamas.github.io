@@ -23,6 +23,9 @@ comments: false
 - Shell Terminals
 - Unix
 
+## Machine Learning
+- [How to Learn Machine Learning](https://dhanus.github.io/blog/learn-machine-learning/)
+
 ## Other
 
 https://twitter.com/math_rachel/status/967689690328350720
