@@ -22,3 +22,7 @@ comments: false
 - Pandas
 - Shell Terminals
 - Unix
+
+## Other
+
+https://twitter.com/math_rachel/status/967689690328350720
