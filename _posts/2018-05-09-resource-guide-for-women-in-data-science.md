@@ -232,3 +232,5 @@ This [resource list](https://reshamas.github.io/resources/) includes podcasts, l
 - [No More Excuses – 470 Outstanding Women in Analytics](https://www.kdnuggets.com/2017/12/470-outstanding-women-analytics.html), Meta Brown
 
 - [NumFocus DISC Directory to Increase Diversity & Inclusion](https://www.numfocus.org/blog/directory-increase-diversity-inclusion-notes-disc-unconference)
+
+- photo credit: [What We Learned from the Largest Women Technology Conference in the World](https://actionsprout.com/inside-actionsprout/learned-largest-women-technology-conference-world/)
