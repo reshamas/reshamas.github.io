@@ -1,6 +1,6 @@
 
 ## Diversity 
-These are the stages of the current conversation in diversity:  
+These are the stages of the current conversation on diversity:  
 1.  **What** is diversity?
 2.  **Why** is it important? ([demographic representation](http://www.diversitywoman.com/why-diversity-matters/) & [good for business](https://techcrunch.com/2018/01/18/diverse-teams-are-still-really-good-for-business-mckinsey-says/))
 3.  **Where** to find candidates and make my organization diverse?
