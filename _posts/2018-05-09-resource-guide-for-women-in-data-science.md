@@ -154,7 +154,7 @@ A global champion for the human rights of women and girls.  They use our powerfu
 ### [Girls in Tech](https://girlsintech.org)
 GIT aims to accelerate the growth of innovative women entering into the high-tech industry and building startups through the creation of proprietary, innovative programming and strategic global partnerships.
 
-## Published Lists 
+## Published Lists for Finding Speakers
 Here are curated lists of women in the data sciece and AI space.  This is an excellent reference next time there is a Call for Proposals (CFP) for conferences.
 
 - [Women in Data Science](https://twitter.com/BecomingDataSci/lists/women-in-data-science/members) 
