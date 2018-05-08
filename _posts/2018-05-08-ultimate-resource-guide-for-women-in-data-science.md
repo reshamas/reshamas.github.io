@@ -160,6 +160,7 @@ Here is a curated list of women in the data sciece and AI space.  This is an exc
 - [Organizations Serving Under-represented Groups in Scientific Computing](https://docs.google.com/spreadsheets/d/1mabliZfmuElyQhyzgn3rlaOyG7njVu5HJC45t7RpjPs/edit?usp=sharing), NumFOCUS
 
 - Meta Brown's list of [Outstanding Women in Analytics](https://www.slideshare.net/metabrown/outstanding-women-in-analytics-2017-83016733)
+
 - Meta Brown's list of [Women Who Wrote the Analytics Book](https://www.slideshare.net/metabrown/women-who-wrote-the-analytics-book-2nd-edition-83016736)
 
 - [Onalytica: List of Women in Tech Top Influencers](http://www.onalytica.com/blog/posts/women-tech-hot-topics-top-influencers/) in AI, Fintech, Blockchain, Big Data, IOT, EdTech, MarTech
