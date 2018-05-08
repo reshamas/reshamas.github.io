@@ -10,13 +10,19 @@ The focus of this post is to share a comprehensive list of resources for women i
 
 ## Purpose
 
-There has been extensive research that shows women are [lagging in senior positions](https://research.hackerrank.com/women-in-tech/2018/) and [sexism exists](https://twitter.com/math_rachel/status/897600522722705408) in the workplace.  The good news is that research has shown that networking events for women *do indeed* [move the needle on equality](https://hbr.org/2018/02/do-womens-networking-events-move-the-needle-on-equality).
+There has been extensive research that shows women in the worklace are:
+- [lagging in senior positions](https://research.hackerrank.com/women-in-tech/2018/)
+- [paid inequitably](http://www.businessinsider.com/gender-wage-pay-gap-charts-2017-3#the-number-of-women-promoted-to-the-highest-levels-of-companies-reveals-unconscious-biases-6)
+- [experiencing sexism](https://twitter.com/math_rachel/status/897600522722705408)   
+
+Some positive news is that research has shown that networking events for women *do indeed* [move the needle on equality](https://hbr.org/2018/02/do-womens-networking-events-move-the-needle-on-equality).
 
 This guide was created to provide a resource for women in data science to accomplish the following in a friendly and supportive environment:  
 - networking 
 - building skills, education
 - finding jobs
 - advancing their careers
+- advocating for themselves and others
 
 This resource will also be valuable to **male allies** who seek to diversify their organization, primarily to:   
 - support and amplify women
