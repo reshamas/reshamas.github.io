@@ -208,6 +208,11 @@ You can support any of these organizations by:
 - Donating to their cause
 - Becoming a corporate sponsor
 
+## Data Science Resources
+
+This [resource list] includes podcasts, learning materials and more.
+
+
 ## References
 
 - [Top Five Women Tech Organizations: Building Networks and Bridging the Gap](https://www.huffingtonpost.com/ivo-lukas/women-tech_b_1583348.html)
