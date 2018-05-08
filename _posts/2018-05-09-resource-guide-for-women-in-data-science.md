@@ -8,6 +8,9 @@ These are the stages of the current conversation on diversity:
 
 The focus of this post is to share a comprehensive list of resources for women in data science for the goal of increasing diversity in the workplace.  
 
+
+<img src="../assets/images/grace_hopper.jpg" align="center"> 
+
 ## Purpose
 
 There has been extensive research that shows women in tech are:
@@ -25,12 +28,14 @@ This guide was created to provide a resource for women in data science to accomp
 - advancing their careers
 - advocating for themselves and others
 
+### Male Allies
 This resource will also be valuable to **male allies** who seek to diversify their organization, primarily to:   
 - support and amplify women
 - find women speakers for conferences
 - recruit women candidates for jobs 
 
-<img src="../assets/images/grace_hopper.jpg" align="center"> 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you invite me to speak at your conference, be prepared to get this answer.<br><br>I invite other men to do the same.<a href="https://twitter.com/hashtag/diversity?src=hash&amp;ref_src=twsrc%5Etfw">#diversity</a> <a href="https://twitter.com/hashtag/inclusion?src=hash&amp;ref_src=twsrc%5Etfw">#inclusion</a> <a href="https://t.co/gJlECWOAux">pic.twitter.com/gJlECWOAux</a></p>&mdash; Francesc @ #io18 (@francesc) <a href="https://twitter.com/francesc/status/984500776671240192?ref_src=twsrc%5Etfw">April 12, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Guidelines for Engagement
@@ -175,6 +180,11 @@ Here are curated lists of women in the data sciece and AI space.  This is an exc
 - Meta Brown's list of [285 Women Who Wrote the Analytics Book](https://www.slideshare.net/metabrown/women-who-wrote-the-analytics-book-2nd-edition-83016736)
 
 - Onalytica [List of Women in Tech Top Influencers](http://www.onalytica.com/blog/posts/women-tech-hot-topics-top-influencers/) in AI, Fintech, Blockchain, Big Data, IOT, EdTech, MarTech
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">45% of speakers are female 👍🏼<a href="https://twitter.com/NumFOCUS?ref_src=twsrc%5Etfw">@NumFOCUS</a> <a href="https://twitter.com/wimlds?ref_src=twsrc%5Etfw">@wimlds</a> <a href="https://twitter.com/hashtag/diversityawards?src=hash&amp;ref_src=twsrc%5Etfw">#diversityawards</a> <a href="https://twitter.com/hashtag/rstatsnyc?src=hash&amp;ref_src=twsrc%5Etfw">#rstatsnyc</a> <a href="https://t.co/UNbqBESRa4">https://t.co/UNbqBESRa4</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/987384241070616576?ref_src=twsrc%5Etfw">April 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 
