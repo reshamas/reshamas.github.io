@@ -223,7 +223,7 @@ The core model is educating and supporting the next generation of diverse leader
 
 You can support any of these organizations by:  
 - Subscribing to their newsletters
-- Be informed of their mission and projects
+- Becoming familiar with their mission and projects
 - Sharing their mission and projects with others
 - Building a relationship with the organizations
 - Participating in events and networking
