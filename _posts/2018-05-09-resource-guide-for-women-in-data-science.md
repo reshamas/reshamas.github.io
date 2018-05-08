@@ -193,6 +193,10 @@ Here are some examples of how to bring visibility to women in the data space:
 <p><iframe width="460" height="215" src="https://www.youtube.com/embed/y2udE5N4l_4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
 <table width="100%">
  
+ 
+ 
+
+
 ## For Pre-college Students
 
 Roadblocks to gender parity are present early in women's education.  Here are some groups who are impacting the participation and retention of young women prior to college.  
