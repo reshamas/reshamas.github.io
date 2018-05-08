@@ -2,7 +2,7 @@
 ## Diversity 
 These are the stages of the current conversation in diversity:  
 1.  **What** is diversity?
-2.  **Why** is it important? ([demographic representation](http://www.diversitywoman.com/why-diversity-matters/) & [good for business](https://techcrunch.com/2018/01/18/diverse-teams-are-still-really-good-for-business-mckinsey-says/) )
+2.  **Why** is it important? ([demographic representation](http://www.diversitywoman.com/why-diversity-matters/) & [good for business](https://techcrunch.com/2018/01/18/diverse-teams-are-still-really-good-for-business-mckinsey-says/))
 3.  **Where** to find candidates and make my organization diverse?
 4.  **How** to [retain employees](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) from underrepresented groups?
 
@@ -22,7 +22,7 @@ This resource will also be valuable to **male allies** who seek to diversify the
 - recruit women candidates for jobs 
 
 ## Guidelines for Engagement
-Prior to joining any of the organizations or attending any events, it is imperative to become familiar with these two details:  
+Prior to joining any of the organizations or attending any events, it is imperative to become familiar with these details:  
 - **Mission:**  read the mission statement of the organization
 - **Code of Conduct (CoC):**  read the CoC of the organization
 - **Membership:**  some of the organizations are open to women and non-binary. Others are open to male allies.  Read their mission statement before joining.  
