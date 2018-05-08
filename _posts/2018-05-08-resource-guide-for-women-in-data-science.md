@@ -144,7 +144,7 @@ A global champion for the human rights of women and girls.  They use our powerfu
 GIT aims to accelerate the growth of innovative women entering into the high-tech industry and building startups through the creation of proprietary, innovative programming and strategic global partnerships.
 
 ## Published Lists 
-Here is a curated list of women in the data sciece and AI space.  This is an excellent reference next time there is a Call for Proposals (CFP) for conferences.
+Here are curated lists of women in the data sciece and AI space.  This is an excellent reference next time there is a Call for Proposals (CFP) for conferences.
 
 - [Women in Data Science](https://twitter.com/BecomingDataSci/lists/women-in-data-science/members) 
    - you can subscribe to this twitter list  which has 1400+ women members
@@ -196,7 +196,7 @@ The core model is educating and supporting the next generation of diverse leader
 
 ## Supporting Organizations
 
-Support these organizations by:  
+You can support any of these organizations by:  
 - Subscribing to their newsletters and keeping up with their mission and projects
 - Sharing their mission and projects with others
 - Building a relationship with the organizations
