@@ -41,7 +41,7 @@ Here is a list of conferences organized by and for women, with women speakers in
 - 2018 conference was Mar 15 in Columbus, Ohio
 - twitter hashtag:  #WIA2018
 
-### [Write / Speak / Code](http://www.writespeakcode.com/2018/index.html)
+### [Write/Speak/Code](http://www.writespeakcode.com/2018/index.html)
 - 2018 conference is Aug 1-4 in New York, NY
 
 ### [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/)
@@ -89,7 +89,7 @@ If there is not a local chapter, consider starting one and enlist the aid of oth
 | [Women in Machine Learning & Data Science](http://wimlds.org) | [@wimlds](https://twitter.com/wimlds)   |
 | [Women in Tech Summit](https://womenintechsummit.net) | [@WomenTechSummit](https://twitter.com/WomenTechSummit)  |
 | [Women Who Code](https://www.womenwhocode.com) | [@WomenWhoCode](https://twitter.com/womenwhocode)   |
-| [Write Speak Code](https://www.writespeakcode.com) | [@WriteSpeakCode](https://twitter.com/WriteSpeakCode)  |
+| [Write/Speak/Code](https://www.writespeakcode.com) | [@WriteSpeakCode](https://twitter.com/WriteSpeakCode)  |
 
 ### Diversity & Inclusion Groups
 
