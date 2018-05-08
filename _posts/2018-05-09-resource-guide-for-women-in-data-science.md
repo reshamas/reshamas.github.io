@@ -61,7 +61,7 @@ Here is a list of conferences organized by and for women, with women speakers in
 Below are various groups in the data space.  You can participate by:
 - subscribing to their newsletters
 - joining a local chaper
-- attending their events
+- attending their talks and workshops (where applicable: hackathons, conferences)
 - volunteering your time 
 
 If there is not a local chapter, consider starting one and enlist the aid of others.  
