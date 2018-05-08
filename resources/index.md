@@ -19,6 +19,9 @@ Here is a list of my favorite data science resources.  If you would like to see 
 * Python tutorials
 * cheat sheets
 
+## Deep Learning
+* [fastai MOOC notes](https://github.com/reshamas/fastai_deeplearn_part1)
+
 ## Twitter
 * subscribe to this curated list of [Notable Data Scientists](https://twitter.com/reshamas/lists/notable-data-scientists/members)
 
