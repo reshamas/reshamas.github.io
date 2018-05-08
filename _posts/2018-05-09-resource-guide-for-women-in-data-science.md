@@ -184,9 +184,12 @@ Here are some examples of how to bring visibility to women in the data space:
 
 
 
-## For High School Students
+## For Pre-college Students
 
-Roadblocks to gender parity are present early in women's education.  Here are two groups who are impacting the participation and retention of young women at the high school level.  
+Roadblocks to gender parity are present early in women's education.  Here are some groups who are impacting the participation and retention of young women prior to college.  
+
+### [CoderDojo](https://coderdojo.com)
+A global network of free, volunteer-led, community-based programming clubs for young people. Anyone aged seven to seventeen can visit a Dojo where they can learn to code, build a website, create an app or a game, and explore technology in an informal, creative, and social environment.
 
 ### [Girls Who Code](https://girlswhocode.com/about-us/)
 Girls Who Code was founded by with the mission to close the gender gap in technology.
