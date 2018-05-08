@@ -185,7 +185,10 @@ Here are some examples of how to bring visibility to women in the data space:
 - Amstat News: [Celebrating Women in Statistics](http://magazine.amstat.org/blog/2018/03/01/wis/)
 - KD Nuggets: [Inspiring Women In Data](https://www.kdnuggets.com/2018/03/inspiring-women-ai-big-data-science.html)
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Aren&#39;t you impressed by this cool R-Lady?! <a href="https://t.co/SQKK9oVU5Q">https://t.co/SQKK9oVU5Q</a> <a href="https://twitter.com/hashtag/rladies?src=hash&amp;ref_src=twsrc%5Etfw">#rladies</a> <a href="https://twitter.com/hashtag/iwd2018?src=hash&amp;ref_src=twsrc%5Etfw">#iwd2018</a> <a href="https://t.co/KueF3yZb5E">pic.twitter.com/KueF3yZb5E</a></p>&mdash; IWD 2018 featured R-Ladies (@rladies_iwd2018) <a href="https://twitter.com/rladies_iwd2018/status/971878712319922177?ref_src=twsrc%5Etfw">March 8, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+https://youtu.be/y2udE5N4l_4
 
 ## For Pre-college Students
 
