@@ -189,9 +189,10 @@ Here are some examples of how to bring visibility to women in the data space:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
+	<h6>In honor of Women&#8217;s History Month, we are celebrating several ASA women who work in statistics and data science. These accomplished women were chosen because they inspired and influenced other women in their field. Read their biographies to learn why they chose statistics, who influenced them, and what all they have accomplished.</h6>
 <p><iframe width="460" height="215" src="https://www.youtube.com/embed/y2udE5N4l_4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
-<table width="100%">
+ 
+ 
  
  
  
