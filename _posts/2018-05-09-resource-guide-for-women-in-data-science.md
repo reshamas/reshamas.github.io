@@ -6,7 +6,7 @@ These are the stages of the current conversation on diversity:
 3.  **Where** to find candidates and make my organization diverse?
 4.  **How** to [retain employees](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) from underrepresented groups?
 
-The focus of this post is to provide a comprehensive list of resources for women in data science for the goal of increasing diversity in the workplace.  
+The focus of this post is to share a comprehensive list of resources for women in data science for the goal of increasing diversity in the workplace.  
 
 ## Purpose
 
