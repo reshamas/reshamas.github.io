@@ -18,12 +18,13 @@ This guide was created to provide a resource for women in data science to accomp
 - finding jobs
 - advancing their careers
 
-<img src="../assets/images/grace_hopper.jpg" align="center"> 
-
 This resource will also be valuable to **male allies** who seek to diversify their organization, primarily to:   
 - support and amplify women
 - find women speakers for conferences
 - recruit women candidates for jobs 
+
+<img src="../assets/images/grace_hopper.jpg" align="center"> 
+
 
 ## Guidelines for Engagement
 Prior to joining any of the organizations or attending any events, it is imperative to become familiar with these details:  
