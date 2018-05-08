@@ -169,7 +169,7 @@ Here are curated lists of women in the data sciece and AI space.  This is an exc
 
 ## Women in Open Source
 
-Women are overwhelmingly [underrepresentd in open source](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/).  Here is a twitter list of [Women in Open Source](https://twitter.com/reshamas/lists/women-in-open-source/members) which was inspired by this [twitter discussion](https://twitter.com/wimlds/status/972005489771921416).
+Women are overwhelmingly [underrepresented in open source](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/).  Here is a twitter list of [Women in Open Source](https://twitter.com/reshamas/lists/women-in-open-source/members) which was inspired by this [twitter discussion](https://twitter.com/wimlds/status/972005489771921416).
 
 
 ## Examples of Amplifying Women in Data
@@ -197,7 +197,8 @@ The core model is educating and supporting the next generation of diverse leader
 ## Supporting Organizations
 
 You can support any of these organizations by:  
-- Subscribing to their newsletters and keeping up with their mission and projects
+- Subscribing to their newsletters
+- Be informed of their mission and projects
 - Sharing their mission and projects with others
 - Building a relationship with the organizations
 - Participating in events and networking
