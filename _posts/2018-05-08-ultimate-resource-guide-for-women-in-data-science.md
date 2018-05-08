@@ -6,6 +6,7 @@ These are the stages of the current conversation in diversity:
 3.  **Where** to find candidates and make my organization diverse?
 4.  **How** to [retain employees](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) from underrepresented groups?
 
+The focus of this post is to provide a comprehensive list of resources for women in data science for the goal of increasing diversity in the workplace.  
 
 ## Purpose
 
@@ -25,7 +26,7 @@ This resource will also be valuable to **male allies** who seek to diversify the
 Prior to joining any of the organizations or attending any events, it is imperative to become familiar with these details:  
 - **Mission:**  read the mission statement of the organization
 - **Code of Conduct (CoC):**  read the CoC of the organization
-- **Membership:**  some of the organizations are open to women and non-binary. Others are open to male allies.  Read their mission statement before joining.  
+- **Membership:**  some of the organizations are open to women and non-binary. Others are open to male allies.  Be informed of their membership requirements before joining.  
 
 ## Women’s Conferences
 Here is a list of conferences organized by and for women, with women speakers in data science and tech.  
