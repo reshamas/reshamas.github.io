@@ -74,7 +74,7 @@ Here is a list of conferences organized by and for women, with women speakers in
 - 2018 conference is Oct 18-20 in Cincinatti, Ohio
 
 ## Groups
-Below are various groups in the data space.  You can participate by:
+Below are various groups in the data d tech anspace.  You can participate by:
 - subscribing to their newsletters
 - joining a local chaper
 - attending their talks and workshops (where applicable: hackathons, conferences)
