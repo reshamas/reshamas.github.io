@@ -1,3 +1,5 @@
+<img src="../assets/images/grace_hopper.jpg" align="center"> 
+
 
 ## Diversity 
 These are the stages of the current conversation on diversity:  
@@ -9,7 +11,6 @@ These are the stages of the current conversation on diversity:
 The focus of this post is to share a comprehensive list of resources for women in data science for the goal of increasing diversity in the workplace.  
 
 
-<img src="../assets/images/grace_hopper.jpg" align="center"> 
 
 ## Purpose
 
