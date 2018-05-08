@@ -131,16 +131,16 @@ If there is not a local chapter, consider starting one and enlist the aid of oth
 
 ## Resources
 
-[Geek Feminism](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
+### [Geek Feminism](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
 Geek Feminism provides various resources, including a template for [Code of Conduct](http://citizencodeofconduct.org)
 
-[Diversity Tickets](https://diversitytickets.org)  
+### [Diversity Tickets](https://diversitytickets.org)  
 A Travis Foundation app which helps conference organisers reach out to minority groups by offering them ticket and travel grants
 
-[Global Fund for Women](https://www.globalfundforwomen.org)
+### [Global Fund for Women](https://www.globalfundforwomen.org)
 A global champion for the human rights of women and girls.  They use our powerful networks to find, fund, and amplify the courageous work of women who are building social movements and challenging the status quo.
 
-[Girls in Tech](https://girlsintech.org)
+### [Girls in Tech](https://girlsintech.org)
 GIT aims to accelerate the growth of innovative women entering into the high-tech industry and building startups through the creation of proprietary, innovative programming and strategic global partnerships.
 
 ## Published Lists 
