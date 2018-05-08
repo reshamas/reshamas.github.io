@@ -11,6 +11,7 @@ The focus of this post is to share a comprehensive list of resources for women i
 ## Purpose
 
 There has been extensive research that shows women in the worklace are:
+- [underrepresented in tech](https://www.bloomberg.com/news/articles/2017-06-02/why-so-few-women-break-through-tech-s-bro-culture-quicktake-q-a) and the [statistics are severly imbalanced](http://observer.com/2017/06/women-in-tech-statistics/)
 - [lagging in senior positions](https://research.hackerrank.com/women-in-tech/2018/)
 - [paid inequitably](http://www.businessinsider.com/gender-wage-pay-gap-charts-2017-3#the-number-of-women-promoted-to-the-highest-levels-of-companies-reveals-unconscious-biases-6)
 - [experiencing sexism](https://twitter.com/math_rachel/status/897600522722705408)   
