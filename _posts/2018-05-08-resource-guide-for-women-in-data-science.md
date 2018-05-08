@@ -61,7 +61,7 @@ Below are various groups in the data space.  You can participate by:
 - subscribing to their newsletters
 - joining a local chaper
 - attending their events
-- voluntering your time 
+- volunteering your time 
 
 If there is not a local chapter, consider starting one and enlist the aid of others.  
 
