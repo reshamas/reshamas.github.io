@@ -46,7 +46,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 - **Membership:**  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
 ## Women’s Conferences
-Here is a list of conferences organized by and for women and non-binary individuals, with women speakers in data science or tech.  
+Here is a list of conferences in data science or tech, organized by and for women and non-binary individuals.
 
 ### [Women in Data Science](https://www.widsconference.org) (WiDS)
 - hosted at Stanford University
