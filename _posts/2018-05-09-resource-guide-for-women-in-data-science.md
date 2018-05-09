@@ -76,9 +76,9 @@ Here is a list of conferences organized by and for women and non-binary individu
 ## Organizations
 Below are various groups in the data and tech space.  You can participate by:
 - subscribing to their newsletters
-- joining their Slack team, LinkedIn or Facebook group
-- joining a local chaper
-- attending their talks and workshops (where applicable: hackathons, conferences)
+- joining discussions on their Slack team, LinkedIn or Facebook group, Twitter 
+- joining a local chaper or meetup group
+- attending their talks and workshops (where available: hackathons, conferences)
 - being an event speaker; giving a workshop
 - volunteering your time 
 
