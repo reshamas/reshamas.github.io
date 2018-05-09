@@ -129,7 +129,7 @@ If there is not a local chapter, consider starting one and enlist the aid of oth
 
 
 
-### Groups, Membership by Application
+### Groups with Membership by Application
 
 | Group Name    | Twitter  |  
 |----|----|
