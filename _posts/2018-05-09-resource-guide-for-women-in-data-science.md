@@ -77,7 +77,7 @@ Here is a list of conferences in data science or tech, organized by and for wome
 Below are various groups in the data and tech space.  You can participate by:
 - subscribing to their newsletters
 - joining discussions:  Slack team, LinkedIn or Facebook group, Twitter 
-- joining a local chaper or meetup group
+- joining a local chapter or meetup group
 - attending their talks and workshops (where available: hackathons, conferences)
 - being an event speaker; giving a workshop
 - volunteering your time 
