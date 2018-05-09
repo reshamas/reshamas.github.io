@@ -40,7 +40,7 @@ This resource will also be valuable to **male allies** who seek to diversify the
 
 
 ## Guidelines for Engagement
-Prior to joining any of the organizations or attending any events, it is essential to become familiar with these details:  
+Prior to joining any of the organizations or attending their events, it is essential to become familiar with these details:  
 - **Mission:**  read the mission statement of the organization
 - **Code of Conduct (CoC):**  read the CoC of the organization
 - **Membership:**  some of the organizations are open to women and non-binary. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
