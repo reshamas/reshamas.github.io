@@ -268,4 +268,6 @@ This [resource list](https://reshamas.github.io/resources/) includes podcasts, l
 
 - [On the Design of Women’s Spaces](https://medium.com/@maybekatz/on-the-design-of-womens-spaces-72bf8f396dc0)
 
+- [Women are Underrepresented in the High Tech Industry Globally](https://www.bloomberg.com/quicktake/women-are-underrepresented-in-the-high-tech-industry-globally)
+
 - photo credit: [What We Learned from the Largest Women Technology Conference in the World](https://actionsprout.com/inside-actionsprout/learned-largest-women-technology-conference-world/)
