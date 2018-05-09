@@ -144,24 +144,24 @@ If there is not a local chapter, consider starting one and enlist the aid of oth
 | Group Name    | Twitter  |  
 |----|----|
 | [Apres](https://apresgroup.com/about-us/) |  [@apresnyc](https://twitter.com/apresnyc) | 
-| [Women in Technology International](https://www.witi.com) |   [@witi](https://www.witi.com) | 
 | [Tech Ladies](https://www.hiretechladies.com) |  [@HireTechLadies](https://twitter.com/HireTechLadies) | 
-
+| [Women in Technology International](https://www.witi.com) |   [@witi](https://www.witi.com) | 
 
 
 ## Resources
 
+### [Diversity Tickets](https://diversitytickets.org)  
+A Travis Foundation app which helps conference organisers reach out to minority groups by offering them ticket and travel grants
+
 ### [Geek Feminism](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
 Geek Feminism provides various resources, including a template for [Code of Conduct](http://citizencodeofconduct.org)
 
-### [Diversity Tickets](https://diversitytickets.org)  
-A Travis Foundation app which helps conference organisers reach out to minority groups by offering them ticket and travel grants
+### [Girls in Tech](https://girlsintech.org)
+GIT aims to accelerate the growth of innovative women entering into the high-tech industry and building startups through the creation of proprietary, innovative programming and strategic global partnerships.
 
 ### [Global Fund for Women](https://www.globalfundforwomen.org)
 A global champion for the human rights of women and girls.  They use our powerful networks to find, fund, and amplify the courageous work of women who are building social movements and challenging the status quo.
 
-### [Girls in Tech](https://girlsintech.org)
-GIT aims to accelerate the growth of innovative women entering into the high-tech industry and building startups through the creation of proprietary, innovative programming and strategic global partnerships.
 
 ## Published Lists for Finding Speakers
 Here are curated lists of women in the data sciece and AI space.  This is an excellent reference next time there is a Call for Proposals (CFP) for conferences.
