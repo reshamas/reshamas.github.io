@@ -14,7 +14,7 @@ The focus of this post is to share a comprehensive list of resources for women i
 
 ## Purpose
 
-There has been extensive research that shows women in tech are:
+There has been extensive research that shows women are:
 - [underrepresented in tech](https://www.bloomberg.com/news/articles/2017-06-02/why-so-few-women-break-through-tech-s-bro-culture-quicktake-q-a) and the [statistics are severely imbalanced](http://observer.com/2017/06/women-in-tech-statistics/)
 - [lagging in senior positions](https://research.hackerrank.com/women-in-tech/2018/)
 - [paid inequitably](http://www.businessinsider.com/gender-wage-pay-gap-charts-2017-3#the-number-of-women-promoted-to-the-highest-levels-of-companies-reveals-unconscious-biases-6)
@@ -40,7 +40,7 @@ This resource will also be valuable to **male allies** who seek to diversify the
 
 
 ## Guidelines for Engagement
-Prior to joining any of the organizations or attending any events, it is imperative to become familiar with these details:  
+Prior to joining any of the organizations or attending any events, it is essential to become familiar with these details:  
 - **Mission:**  read the mission statement of the organization
 - **Code of Conduct (CoC):**  read the CoC of the organization
 - **Membership:**  some of the organizations are open to women and non-binary. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
