@@ -92,6 +92,7 @@ If there is not a local chapter, consider starting one and enlist the aid of oth
 | [Black Women in Computing](http://blackwomenincomputing.org) | [@BWiComputing](https://twitter.com/BWiComputing) |
 | [Codebar](https://codebar.io) | [@codebar](twitter.com/codebar) |
 | [Django Girls](https://djangogirls.org) | [@djangogirls](https://twitter.com/djangogirls?lang=en)  |
+| [EdTechWomen](http://edtechwomen.com/chapters-and-events) | [@edtechwomen](https://twitter.com/edtechwomen) |
 | [Girl Develop It](https://www.girldevelopit.com) | [@girldevelopit](https://twitter.com/girldevelopit)  |
 | [Girl Geek Dinner](http://girlgeekdinners.com)  | [@ggdworldwide](https://twitter.com/ggdworldwide) |
 | [Ladies Get Paid](http://www.ladiesgetpaid.com) | [@ladiesgetpaid](https://twitter.com/ladiesgetpaid)|
