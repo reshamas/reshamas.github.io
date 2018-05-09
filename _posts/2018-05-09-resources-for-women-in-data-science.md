@@ -175,6 +175,8 @@ Here are curated lists of women in the data sciece and AI space.  This is an exc
 
 - Twitter list of [Women in Deep Learning](https://twitter.com/wimlds/lists/women-in-deep-learning/members)
 
+- [R Ladies Directory](https://rladies.org/directory/)
+
 - [Here are 508 women in the UK who could speak at your tech event](https://www.techworld.com/careers/here-are-508-uk-women-who-could-speak-at-your-tech-event-3645661/?platform=hootsuite)
 
 - [Organizations Serving Under-represented Groups in Scientific Computing](https://docs.google.com/spreadsheets/d/1mabliZfmuElyQhyzgn3rlaOyG7njVu5HJC45t7RpjPs/edit?usp=sharing), NumFOCUS
