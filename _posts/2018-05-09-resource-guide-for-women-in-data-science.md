@@ -73,7 +73,7 @@ Here is a list of conferences organized by and for women, with women speakers in
 - organized by American Statistical Association
 - 2018 conference is Oct 18-20 in Cincinatti, Ohio
 
-## Groups
+## Organizations
 Below are various groups in the data and tech space.  You can participate by:
 - subscribing to their newsletters
 - joining a local chaper
