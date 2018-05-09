@@ -65,7 +65,7 @@ Here is a list of conferences organized by and for women, with women speakers in
 - 2018 conference is Sep 12-14 in New York, NY
 
 ### [Grace Hopper Celebration](https://ghc.anitab.org) 
-- world's largest gathering of women technologists
+- world's largest gathering of women technologists, 18K+ women in attendance
 - 2018 conference is Sep 26-18 in Houston, TX
 - twitter hashtag for 2017:  #GHC17, #GHC2017
 
