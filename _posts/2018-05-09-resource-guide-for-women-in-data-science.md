@@ -48,7 +48,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 ## Women’s Conferences
 Here is a list of conferences organized by and for women and non-binary individuals, with women speakers in data science or tech.  
 
-### [Women in Data Science](https://www.widsconference.org)
+### [Women in Data Science](https://www.widsconference.org) (WiDS)
 - hosted at Stanford University
 - livestreamed around the world, 75K+ participants from 75 countries
 - 2018 conference was Mar 5, 2018
