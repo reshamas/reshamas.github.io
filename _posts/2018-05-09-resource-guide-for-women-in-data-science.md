@@ -78,6 +78,7 @@ Below are various groups in the data and tech space.  You can participate by:
 - subscribing to their newsletters
 - joining a local chaper
 - attending their talks and workshops (where applicable: hackathons, conferences)
+- being an event speaker; giving a workshop
 - volunteering your time 
 
 If there is not a local chapter, consider starting one and enlist the aid of others.  
