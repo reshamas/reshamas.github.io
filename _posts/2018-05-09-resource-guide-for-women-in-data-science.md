@@ -30,10 +30,10 @@ This guide was created to provide a resource for women in data science to accomp
 - advocating for themselves and others
 
 ### Male Allies
-This resource will also be valuable to **male allies** who seek to diversify their organization, primarily to:   
-- support and amplify women
-- find women speakers for conferences
-- recruit women candidates for jobs 
+This resource will also be valuable to **male allies** who seek to diversify their organization, by proactively:   
+- supporting and amplifying women
+- finding women speakers for conferences
+- recruiting women candidates for jobs 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you invite me to speak at your conference, be prepared to get this answer.<br><br>I invite other men to do the same.<a href="https://twitter.com/hashtag/diversity?src=hash&amp;ref_src=twsrc%5Etfw">#diversity</a> <a href="https://twitter.com/hashtag/inclusion?src=hash&amp;ref_src=twsrc%5Etfw">#inclusion</a> <a href="https://t.co/gJlECWOAux">pic.twitter.com/gJlECWOAux</a></p>&mdash; Francesc @ #io18 (@francesc) <a href="https://twitter.com/francesc/status/984500776671240192?ref_src=twsrc%5Etfw">April 12, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
