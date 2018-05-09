@@ -30,7 +30,7 @@ This guide was created to provide a resource for women in data science to accomp
 - advocating for themselves and others
 
 ### Male Allies
-This resource will also be valuable to **male allies** who seek to diversify their organization, by proactively:   
+This resource will also be valuable to **male allies** who seek to diversify their organization, by **proactively**:   
 - supporting and amplifying women
 - finding women speakers for conferences
 - recruiting women candidates for jobs 
