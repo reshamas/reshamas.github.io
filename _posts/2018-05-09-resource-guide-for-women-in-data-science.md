@@ -43,7 +43,7 @@ This resource will also be valuable to **male allies** who seek to diversify the
 Prior to joining any of the organizations or attending their events, it is essential to become familiar with these details:  
 - **Mission:**  read the mission statement of the organization
 - **Code of Conduct (CoC):**  read the CoC of the organization
-- **Membership:**  some of the organizations are open to women and non-binary. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
+- **Membership:**  some of the organizations are open solely to women and non-binary. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
 ## Women’s Conferences
 Here is a list of conferences organized by and for women, with women speakers in data science or tech.  
