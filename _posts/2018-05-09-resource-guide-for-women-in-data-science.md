@@ -8,7 +8,7 @@ These are the stages of the current conversation on diversity:
 3.  **Where** to find candidates and make my organization diverse?
 4.  **How** to [retain employees](https://medium.com/tech-diversity-files/if-you-think-women-in-tech-is-just-a-pipeline-problem-you-haven-t-been-paying-attention-cb7a2073b996) from underrepresented groups?
 
-The focus of this post is to share a comprehensive list of resources for women in data science for the goal of increasing diversity in the workplace.  
+The focus of this post is to share a comprehensive list of resources for women and non-binary people in data science for the goal of increasing diversity in the workplace.  
 
 
 
@@ -22,7 +22,7 @@ There has been extensive research which shows that women are:
 
 Some positive news is that research has shown that networking events for women *do indeed* [move the needle on equality](https://hbr.org/2018/02/do-womens-networking-events-move-the-needle-on-equality).
 
-This guide was created to provide a resource for women in data science to accomplish the following in a friendly and supportive environment:  
+This guide was created to provide a resource for women and non-binary individuals in data science to accomplish the following in a friendly and supportive environment:  
 - networking 
 - building skills, education
 - finding jobs
@@ -43,10 +43,10 @@ This resource will also be valuable to **male allies** who seek to diversify the
 Prior to joining any of the organizations or attending their events, it is essential to become familiar with these details:  
 - **Mission:**  read the mission statement of the organization
 - **Code of Conduct (CoC):**  read the CoC of the organization
-- **Membership:**  some of the organizations are open solely to women and non-binary. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
+- **Membership:**  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
 ## Women’s Conferences
-Here is a list of conferences organized by and for women, with women speakers in data science or tech.  
+Here is a list of conferences organized by and for women and non-binary individuals, with women speakers in data science or tech.  
 
 ### [Women in Data Science](https://www.widsconference.org)
 - hosted at Stanford University
@@ -198,7 +198,7 @@ Women are overwhelmingly [underrepresented in open source](https://www.newameric
 
 ## Examples of Amplifying Women in Data
 
-Here are some examples of how to bring visibility to women in the data space: 
+Here are some examples of how to bring visibility to women and non-binary people in the data space: 
 - RLadies: [tweet stream on International Women's Day (IWD)](https://twitter.com/rladies_iwd2018)
 - Women in Statistics:  [Twitter hashtag #statswomen](https://twitter.com/hashtag/statswomen)
 - David Robinson tweet: [Five amazing #rstats data scientists to follow if you're not already](https://twitter.com/drob/status/839564664321282048)
@@ -209,7 +209,7 @@ Here are some examples of how to bring visibility to women in the data space:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-In honor of Womens History Month, we are celebrating several ASA women who work in statistics and data science. These accomplished women were chosen because they inspired and influenced other women in their field. [Read their biographies](http://magazine.amstat.org/blog/2018/03/01/wis/) to learn why they chose statistics, who influenced them, and what all they have accomplished.
+In honor of Women's History Month, we are celebrating several ASA women who work in statistics and data science. These accomplished women were chosen because they inspired and influenced other women in their field. [Read their biographies](http://magazine.amstat.org/blog/2018/03/01/wis/) to learn why they chose statistics, who influenced them, and what all they have accomplished.
 
 <p><iframe width="460" height="215" src="https://www.youtube.com/embed/y2udE5N4l_4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
  
@@ -221,7 +221,7 @@ In honor of Womens History Month, we are celebrating several ASA women who work 
 
 ## For Pre-college Students
 
-Roadblocks to gender parity are present early in women's education.  Here are some groups who are impacting the participation and retention of young women prior to college.  
+Roadblocks to gender parity are present early in education.  Here are some groups who are impacting the participation and retention of young women prior to college.  
 
 ### [CoderDojo](https://coderdojo.com)
 A global network of free, volunteer-led, community-based programming clubs for young people. Anyone aged seven to seventeen can visit a Dojo where they can learn to code, build a website, create an app or a game, and explore technology in an informal, creative, and social environment.
@@ -264,5 +264,7 @@ This [resource list](https://reshamas.github.io/resources/) includes podcasts, l
 - [No More Excuses – 470 Outstanding Women in Analytics](https://www.kdnuggets.com/2017/12/470-outstanding-women-analytics.html), Meta Brown
 
 - [NumFocus DISC Directory to Increase Diversity & Inclusion](https://www.numfocus.org/blog/directory-increase-diversity-inclusion-notes-disc-unconference)
+
+- [On the Design of Women’s Spaces](https://medium.com/@maybekatz/on-the-design-of-womens-spaces-72bf8f396dc0)
 
 - photo credit: [What We Learned from the Largest Women Technology Conference in the World](https://actionsprout.com/inside-actionsprout/learned-largest-women-technology-conference-world/)
