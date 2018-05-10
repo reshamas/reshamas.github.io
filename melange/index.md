@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Melange
 tags: 
 comments: false
