@@ -58,6 +58,10 @@ Here is a list of conferences in data science or tech, organized by and for wome
 - 2018 conference was Mar 15 in Columbus, Ohio
 - twitter hashtag:  #WIA2018
 
+### [Women Who Code CONNECT](https://connect2018.womenwhocode.com/)
+- 2018 conference was Apr 28 in San Francisco, CA
+- for women in tech and software engineering
+
 ### [Write/Speak/Code](http://www.writespeakcode.com/2018/index.html)
 - 2018 conference is Aug 1-4 in New York, NY
 
