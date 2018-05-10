@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: home
 title: Melange
 tags: 
 comments: false
