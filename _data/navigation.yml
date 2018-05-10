@@ -7,8 +7,8 @@ main:
     url: /about/
   - title: Resources
     url: /resources/
-  - title: Publications
-    url: /publications/
+  - title: Portfolio
+    url: /portfolio/
   - title: Melange
     url: /melange/
   #- title: "Quick-Start Guide"
