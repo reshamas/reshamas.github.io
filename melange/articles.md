@@ -13,4 +13,10 @@ comments: false
 
 ## Work Culture
 - [Work is Not Your Family](https://the-pastry-box-project.net/mandy-michael/2018-february-4)
+- [How Organizations Enable Bad Behavior](https://www.linkedin.com/pulse/how-organizations-enable-bad-behavior-susan-ways-sphr/)
+- [What's Wrong with Passive Aggression?](http://philosophy247.org/podcasts/passive-aggressive/), 12 minute podcast
+- [Interview on Workplace Codependency – with Dr. Marie-Line Germain](http://www.codependencynomore.com/session19/)
+
+
+
 
