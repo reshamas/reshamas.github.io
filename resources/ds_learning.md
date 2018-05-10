@@ -6,7 +6,8 @@ comments: false
 ---
 
 ## Beginner Data Science
-[Data Science Learning Plan](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
+- [Data Science Learning Plan](https://www.analyticsvidhya.com/blog/2017/01/the-most-comprehensive-data-science-learning-plan-for-2017/)
+- [Favorite Resources](https://twitter.com/math_rachel/status/967689690328350720), Rachel Thomas twitter thread
 
 ## Python Tutorials
 - [CodeCademy](https://www.codecademy.com)
@@ -26,6 +27,4 @@ comments: false
 ## Machine Learning
 - [How to Learn Machine Learning](https://dhanus.github.io/blog/learn-machine-learning/)
 
-## Other
 
-https://twitter.com/math_rachel/status/967689690328350720
