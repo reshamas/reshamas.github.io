@@ -79,6 +79,11 @@ Here is a list of conferences in data science or tech, organized by and for wome
 - organized by American Statistical Association
 - 2018 conference is Oct 18-20 in Cincinatti, Ohio
 
+### [Women in Machine Learning Workshop](http://wimlworkshop.org/sh_events/wiml-workshop-2018/) (WiML)
+- 2018 conference is Dec 3-4 in Montreal, Canada
+- co-located with NIPS 2018
+- other events co-located with COLT, ICML and [more](http://wimlworkshop.org/events/)
+
 ## Organizations
 Below are various groups in the data and tech space.  You can participate by:
 - subscribing to their newsletters
