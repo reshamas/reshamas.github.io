@@ -12,8 +12,9 @@ comments: false
 
 ## Kaggle
 
-* [Is It a Ship or Iceberg](https://github.com/reshamas/reshamas.github.io/blob/master/_posts/2018-04-18-my-first-kaggle-competition.md)
+* [Is It a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
     - used deep learning for image analysis 
+    - Blog:  [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/)
     - GitHub repo:  [kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg)
 
 
