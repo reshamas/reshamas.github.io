@@ -8,7 +8,7 @@ comments: false
 ## Conference Videos for 2018
 
 * [ICLR: Int'l Conf on Learning Representations](https://iclr.cc)
-  - [videos](https://www.facebook.com/iclr.cc/videos/2123114954384226/)), (Apr, Vancouver, Canada)
+  - [videos (2hr Facebook Live)](https://www.facebook.com/iclr.cc/videos/2123114954384226/), (Apr, Vancouver, Canada)
 
 * [Intersect 2018 Conference, Udacity](https://www.udacity.com/intersect) (March, Mountainview, CA)
   - [videos](https://www.youtube.com/watch?v=iq0GQy4-0XY&list=PLAwxTw4SYaPnx-iemVLvedeuc2pUazOUj)
