@@ -5,6 +5,10 @@ tags:
 comments: false
 ---
 
+## Leadership
+- [21 Ways to Be a Better Leader](https://www.inc.com/lolly-daskal/21-ways-to-be-a-better-leader.html)
+
+
 ## Change
 - [To Get People to Change, Make Change Easy](https://hbr.org/2017/12/to-get-people-to-change-make-change-easy)
     - **Banana and Orange Model** - find ways to make the: 
