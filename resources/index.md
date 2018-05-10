@@ -14,7 +14,7 @@ Here is a list of my favorite data science resources.  If you would like to see 
 ### Conference Listings
 - [list of conferences](https://github.com/WiMLDS/conferences)
 
-## [Learning (Python / DS)](ds_learning.md)
+## [Learning (Python / Data Science / Deep Learning / Machine Learning)](learning.md)
 * useful links to begin learning data science
 * Python tutorials
 * cheat sheets
