@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: splash
 title: Melange
 tags: 
 comments: false
