@@ -18,9 +18,17 @@ Here is a list of my favorite data science resources.  If you would like to see 
 * useful links to begin learning data science
 * Python tutorials
 * cheat sheets
-* Git
 * Machine learning
 * Deep learning
+
+## [Dev Ops Tools](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools)
+* [Git](https://github.com/reshamas/git-intro-workshop)
+* [tmux on AWS](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/tmux.md)
+* [Download data using Kaggle CLI](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/download_data_kaggle_cli.md)
+* [Download data using Chrome and wget](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/download_data_browser_curlwget.md)
+* [Jupyter Notebook Commands & Shortcuts](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/jupyter_notebook.md)
+* [How to Create a Keypair](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/create_keypair.md)
+* [Copy Files from Local PC to Cloud PC](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/copy_files_local_to_cloud.md)
 
 
 ## Twitter
