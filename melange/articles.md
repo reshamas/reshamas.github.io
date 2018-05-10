@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: Articles
 tags: 
 comments: false
