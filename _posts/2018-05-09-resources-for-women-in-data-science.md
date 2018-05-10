@@ -23,8 +23,10 @@ There has been extensive research which shows that women are:
 Some positive news is that research has shown that networking events for women *do indeed* [move the needle on equality](https://hbr.org/2018/02/do-womens-networking-events-move-the-needle-on-equality).
 
 This guide was created to provide a resource for women and non-binary individuals in data science to accomplish the following in a friendly and supportive environment:  
+- building community
 - networking 
-- building skills, education
+- developing skills, education
+- sharing knowledge
 - finding jobs
 - advancing their careers
 - advocating for themselves and others
