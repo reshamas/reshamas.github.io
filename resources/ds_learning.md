@@ -27,4 +27,5 @@ comments: false
 ## Machine Learning
 - [How to Learn Machine Learning](https://dhanus.github.io/blog/learn-machine-learning/), Deborah Hanus
 
-
+## Deep Learning
+* [fastai MOOC notes](https://github.com/reshamas/fastai_deeplearn_part1)
