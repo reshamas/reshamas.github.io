@@ -20,6 +20,15 @@ comments: false
 - [Automate the Boring Stuff](https://automatetheboringstuff.com)
 - [Free Code Camp](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
 
+## [Technical Tools](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools)
+* [tmux on AWS](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/tmux.md)
+* [Download data using Kaggle CLI](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/download_data_kaggle_cli.md)
+* [Download data using Chrome and wget](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/download_data_browser_curlwget.md)
+* [Jupyter Notebook Commands & Shortcuts](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/jupyter_notebook.md)
+* [How to Create a Keypair](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/create_keypair.md)
+* [Copy Files from Local PC to Cloud PC](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools/copy_files_local_to_cloud.md)
+
+
 ## [My Curated Data Science Resources](https://github.com/reshamas/ds_resources)
 - Cheat Sheets
 - Markdown
