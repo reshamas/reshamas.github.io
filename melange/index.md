@@ -5,4 +5,4 @@ tags:
 comments: false
 ---
 
-# Business / Management [Articles](articles.md)
+## Business / Management [Articles](articles.md)
