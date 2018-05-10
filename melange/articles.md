@@ -1,4 +1,9 @@
-# Articles
+---
+layout: single
+title: Articles
+tags: 
+comments: false
+---
 
 ## Change
 - [To Get People to Change, Make Change Easy](https://hbr.org/2017/12/to-get-people-to-change-make-change-easy)
