@@ -47,7 +47,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 - **Code of Conduct (CoC):**  read the CoC of the organization
 - **Membership:**  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
-## Women’s Conferences
+## Analytic Conferences for Women
 Here is a list of conferences in data science or tech, organized by and for women and non-binary individuals.
 
 ### [Women in Data Science](https://www.widsconference.org) (WiDS)
@@ -59,6 +59,21 @@ Here is a list of conferences in data science or tech, organized by and for wome
 ### [Women in Analytics](https://www.womeninanalytics.org)
 - 2018 conference was Mar 15 in Columbus, Ohio
 - twitter hashtag:  #WIA2018
+
+### [Women in Robotics IV](https://sites.google.com/view/rss2018women/home)
+- 2018 conference is Jun 29 in Pittsburgh, PA
+
+### [Women in Statistics & Data Science Conference](http://ww2.amstat.org/meetings/wsds/2018/)
+- organized by American Statistical Association
+- 2018 conference is Oct 18-20 in Cincinatti, Ohio
+
+### [Women in Machine Learning Workshop](http://wimlworkshop.org/sh_events/wiml-workshop-2018/) (WiML)
+- 2018 conference is Dec 3-4 in Montreal, Canada
+- co-located with NIPS 2018
+- other events co-located with COLT, ICML and [more](http://wimlworkshop.org/events/)
+
+---
+## Women in Tech Conferences
 
 ### [Women Who Code CONNECT](https://connect2018.womenwhocode.com/)
 - 2018 conference was Apr 28 in San Francisco, CA
@@ -75,14 +90,6 @@ Here is a list of conferences in data science or tech, organized by and for wome
 - 2018 conference is Sep 26-18 in Houston, TX
 - twitter hashtag for 2017:  #GHC17, #GHC2017
 
-### [Women in Statistics & Data Science Conference](http://ww2.amstat.org/meetings/wsds/2018/)
-- organized by American Statistical Association
-- 2018 conference is Oct 18-20 in Cincinatti, Ohio
-
-### [Women in Machine Learning Workshop](http://wimlworkshop.org/sh_events/wiml-workshop-2018/) (WiML)
-- 2018 conference is Dec 3-4 in Montreal, Canada
-- co-located with NIPS 2018
-- other events co-located with COLT, ICML and [more](http://wimlworkshop.org/events/)
 
 ## Organizations
 Below are various groups in the data and tech space.  You can participate by:
