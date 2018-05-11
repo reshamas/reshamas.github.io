@@ -47,8 +47,8 @@ Prior to joining any of the organizations or attending their events, it is essen
 - **Code of Conduct (CoC):**  read the CoC of the organization
 - **Membership:**  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
+---
 ## Analytic Conferences for Women
-Here is a list of conferences in data science or tech, organized by and for women and non-binary individuals.
 
 ### [Women in Data Science](https://www.widsconference.org) (WiDS)
 - hosted at Stanford University
