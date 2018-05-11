@@ -47,7 +47,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 - **Code of Conduct (CoC):**  read the CoC of the organization
 - **Membership:**  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
----
+
 ## Analytic Conferences for Women
 
 ### [Women in Data Science](https://www.widsconference.org) (WiDS)
@@ -72,7 +72,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 - co-located with NIPS 2018
 - other events co-located with COLT, ICML and [more](http://wimlworkshop.org/events/)
 
----
+
 ## Women in Tech Conferences
 
 ### [Women Who Code CONNECT](https://connect2018.womenwhocode.com/)
