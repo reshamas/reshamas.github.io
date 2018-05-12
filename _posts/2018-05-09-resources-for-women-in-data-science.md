@@ -48,7 +48,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 - **Membership:**  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
 
-## Analytic Conferences for Women
+## Analytics Conferences for Women
 
 ### [Women in Data Science](https://www.widsconference.org) (WiDS)
 - hosted at Stanford University
