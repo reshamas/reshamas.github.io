@@ -53,22 +53,22 @@ Prior to joining any of the organizations or attending their events, it is essen
 ### [Women in Data Science](https://www.widsconference.org) (WiDS)
 - hosted at Stanford University
 - livestreamed around the world, 75K+ participants from 75 countries
-- 2018 conference was Mar 5, 2018
+- 2018 conference was March 5
 - twitter hashtag:  #WiDS2018
 
 ### [Women in Analytics](https://www.womeninanalytics.org)
-- 2018 conference was Mar 15 in Columbus, Ohio
+- 2018 conference was March 15 in Columbus, Ohio
 - twitter hashtag:  #WIA2018
 
 ### [Women in Robotics IV](https://sites.google.com/view/rss2018women/home)
-- 2018 conference is Jun 29 in Pittsburgh, PA
+- 2018 conference is June 29 in Pittsburgh, PA
 
 ### [Women in Statistics & Data Science Conference](http://ww2.amstat.org/meetings/wsds/2018/)
 - organized by American Statistical Association
-- 2018 conference is Oct 18-20 in Cincinatti, Ohio
+- 2018 conference is October 18-20 in Cincinatti, Ohio
 
 ### [Women in Machine Learning Workshop](http://wimlworkshop.org/sh_events/wiml-workshop-2018/) (WiML)
-- 2018 conference is Dec 3-4 in Montreal, Canada
+- 2018 conference is December 3-4 in Montreal, Canada
 - co-located with NIPS 2018
 - other events co-located with COLT, ICML and [more](http://wimlworkshop.org/events/)
 
@@ -76,18 +76,18 @@ Prior to joining any of the organizations or attending their events, it is essen
 ## Women in Tech Conferences
 
 ### [Women Who Code CONNECT](https://connect2018.womenwhocode.com/)
-- 2018 conference was Apr 28 in San Francisco, CA
+- 2018 conference was April 28 in San Francisco, CA
 - for women in tech and software engineering
 
 ### [Write/Speak/Code](http://www.writespeakcode.com/2018/index.html)
-- 2018 conference is Aug 1-4 in New York, NY
+- 2018 conference is August 1-4 in New York, NY
 
 ### [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/)
-- 2018 conference is Sep 12-14 in New York, NY
+- 2018 conference is September 12-14 in New York, NY
 
 ### [Grace Hopper Celebration](https://ghc.anitab.org) 
 - world's largest gathering of women technologists, 18K+ attendees
-- 2018 conference is Sep 26-18 in Houston, TX
+- 2018 conference is September 26-18 in Houston, TX
 - twitter hashtag for 2017:  #GHC17, #GHC2017
 
 
