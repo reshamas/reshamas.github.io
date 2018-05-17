@@ -28,3 +28,5 @@ comments: false
 ## Conference Videos for 2017
 * [H2O World](http://h2oworld.h2o.ai) (December, Mountainview, CA)
   - [videos](https://www.youtube.com/playlist?list=PLNtMya54qvOHQs2ZmV-pPSW_etMUykE0_) and [slides](https://www.slideshare.net/0xdata/presentations)
+
+* [New York R Conference](https://www.rstats.nyc/2017/) (NYC)
