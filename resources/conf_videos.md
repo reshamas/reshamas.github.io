@@ -27,6 +27,7 @@ comments: false
 
 ## Videos by Conference
 * [MLConf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q/feed)
+  - [slideshare](https://www.slideshare.net/SessionsEvents/presentations)
 
 ## Conference Videos for 2017
 * [H2O World](http://h2oworld.h2o.ai) (December, Mountainview, CA)
