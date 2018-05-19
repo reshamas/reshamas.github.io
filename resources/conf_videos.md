@@ -24,7 +24,10 @@ comments: false
 
 * [Women in Data Science (WiDS)](http://www.widsconference.org/about1.html) (March, Stanford University) 
   - [WiDS 2018 playlist](https://www.youtube.com/playlist?list=PLn62CdVLnT-ehGV9_cv1VX2SfZI_Suu7r&disable_polymer=true)
-  
+
+## Videos by Conference
+* [MLConf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q/feed)
+
 ## Conference Videos for 2017
 * [H2O World](http://h2oworld.h2o.ai) (December, Mountainview, CA)
   - [videos](https://www.youtube.com/playlist?list=PLNtMya54qvOHQs2ZmV-pPSW_etMUykE0_) and [slides](https://www.slideshare.net/0xdata/presentations)
