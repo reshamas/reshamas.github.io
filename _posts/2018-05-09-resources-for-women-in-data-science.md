@@ -47,6 +47,8 @@ Prior to joining any of the organizations or attending their events, it is essen
 - **Code of Conduct (CoC):**  read the CoC of the organization
 - **Membership:**  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
+Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
 
 ## Analytics Conferences for Women
 
