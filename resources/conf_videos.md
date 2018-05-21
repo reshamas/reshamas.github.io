@@ -25,6 +25,9 @@ comments: false
 * [Women in Data Science (WiDS)](http://www.widsconference.org/about1.html) (March, Stanford University) 
   - [WiDS 2018 playlist](https://www.youtube.com/playlist?list=PLn62CdVLnT-ehGV9_cv1VX2SfZI_Suu7r&disable_polymer=true)
 
+* [RStudio 2018 Talks](https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/)
+
+
 ## Videos by Conference
 * [MLConf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q/feed)
   - [slideshare](https://www.slideshare.net/SessionsEvents/presentations)
