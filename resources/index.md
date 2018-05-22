@@ -40,6 +40,7 @@ Here is a list of my favorite data science resources.  If you would like to see 
 ## Blogs
 * [KD Nuggets](https://www.kdnuggets.com)
 * [fastai (by Rachel Thomas & Jeremy Howard)](http://www.fast.ai/topics/)
+* [NYU Data Science Community Newsletter](https://docs.google.com/forms/d/e/1FAIpQLSeSQZ6IjbQEWdBpglaXiKVVEGodsTrwjGmYBrHSNpGk-vJ_8A/viewform)
 * [Towards Data Science](https://towardsdatascience.com)
 * [Cathy O'Neil](https://mathbabe.org)
 * [Top 75 Data Science Blogs](https://blog.feedspot.com/data_science_blogs/)
