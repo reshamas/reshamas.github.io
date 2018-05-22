@@ -271,7 +271,7 @@ You can support any of these organizations by:
 
 ## Data Science Resources
 
-This [resource list](https://reshamas.github.io/resources/) includes podcasts, learning materials and more.
+This [resource list](https://reshamas.github.io/resources/) includes podcasts, conference list, newsletters, learning materials and more.
 
 
 ## References
