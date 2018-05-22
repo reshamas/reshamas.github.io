@@ -5,4 +5,6 @@ tags:
 comments: false
 ---
 
-## Management [Articles](articles.md)
+## Management [Articles](management.md)
+
+## Diversity [Articles](diversity.md)
