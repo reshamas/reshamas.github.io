@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Articles
+title: Management
 tags: 
 comments: false
 ---
