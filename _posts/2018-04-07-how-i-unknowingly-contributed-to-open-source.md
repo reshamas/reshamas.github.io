@@ -50,7 +50,7 @@ We can expand the purview of open source to include the following contributions:
 An updated definition could be:  
 >Free software whose source code is open to the public, as well as any documentation, examples, applications, maintenance and support of software and related tools for all users.
 
-## Why Contribute to Open Source
+## Why Contribute to Open Source?
 Because everyone uses it, benefits from it, and there is a *lot of work* to be done.  Other advantages include:  
 - learning a skill by contributing
 - sharing work
