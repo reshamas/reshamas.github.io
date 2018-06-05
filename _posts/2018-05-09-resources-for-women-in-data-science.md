@@ -293,3 +293,5 @@ This [resource list](https://reshamas.github.io/resources/) includes podcasts, c
 - [Women are Underrepresented in the High Tech Industry Globally](https://www.bloomberg.com/quicktake/women-are-underrepresented-in-the-high-tech-industry-globally)
 
 - photo credit: [What We Learned from the Largest Women Technology Conference in the World](https://actionsprout.com/inside-actionsprout/learned-largest-women-technology-conference-world/)
+
+- [Guidelines for Running an Inclusive Conference](https://cra.org/cra-w/wp-content/uploads/sites/5/2018/05/CRAW-Best-Practices-for-Conferences-v5.pdf) by [Computing Research Association](https://cra.org/)
