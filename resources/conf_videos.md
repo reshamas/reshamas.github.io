@@ -27,6 +27,9 @@ comments: false
 
 * [RStudio 2018 Talks](https://www.rstudio.com/resources/videos/rstudioconf-2018-talks/)
 
+* [FAT (Fairness, Accountability & Transparency](https://fatconference.org)
+  - [FAT 2018 videos](https://www.youtube.com/channel/UCs16j6ot-CYq-ZqYpO-vqMg/videos)
+
 
 ## Videos by Conference
 * [MLConf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q/feed)
