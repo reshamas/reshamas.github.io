@@ -21,6 +21,7 @@ Here is a list of my favorite data science resources.  If you would like to see 
 * Machine learning
 * Deep learning
 * [Python 2 to Python 3 Reference Guide](python2python3.pdf)
+* SQL tutorials
 
 ## [Dev Ops Tools](https://github.com/reshamas/fastai_deeplearn_part1/tree/master/tools)
 * [Git](https://github.com/reshamas/git-intro-workshop)
