@@ -23,10 +23,8 @@ comments: false
 ## Management
 - [Why Great Employees Quit -- Instead of Admitting They Are Unhappy](https://www.forbes.com/sites/lizryan/2018/05/14/why-great-employees-quit-instead-of-admitting-theyre-unhappy/#6c198726446e)
 
-## Emails
-- [Email Requests](http://www.businessinsider.com/10-ways-to-say-no-when-someone-asks-you-to-grab-coffee-sometime-2012-1#9-yes-theyre-asking-for-your-time-but-stop-being-such-a-dick-about-it-other-people-gave-you-their-time-when-you-were-wandering-around-hat-in-hand-so-its-time-to-return-the-favor-tell-them-you-can-give-them-20-minutes-in-your-office-unless-theyre-selling-something-in-that-case-tell-them-to-get-lost-9)
-
 ## Communication
+- [Email Requests](http://www.businessinsider.com/10-ways-to-say-no-when-someone-asks-you-to-grab-coffee-sometime-2012-1#9-yes-theyre-asking-for-your-time-but-stop-being-such-a-dick-about-it-other-people-gave-you-their-time-when-you-were-wandering-around-hat-in-hand-so-its-time-to-return-the-favor-tell-them-you-can-give-them-20-minutes-in-your-office-unless-theyre-selling-something-in-that-case-tell-them-to-get-lost-9)
 - [The Agony of the Digital Tease](https://www.nytimes.com/2016/07/10/fashion/dating-text-messages-breadcrumbing.html)
 
 ## Work Culture
