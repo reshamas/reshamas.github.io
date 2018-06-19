@@ -26,6 +26,9 @@ comments: false
 ## Emails
 - [Email Requests](http://www.businessinsider.com/10-ways-to-say-no-when-someone-asks-you-to-grab-coffee-sometime-2012-1#9-yes-theyre-asking-for-your-time-but-stop-being-such-a-dick-about-it-other-people-gave-you-their-time-when-you-were-wandering-around-hat-in-hand-so-its-time-to-return-the-favor-tell-them-you-can-give-them-20-minutes-in-your-office-unless-theyre-selling-something-in-that-case-tell-them-to-get-lost-9)
 
+## Communication
+- [The Agony of the Digital Tease](https://www.nytimes.com/2016/07/10/fashion/dating-text-messages-breadcrumbing.html)
+
 ## Work Culture
 - [Work is Not Your Family](https://the-pastry-box-project.net/mandy-michael/2018-february-4)
 - [How Organizations Enable Bad Behavior](https://www.linkedin.com/pulse/how-organizations-enable-bad-behavior-susan-ways-sphr/)
