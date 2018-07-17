@@ -19,6 +19,9 @@ comments: false
     > A possible solution, and one that I’ve adopted in my own life, is to put a healthy separation between you and the products of you. I changed my vocabulary to reflect this mental shift. At conferences, instead of saying, “In this paper, I argue . . .,” I began to say “This paper argues . . .”
     3.  Build up your empathy muscle
     4.  Get out of your echo chamber
+
+- [The Tipping Point When Minority Views Take Over](https://www.theatlantic.com/science/archive/2018/06/the-tipping-point-when-minority-views-take-over/562307/)
+    
     
 ## Management
 - [Why Great Employees Quit -- Instead of Admitting They Are Unhappy](https://www.forbes.com/sites/lizryan/2018/05/14/why-great-employees-quit-instead-of-admitting-theyre-unhappy/#6c198726446e)
