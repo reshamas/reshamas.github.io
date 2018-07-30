@@ -106,3 +106,5 @@ Here is a sample list of other [data science competitions](https://github.com/re
 
 [A Very Short History of Data Science](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/#2dbc356155cf), 2013
 
+## Translation Note  
+This blog is available in [Mandarin translation.](https://www.jqr.com/article/000380)
