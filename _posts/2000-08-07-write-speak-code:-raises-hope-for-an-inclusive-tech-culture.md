@@ -65,7 +65,6 @@ This was the most inclusive, welcoming conference I have ever attended.  I had n
 - Sign language interpreters
 - Seats for mobility impaired were reserved in the front of the room
 - Scholarships were awarded based on need and impact, including some need-based travel stipends
-- Photographer was available to take headshots
 
 
 ## My Experience
