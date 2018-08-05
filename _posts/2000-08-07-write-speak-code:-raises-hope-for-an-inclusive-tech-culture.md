@@ -28,10 +28,35 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 
 ---
 ## What Makes Write/Speak/Code Awe-inspiring
-While there are storms raging in Silicon Valley and throughout the nation on sexual harassment in tech, the diversity deficit in STEM fields, lack of advancement of women and underrepresented groups, the abysmal diversity statistics at the top tech companies, there is a group that is not waiting for diversity, inclusiveness and career advancement to be handed to them on a platter.  They are not waiting for "their time."  They are seizing the 
+While there are storms raging in Silicon Valley and throughout the nation on sexual harassment in tech, the diversity deficit in STEM fields, lack of advancement of women and underrepresented groups, the abysmal diversity statistics at the top tech companies, there is a group that is not waiting for diversity, inclusiveness and career advancement to be handed to them on a platter.  They are not waiting for "their time"  They have explored what their needs are, examined how others are succeeding, and encouraging everyone to share their expertise and inspire and support others. 
 
 
+## What Makes Write/Speak/Code Inclusive
 
+- Code of Conduct
+  - reviewed each morning of the conference
+  - on-site representatives available to discuss any concerns or violations
+- Language
+  - gender inclusive language was explained, examples were given
+  - Personally, it was terrific to be at an event where I did not have to hear "You guys..."
+  - any misstep of language use was acknowledged
+  - ableist language was explained, including its impact, examples were given 
+- Gender Pronouns
+  - buttons provided for pronouns
+  - all speakers introduced themselves with their pronoun
+- Tshirts
+  - t-shirts were available for **women's cut** in different sizes 
+- Quiet Rooms
+- Lactation Rooms
+- Childcare
+- Transportation provided for attendees with mobility needs to the nearby venues for breakout sessions.
+- Food
+  - there were options for vegan, halal, dairy-free, gluten-free
+  - attendees with dietary restrictions were permitted to get their food first, so they would have the opportunity to get what they needed
+- Gender neutral bathrooms were available
+- Sign language interpreters
+- Seats for mobility impaired were reserved in the front of the room
+- Scholarships were awarded based on need and impact, including some need-based travel stipends
 
 ---
 # Tweets
