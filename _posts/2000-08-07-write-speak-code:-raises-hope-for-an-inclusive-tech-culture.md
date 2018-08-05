@@ -90,6 +90,11 @@ Past conferences info is available here for reference:
 
 ## Mindfulness
 <p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mindfulness Your Way Through the Maelstrom by <a href="https://twitter.com/codermeow?ref_src=twsrc%5Etfw">@codermeow</a> <br>- mindfulness: non judgmental awareness<br>- builds self confidence <br>- how you respond to things will change <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> <a href="https://twitter.com/Slalom?ref_src=twsrc%5Etfw">@Slalom</a> <a href="https://t.co/KKLUVsq3Vn">pic.twitter.com/KKLUVsq3Vn</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1025815558812585985?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s important to enjoy the moment, b/c many of the people who came before us didn&#39;t have the privilege of enjoying the present. They had to spend too much of the time fighting.<br><br>We owe it to our ancestors and our predecessors to enjoy our lives fully.<br>-- <a href="https://twitter.com/codermeow?ref_src=twsrc%5Etfw">@codermeow</a> <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/Y4SbbJjzl3">pic.twitter.com/Y4SbbJjzl3</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025827234886701056?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
