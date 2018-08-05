@@ -1,4 +1,3 @@
-<img src="../assets/images/wsc_2018.jpg" align="center" width="400" height="300"> 
 
 <img src="../assets/images/wsc_2018.jpg" align="center" > 
 
