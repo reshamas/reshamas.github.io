@@ -28,7 +28,7 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 
 ---
 ## What Makes Write/Speak/Code Awe-inspiring
-While there are storms raging in Silicon Valley and throughout the nation on sexual harassment in tech, the diversity deficit in STEM fields, lack of advancement of women and underrepresented groups, the abysmal diversity statistics at the top tech companies, there is a group that is not waiting for diversity, inclusiveness and career advancement to be handed to them on a platter.  They are not waiting for "their time" to arrive.  They have explored what their needs are, examined how others are succeeding, have built an inclusive environment and encouraging everyone to share their expertise and inspire and support others; their taglines are **Own Your Expertise!** and **Speak Your Truth!**
+While there are storms raging in Silicon Valley and throughout the nation on sexual harassment in tech, the diversity deficit in STEM fields, lack of advancement of women and underrepresented groups, the abysmal diversity statistics at the top tech companies, there is a group that is not waiting for diversity, inclusiveness and career advancement to be handed to them on a platter.  They are not waiting for "their time" to arrive.  They have explored what their needs are, examined how others are succeeding, have built an inclusive environment and encourage people to share their expertise and inspire and support others; their taglines are **Own Your Expertise!** and **Speak Your Truth!**
 
 
 ## What Makes Write/Speak/Code Inclusive
