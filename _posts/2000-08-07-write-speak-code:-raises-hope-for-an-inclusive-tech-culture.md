@@ -66,7 +66,9 @@ This was the most inclusive, welcoming conference I have ever attended.  I had n
 
 
 ## My Experience
-This was my first time attending a WSC national conference.  I am grateful to have received one of the scholarships and that it was located in a venue that accessible to me.  As someone who cannot eat dairy, I was thankful that there were appropriate food options available.  Although it was generous of WSC to offer Lyft service for mobility impaired attendees to go to the outside venues, since I recently had ankle surgery, I chose to stay in the main venue at Microsoft and attend the Explorations Track.  I tried to attend as much of the conference as I was able to, with my ankle healing.  I did not attend for the full days and missed all the evening events.
+This was my first time attending a WSC national conference.  I am grateful to have received one of the scholarships and that it was located in a venue that accessible to me.  As someone who cannot eat dairy, I was thankful that there were appropriate food options available.  Although it was generous of WSC to offer Lyft service for mobility impaired attendees to go to the outside venues, since I recently had ankle surgery, I chose to stay in the main venue at Microsoft and attend the Explorations Track.  I tried to attend as much of the conference as I was able to, with my ankle healing.  I did not attend for the full days and skipped all the evening events.
+
+### Networking
 
 Since I am local to New York City, I saw many familiar faces.  During many of the talks, we were asked to partner up to do exercises and encouraged to speak to someone we had not prior.  As an introvert, I appreciated the nudge to meet and speak to others.  I met amazing women and non-binary folks from Portland, Seattle, Chicago, Toronto, St. Louis and more.  I met a few data scientists, but primarily the attendees were developers and software engineers.  It was good to expand my network and meet so many inspiring and ambitious coders from all walks of tech.  I learned about topics that we don't even touch upon in data science such as mentorship and asking for feedback.  
 
@@ -74,11 +76,16 @@ I was pleasantly surprised to discover that many topics I had explored privately
 - Rockstars at Work, aka "Toxic Workers" - seems like we have all had that experience
 - Onboarding - helping new employees as well as asking for help when we are the *new employee*
 - Mindfulness - how just being aware can impact our actions
-- Getting feedback from co-workers, that is **A**ctionable, **S**pecific and **K**ind.  They also mention that the feedback spotlight technical skills
-- Self-care - balancing work, not having our entire lives revolve around tech and that's it ok and encouraged to have other passions
+- Getting feedback from co-workers, that is **A**ctionable, **S**pecific and **K**ind.  
+  - They also mention that the feedback spotlight technical skills
+  - is.gd/feedback_wsc links to a worksheet for feedback
+- Self-care - balancing work, not having our entire lives revolve around tech and that it is ok and encouraged to have other passions
 - Getting Promoted - being visible at work, speaking up, asking directly for promotion requirements, delivering and following up
 - Conflict - communicating
 
+## Supporting Write/Speak/Code
+
+The [WSC Sponsorship Prospectus](https://www.writespeakcode.com/assets/WSC-SponsorshipProspectus-2018.pdf) is available online for corporate sponsors.  Individuals can donate via [Patreon](https://www.patreon.com/writespeakcode).
 
 
 ---
