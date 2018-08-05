@@ -1,3 +1,11 @@
+
+<p float="left">
+  <img src="../assets/images/wsc_2018.jpg" width="100" />
+  <img src="../assets/images/wsc_2018.jpg" width="100" /> 
+</p>
+<p>
+</p>
+
 <div class="column">
   <div class="column">
     <img src="../assets/images/wsc_2018.jpg" alt="Snow" style="width:50%">
