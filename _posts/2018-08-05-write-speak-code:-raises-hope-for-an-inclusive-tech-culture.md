@@ -69,7 +69,7 @@ This was the most inclusive, welcoming conference I have ever attended.  I had n
 - Microphone
   - use of microphones was required for all speakers
   - all speakers had been instructed on how to effectively use a microphone so attendees could hear theme
-  - questions from the audience were either spoken into microphone my asker, or repeated by the stage speaker
+  - questions from the audience were either spoken into microphone by asker, or repeated by the stage speaker
 - Communicating with Others
   - give others a chance to speak and finish what they have to say
   - encourage listening; then asking "Do you want me to listen or also respond?"
