@@ -1,7 +1,5 @@
 <img src="../assets/images/wsc_2018.jpg" align="center" width="300" height="240"> 
 
-
-
 ## About [Write/Speak/Code](https://www.writespeakcode.com)
 Write/Speak/Code (WSC) was founded in 2013 by [Rebecca Miller-Webster](https://www.linkedin.com/in/rjmillerwebster/) ([@rmillerwebster](https://twitter.com/rmillerwebster)).  Its mission is to increase the visibility and leadership of **women and non-binary** coders through:  
 - thought leadership
@@ -16,7 +14,8 @@ Write/Speak/Code (WSC) was founded in 2013 by [Rebecca Miller-Webster](https://w
 The fifth annual [WSC conference](http://www.writespeakcode.com/2018/) was held in New York City at the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc/locations/new-york.aspx) on August 1-4, 2018.  
 
 ### Conference Organizers - It Takes A Village
-This conference was organized by dozens of people who gave hours of their personal time to make the conference possible.  Conference tickets are priced from $100 to $600 for the 4-day conference with ranged from 
+Conference tickets are priced from $100 to $600 for the 4-day conference.  These registration fees are mimimal compared to the actual cost of the conference.  This conference was organized by dozens of people ("volunteers") who gave hours of their personal time to make the conference possible.  Sponsors also donate to cover the cost of venue, food, childcare, sign language interpreter and more. 
+
 <br>
 
 <p>
