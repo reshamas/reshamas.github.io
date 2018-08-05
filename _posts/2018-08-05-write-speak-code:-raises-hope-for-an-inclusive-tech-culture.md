@@ -133,7 +133,8 @@ Individuals can donate via:
 
 
 ---
-# Tweets
+# Twitter Highlights
+
 Twitter was rocking at this conference!  It's also a convenient way to get to know others, access resources and take notes.  Since not everyone can attend this national conference, the live-tweeting made the conference accessible to folks around the world.  I share the sentiment of the below tweeter.  In this section, I share some of my favorite tweets from the conference.  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Super thankful for all you livetweeters out there. You&#39;re helping those of us who can&#39;t join in on these great conversations! <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> <a href="https://twitter.com/hashtag/jsm2018?src=hash&amp;ref_src=twsrc%5Etfw">#jsm2018</a> <a href="https://twitter.com/hashtag/useR2018?src=hash&amp;ref_src=twsrc%5Etfw">#useR2018</a></p>&mdash; Elan Simon Parsons 🔎 (@daoteajing) <a href="https://twitter.com/daoteajing/status/1025054583536734209?ref_src=twsrc%5Etfw">August 2, 2018</a></blockquote>
