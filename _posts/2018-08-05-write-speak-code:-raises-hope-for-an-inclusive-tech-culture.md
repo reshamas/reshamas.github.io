@@ -115,6 +115,7 @@ There were breakout sessions on these topics as well:
 - Publishing a book
 - Open source
 - Jewelry making
+- Investing, Venture Capital
 - and more
 
 ## Supporting Write/Speak/Code
