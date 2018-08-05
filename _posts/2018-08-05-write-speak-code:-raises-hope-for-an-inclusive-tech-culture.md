@@ -15,7 +15,14 @@
 - personal growth
 - self-care
 
-They currently have [5 meetup chapters](https://www.meetup.com/pro/writespeakcode) in the following United States cities:  [Chicago](https://www.meetup.com/WriteSpeakCode-Chicago/), [Los Angeles](https://www.meetup.com/Write-Speak-Code-Los-Angeles/), [New York](https://www.meetup.com/Write-Speak-Code-NYC/), [Seattle](https://www.meetup.com/WSC-Seattle/) and the [San Francisco Bay Area](https://www.meetup.com/WriteSpeakCode-SFBay/). If you live in a city that is not represented, and you would like to start a chapter, email `info@writespeakcode.com`
+They currently have [5 meetup chapters](https://www.meetup.com/pro/writespeakcode) in the following United States cities:  
+- [Chicago](https://www.meetup.com/WriteSpeakCode-Chicago/)
+- [New York](https://www.meetup.com/Write-Speak-Code-NYC/)
+- [Seattle](https://www.meetup.com/WSC-Seattle/)
+- [San Francisco Bay Area](https://www.meetup.com/WriteSpeakCode-SFBay/)
+- [Los Angeles](https://www.meetup.com/Write-Speak-Code-Los-Angeles/)
+
+If you live in a city that is not represented, and you would like to start a chapter, email `info@writespeakcode.com`
 
 ## WSC 2018 Conference
 
