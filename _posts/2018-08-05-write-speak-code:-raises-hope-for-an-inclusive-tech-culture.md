@@ -54,7 +54,7 @@ This was the most inclusive, welcoming conference I have ever attended.  I had n
   - organizers were from all underrepresented groups
 - Diversity of Speakers
   - speakers were women or binary people
-  - women of color were well represented on stage
+  - women of color were well-represented on stage
 - Language
   - gender inclusive language was explained, examples were given
   - Personally, it was terrific to be at an event where I did not have to hear "You guys..."
