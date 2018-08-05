@@ -73,7 +73,9 @@ This was the most inclusive, welcoming conference I have ever attended.  I had n
   - at the end of each day there were feedback forms 
 - Networking
   - Slack was available to communicate with conference organizers as well as attendees
-
+- Lap Desks
+  - lap desks were available to make working on the computer easier
+  
 ## My Experience
 This was my first time attending a WSC national conference.  I am grateful to have received one of the scholarships and that it was located in a venue that accessible to me.  As someone who cannot eat dairy, I was thankful that there were appropriate food options available.  Although it was generous of WSC to offer Lyft service for mobility impaired attendees to go to the outside venues, since I recently had ankle surgery, I chose to stay in the main venue at Microsoft and attend the Explorations Track.  I tried to attend as much of the conference as I was able to, with my ankle healing.  I did not attend for the full days and skipped all the evening events.
 
