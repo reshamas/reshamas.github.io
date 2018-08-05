@@ -75,7 +75,7 @@ This was the most inclusive, welcoming conference I have ever attended.  I had n
   - encourage listening; then asking "Do you want me to listen or also respond?"
   - prefer shared experience over advice ("should")
 - Tshirts
-  - t-shirts were available for **women's cut** in different sizes 
+  - t-shirts were available in **women's cut** and in different sizes 
 - Quiet Rooms
 - Lactation Rooms
 - Childcare
