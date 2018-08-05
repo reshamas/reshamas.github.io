@@ -37,6 +37,9 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 <p>
 <img src="../assets/images/wsc_survival.png" align="center"> 
 </p>
+<p>
+<img src="../assets/images/wsc_organizers.png" align="center"> 
+</p>
 
 While reports and laments of lack of diversity in tech are plentiful, actions that propel change are more meaningful and helpful.  The *disruption* in tech has recently been in acknowledging the problems:  Silicon Valley and throughout the nation on sexual harassment in tech, the diversity deficit in STEM fields, lack of advancement of women and underrepresented groups, the abysmal diversity statistics at the top tech companies.  However, there is a group that is not waiting for diversity, inclusiveness and career advancement to be handed to them on a platter.  They are not waiting for "their time" to arrive.  They have explored what their needs are, examined how others are succeeding, have built an inclusive environment and encourage people to share their expertise and inspire and support others; their taglines are **Own Your Expertise!** and **Speak Your Truth!**
 
