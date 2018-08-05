@@ -34,6 +34,9 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 
 ---
 ## What Makes Write/Speak/Code Awe-inspiring
+<p>
+<img src="../assets/images/wsc_survival.png" align="center"> 
+</p>
 
 While reports and laments of lack of diversity in tech are plentiful, actions that propel change are more meaningful and helpful.  The *disruption* in tech has recently been in acknowledging the problems:  Silicon Valley and throughout the nation on sexual harassment in tech, the diversity deficit in STEM fields, lack of advancement of women and underrepresented groups, the abysmal diversity statistics at the top tech companies.  However, there is a group that is not waiting for diversity, inclusiveness and career advancement to be handed to them on a platter.  They are not waiting for "their time" to arrive.  They have explored what their needs are, examined how others are succeeding, have built an inclusive environment and encourage people to share their expertise and inspire and support others; their taglines are **Own Your Expertise!** and **Speak Your Truth!**
 
@@ -97,7 +100,7 @@ Since I am local to New York City, I saw many familiar faces.  During many of th
 
 ### The Important Stuff
 I was pleasantly surprised to discover that many topics I had explored privately via google searches were discussed openly in a room full of hundreds of women and non-binary people!  Those topics include:
-- Rockstars at Work, aka "Toxic Workers":  seems like we have all had that experience
+- Rockstars at Work, aka "Toxic Workers":  Ann Guilinger's [(@aguinlinger)](https://twitter.com/AGuilinger) talk on surviving toxic co-workers was enlightening and hopeful
 - Onboarding:  helping new employees as well as asking for help when we are the *new employee*
 - Mindfulness:  how just being aware can impact our actions
 - Getting Feedback:  from co-workers, that is **A**ctionable, **S**pecific and **K**ind.  
