@@ -155,7 +155,7 @@ Twitter was rocking at this conference!  It's also a convenient way to get to kn
   
 
 
-## Getting Promoted
+## Getting Promoted / Building a Career
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">⚡️ KEEP ⚡️ RECEIPTS⚡️<br>Show your manager the things you’ve done. Find a way to make these receipts public, like through blog posts.<br>⚡️ GET ⚡️ THAT ⚡️ VISIBILITY ⚡️ IN ⚡️ THE ⚡️ COMPANY<br>- Career Growth and Performance Reviews panel <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/CDELTDzJ5m">pic.twitter.com/CDELTDzJ5m</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025074607710240768?ref_src=twsrc%5Etfw">August 2, 2018</a></blockquote>
@@ -164,6 +164,11 @@ Twitter was rocking at this conference!  It's also a convenient way to get to kn
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">💯 career advice from <a href="https://twitter.com/whereistanya?ref_src=twsrc%5Etfw">@whereistanya</a>: <br>1) Ask your manager “What do I need to do to exceed expectations?” <br>2) Send an email afterwards saying “Here’s what we discussed I needed to work on to be on track to be promoted in 9 months”<a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1025053020860624901?ref_src=twsrc%5Etfw">August 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Carolyn Van Slyck of <a href="https://twitter.com/Microsoft?ref_src=twsrc%5Etfw">@Microsoft</a><br>- quit a toxic job<br>- relied on “F*uck It Fund”<br>- followed people on twitter and asked for job<br>- went to job and asked to do things, such as public speaking &amp; more<br>- owned her expertise<br>- loves mentoring &amp; being an advocate <a href="https://twitter.com/hashtag/WSC2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018conf</a> <a href="https://t.co/ayH5hjORFb">pic.twitter.com/ayH5hjORFb</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1025021766450733057?ref_src=twsrc%5Etfw">August 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
