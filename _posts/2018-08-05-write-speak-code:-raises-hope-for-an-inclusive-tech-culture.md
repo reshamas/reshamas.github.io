@@ -92,6 +92,8 @@ I was pleasantly surprised to discover that many topics I had explored privately
 
 ### The Technical Stuff
 There were breakout sessions on these topics as well:
+- Blogging
+- Submitting a CFP Proposal
 - Podcasting
 - Publishing a book
 - Open source
