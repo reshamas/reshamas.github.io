@@ -1,7 +1,7 @@
 
 <p float="left">
-  <img src="../assets/images/wsc_2018.jpg" width="100" />
-  <img src="../assets/images/wsc_2018.jpg" width="100" /> 
+  <img src="../assets/images/wsc_2018.jpg" style="width:50%"/>
+  <img src="../assets/images/wsc_2018.jpg" style="width:50%" /> 
 </p>
 <p>
 </p>
