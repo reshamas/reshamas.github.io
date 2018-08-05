@@ -97,7 +97,7 @@ This was my first time attending a WSC national conference.  I am grateful to ha
 
 ### Networking
 
-Since I am local to New York City, I saw many familiar faces.  During many of the talks, we were asked to partner up to do exercises and encouraged to speak to someone new.  As an introvert, I appreciated the nudge to meet and speak to others.  I met amazing women and non-binary folks from Portland, Seattle, Chicago, Toronto, St. Louis, Boston and more.  I met a few data scientists, but primarily the attendees were developers and software engineers.  It was good to expand my network and meet so many inspiring and ambitious coders from all walks of tech.  I learned about topics that we don't even touch upon in data science such as mentorship and asking for feedback.  
+Since I live in New York City, I saw many familiar faces from the local meetup community.  During many of the talks, we were asked to partner up to do exercises and encouraged to speak to someone new.  As an introvert, I appreciated the nudge to meet and speak to others.  I met amazing women and non-binary folks from Portland, Seattle, Chicago, Toronto, St. Louis, Boston and more.  I met a few data scientists, but primarily the attendees were developers and software engineers.  It was good to expand my network and meet so many inspiring and ambitious coders from all walks of tech.  I learned about topics that we don't even touch upon in data science such as mentorship and asking for feedback.  
 
 ### The Important Stuff
 I was pleasantly surprised to discover that many topics I had explored privately via google searches were discussed openly in a room full of hundreds of women and non-binary people!  Those topics include:
