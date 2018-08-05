@@ -126,6 +126,7 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 </p>
 
 ## Feedback
+- [Feedback Worksheet](https://docs.google.com/document/d/1HHQZeGQSod8JRN1aiKzjqUb3kqC8WwCMSZe1YQ3gp_Y/edit)
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">*internal screaming*<br><br>Tips to give better feedback:<br><br>* Feedback should be actionable, specific, and kind<br>* Feedback should be relevant to your actual role, not about extraneous things like personality or cleanliness<br>* Kind feedback that is not actionable is useless<a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/CRuLHq5E1o">https://t.co/CRuLHq5E1o</a></p>&mdash; Catt Small (@cattsmall) <a href="https://twitter.com/cattsmall/status/1025837890075615232?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
