@@ -41,6 +41,16 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
   
 ## Toxic "Rockstar" Co-workers
 <p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t pull the ladder up behind you, celebrate when people get to where you got faster, be happy that you created a path and provided the tools! <a href="https://twitter.com/hashtag/WSC2018?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018</a></p>&mdash; Ann Guilinger @ Write/Speak/Code NYC (@AGuilinger) <a href="https://twitter.com/AGuilinger/status/1025509916927303680?ref_src=twsrc%5Etfw">August 3, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p> 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Surviving &#39;Rockstar&#39; Programmers by <a href="https://twitter.com/AGuilinger?ref_src=twsrc%5Etfw">@AGuilinger</a> <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> <a href="https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnotes</a> <a href="https://t.co/rtdOCBIh8n">pic.twitter.com/rtdOCBIh8n</a></p>&mdash; Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/1025760044581904384?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p> 
+
+<p>  
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Toxic &quot;rockstar&quot; coworkers, even if theyre super performers, arent worth it to org - <a href="https://twitter.com/AGuilinger?ref_src=twsrc%5Etfw">@AGuilinger</a><br>Ways to survive<br>🔍 Focus on yourself<br>⛑ Protect the team<br>😔 Have empathy<br>🛠️ Fix cultural flaws<br>🗣 Tell others<br>💬 Have difficult conversations<br>💆💆‍♂️ Stress mgmt<br> <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/8Y2qCm22nN">pic.twitter.com/8Y2qCm22nN</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025761482762592259?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
