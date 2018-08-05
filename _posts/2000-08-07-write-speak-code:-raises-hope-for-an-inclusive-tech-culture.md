@@ -74,6 +74,12 @@ Past conferences info is available here for reference:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The audience jotting down notes about how it’s okay to not have passion for coding outside of work, despite what the tech industry says. You love your work, that’s great, but what else do you love? It&#39;s okay to divert that passion to another personal interest. <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/dR9pKgsfeB">pic.twitter.com/dR9pKgsfeB</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1024739010420387845?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Mindfulness
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s important to enjoy the moment, b/c many of the people who came before us didn&#39;t have the privilege of enjoying the present. They had to spend too much of the time fighting.<br><br>We owe it to our ancestors and our predecessors to enjoy our lives fully.<br>-- <a href="https://twitter.com/codermeow?ref_src=twsrc%5Etfw">@codermeow</a> <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/Y4SbbJjzl3">pic.twitter.com/Y4SbbJjzl3</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025827234886701056?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 ### Onboarding
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Solutions for onboarding and welcoming a junior dev:<br>Managers: mentorship program + career ladders<br>Teammates: say hi + check in + offer to pair<br>Junior Devs: update documentation for future jr devs<a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/v7jSO2KYHv">pic.twitter.com/v7jSO2KYHv</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025824859547480064?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
