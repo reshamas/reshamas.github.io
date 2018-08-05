@@ -9,7 +9,7 @@
 - personal growth
 - self-care
 
-They currently have [5 chapters](https://www.meetup.com/pro/writespeakcode) in the following United States cities:  Chicago, Los Angeles, New York City, Seattle and the San Francisco Bay Area. If you live in a city that is not represented, and you would like to start a chapter, email `info@writespeakcode.com`.
+They currently have [5 chapters](https://www.meetup.com/pro/writespeakcode) in the following United States cities:  Chicago, Los Angeles, New York City, Seattle and the San Francisco Bay Area. If you live in a city that is not represented, and you would like to start a chapter, email `info@writespeakcode.com`
 
 ## WSC 2018 Conference
 
