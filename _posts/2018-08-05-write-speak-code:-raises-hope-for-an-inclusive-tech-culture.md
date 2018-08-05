@@ -101,7 +101,7 @@ Since I live in New York City, I saw many familiar faces from the local meetup c
 
 ### The Important Stuff
 I was pleasantly surprised to discover that many topics I had explored privately via google searches were discussed openly in a room full of hundreds of women and non-binary people!  Those topics include:
-- Rockstars at Work, aka "Toxic Workers":  Ann Guilinger's [(@aguinlinger)](https://twitter.com/AGuilinger) talk on surviving toxic co-workers was enlightening and hopeful
+- Rockstars at Work, aka "Toxic Workers":  Ann Guilinger's ([@aguinlinger](https://twitter.com/AGuilinger)) talk on surviving toxic co-workers was enlightening and hopeful
 - Onboarding:  helping new employees as well as asking for help when we are the *new employee*
 - Mindfulness:  how just being aware can impact our actions
 - Getting Feedback:  from co-workers, that is **A**ctionable, **S**pecific and **K**ind.  
@@ -109,7 +109,7 @@ I was pleasantly surprised to discover that many topics I had explored privately
   - there is a worksheet for [feedback](is.gd/feedback_wsc)
 - Self-care:  balancing work, not having our entire lives revolve around tech and that it is ok and encouraged to have other passions
 - Getting Promoted:  being visible at work, speaking up, asking directly for promotion requirements, delivering and following up
-- Conflict:  communicating and emotions in the workplace
+- Conflict:  communicating and emotions in the workplace, by Lara Hogan ([@lara_hogan](@lara_hogan))
 
 ### The Technical Stuff
 There were breakout sessions on these topics as well:
