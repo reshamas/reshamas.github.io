@@ -76,8 +76,9 @@ Since I am local to New York City, I saw many familiar faces.  During many of th
 ---
 # Tweets
 
-<a class="twitter-grid" href="https://twitter.com/TwitterDev/timelines/539487832448843776?ref_src=twsrc%5Etfw">National Park Tweets</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-grid" href="https://twitter.com/i/moments/1026123619242582016">WSC Inclusivity</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+https://twitter.com/i/moments/1026123619242582016
 
 ## Diversity, Inclusion and Equity
 
