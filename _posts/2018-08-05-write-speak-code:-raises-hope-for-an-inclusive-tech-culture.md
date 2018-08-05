@@ -36,7 +36,8 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 
 ---
 ## Conference Content 
-- All [Conference Slides](https://github.com/WriteSpeakCode/wsc-resources/tree/master/conference/2018-conference/slides) are available on GitHub.  The talks were not video-recorded.  
+- Conference [schedule](http://www.writespeakcode.com/2018/schedule.html) of speakers and talk titles
+- All conference [slides](https://github.com/WriteSpeakCode/wsc-resources/tree/master/conference/2018-conference/slides) are available on GitHub.  The talks were not video-recorded.  
 - Twitter hashtag is [#wsc2018conf](https://twitter.com/hashtag/wsc2018conf?vertical=default&src=hash)
 
 ---
