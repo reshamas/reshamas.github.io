@@ -58,6 +58,10 @@ This was the most inclusive, welcoming conference I have ever attended.  I had n
 - Microphone
   - use of microphones was required for all speakers
   - all speakers had been instructed on how to effectively use a microphone so attendees could hear them
+- Communicating with Others
+  - give others a chance to speak and finish what they have to say
+  - encourage listening; then asking "Do you want me to listen or also respond?"
+  - prefer shared experience over advice ("should")
 - Tshirts
   - t-shirts were available for **women's cut** in different sizes 
 - Quiet Rooms
