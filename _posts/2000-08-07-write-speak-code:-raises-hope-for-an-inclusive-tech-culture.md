@@ -19,12 +19,12 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 <img src="../assets/images/wsc_organizers.png" align="center"> 
 </p>
 
-
+---
 ## Conference Slides :star:
 
 [Conference Slides](https://github.com/WriteSpeakCode/wsc-resources/tree/master/conference/2018-conference/slides)
 
-
+---
 # Tweets
 
 ## Dietary Restrictions
@@ -71,6 +71,12 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">💯 career advice from <a href="https://twitter.com/whereistanya?ref_src=twsrc%5Etfw">@whereistanya</a>: <br>1) Ask your manager “What do I need to do to exceed expectations?” <br>2) Send an email afterwards saying “Here’s what we discussed I needed to work on to be on track to be promoted in 9 months”<a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1025053020860624901?ref_src=twsrc%5Etfw">August 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+### On Being "Glue"
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Slides from my <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> talk on Being Glue:<a href="https://t.co/ZAlBZmdjj8">https://t.co/ZAlBZmdjj8</a></p>&mdash; Tanya Reilly (@whereistanya) <a href="https://twitter.com/whereistanya/status/1025191765362597888?ref_src=twsrc%5Etfw">August 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
