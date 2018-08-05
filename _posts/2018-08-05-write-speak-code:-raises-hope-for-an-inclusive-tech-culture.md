@@ -120,7 +120,12 @@ There were breakout sessions on these topics as well:
 
 ## Supporting Write/Speak/Code
 
-The [WSC Sponsorship Prospectus](https://www.writespeakcode.com/assets/WSC-SponsorshipProspectus-2018.pdf) is available online for corporate sponsors.  Individuals can donate via [Patreon](https://www.patreon.com/writespeakcode).
+The [WSC Sponsorship Prospectus](https://www.writespeakcode.com/assets/WSC-SponsorshipProspectus-2018.pdf) is available online for corporate sponsors.  
+
+Individuals can donate via:  
+- [Patreon](https://www.patreon.com/writespeakcode)
+- [Paypal](https://www.paypal.me/writespeakcode)
+- Venmo:  @writespeakcode
 
 
 ---
