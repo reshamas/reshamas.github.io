@@ -1,7 +1,7 @@
 <img src="../assets/images/wsc_2018.jpg" align="center" width="300" height="240"> 
 
-## About [Write/Speak/Code](https://www.writespeakcode.com)
-Write/Speak/Code (WSC) was founded in 2013 by [Rebecca Miller-Webster](https://www.linkedin.com/in/rjmillerwebster/) ([@rmillerwebster](https://twitter.com/rmillerwebster)).  Its mission is to increase the visibility and leadership of **women and non-binary** coders through:  
+## About Write/Speak/Code
+[Write/Speak/Code](https://www.writespeakcode.com) (WSC) was founded in 2013 by [Rebecca Miller-Webster](https://www.linkedin.com/in/rjmillerwebster/) ([@rmillerwebster](https://twitter.com/rmillerwebster)).  Its mission is to increase the visibility and leadership of **women and non-binary** coders through:  
 - thought leadership
 - conference speaking
 - open source contributions
