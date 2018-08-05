@@ -55,6 +55,9 @@ This was the most inclusive, welcoming conference I have ever attended.  I had n
 - Food
   - there were options for vegan, halal, dairy-free, gluten-free
   - attendees with dietary restrictions were permitted to get their food first, so they would have the opportunity to get what they needed
+- Microphone
+  - use of microphones was required for all speakers
+  - all speakers had been instructed on how to effectively use a microphone so attendees could hear them
 - Tshirts
   - t-shirts were available for **women's cut** in different sizes 
 - Quiet Rooms
