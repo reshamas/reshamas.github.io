@@ -76,14 +76,6 @@ Since I am local to New York City, I saw many familiar faces.  During many of th
 ---
 # Tweets
 
-<a class="twitter-grid" href="https://twitter.com/reshamas/status/1026124830599471110?ref_src=twsrc%5Etfw">WSC Inclusivity</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-https://twitter.com/i/moments/1026123619242582016
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">⚡️ “<a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> Inclusivity”<a href="https://t.co/Vd7jiCgvAH">https://t.co/Vd7jiCgvAH</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1026124830599471110?ref_src=twsrc%5Etfw">August 5, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 ## Diversity, Inclusion and Equity
 
 <p>
