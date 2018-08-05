@@ -40,6 +40,9 @@ This was the most inclusive, welcoming conference I have ever attended.  I had n
   - on-site representatives available to discuss any concerns or violations
 - Organizers
   - conference organizers wore a sash, and it was was very easy to identify and locate someone to ask questions or for help
+- Diversity
+  - speakers were women or binary people
+  - women of color were well represented on stage
 - Language
   - gender inclusive language was explained, examples were given
   - Personally, it was terrific to be at an event where I did not have to hear "You guys..."
