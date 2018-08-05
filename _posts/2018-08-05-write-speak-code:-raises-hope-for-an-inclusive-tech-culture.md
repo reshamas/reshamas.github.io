@@ -22,7 +22,7 @@ They currently have [5 meetup chapters](https://www.meetup.com/pro/writespeakcod
 The fifth annual [WSC national conference](http://www.writespeakcode.com/2018/) was held in New York City at the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc/locations/new-york.aspx) on August 1-4, 2018.  Multiple [WeWork](https://www.wework.com/l/new-york-city--NY) venues in midtown Manhattan were also utilized for breakout sessions. Over 600 women and non-binary people in tech attended.   
 
 ### Conference Organizers - It Takes A Village
-Conference tickets are priced from $100 to $600 for the 4-day conference.  These registration fees are mimimal compared to the actual cost of the conference.  This conference was organized by dozens of people ("volunteers") who gave hours (days and weeks) of their personal time to make the conference possible.  Sponsors also donate to cover the cost of venue, food, childcare, scholarships, sign language interpreters and more. 
+Conference tickets are priced from $100 to $600 for the 4-day conference.  These registration fees only represent a fraction of the actual cost of the conference.  This conference was organized by dozens of people ("volunteers") who gave hours (days and weeks) of their personal time to make the conference possible.  Sponsors also donate to cover the cost of venue, food, childcare, scholarships, sign language interpreters and more. 
 <p>
 <img src="../assets/images/wsc_organizers.png" align="center"> 
 </p>
