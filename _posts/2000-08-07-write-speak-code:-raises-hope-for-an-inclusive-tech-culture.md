@@ -19,14 +19,8 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 <img src="../assets/images/wsc_organizers.png" align="center"> 
 </p>
 
-### WSC Past Conferences
-Past conferences info is available here for reference:    
-- [2017 in Portland, Oregon](https://2017.writespeakcode.com/index.html)
-- [2016 in Chicago, Illinois](https://2016.writespeakcode.com)
-- [2015 in New York, New York](http://2015.writespeakcode.com) 
-- [2014 in New York, New York](https://ti.to/rmw/writespeakcode-2014/en)
 
-## Key Resources
+## Conference Slides :star:
 
 [Conference Slides](https://github.com/WriteSpeakCode/wsc-resources/tree/master/conference/2018-conference/slides)
 
@@ -123,4 +117,14 @@ Past conferences info is available here for reference:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Everything you want to know about podcasting (but were afraid to ask) by <a href="https://twitter.com/film_girl?ref_src=twsrc%5Etfw">@film_girl</a> <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> <a href="https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnotes</a> <a href="https://t.co/KC6rxxLTzI">pic.twitter.com/KC6rxxLTzI</a></p>&mdash; Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/1025424447258480642?ref_src=twsrc%5Etfw">August 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
+
+---
+
+## WSC Past Conferences
+Past conferences info is available here for reference:    
+- [2017 in Portland, Oregon](https://2017.writespeakcode.com/index.html)
+- [2016 in Chicago, Illinois](https://2016.writespeakcode.com)
+- [2015 in New York, New York](http://2015.writespeakcode.com) 
+- [2014 in New York, New York](https://ti.to/rmw/writespeakcode-2014/en)
+
 
