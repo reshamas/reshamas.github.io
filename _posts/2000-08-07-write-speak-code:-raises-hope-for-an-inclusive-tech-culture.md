@@ -48,6 +48,11 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 ## Diversity, Inclusion and Equity
 
 <p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/WriteSpeakCode?ref_src=twsrc%5Etfw">@WriteSpeakCode</a> is a true example of RADICAL INCLUSION. If you are confused on how to make a conference inclusive to EVERYONE, take some time to learn from this conf! I am so inspired and filled with gratitude. <a href="https://twitter.com/hashtag/WSC2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018conf</a></p>&mdash; Crystal Martin (@codermeow) <a href="https://twitter.com/codermeow/status/1025148796420993024?ref_src=twsrc%5Etfw">August 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Making it inclusive:<br>- sign language interpreter<br>- nursing rooms <br>- childcare<br>- quiet room<br>- gender neutral bathrooms <br>- seats for limited mobility<br>- vegan food options<br>- code of conduct <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/xy5wJsAZ6p">pic.twitter.com/xy5wJsAZ6p</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1024649862657265668?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
