@@ -31,7 +31,7 @@ Past conferences info is available here for reference:
 [Conference Slides](https://github.com/WriteSpeakCode/wsc-resources/tree/master/conference/2018-conference/slides)
 
 
-## Tweets
+# Tweets
 
 ## Dietary Restrictions
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It is 💯 that Write Speak Code has people with dietary restrictions go first in the food line. Often there is little vegan food left by the time I get to the front.<a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a></p>&mdash; Tilde Ann Thurium (@annthurium) <a href="https://twitter.com/annthurium/status/1024713344526282753?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
@@ -42,11 +42,11 @@ Past conferences info is available here for reference:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Love <a href="https://twitter.com/techgirl1908?ref_src=twsrc%5Etfw">@techgirl1908</a>’s four categories of blog outlines. A blank page can be intimidating; following an outline structure can help you get started &amp; make your writing more effective <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/AEdfVLlmyj">pic.twitter.com/AEdfVLlmyj</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1024747996989325314?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Toxic "Rockstar" Co-workers
+## Toxic "Rockstar" Co-workers
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Toxic &quot;rockstar&quot; coworkers, even if theyre super performers, arent worth it to org - <a href="https://twitter.com/AGuilinger?ref_src=twsrc%5Etfw">@AGuilinger</a><br>Ways to survive<br>🔍 Focus on yourself<br>⛑ Protect the team<br>😔 Have empathy<br>🛠️ Fix cultural flaws<br>🗣 Tell others<br>💬 Have difficult conversations<br>💆💆‍♂️ Stress mgmt<br> <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/8Y2qCm22nN">pic.twitter.com/8Y2qCm22nN</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025761482762592259?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Diversity, Inclusion and Equity
+## Diversity, Inclusion and Equity
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Making it inclusive:<br>- sign language interpreter<br>- nursing rooms <br>- childcare<br>- quiet room<br>- gender neutral bathrooms <br>- seats for limited mobility<br>- vegan food options<br>- code of conduct <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/xy5wJsAZ6p">pic.twitter.com/xy5wJsAZ6p</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1024649862657265668?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -58,7 +58,7 @@ Past conferences info is available here for reference:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### Getting Promoted
+## Getting Promoted
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">⚡️ KEEP ⚡️ RECEIPTS⚡️<br>Show your manager the things you’ve done. Find a way to make these receipts public, like through blog posts.<br>⚡️ GET ⚡️ THAT ⚡️ VISIBILITY ⚡️ IN ⚡️ THE ⚡️ COMPANY<br>- Career Growth and Performance Reviews panel <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/CDELTDzJ5m">pic.twitter.com/CDELTDzJ5m</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025074607710240768?ref_src=twsrc%5Etfw">August 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -66,34 +66,35 @@ Past conferences info is available here for reference:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### Self Care
-
+## Self Care
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">. <a href="https://twitter.com/MinaMarkham?ref_src=twsrc%5Etfw">@MinaMarkham</a> is giving the most excruciatingly vulnerable talk I have ever witnessed at a “tech” conference, and I feel so grateful to have participated in creating the space to make it possible. <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> ❤️ This is why we do the work.</p>&mdash; Lateesha Thomas (@lateeshathomas) <a href="https://twitter.com/lateeshathomas/status/1024661689000701952?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+</p>
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The audience jotting down notes about how it’s okay to not have passion for coding outside of work, despite what the tech industry says. You love your work, that’s great, but what else do you love? It&#39;s okay to divert that passion to another personal interest. <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/dR9pKgsfeB">pic.twitter.com/dR9pKgsfeB</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1024739010420387845?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-### Mindfulness
+</p>
+## Mindfulness
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s important to enjoy the moment, b/c many of the people who came before us didn&#39;t have the privilege of enjoying the present. They had to spend too much of the time fighting.<br><br>We owe it to our ancestors and our predecessors to enjoy our lives fully.<br>-- <a href="https://twitter.com/codermeow?ref_src=twsrc%5Etfw">@codermeow</a> <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/Y4SbbJjzl3">pic.twitter.com/Y4SbbJjzl3</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025827234886701056?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-### Onboarding
+## Onboarding
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Solutions for onboarding and welcoming a junior dev:<br>Managers: mentorship program + career ladders<br>Teammates: say hi + check in + offer to pair<br>Junior Devs: update documentation for future jr devs<a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/v7jSO2KYHv">pic.twitter.com/v7jSO2KYHv</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025824859547480064?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### Feedback
+## Feedback
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">*internal screaming*<br><br>Tips to give better feedback:<br><br>* Feedback should be actionable, specific, and kind<br>* Feedback should be relevant to your actual role, not about extraneous things like personality or cleanliness<br>* Kind feedback that is not actionable is useless<a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/CRuLHq5E1o">https://t.co/CRuLHq5E1o</a></p>&mdash; Catt Small (@cattsmall) <a href="https://twitter.com/cattsmall/status/1025837890075615232?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Women and Non-binary Folks in Tech
+## Women and Non-binary Folks in Tech
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The secret history of women and nonbinary folks in tech by <a href="https://twitter.com/hilarysk?ref_src=twsrc%5Etfw">@hilarysk</a> <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnotes</a> <a href="https://t.co/YtRFwX71j2">pic.twitter.com/YtRFwX71j2</a></p>&mdash; Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/1024788259992481792?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Podcasting
+## Podcasting
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Everything you want to know about podcasting (but were afraid to ask) by <a href="https://twitter.com/film_girl?ref_src=twsrc%5Etfw">@film_girl</a> <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> <a href="https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnotes</a> <a href="https://t.co/KC6rxxLTzI">pic.twitter.com/KC6rxxLTzI</a></p>&mdash; Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/1025424447258480642?ref_src=twsrc%5Etfw">August 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
