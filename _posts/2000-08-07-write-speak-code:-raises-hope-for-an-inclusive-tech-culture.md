@@ -22,8 +22,16 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 </p>
 
 ---
-# Conference Slides :star:
-All [Conference Slides](https://github.com/WriteSpeakCode/wsc-resources/tree/master/conference/2018-conference/slides) are available on GitHub.  The talks were not video-recorded.  
+## Conference Content 
+- All [Conference Slides](https://github.com/WriteSpeakCode/wsc-resources/tree/master/conference/2018-conference/slides) are available on GitHub.  The talks were not video-recorded.  
+- Twitter hashtag is [#wsc2018conf](https://twitter.com/hashtag/wsc2018conf?vertical=default&src=hash)
+
+---
+## What Makes Write/Speak/Code Awe-inspiring
+While there are storms raging in Silicon Valley and throughout the nation on sexual harassment in tech, the diversity deficit in STEM fields, lack of advancement of women and underrepresented groups, the abysmal diversity statistics at the top tech companies, there is a group that is not waiting for diversity, inclusiveness and career advancement to be handed to them on a platter.  They are not waiting for "their time."  They are seizing the 
+
+
+
 
 ---
 # Tweets
