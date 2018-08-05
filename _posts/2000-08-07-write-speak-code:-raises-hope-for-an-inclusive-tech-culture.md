@@ -14,7 +14,7 @@ Write/Speak/Code (WSC) was founded in 2013 by [Rebecca Miller-Webster](https://w
 The fifth annual [WSC conference](http://www.writespeakcode.com/2018/) was held in New York City at the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc/locations/new-york.aspx) on August 1-4, 2018.  
 
 ### Conference Organizers - It Takes A Village
-Conference tickets are priced from $100 to $600 for the 4-day conference.  These registration fees are mimimal compared to the actual cost of the conference.  This conference was organized by dozens of people ("volunteers") who gave hours of their personal time to make the conference possible.  Sponsors also donate to cover the cost of venue, food, childcare, sign language interpreter and more. 
+Conference tickets are priced from $100 to $600 for the 4-day conference.  These registration fees are mimimal compared to the actual cost of the conference.  This conference was organized by dozens of people ("volunteers") who gave hours of their personal time to make the conference possible.  Sponsors also donate to cover the cost of venue, food, childcare, sign language interpreters and more. 
 
 <br>
 
