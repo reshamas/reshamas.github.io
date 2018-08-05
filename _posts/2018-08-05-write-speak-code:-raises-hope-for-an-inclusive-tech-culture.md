@@ -109,7 +109,7 @@ I was pleasantly surprised to discover that many topics I had explored privately
   - there is a worksheet for [feedback](is.gd/feedback_wsc)
 - Self-care:  balancing work, not having our entire lives revolve around tech and that it is ok and encouraged to have other passions
 - Getting Promoted:  being visible at work, speaking up, asking directly for promotion requirements, delivering and following up
-- Conflict:  communicating and emotions in the workplace, by Lara Hogan ([@lara_hogan](@lara_hogan))
+- Conflict:  communicating and emotions in the workplace, by Lara Hogan ([@lara_hogan](https://twitter.com/lara_hogan))
 
 ### The Technical Stuff
 There were breakout sessions on these topics as well:
