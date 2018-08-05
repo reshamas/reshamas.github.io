@@ -32,10 +32,14 @@ While there are storms raging in Silicon Valley and throughout the nation on sex
 
 
 ## What Makes Write/Speak/Code Inclusive
+This was the most inclusive conference I have ever attended.  I had never seen so many women of color and transgender and non-binary tech people assembled in one place as well as giving keynote talks!  These are all the ways in which WSC created an environment of inclusivity: 
 
 - Code of Conduct
+  - available on the website
   - reviewed each morning of the conference
   - on-site representatives available to discuss any concerns or violations
+- Organizers
+  - conference organizers wore a sash, and it was was very easy to identify and locate someone to ask questions or for help
 - Language
   - gender inclusive language was explained, examples were given
   - Personally, it was terrific to be at an event where I did not have to hear "You guys..."
@@ -44,19 +48,30 @@ While there are storms raging in Silicon Valley and throughout the nation on sex
 - Gender Pronouns
   - buttons provided for pronouns
   - all speakers introduced themselves with their pronoun
+- Food
+  - there were options for vegan, halal, dairy-free, gluten-free
+  - attendees with dietary restrictions were permitted to get their food first, so they would have the opportunity to get what they needed
 - Tshirts
   - t-shirts were available for **women's cut** in different sizes 
 - Quiet Rooms
 - Lactation Rooms
 - Childcare
-- Transportation provided for attendees with mobility needs to the nearby venues for breakout sessions.
-- Food
-  - there were options for vegan, halal, dairy-free, gluten-free
-  - attendees with dietary restrictions were permitted to get their food first, so they would have the opportunity to get what they needed
+- Transportation
+  - Lyft service was provided for attendees with mobility needs to the nearby venues for breakout sessions
 - Gender neutral bathrooms were available
 - Sign language interpreters
 - Seats for mobility impaired were reserved in the front of the room
 - Scholarships were awarded based on need and impact, including some need-based travel stipends
+- Photographer was available to take headshots
+
+
+## My Experience
+This was my first time attending a WSC national conference.  I am grateful to have received one of the scholarships and that it was located in a venue that accessible to me.  As someone who cannot eat dairy, I was thankful that there were appropriate food options available.  Although it was generous of WSC to offer Lyft service for mobility impaired attendees to go to the outside venues, since I recently had ankle surgery, I chose to stay in the main venue at Microsoft and attend the Explorations Track.
+
+Since I am local to New York City, I saw many familiar faces.  During many of the talks, we were asked to partner up to do exercises and encouraged to speak to someone we had not prior.  As an introvert, I appreciated the nudge to meet and speak to others.  I met amazing women and non-binary folks from Portland, Seattle, Chicago, Toronto, St. Louis and more.  I met a few data scientists, but primarily the attendees were developers and software engineers.  It was good to expand my network and meet so many inspiring and ambitious coders from all walks of tech.  I learned about topics that we don't even touch upon in data science such as mentorship and asking for feedback.  
+
+
+
 
 ---
 # Tweets
