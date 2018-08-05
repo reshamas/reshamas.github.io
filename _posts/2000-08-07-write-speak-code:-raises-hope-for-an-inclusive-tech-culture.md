@@ -28,11 +28,11 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 
 ---
 ## What Makes Write/Speak/Code Awe-inspiring
-While there are storms raging in Silicon Valley and throughout the nation on sexual harassment in tech, the diversity deficit in STEM fields, lack of advancement of women and underrepresented groups, the abysmal diversity statistics at the top tech companies, there is a group that is not waiting for diversity, inclusiveness and career advancement to be handed to them on a platter.  They are not waiting for "their time" to arrive.  They have explored what their needs are, examined how others are succeeding, and encouraging everyone to share their expertise and inspire and support others; their tagline is **Own Your Expertise!**
+While there are storms raging in Silicon Valley and throughout the nation on sexual harassment in tech, the diversity deficit in STEM fields, lack of advancement of women and underrepresented groups, the abysmal diversity statistics at the top tech companies, there is a group that is not waiting for diversity, inclusiveness and career advancement to be handed to them on a platter.  They are not waiting for "their time" to arrive.  They have explored what their needs are, examined how others are succeeding, have built an inclusive environment and encouraging everyone to share their expertise and inspire and support others; their taglines are **Own Your Expertise!** and **Speak Your Truth!**
 
 
 ## What Makes Write/Speak/Code Inclusive
-This was the most inclusive conference I have ever attended.  I had never seen so many women of color and transgender and non-binary tech people assembled in one place as well as giving keynote talks!  These are all the ways in which WSC created an environment of inclusivity: 
+This was the most inclusive, welcoming conference I have ever attended.  I had never seen so many women of color and transgender and non-binary tech people assembled in one place as well as giving keynote talks!  These are all the ways in which WSC created an environment of inclusivity: 
 
 - Code of Conduct
   - available on the website
@@ -66,16 +66,18 @@ This was the most inclusive conference I have ever attended.  I had never seen s
 
 
 ## My Experience
-This was my first time attending a WSC national conference.  I am grateful to have received one of the scholarships and that it was located in a venue that accessible to me.  As someone who cannot eat dairy, I was thankful that there were appropriate food options available.  Although it was generous of WSC to offer Lyft service for mobility impaired attendees to go to the outside venues, since I recently had ankle surgery, I chose to stay in the main venue at Microsoft and attend the Explorations Track.
+This was my first time attending a WSC national conference.  I am grateful to have received one of the scholarships and that it was located in a venue that accessible to me.  As someone who cannot eat dairy, I was thankful that there were appropriate food options available.  Although it was generous of WSC to offer Lyft service for mobility impaired attendees to go to the outside venues, since I recently had ankle surgery, I chose to stay in the main venue at Microsoft and attend the Explorations Track.  I tried to attend as much of the conference as I was able to, with my ankle healing.  I did not attend for the full days and missed all the evening events.
 
 Since I am local to New York City, I saw many familiar faces.  During many of the talks, we were asked to partner up to do exercises and encouraged to speak to someone we had not prior.  As an introvert, I appreciated the nudge to meet and speak to others.  I met amazing women and non-binary folks from Portland, Seattle, Chicago, Toronto, St. Louis and more.  I met a few data scientists, but primarily the attendees were developers and software engineers.  It was good to expand my network and meet so many inspiring and ambitious coders from all walks of tech.  I learned about topics that we don't even touch upon in data science such as mentorship and asking for feedback.  
 
-I was pleasantly surprised to discover that many topics I had explored via google searches were discussed openly in a room full of hundreds of women and non-binary people!  Those topics include:
-- Getting feedback from co-workers, that is **A**ctionable, **S**pecific and **K**ind.  They also mention that the feedback spotlight technical skills
+I was pleasantly surprised to discover that many topics I had explored privately via google searches were discussed openly in a room full of hundreds of women and non-binary people!  Those topics include:
 - Rockstars at Work, aka "Toxic Workers" - seems like we have all had that experience
 - Onboarding - helping new employees as well as asking for help when we are the *new employee*
 - Mindfulness - how just being aware can impact our actions
-
+- Getting feedback from co-workers, that is **A**ctionable, **S**pecific and **K**ind.  They also mention that the feedback spotlight technical skills
+- Self-care - balancing work, not having our entire lives revolve around tech and that's it ok and encouraged to have other passions
+- Getting Promoted - being visible at work, speaking up, asking directly for promotion requirements, delivering and following up
+- Conflict - communicating
 
 
 
