@@ -15,11 +15,11 @@
 - personal growth
 - self-care
 
-They currently have [5 chapters](https://www.meetup.com/pro/writespeakcode) in the following United States cities:  Chicago, Los Angeles, New York, Seattle and the San Francisco Bay Area. If you live in a city that is not represented, and you would like to start a chapter, email `info@writespeakcode.com`
+They currently have [5 meetup chapters](https://www.meetup.com/pro/writespeakcode) in the following United States cities:  [Chicago](https://www.meetup.com/WriteSpeakCode-Chicago/), [Los Angeles](https://www.meetup.com/Write-Speak-Code-Los-Angeles/), [New York](https://www.meetup.com/Write-Speak-Code-NYC/), [Seattle](https://www.meetup.com/WSC-Seattle/) and the [San Francisco Bay Area](https://www.meetup.com/WriteSpeakCode-SFBay/). If you live in a city that is not represented, and you would like to start a chapter, email `info@writespeakcode.com`
 
 ## WSC 2018 Conference
 
-The fifth annual [WSC conference](http://www.writespeakcode.com/2018/) was held in New York City at the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc/locations/new-york.aspx) on August 1-4, 2018.  Multiple [WeWork](https://www.wework.com/l/new-york-city--NY) venues in midtown Manhattan were also utilized for breakout sessions. Over 600 women and non-binary people in tech attended.   
+The fifth annual [WSC national conference](http://www.writespeakcode.com/2018/) was held in New York City at the [Microsoft Technology Center](https://www.microsoft.com/en-us/mtc/locations/new-york.aspx) on August 1-4, 2018.  Multiple [WeWork](https://www.wework.com/l/new-york-city--NY) venues in midtown Manhattan were also utilized for breakout sessions. Over 600 women and non-binary people in tech attended.   
 
 ### Conference Organizers - It Takes A Village
 Conference tickets are priced from $100 to $600 for the 4-day conference.  These registration fees are mimimal compared to the actual cost of the conference.  This conference was organized by dozens of people ("volunteers") who gave hours (days and weeks) of their personal time to make the conference possible.  Sponsors also donate to cover the cost of venue, food, childcare, scholarships, sign language interpreters and more. 
