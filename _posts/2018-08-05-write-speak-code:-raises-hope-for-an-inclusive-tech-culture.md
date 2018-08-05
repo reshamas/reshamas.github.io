@@ -35,7 +35,7 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 ---
 ## What Makes Write/Speak/Code Awe-inspiring
 <p>
-<img src="../assets/images/wsc_survival.png" align="center"> 
+<img title="Credit: Ann Guilinger"  src="../assets/images/wsc_survival.png" align="center"> 
 </p>
  
 
