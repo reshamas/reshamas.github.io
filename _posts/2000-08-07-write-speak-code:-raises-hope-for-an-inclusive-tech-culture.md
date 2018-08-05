@@ -46,6 +46,7 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 </p>
   
 ## Diversity, Inclusion and Equity
+
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Making it inclusive:<br>- sign language interpreter<br>- nursing rooms <br>- childcare<br>- quiet room<br>- gender neutral bathrooms <br>- seats for limited mobility<br>- vegan food options<br>- code of conduct <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/xy5wJsAZ6p">pic.twitter.com/xy5wJsAZ6p</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1024649862657265668?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -62,6 +63,7 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 </p>
 
 ## Getting Promoted
+
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">⚡️ KEEP ⚡️ RECEIPTS⚡️<br>Show your manager the things you’ve done. Find a way to make these receipts public, like through blog posts.<br>⚡️ GET ⚡️ THAT ⚡️ VISIBILITY ⚡️ IN ⚡️ THE ⚡️ COMPANY<br>- Career Growth and Performance Reviews panel <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/CDELTDzJ5m">pic.twitter.com/CDELTDzJ5m</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025074607710240768?ref_src=twsrc%5Etfw">August 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -73,6 +75,7 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 </p>
 
 ## Self Care
+
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">. <a href="https://twitter.com/MinaMarkham?ref_src=twsrc%5Etfw">@MinaMarkham</a> is giving the most excruciatingly vulnerable talk I have ever witnessed at a “tech” conference, and I feel so grateful to have participated in creating the space to make it possible. <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> ❤️ This is why we do the work.</p>&mdash; Lateesha Thomas (@lateeshathomas) <a href="https://twitter.com/lateeshathomas/status/1024661689000701952?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -83,6 +86,7 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 </p>
 
 ## Mindfulness
+
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Mindfulness Your Way Through the Maelstrom by <a href="https://twitter.com/codermeow?ref_src=twsrc%5Etfw">@codermeow</a> <br>- mindfulness: non judgmental awareness<br>- builds self confidence <br>- how you respond to things will change <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> <a href="https://twitter.com/Slalom?ref_src=twsrc%5Etfw">@Slalom</a> <a href="https://t.co/KKLUVsq3Vn">pic.twitter.com/KKLUVsq3Vn</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1025815558812585985?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -94,6 +98,7 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 </p>
 
 ## Onboarding
+
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Solutions for onboarding and welcoming a junior dev:<br>Managers: mentorship program + career ladders<br>Teammates: say hi + check in + offer to pair<br>Junior Devs: update documentation for future jr devs<a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/v7jSO2KYHv">pic.twitter.com/v7jSO2KYHv</a></p>&mdash; Write/Speak/Code (@WriteSpeakCode) <a href="https://twitter.com/WriteSpeakCode/status/1025824859547480064?ref_src=twsrc%5Etfw">August 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -107,12 +112,14 @@ Conference tickets are priced from $100 to $600 for the 4-day conference.  These
 </p>
 
 ## Women and Non-binary Folks in Tech
+
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The secret history of women and nonbinary folks in tech by <a href="https://twitter.com/hilarysk?ref_src=twsrc%5Etfw">@hilarysk</a> <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnotes</a> <a href="https://t.co/YtRFwX71j2">pic.twitter.com/YtRFwX71j2</a></p>&mdash; Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/1024788259992481792?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
 ## Podcasting
+
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Everything you want to know about podcasting (but were afraid to ask) by <a href="https://twitter.com/film_girl?ref_src=twsrc%5Etfw">@film_girl</a> <a href="https://twitter.com/hashtag/wsc2018conf?src=hash&amp;ref_src=twsrc%5Etfw">#wsc2018conf</a> <a href="https://twitter.com/hashtag/sketchnotes?src=hash&amp;ref_src=twsrc%5Etfw">#sketchnotes</a> <a href="https://t.co/KC6rxxLTzI">pic.twitter.com/KC6rxxLTzI</a></p>&mdash; Chiu-Ki Chan (@chiuki) <a href="https://twitter.com/chiuki/status/1025424447258480642?ref_src=twsrc%5Etfw">August 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
