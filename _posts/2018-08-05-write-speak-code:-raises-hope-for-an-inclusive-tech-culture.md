@@ -280,6 +280,10 @@ Twitter was rocking at this conference!  It's also a convenient way to get to kn
 </p>
 
 ---
+## Resources
+
+- [22 Tips on Storytelling from Pixar](https://nofilmschool.com/2012/06/22-rules-storytelling-pixar)
+
 
 ## WSC Past Conferences
 Past conferences info is available here for reference:    
