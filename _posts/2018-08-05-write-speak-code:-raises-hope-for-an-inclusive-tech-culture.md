@@ -286,6 +286,7 @@ Twitter was rocking at this conference!  It's also a convenient way to get to kn
 - [Chloe Capital](http://chloecapital.com/about/):  Chloe Capital is focused on early stage technology and tech-enabled companies with talented, hard working, diverse teams. We make seed stage investments in promising companies and use our networks and experience to help them grow. We’re also excited to advance the next generation of inspiring leaders by building a community that offers exclusive access to founder and investor events.
 - [Teachers Pay Teachers](https://www.teacherspayteachers.com)
 - [Empathetic Engineering](https://speakerdeck.com/outofambit/empathetic-engineering) by Evelyn Masso
+- [Canva Presentations](https://www.canva.com/create/presentations/)
 
 ## WSC Past Conferences
 Past conferences info is available here for reference:    
