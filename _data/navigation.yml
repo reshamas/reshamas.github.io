@@ -5,6 +5,8 @@ main:
   # main links links
   - title: About
     url: /about/
+  - title: Interviews
+    url: /interviews/
   - title: Resources
     url: /resources/
   - title: Portfolio
