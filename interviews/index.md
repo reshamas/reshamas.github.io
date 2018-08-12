@@ -10,7 +10,7 @@ My [interview with Leslie N. Smith](https://mlconf.com/interview-with-leslie-n-s
 
 Leslie N. Smith, is a Senior Research Scientist at the US Naval Research Laboratory.  His research is in optimizing hyperparameters in deep learning.  
 
-LinkedIn:  [drlesliensmith](https://www.linkedin.com/in/drlesliensmith/)
+LinkedIn:  [drlesliensmith](https://www.linkedin.com/in/drlesliensmith/)  
 Twitter:  [@lnsmith613](https://twitter.com/lnsmith613)  
 GitHub:  [lnsmith54](https://github.com/lnsmith54)
 
