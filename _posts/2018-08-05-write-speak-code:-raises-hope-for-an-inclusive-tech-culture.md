@@ -30,6 +30,15 @@ The fifth annual [WSC national conference](http://www.writespeakcode.com/2018/) 
 
 ### Conference Organizers - It Takes A Village
 Conference tickets are priced from $75 to $600 for the 4-day conference.  These registration fees only represent a fraction of the actual cost of the conference.  This conference was organized by dozens of people ("volunteers") who gave hours (days and weeks) of their personal time to make the conference possible.  Sponsors also donate to cover the cost of venue, food, childcare, scholarships, sign language interpreters and more. 
+
+#### Organizers
+Here are some of the organizers whom I met during the conference:  
+- Neha Batra, [@nerdneha](https://twitter.com/nerdneha)
+- Lateesha Thomas, [@lateeshathomas](https://twitter.com/lateeshathomas)
+- Marie Casabonne, [@goodcasa](https://twitter.com/goodcasa)
+- Lisa van Gelder, [@lisa_van_gelder](https://twitter.com/lisa_van_gelder)
+- Mina Slater, [@Minar528](@Minar528)
+
 <p>
 <img src="../assets/images/wsc_organizers.png" align="center"> 
 </p>
