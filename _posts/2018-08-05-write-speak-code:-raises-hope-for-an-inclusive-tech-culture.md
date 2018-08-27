@@ -15,9 +15,6 @@
 - personal growth
 - self-care
 
-```python
-print("test")
-```
 
 They currently have [5 meetup chapters](https://www.meetup.com/pro/writespeakcode) in the following United States cities:  
 - [Chicago](https://www.meetup.com/WriteSpeakCode-Chicago/)
