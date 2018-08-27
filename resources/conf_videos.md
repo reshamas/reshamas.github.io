@@ -30,6 +30,8 @@ comments: false
 * [FAT (Fairness, Accountability & Transparency](https://fatconference.org)
   - [FAT 2018 videos](https://www.youtube.com/channel/UCs16j6ot-CYq-ZqYpO-vqMg/videos)
 
+* [NY R Conference (Apr-2018)](https://www.rstats.nyc/agenda/)
+  - [videos](https://www.rstats.nyc/2018/)
 
 ## Videos by Conference
 * [MLConf](https://www.youtube.com/channel/UCjeM1xxYb_37bZfyparLS3Q/feed)
