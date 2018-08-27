@@ -63,6 +63,9 @@ Prior to joining any of the organizations or attending their events, it is essen
 ### [Women in Robotics IV](https://sites.google.com/view/rss2018women/home)
 - 2018 conference is June 29 in Pittsburgh, PA
 
+### [Women in Computer Vision Workshop](https://wicvworkshop.github.io/ECCV2018/index.html)
+- 2018 conference is September 9 in Munich, Germany
+
 ### [Women in Statistics & Data Science Conference](http://ww2.amstat.org/meetings/wsds/2018/)
 - organized by American Statistical Association
 - 2018 conference is October 18-20 in Cincinatti, Ohio
