@@ -166,10 +166,15 @@ If there is not a local chapter, consider starting one and enlist the aid of oth
 | [Women in Technology International](https://www.witi.com) |   [@witi](https://www.witi.com) | 
 
 
-## Resources
+## Travel Grants
+
+### [Google Travel and Conference Grants](https://buildyourfuture.withgoogle.com/scholarships/google-travel-and-conference-grants/#!?detail-content-tabby_activeEl=detail-overview-content)
+Grants are available for selected conferences in the fields of technology and business. Grants are available in North America for all traditionally underrepresented groups in technology (including, but not limited to, Black, Latinx, Native Americans, persons with disabilities, women and veterans), in Europe for women in technology, in India and in Africa for students who have their research papers accepted at top-tier conferences in Computer Science and related areas.
 
 ### [Diversity Tickets](https://diversitytickets.org)  
 A Travis Foundation app which helps conference organisers reach out to minority groups by offering them ticket and travel grants
+
+## Resources
 
 ### [Geek Feminism](http://geekfeminism.wikia.com/wiki/Geek_Feminism_Wiki)
 Geek Feminism provides various resources, including a template for [Code of Conduct](http://citizencodeofconduct.org)
