@@ -1,4 +1,9 @@
 
+<p>
+<img src="../assets/images/rs_strata.png" align="center"> 
+</p>
+
+
 I attended the Strata + Hadoop World 2014 2-day conference in October for the first time.  It was held at New York city’s Javits Center, and it was organized by Cloudera and O’Reilly Media.  There were over 5000+ attendees from the following industries:  business, finance, media, fashion, retail, and government.  Numerous topics were covered including:  business & industry, data science, hadoop and security.
 
 Each of the two days began with a 2-hour plenary session where prominent business people from large companies and startups presented.
