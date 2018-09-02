@@ -28,7 +28,7 @@ I am attaching screen shots of my twitter activity.  There were over 26K + views
 
 ## References
 
-- [Strata + Hadoop World 2014 website](http://strataconf.com/stratany2014)
+- [Strata + Hadoop World 2014 website (Oct 15-17)](http://strataconf.com/stratany2014)
 
 - [SAS University edition](http://www.sas.com/en_us/software/university-edition.html)
 
