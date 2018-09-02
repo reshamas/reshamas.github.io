@@ -3,7 +3,7 @@ I attended the Strata + Hadoop World 2014 2-day conference in October for the fi
 
 Each of the two days began with a 2-hour plenary session where prominent business people from large companies and startups presented.
 
-### My favorites:
+## My favorites:
 
 Rana el Kaliouby, co-founder and CSO of Affectiva, had an enlightening plenary session on human emotions, measurement and marketing.  Her company’s database includes 2 million facial images from 80+ countries.  These images are used to evaluate human emotions.  Since human emotions predict human behavior, this is extremely beneficial in marketing and other fields.
 
