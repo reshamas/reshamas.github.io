@@ -24,12 +24,15 @@ Recently, a former classmate had posted on a community page about his need for s
 
 Special thanks to NYC PyLadies and Strata Hadoop for sponsoring me. 
 
-I am attaching screen shots of my twitter activity.  There were over 26K + views of my tweets from this conference.
-
 ## Tweets
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thank You <a href="https://twitter.com/Microsoft?ref_src=twsrc%5Etfw">@Microsoft</a> for t-shirt: In Datum Veritas | <a href="https://twitter.com/hashtag/BigData?src=hash&amp;ref_src=twsrc%5Etfw">#BigData</a> <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/Strataconf?src=hash&amp;ref_src=twsrc%5Etfw">#Strataconf</a> <a href="https://twitter.com/hashtag/Hadoop?src=hash&amp;ref_src=twsrc%5Etfw">#Hadoop</a> <a href="https://twitter.com/NYCPyLadies?ref_src=twsrc%5Etfw">@NYCPyLadies</a> <a href="http://t.co/WSBKig8ew0">pic.twitter.com/WSBKig8ew0</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/522864129296449536?ref_src=twsrc%5Etfw">October 16, 2014</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/tinagroves?ref_src=twsrc%5Etfw">@tinagroves</a> <a href="https://twitter.com/IBMBigData?ref_src=twsrc%5Etfw">@IBMbigdata</a> : Culture, Slang &amp; Sarcasm make text analytics challenging    <br>| <a href="https://twitter.com/hashtag/Stratconf?src=hash&amp;ref_src=twsrc%5Etfw">#Stratconf</a> <a href="https://twitter.com/NYCPyLadies?ref_src=twsrc%5Etfw">@NYCPyLadies</a> <a href="http://t.co/b2wvRtZblw">pic.twitter.com/b2wvRtZblw</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/523139999567314944?ref_src=twsrc%5Etfw">October 17, 2014</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Live from NY: the Great Debate on <a href="https://twitter.com/hashtag/Coding?src=hash&amp;ref_src=twsrc%5Etfw">#Coding</a> &amp; <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> | <a href="https://twitter.com/strataconf?ref_src=twsrc%5Etfw">@strataconf</a> <a href="https://twitter.com/hashtag/strataconf?src=hash&amp;ref_src=twsrc%5Etfw">#strataconf</a> <a href="https://twitter.com/NYCPyLadies?ref_src=twsrc%5Etfw">@nycpyladies</a> <a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a> <a href="http://t.co/NRU35fnpLn">pic.twitter.com/NRU35fnpLn</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/522787246122889216?ref_src=twsrc%5Etfw">October 16, 2014</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## References
 
