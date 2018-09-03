@@ -16,10 +16,14 @@ Julia Angwin of ProPublica presented on big data and privacy.  Her takeway:  pri
 
 
 ## Software
+
+### SAS
 I spoke to the representative in the SAS booth and indicated that I was using SAS less frequently (since the license was so expensive), and instead I was using open source software such as python and R.  He informed me, to my great astonishment, that SAS is now offering a free download
 
+### Revolution R
 I also learned of Revolution R, which is an enhanced version of R (enhancements include multi-core processing and aid in managing R package versions for results which can be easily replicated).  It is available for free download.  The company also offers Revolution R Plus which is available for an annual subscription and includes technical support and training.  I was going to download and explore this software, but I recently upgraded to Yosemite on my mac, and this software has been tested on Mavericks.
 
+### Tamr
 Recently, a former classmate had posted on a community page about his need for software that could do text matching of similar names.  My initial recommendation was writing original regular expressions.  But, at this conference, I learned of Tamr, which does data curation.  I sent the information to him.  Hopefully, he will find it helpful.
 
 Special thanks to NYC PyLadies and Strata Hadoop for sponsoring me. 
