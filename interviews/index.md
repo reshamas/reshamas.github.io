@@ -5,6 +5,11 @@ tags:
 comments: false
 ---
 
+## Kavita Reddy
+My [interview with Kavita Reddy](https://mlconf.com/interview-with-kavita-reddy-data-science-manager-at-second-measure-by-reshama-shaikh-program-committee-member/), Data Science Manager at Second Measure on working with billions of bank and credit card transactions.  It is posted on MLConf's website. 
+
+LinkedIn:  [K Reddy](https://www.linkedin.com/in/kavita-reddy-725b3827/)
+
 ## Leslie N. Smith
 My [interview with Leslie N. Smith](https://mlconf.com/interview-with-leslie-n-smith-phd-senior-research-scientist-at-the-us-naval-research-laboratory-by-reshama-shaikh-program-committee-member/) is posted on MLConf website.
 
