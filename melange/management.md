@@ -9,6 +9,9 @@ comments: false
 - [21 Ways to Be a Better Leader](https://www.inc.com/lolly-daskal/21-ways-to-be-a-better-leader.html)
 - [13 Things You Should Give Up If You Want To Be Successful](https://medium.com/thrive-global/13-things-you-should-give-up-if-you-want-to-be-successful-1958b5aaf116)
 
+## Useful Tips
+- [Survival Tips For Women In Tech](https://patricia.no/2018/09/06/survival_tips_for_women_in_tech.html)
+
 ## Change
 - [To Get People to Change, Make Change Easy](https://hbr.org/2017/12/to-get-people-to-change-make-change-easy)
     - **Banana and Orange Model** - find ways to make the: 
