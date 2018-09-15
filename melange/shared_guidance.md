@@ -1,11 +1,11 @@
 ---
 layout: single
-title: Management
+title: Guidance
 tags: 
 comments: false
 ---
 
-# Shared Guidance & Mentoring from Women
+# Shared Advice & Mentoring from Women
 
 ## [Renee Wynn](https://www.linkedin.com/in/renee-wynn-8935a24/), Chief Information Officer at NASA
 - Be open to giving and receiving feedback.  That is how we get better.
