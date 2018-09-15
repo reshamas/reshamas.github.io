@@ -19,3 +19,21 @@
 - Moderator: Becky Schaumberg, Assistant Professor, Management and Organizations
 
 ### Tips
+- Can get things done if people respect you.
+  - When you are good [at your job], people afford you a lot of liberties to do what you want.
+- Own your space.  That says a lot about you and your confidence.
+- Don't be afraid.  If something is not appropriate, don't accept it.
+- Humor works well.  Don't want to offend people.
+- It is important to have friends.
+- Hard work isn't enough. You have to take care of yourself.
+  - No one looks out for you, but you.
+- Channel your efforts in a way that will work.
+- Hard work and results are important.
+- Women tend to listen better.
+- Don't be afraid if you are the only woman.  Your gift is that you are memorable.
+- Swim like a duck.  Turn up strong, freak out later.  
+- We are all guilty of some unconscious biases.  
+
+#### Networking
+- Find a connection that you didn't have before [at an event].
+
