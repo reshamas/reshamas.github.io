@@ -1,3 +1,10 @@
+---
+layout: single
+title: Management
+tags: 
+comments: false
+---
+
 # Shared Guidance & Mentoring from Women
 
 ## [Renee Wynn, Chief Information Officer at NASA](https://www.linkedin.com/in/renee-wynn-8935a24/)
