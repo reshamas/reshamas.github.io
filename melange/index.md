@@ -9,7 +9,8 @@ comments: false
 
 ## Diversity [Articles](diversity.md)
 
-## Useful Tips
+## Shared Advice [Notes](shared_tips.md)
+
+### Articles
 - [Survival Tips For Women In Tech](https://patricia.no/2018/09/06/survival_tips_for_women_in_tech.html)
 
-### 
