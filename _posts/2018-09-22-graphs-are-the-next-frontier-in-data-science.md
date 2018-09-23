@@ -131,5 +131,9 @@ On Saturday, September 22, there was a free community event, called [Neo4j Buzzw
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">People connecting at <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a>. A year from now you might not remember bullet 3 on slide 15, but you might be running a project with someone you meet.  Coffee is important.  ;) <a href="https://t.co/WS1oqfKmVk">pic.twitter.com/WS1oqfKmVk</a></p>&mdash; M. David Allen (@mdavidallen) <a href="https://twitter.com/mdavidallen/status/1042789644633559040?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Fun in the DevZone
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">GraphConnect is getting weird and keynote hasn&#39;t even started .... Lol <a href="https://twitter.com/hashtag/GraphConnect2018?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect2018</a> <a href="https://twitter.com/hashtag/Neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#Neo4j</a> <a href="https://twitter.com/hashtag/DevZone?src=hash&amp;ref_src=twsrc%5Etfw">#DevZone</a> <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> <a href="https://twitter.com/hashtag/GraphDatabases?src=hash&amp;ref_src=twsrc%5Etfw">#GraphDatabases</a> <a href="https://t.co/BEatese2pL">pic.twitter.com/BEatese2pL</a></p>&mdash; Karin Wolok (@askkerush) <a href="https://twitter.com/askkerush/status/1042765878000017409?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 
