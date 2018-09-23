@@ -1,9 +1,9 @@
 ## GraphConnect 2018
-I recently attended [GraphConnect 2018](https://graphconnect.com) in New York City, which took place in mid-September right in mid-town Manhattan at the Marriott Marquis Times Square. 
+[GraphConnect 2018](https://graphconnect.com), Neo4j's bi-annual conference, was held in New York City in mid-September.  It was held right in mid-town Manhattan at the Marriott Marquis Times Square. I had the opportunity to attend some parts of the conference.  
   
   
-## History of GraphConnect
-The [first GraphConnect](https://graphconnect.com/#location) conference was held in 2012.  I spoke to a participant who attended the first conference in 2012 who said that back then about 50 to 100 people attended.  This year, about ? 1000 people attended.
+### History of GraphConnect
+The [first GraphConnect](https://graphconnect.com/#location) conference was held in 2012.  It is worth noting the community and user growth of Neo4j.  I spoke to a participant who attended the first conference 6 years prior who shared that back then about 50 to 100 people attended.  This year, about ? 1000 people attended.
 
 
 ## Schedule of Events
