@@ -1,5 +1,3 @@
-# Graphs are the Next Frontier in Data Science
-
 ## GraphConnect 2018
 I recently attended [GraphConnect 2018](https://graphconnect.com) in New York City, which took place in mid-September right in mid-town Manhattan at the Marriott Marquis Times Square. 
 
