@@ -136,6 +136,7 @@ On Saturday, September 22, there was a free community event, called [Neo4j Buzzw
 - [Neo4j Users Slack team](http://neo4j-users-slack-invite.herokuapp.com/)
 - [Become a Neo4j Community Maven](https://neo4j.com/community/neo4j-community-maven/)
 - [Download Neo4j Desktop](https://neo4j.com/download/)
+- [The Neo4j Operations Manual v3.4](https://neo4j.com/docs/operations-manual/3.4/)
 
 ## Tweets
 
