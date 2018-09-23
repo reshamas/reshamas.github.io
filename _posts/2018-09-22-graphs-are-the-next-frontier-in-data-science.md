@@ -32,6 +32,20 @@ Neo4j founder Emil Eifrem and iconic data scientist Hilary Mason both delivered 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Adobe has a creative cloud.  Users can follow other creatives. Used to use noSQL. Was very resource intensive. <br>Realizing their data was increasingly connected, reduced # of servers with &gt; results.  <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042766430851280896?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+####  Popularity of Graphs
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/graphconnect?src=hash&amp;ref_src=twsrc%5Etfw">#graphconnect</a> <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> popularity of graph databases <a href="https://t.co/Heb1EuveEF">pic.twitter.com/Heb1EuveEF</a></p>&mdash; Jaspreet Singh (@singhjaspreet) <a href="https://twitter.com/singhjaspreet/status/1042767644921876481?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### Healthcare Application
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Healthcare Network Graph<a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://t.co/8n0lf1jzEA">pic.twitter.com/8n0lf1jzEA</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042881464189247488?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### Using Graphs for AI & ML
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How to use graphs for AI &amp; Machine Learning <br>- 13 talks today on ML! <a href="https://t.co/66YnVVFvkm">pic.twitter.com/66YnVVFvkm</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042774199176065026?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 ## [Trainings](https://graphconnect.com/#training)
@@ -110,24 +124,9 @@ On Saturday, September 22, there was a free community event, called [Neo4j Buzzw
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a> says, &quot;What does successful AI look like? It&#39;s boring. Like Google Maps, you don&#39;t have to know anything or think about the visualization of getting to your destination. That&#39;s what <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> success looks like.&quot;<a href="https://twitter.com/hashtag/graphconnect?src=hash&amp;ref_src=twsrc%5Etfw">#graphconnect</a></p>&mdash; GraphConnect 2018 (@GraphConnect) <a href="https://twitter.com/GraphConnect/status/1042778457892106240?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Graphs
-
-### Popularity of Graphs
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/graphconnect?src=hash&amp;ref_src=twsrc%5Etfw">#graphconnect</a> <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> popularity of graph databases <a href="https://t.co/Heb1EuveEF">pic.twitter.com/Heb1EuveEF</a></p>&mdash; Jaspreet Singh (@singhjaspreet) <a href="https://twitter.com/singhjaspreet/status/1042767644921876481?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-### Healthcare Application
 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Healthcare Network Graph<a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://t.co/8n0lf1jzEA">pic.twitter.com/8n0lf1jzEA</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042881464189247488?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-#### Using Graphs for AI & ML
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How to use graphs for AI &amp; Machine Learning <br>- 13 talks today on ML! <a href="https://t.co/66YnVVFvkm">pic.twitter.com/66YnVVFvkm</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042774199176065026?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-#### Networking at a Networks Conference
+### Networking at a Networks Conference
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">People connecting at <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a>. A year from now you might not remember bullet 3 on slide 15, but you might be running a project with someone you meet.  Coffee is important.  ;) <a href="https://t.co/WS1oqfKmVk">pic.twitter.com/WS1oqfKmVk</a></p>&mdash; M. David Allen (@mdavidallen) <a href="https://twitter.com/mdavidallen/status/1042789644633559040?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
