@@ -1,5 +1,5 @@
 <p>
-<img src="../assets/images/graphs_db.png" align="center"> 
+<img src="../assets/images/graphs_rank.png" align="center"> 
 </p>
 
 ## GraphConnect 2018
