@@ -15,7 +15,7 @@ I recently attended [GraphConnect 2018](https://graphconnect.com) in New York Ci
 The [first GraphConnect](https://graphconnect.com/#location) conference was held in 2012.  I spoke to a participant who attended the first conference in 2012 who said that back then about 50 to 100 people attended.  This year, about ? 1000 people attended.
 
 ## Conference Highlights
-Neo4j founder Emil Eifrem and iconic data scientist Hilary Mason both delivered fantastic keynotes. [Video recordings](https://neo4j.com/graphconnect-live/) are for viewing the talks.  
+Neo4j founder Emil Eifrem and iconic data scientist Hilary Mason both delivered fantastic keynotes. [Video recordings](https://neo4j.com/graphconnect-live/) are publicly available for viewing the talks.  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello fellow Graphistas and aspiring Graphistas!  Did you miss the <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> keynotes yesterday from <a href="https://twitter.com/emileifrem?ref_src=twsrc%5Etfw">@emileifrem</a> and the amazing <a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a>?  Sit down and watch now!!</p>&mdash; Neo4j (@neo4j) <a href="https://twitter.com/neo4j/status/1043217310369112064?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
