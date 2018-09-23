@@ -30,6 +30,10 @@ Neo4j founder [Emil Eifrem](https://www.linkedin.com/in/emileifrem/) and iconic 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/graphconnect?src=hash&amp;ref_src=twsrc%5Etfw">#graphconnect</a> <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> popularity of graph databases <a href="https://t.co/Heb1EuveEF">pic.twitter.com/Heb1EuveEF</a></p>&mdash; Jaspreet Singh (@singhjaspreet) <a href="https://twitter.com/singhjaspreet/status/1042767644921876481?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">99% of the world’s airline ticket pricing runs through <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a>, says our CEO <a href="https://twitter.com/emileifrem?ref_src=twsrc%5Etfw">@emileifrem</a>. <a href="https://twitter.com/hashtag/graphconnect?src=hash&amp;ref_src=twsrc%5Etfw">#graphconnect</a></p>&mdash; Lance Walter (@lancewalter) <a href="https://twitter.com/lancewalter/status/1042764322080997379?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 #### Healthcare Application
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Healthcare Network Graph<a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://t.co/8n0lf1jzEA">pic.twitter.com/8n0lf1jzEA</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042881464189247488?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
@@ -68,6 +72,13 @@ Thirteen different training sessions were offered as a separate conference event
   - Cypher Tuning & Performance
   - APOC Extensions for Analytics and Operations
   - Graph-Based Natural Language Understanding
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/amyhodler?ref_src=twsrc%5Etfw">@amyhodler</a> and <a href="https://twitter.com/JMHReif?ref_src=twsrc%5Etfw">@JMHReif</a> teaching centrality algorithms at <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> <a href="https://t.co/zC4XluvNxV">pic.twitter.com/zC4XluvNxV</a></p>&mdash; M. David Allen (@mdavidallen) <a href="https://twitter.com/mdavidallen/status/1043223688961839105?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If you ever have a chance to sit through a <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> Algorithms course with <a href="https://twitter.com/amyhodler?ref_src=twsrc%5Etfw">@amyhodler</a>, do it! <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a></p>&mdash; Clair J. Sullivan, PhD (@cjIsALock) <a href="https://twitter.com/cjIsALock/status/1043235299780947970?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Ecosystem Summit
@@ -141,5 +152,9 @@ On Saturday, September 22, there was a free community event, called [Neo4j Buzzw
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">GraphConnect is getting weird and keynote hasn&#39;t even started .... Lol <a href="https://twitter.com/hashtag/GraphConnect2018?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect2018</a> <a href="https://twitter.com/hashtag/Neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#Neo4j</a> <a href="https://twitter.com/hashtag/DevZone?src=hash&amp;ref_src=twsrc%5Etfw">#DevZone</a> <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> <a href="https://twitter.com/hashtag/GraphDatabases?src=hash&amp;ref_src=twsrc%5Etfw">#GraphDatabases</a> <a href="https://t.co/BEatese2pL">pic.twitter.com/BEatese2pL</a></p>&mdash; Karin Wolok (@askkerush) <a href="https://twitter.com/askkerush/status/1042765878000017409?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Learning Neo4j
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/jimwebber?ref_src=twsrc%5Etfw">@jimwebber</a> visualizing the “graph learning curve.” Seems unfamiliar and scary at first (because it’s different), then people get it and eventually love it. <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://twitter.com/hashtag/graphconnect?src=hash&amp;ref_src=twsrc%5Etfw">#graphconnect</a> <a href="https://t.co/woMX1Ba0F0">pic.twitter.com/woMX1Ba0F0</a></p>&mdash; Lance Walter (@lancewalter) <a href="https://twitter.com/lancewalter/status/1043164356459077633?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
