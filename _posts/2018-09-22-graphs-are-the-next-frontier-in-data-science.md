@@ -17,7 +17,7 @@ Neo4j efficiency is derived in using "pointers" to connect data, rather than "in
 
 ## Conference
 
-Neo4j founder [Emil Eifrem](https://www.linkedin.com/in/emileifrem/) and iconic data scientist [Hilary Mason](https://twitter.com/hmason) both delivered fantastic keynotes. [Video recordings](https://neo4j.com/graphconnect-live/) are publicly available for viewing the talks.  
+Neo4j founder [Emil Eifrem](https://www.linkedin.com/in/emileifrem/) and iconic data scientist [Hilary Mason](https://twitter.com/hmason) both delivered fantastic keynotes. [Video recordings](https://neo4j.com/graphconnect-live/) are publicly available for viewing *all* the talks (about 90 minutes in duration).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello fellow Graphistas and aspiring Graphistas!  Did you miss the <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> keynotes yesterday from <a href="https://twitter.com/emileifrem?ref_src=twsrc%5Etfw">@emileifrem</a> and the amazing <a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a>?  Sit down and watch now!!</p>&mdash; Neo4j (@neo4j) <a href="https://twitter.com/neo4j/status/1043217310369112064?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
