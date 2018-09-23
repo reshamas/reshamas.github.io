@@ -12,16 +12,61 @@ I recently attended [GraphConnect 2018](https://graphconnect.com) in New York Ci
   
   
 ## History of GraphConnect
-The [first GraphConnect](https://graphconnect.com/#location) conference was held in 2012.  I spoke to a participant who attended the first conference in 2012, and said that back then about 50 to 100 people attended.  This year, about ? 1000 people attended.
-
-## Hackathon
-On Saturday, September 22, there was a free community event, called [Neo4j Buzzword Bingo Hackathon](https://www.meetup.com/nycneo4j/events/253585951/), which was a hackathon using the open-source software.
+The [first GraphConnect](https://graphconnect.com/#location) conference was held in 2012.  I spoke to a participant who attended the first conference in 2012 who said that back then about 50 to 100 people attended.  This year, about ? 1000 people attended.
 
 ## Conference Highlights
 Neo4j founder Emil Eifrem and iconic data scientist Hilary Mason both delivered fantastic keynotes. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello fellow Graphistas and aspiring Graphistas!  Did you miss the <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> keynotes yesterday from <a href="https://twitter.com/emileifrem?ref_src=twsrc%5Etfw">@emileifrem</a> and the amazing <a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a>?  Sit down and watch now!!</p>&mdash; Neo4j (@neo4j) <a href="https://twitter.com/neo4j/status/1043217310369112064?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Takeaway
+
+
+## Conference Schedule
+
+## Conference
+
+## [Trainings](https://graphconnect.com/#training)
+Thirteen different training sessions were offered as a separate conference event.  Topics included modeling, development, data science and analysis for people at all levels of Neo4j experience:
+- New to Graphs
+  - Neo4j Basics
+  - New Features in Neo4j
+- Data Scientists and BI/Analysts
+  - Graph Algorithms
+  - Data Science and ML
+  - Discovery and Visualization with Bloom
+- Architects, DBAs, and Data Modelers
+  - Intro to Graph Modelling  
+  - Graph Modelling Clinic
+- Developers
+  - Python web app development
+  - Building apps on the GRANDstack
+  - Modeling for Developers (refactoring, evolving, hands-on Cypher)
+  - Cypher Tuning & Performance
+  - APOC Extensions for Analytics and Operations
+  - Graph-Based Natural Language Understanding
+
+
+## Ecosystem Summit
+This was a private event to bring together the top Neo4j open source contributors, influencers and inspirational community leaders.  Discussions were held in a smaller room.  It was an intimate and casual discussion with Neo4j executives.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lovveeeee these women. They inspire me!!! Thank you for coming and speaking at the Neo4j Ecosystem Summit!!!!<a href="https://twitter.com/gabidavila?ref_src=twsrc%5Etfw">@gabidavila</a> (Developer Advocate, Google), <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> (Data Scientist and Organizer of WiMLDS, PyLadies NYC), <a href="https://twitter.com/jumokedada?ref_src=twsrc%5Etfw">@jumokedada</a> (Founder, Tech Women Network) <a href="https://twitter.com/hashtag/Neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#Neo4j</a> <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> <a href="https://t.co/cpFfXxHsdt">pic.twitter.com/cpFfXxHsdt</a></p>&mdash; Karin Wolok (@askkerush) <a href="https://twitter.com/askkerush/status/1043205704134414338?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">- The biggest competitors of <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> are all the people who do not know about this product.  <br>- We need to reach users who can and absolutely need to use graphs for their data.   <a href="https://twitter.com/emileifrem?ref_src=twsrc%5Etfw">@emileifrem</a> <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> <a href="https://t.co/VwG3mMTRLX">pic.twitter.com/VwG3mMTRLX</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1043212788699734017?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+
+## Hackathon
+On Saturday, September 22, there was a free community event, called [Neo4j Buzzword Bingo Hackathon](https://www.meetup.com/nycneo4j/events/253585951/), which was a hackathon using the open-source software.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Graphs workshop in full swing at <a href="https://twitter.com/StackOverflow?ref_src=twsrc%5Etfw">@StackOverflow</a> <a href="https://twitter.com/hashtag/networks?src=hash&amp;ref_src=twsrc%5Etfw">#networks</a> <a href="https://twitter.com/wimlds?ref_src=twsrc%5Etfw">@wimlds</a> <a href="https://twitter.com/NYCPyLadies?ref_src=twsrc%5Etfw">@NYCPyLadies</a> <a href="https://twitter.com/neo4j?ref_src=twsrc%5Etfw">@neo4j</a> <a href="https://t.co/WGJkz3tf2X">pic.twitter.com/WGJkz3tf2X</a></p>&mdash; WiMLDS NYC (@WiMLDS_NYC) <a href="https://twitter.com/WiMLDS_NYC/status/1043508496136843264?ref_src=twsrc%5Etfw">September 22, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 
 
@@ -82,17 +127,4 @@ Neo4j founder Emil Eifrem and iconic data scientist Hilary Mason both delivered 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
-### Ecosystem Summit 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Lovveeeee these women. They inspire me!!! Thank you for coming and speaking at the Neo4j Ecosystem Summit!!!!<a href="https://twitter.com/gabidavila?ref_src=twsrc%5Etfw">@gabidavila</a> (Developer Advocate, Google), <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> (Data Scientist and Organizer of WiMLDS, PyLadies NYC), <a href="https://twitter.com/jumokedada?ref_src=twsrc%5Etfw">@jumokedada</a> (Founder, Tech Women Network) <a href="https://twitter.com/hashtag/Neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#Neo4j</a> <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> <a href="https://t.co/cpFfXxHsdt">pic.twitter.com/cpFfXxHsdt</a></p>&mdash; Karin Wolok (@askkerush) <a href="https://twitter.com/askkerush/status/1043205704134414338?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">- The biggest competitors of <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> are all the people who do not know about this product.  <br>- We need to reach users who can and absolutely need to use graphs for their data.   <a href="https://twitter.com/emileifrem?ref_src=twsrc%5Etfw">@emileifrem</a> <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> <a href="https://t.co/VwG3mMTRLX">pic.twitter.com/VwG3mMTRLX</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1043212788699734017?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-### Community Hackathon
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Graphs workshop in full swing at <a href="https://twitter.com/StackOverflow?ref_src=twsrc%5Etfw">@StackOverflow</a> <a href="https://twitter.com/hashtag/networks?src=hash&amp;ref_src=twsrc%5Etfw">#networks</a> <a href="https://twitter.com/wimlds?ref_src=twsrc%5Etfw">@wimlds</a> <a href="https://twitter.com/NYCPyLadies?ref_src=twsrc%5Etfw">@NYCPyLadies</a> <a href="https://twitter.com/neo4j?ref_src=twsrc%5Etfw">@neo4j</a> <a href="https://t.co/WGJkz3tf2X">pic.twitter.com/WGJkz3tf2X</a></p>&mdash; WiMLDS NYC (@WiMLDS_NYC) <a href="https://twitter.com/WiMLDS_NYC/status/1043508496136843264?ref_src=twsrc%5Etfw">September 22, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
