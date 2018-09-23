@@ -93,7 +93,7 @@ This was a private event to bring together the top Neo4j open source contributor
 
 
 ## Hackathon
-On Saturday, September 22, there was a free community event, called [Neo4j Buzzword Bingo Hackathon](https://www.meetup.com/nycneo4j/events/253585951/), which was a hackathon using the open-source software.
+On Saturday, September 22, there was a free community event, called [Neo4j Buzzword Bingo Hackathon](https://www.meetup.com/nycneo4j/events/253585951/), which was a hackathon using the open-source software.  Over 120 tech lovers attended this event which was hosted at [Stack Overflow](https://twitter.com/StackOverflow).
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Graphs workshop in full swing at <a href="https://twitter.com/StackOverflow?ref_src=twsrc%5Etfw">@StackOverflow</a> <a href="https://twitter.com/hashtag/networks?src=hash&amp;ref_src=twsrc%5Etfw">#networks</a> <a href="https://twitter.com/wimlds?ref_src=twsrc%5Etfw">@wimlds</a> <a href="https://twitter.com/NYCPyLadies?ref_src=twsrc%5Etfw">@NYCPyLadies</a> <a href="https://twitter.com/neo4j?ref_src=twsrc%5Etfw">@neo4j</a> <a href="https://t.co/WGJkz3tf2X">pic.twitter.com/WGJkz3tf2X</a></p>&mdash; WiMLDS NYC (@WiMLDS_NYC) <a href="https://twitter.com/WiMLDS_NYC/status/1043508496136843264?ref_src=twsrc%5Etfw">September 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
