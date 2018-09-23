@@ -9,29 +9,22 @@ The [first GraphConnect](https://graphconnect.com/#location) conference was held
 ## Schedule of Events
 
 ## Conference
-### Conference Highlights
+
 Neo4j founder [Emil Eifrem](https://www.linkedin.com/in/emileifrem/) and iconic data scientist [Hilary Mason](https://twitter.com/hmason) both delivered fantastic keynotes. [Video recordings](https://neo4j.com/graphconnect-live/) are publicly available for viewing the talks.  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello fellow Graphistas and aspiring Graphistas!  Did you miss the <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> keynotes yesterday from <a href="https://twitter.com/emileifrem?ref_src=twsrc%5Etfw">@emileifrem</a> and the amazing <a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a>?  Sit down and watch now!!</p>&mdash; Neo4j (@neo4j) <a href="https://twitter.com/neo4j/status/1043217310369112064?ref_src=twsrc%5Etfw">September 21, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Takeaway
+### Conference Highlights / Key Takeaways from Emil Eifrem
+
+####  Seeing our Data as Networks
+
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If our world is a network, we should look at our data as connected.  <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> widely used in health insurance companies.</p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042766874134630400?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+####  NOSQL is Resource Intensive / Graphs are Efficients
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Adobe has a creative cloud.  Users can follow other creatives. Used to use noSQL. Was very resource intensive. <br>Realizing their data was increasingly connected, reduced # of servers with &gt; results.  <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042766430851280896?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-### Hilary Mason
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Packed room for ⁦<a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a>⁩ kicking off <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> NYC! <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://t.co/gPKCBC6obm">pic.twitter.com/gPKCBC6obm</a></p>&mdash; Jesús Barrasa (@BarrasaDV) <a href="https://twitter.com/BarrasaDV/status/1042779775625035777?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a> says, &quot;What does successful AI look like? It&#39;s boring. Like Google Maps, you don&#39;t have to know anything or think about the visualization of getting to your destination. That&#39;s what <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> success looks like.&quot;<a href="https://twitter.com/hashtag/graphconnect?src=hash&amp;ref_src=twsrc%5Etfw">#graphconnect</a></p>&mdash; GraphConnect 2018 (@GraphConnect) <a href="https://twitter.com/GraphConnect/status/1042778457892106240?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
 
 ####  Popularity of Graphs
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/graphconnect?src=hash&amp;ref_src=twsrc%5Etfw">#graphconnect</a> <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> popularity of graph databases <a href="https://t.co/Heb1EuveEF">pic.twitter.com/Heb1EuveEF</a></p>&mdash; Jaspreet Singh (@singhjaspreet) <a href="https://twitter.com/singhjaspreet/status/1042767644921876481?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
@@ -48,6 +41,13 @@ Neo4j founder [Emil Eifrem](https://www.linkedin.com/in/emileifrem/) and iconic 
 
 
 
+### Hilary Mason
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Packed room for ⁦<a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a>⁩ kicking off <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> NYC! <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://t.co/gPKCBC6obm">pic.twitter.com/gPKCBC6obm</a></p>&mdash; Jesús Barrasa (@BarrasaDV) <a href="https://twitter.com/BarrasaDV/status/1042779775625035777?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a> says, &quot;What does successful AI look like? It&#39;s boring. Like Google Maps, you don&#39;t have to know anything or think about the visualization of getting to your destination. That&#39;s what <a href="https://twitter.com/hashtag/AI?src=hash&amp;ref_src=twsrc%5Etfw">#AI</a> success looks like.&quot;<a href="https://twitter.com/hashtag/graphconnect?src=hash&amp;ref_src=twsrc%5Etfw">#graphconnect</a></p>&mdash; GraphConnect 2018 (@GraphConnect) <a href="https://twitter.com/GraphConnect/status/1042778457892106240?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## [Trainings](https://graphconnect.com/#training)
 Thirteen different training sessions were offered as a separate conference event.  Topics included modeling, development, data science and analysis for people at all levels of Neo4j experience:
