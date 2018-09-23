@@ -21,6 +21,11 @@ Neo4j founder Emil Eifrem and iconic data scientist Hilary Mason both delivered 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Takeaway
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If our world is a network, we should look at our data as connected.  <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> widely used in health insurance companies.</p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042766874134630400?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Adobe has a creative cloud.  Users can follow other creatives. Used to use noSQL. Was very resource intensive. <br>Realizing their data was increasingly connected, reduced # of servers with &gt; results.  <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042766430851280896?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## Conference Schedule
