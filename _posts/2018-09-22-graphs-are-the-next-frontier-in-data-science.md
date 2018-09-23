@@ -39,11 +39,6 @@ Neo4j founder [Emil Eifrem](https://www.linkedin.com/in/emileifrem/) and iconic 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Healthcare Network Graph<a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://t.co/8n0lf1jzEA">pic.twitter.com/8n0lf1jzEA</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042881464189247488?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### Using Graphs for AI & ML
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">How to use graphs for AI &amp; Machine Learning <br>- 13 talks today on ML! <a href="https://t.co/66YnVVFvkm">pic.twitter.com/66YnVVFvkm</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042774199176065026?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
 
 ### Hilary Mason
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Packed room for ⁦<a href="https://twitter.com/hmason?ref_src=twsrc%5Etfw">@hmason</a>⁩ kicking off <a href="https://twitter.com/hashtag/GraphConnect?src=hash&amp;ref_src=twsrc%5Etfw">#GraphConnect</a> NYC! <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> <a href="https://t.co/gPKCBC6obm">pic.twitter.com/gPKCBC6obm</a></p>&mdash; Jesús Barrasa (@BarrasaDV) <a href="https://twitter.com/BarrasaDV/status/1042779775625035777?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
