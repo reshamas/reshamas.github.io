@@ -42,16 +42,12 @@ Neo4j founder Emil Eifrem and iconic data scientist Hilary Mason both delivered 
 - **2017:**  Neo4j announces the Graph Platform, a connection-first approach to data query, visualization and analysis data.
 
 ## Resources
-- [Graph Databases](http://graphdatabases.com/?_ga=2.167459646.1699415370.1537624498-769648181.1535652704) (book)
-  - [Jim Webber](https://twitter.com/jimwebber)
-  - [Ian Robinson](https://twitter.com/iansrobinson)
-  - [Emil Eifrem](https://twitter.com/emileifrem)
+- [Graph Databases](http://graphdatabases.com/?_ga=2.167459646.1699415370.1537624498-769648181.1535652704) (book by:  [Jim Webber](https://twitter.com/jimwebber), [Ian Robinson](https://twitter.com/iansrobinson) and [Emil Eifrem](https://twitter.com/emileifrem)
 - [Neo4j Community](https://community.neo4j.com)
 - [Neo4j Certification](https://neo4j.com/graphacademy/neo4j-certification/)
 - [Neo4j Users Slack team](http://neo4j-users-slack-invite.herokuapp.com/)
 - [Become a Neo4j Community Maven](https://neo4j.com/community/neo4j-community-maven/)
 - [Download Neo4j Desktop](https://neo4j.com/download/)
-- [Neo4j Community Slack](http://neo4j-users-slack-invite.herokuapp.com/)
 
 ## Tweets
 
