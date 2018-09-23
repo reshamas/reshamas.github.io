@@ -5,6 +5,9 @@
 ### History of GraphConnect
 The [first GraphConnect](https://graphconnect.com/#location) conference was held in 2012.  It is worth noting the community and user growth of Neo4j.  I spoke to a participant who attended the first conference 6 years prior who shared that back then about 50 to 100 people attended.  This year, about ? 1000 people attended.
 
+## About Neo4j
+Neo4j efficiency is derived in using "pointers" to connect data, rather than "indices."  Traditional tabular datasets may contain "sparse matrices" if not all relationships between entities exist.  
+
 
 ## Schedule of Events
 
@@ -22,7 +25,7 @@ Neo4j founder [Emil Eifrem](https://www.linkedin.com/in/emileifrem/) and iconic 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">If our world is a network, we should look at our data as connected.  <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a> widely used in health insurance companies.</p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042766874134630400?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-####  NOSQL is Resource Intensive / Graphs are Efficients
+####  NoSQL is Resource Intensive / Graphs are Efficients
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Adobe has a creative cloud.  Users can follow other creatives. Used to use noSQL. Was very resource intensive. <br>Realizing their data was increasingly connected, reduced # of servers with &gt; results.  <a href="https://twitter.com/hashtag/neo4j?src=hash&amp;ref_src=twsrc%5Etfw">#neo4j</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1042766430851280896?ref_src=twsrc%5Etfw">September 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
