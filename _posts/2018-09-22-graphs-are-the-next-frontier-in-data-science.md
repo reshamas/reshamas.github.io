@@ -113,7 +113,7 @@ On Saturday, September 22, there was a free community event, called [Neo4j Buzzw
   - [@emileifrem](https://twitter.com/emileifrem) (Founder)
 
 
-## [Neo4j Company Milestones](https://neo4j.com/company/)
+## Neo4j [Company Milestones](https://neo4j.com/company/)
 - **2000:**  Neo’s founders encountered performance problems with RDBMS and started building the first Neo4j prototype
 - **2002:**  Developed the first ever version of Neo4j
 - **2003:**  First 24×7 production Neo4j deployment
