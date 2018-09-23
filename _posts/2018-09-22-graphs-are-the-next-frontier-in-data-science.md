@@ -28,20 +28,20 @@ Neo4j founder Emil Eifrem and iconic data scientist Hilary Mason both delivered 
 
 
 ## [Neo4j Company Milestones](https://neo4j.com/company/)
-- 2000:  Neo’s founders encountered performance problems with RDBMS and started building the first Neo4j prototype
-- 2002:  Developed the first ever version of Neo4j
-- 2003:  First 24×7 production Neo4j deployment
-- 2007:  Formed a Swedish-based company behind Neo4j. Also open sourced the first graph database, Neo4j, under the GPL
-- 2009:  Raised seed funding, $2.5M, from Sunstone and Conor and continued development
+- **2000:**  Neo’s founders encountered performance problems with RDBMS and started building the first Neo4j prototype
+- **2002:**  Developed the first ever version of Neo4j
+- **2003:**  First 24×7 production Neo4j deployment
+- **2007:**  Formed a Swedish-based company behind Neo4j. Also open sourced the first graph database, Neo4j, under the GPL
+- **2009:**  Raised seed funding, $2.5M, from Sunstone and Conor and continued development
   - First Global 2000 Customer
-- 2010:  Released Neo4j version 1.0  
-- 2011:  Raised A round and moved headquarters to Silicon Valley  
-- 2012:  Raised $11M Series B from Fidelity, Sunstone, and Conor
+- **2010:**  Released Neo4j version 1.0  
+- **2011:**  Raised A round and moved headquarters to Silicon Valley  
+- **2012:**  Raised $11M Series B from Fidelity, Sunstone, and Conor
   - GraphConnect SF 2012GraphConnect, first conference on graph databases
-- 2015:  Raised $20M Series C from Creandum with Dawn and existing investors
+- **2015:**  Raised $20M Series C from Creandum with Dawn and existing investors
   - 2M+ Downloads of Neo4j
-- 2016:  $36M Series D from Greenbridge Investment
-- 2017:  Neo4j announces the Graph Platform, a connection-first approach to data query, visualization and analysis data.
+- **2016:**  $36M Series D from Greenbridge Investment
+- **2017:**  Neo4j announces the Graph Platform, a connection-first approach to data query, visualization and analysis data.
 
 ## Resources
 - [Graph Databases](http://graphdatabases.com/?_ga=2.167459646.1699415370.1537624498-769648181.1535652704) (book)
