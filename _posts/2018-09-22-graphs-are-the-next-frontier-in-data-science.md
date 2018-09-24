@@ -2,7 +2,7 @@
 <img src="../assets/images/chart.png" align="center"> 
 </p>
 
-## GraphConnect 2018
+# GraphConnect 2018
 [GraphConnect 2018](https://graphconnect.com), Neo4j's bi-annual conference, was held in New York City in mid-September.  It took place right in mid-town Manhattan at the Marriott Marquis Times Square. I had the opportunity to attend some parts of the conference.  
   
   
@@ -11,9 +11,6 @@ The [first GraphConnect](https://graphconnect.com/#location) conference was held
 
 ## About Neo4j
 Neo4j efficiency is derived in using "pointers" to connect data, rather than "indices."  Traditional tabular datasets may contain "sparse matrices" if not all relationships between entities exist which slows down performance and is not optimally efficient.  
-
-
-## Schedule of Events
 
 ## Conference
 
