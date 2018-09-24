@@ -18,6 +18,8 @@ The [first GraphConnect](https://graphconnect.com/#location) conference was held
 ## About Neo4j
 Neo4j efficiency is derived in using "pointers" to connect data, rather than "indices."  Traditional tabular datasets may contain "sparse matrices" if not all relationships between entities exist which slows down performance and is not optimally efficient.  
 
+Neo4j is [open-sourced](https://neo4j.com/open-source-project/).  There is a [Community Edition](https://neo4j.com/download/) that is available for free and also an Enterprise Edition which is available under a commercial license.
+
 ## Conference
 
 Neo4j founder [Emil Eifrem](https://www.linkedin.com/in/emileifrem/) and iconic data scientist [Hilary Mason](https://twitter.com/hmason) both delivered fantastic keynotes. [Video recordings](https://neo4j.com/graphconnect-live/) are publicly available for viewing *all* the talks (about 90 minutes in duration).
