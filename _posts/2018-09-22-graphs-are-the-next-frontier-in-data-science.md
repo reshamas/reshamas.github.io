@@ -3,7 +3,9 @@
 </p>
 
 ## GraphConnect 2018
-[GraphConnect 2018](https://graphconnect.com), Neo4j's bi-annual conference, was held in New York City in mid-September.  It took place right in mid-town Manhattan at the beautiful Marriott Marquis Times Square. I had the opportunity to attend some parts of the conference.  
+[GraphConnect 2018](https://graphconnect.com), Neo4j's bi-annual conference, was held in New York City in mid-September.  It took place right in mid-town Manhattan at the beautiful Marriott Marquis Times Square. I had the opportunity to attend some parts of the conference. 
+
+
 This was the schedule of events:
 - Keynotes and Sessions (Thursday)
 - Training Sessions (Friday)
