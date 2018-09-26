@@ -13,7 +13,7 @@ This was the schedule of events:
 - Community Hackathon (Saturday)
   
 ### History of GraphConnect
-The [first GraphConnect](https://graphconnect.com/#location) conference was held in 2012.  It is worth noting the community and user growth of Neo4j.  I spoke to a participant who attended the first conference 6 years prior who shared that back then about 50 to 100 people attended.  This year, about ? 1000 people attended.
+The [first GraphConnect](https://graphconnect.com/#location) conference was held in 2012.  It is worth noting the community and user growth of Neo4j.  I spoke to a participant who attended the first conference 6 years prior who shared that back then about 50 to 100 people attended.  This year, over 1000 people attended.
 
 ## About Neo4j
 Neo4j efficiency is derived in using "pointers" to connect data, rather than "indices."  Traditional tabular datasets may contain "sparse matrices" if not all relationships between entities exist which slows down performance and is not optimally efficient.  
