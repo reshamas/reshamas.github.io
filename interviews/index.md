@@ -5,6 +5,13 @@ tags:
 comments: false
 ---
 
+## Narine Kokhlikyan
+My [interview with Narine Kokhlikyan](https://mlconf.com/interview-with-narine-kokhlikyan-machine-learning-engineer-at-slice-technologies-inc-by-reshama-shaikh-program-committee-member/).  Many topics are covered:  time series + NLP + anomaly detection as well as hot topics like diversity and algorithm reliability.
+
+LinkedIn: [narine](https://www.linkedin.com/in/narine-kokhlikyan-88916721/)
+Twitter: [@Nunushik](https://twitter.com/Nunushik)
+Reference: http://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perplexity.html
+
 ## Kavita Reddy
 My [interview with Kavita Reddy](https://mlconf.com/interview-with-kavita-reddy-data-science-manager-at-second-measure-by-reshama-shaikh-program-committee-member/), Data Science Manager at Second Measure on working with billions of bank and credit card transactions.  It is posted on MLConf's website. 
 
