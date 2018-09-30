@@ -16,14 +16,6 @@ The 2nd Annual NYC WiMLDS / Scikit Sprint was held on Saturday, September 29 at 
   * [Marina Piller](https://twitter.com/mgpiller)
   * [Carissa Shafto](https://twitter.com/carissa_shafto)
 
-
-### Helpers
-* [Laurence DeTorrente](https://twitter.com/LauTor83)
-* [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
-* [Marina Piller](https://twitter.com/mgpiller)
-* [Carissa Shafto](https://twitter.com/carissa_shafto)
-
-
 ## [History of Scikit-Learn](http://scikit-learn.org/stable/about.html) Python Library
 
 This project was started in 2007 as a Google Summer of Code project by [David Cournapeau](https://twitter.com/cournape). Later that year, [Matthieu Brucher](https://www.linkedin.com/in/matthieubrucher/) started work on this project as part of his thesis.
