@@ -10,7 +10,7 @@ The 2nd Annual NYC WiMLDS / Scikit Sprint was held on Saturday, September 29 at 
 - Andreas Mueller, core contributor of scikit-learn for facilitating this event and his team of TAs.
   * [Theodora Hinkle](https://www.linkedin.com/in/theodora-hinkle-5b80a238/)
   * [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/)
-- [The Team](https://github.com/WiMLDS/scikit-sprint-nyc-2018/blob/master/README.md#the-team)
+- [WiMLDS Team](https://github.com/WiMLDS/scikit-sprint-nyc-2018/blob/master/README.md#the-team)
   * [Laurence DeTorrente](https://twitter.com/LauTor83)
   * [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
   * [Marina Piller](https://twitter.com/mgpiller)
