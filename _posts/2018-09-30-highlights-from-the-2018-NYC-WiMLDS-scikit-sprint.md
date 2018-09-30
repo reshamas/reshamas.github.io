@@ -6,18 +6,15 @@
 
 
 ## Sprint Repo
-This is our repository for all items related to the [2018 NYC WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint-nyc-2018)
+The 2nd Annual NYC WiMLDS / Scikit Sprint was held on Saturday, September 29 at Stack Exchange in New York City.  This is our repository for all items related to the [2018 NYC WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint-nyc-2018)
 
 
 ## Advertising Sprint
-
+A few weeks before the sprint, we still had 30 spots open.  The below tweet reached so many scikit-learn users that it ensured that all spots were taken.  We even had two attendees who lived in Europe (one in Belgium and one in Paris).  They were visiting NYC during that time, and so joined the event on Saturday.  
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There&#39;s still some spots left in the <br>NYC Women in Machine Learning &amp; Data Science Scikit-learn Sprint on September 29! Joing <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> and me for a day of contributing to OSS! <a href="https://t.co/vpsdafg4DD">https://t.co/vpsdafg4DD</a></p>&mdash; Andreas Mueller (@amuellerml) <a href="https://twitter.com/amuellerml/status/1037001088371752960?ref_src=twsrc%5Etfw">September 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### Honorable Mentions
-- Alice Martin
-- Belgian
 
 
 ## [History of Scikit-Learn](http://scikit-learn.org/stable/about.html) Python Library
@@ -46,16 +43,22 @@ In 2010 [Fabian Pedregosa](https://twitter.com/fpedregosa), [Gael Varoquaux](htt
 </p>
 
 
+### Book Signing
 
+<img src="../assets/images/books.jpg" />
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> for giving copies of your book Introduction to Machine Learning with Python for attendees of the scikit-learn sprint today! <a href="https://twitter.com/hashtag/SciKitSprint?src=hash&amp;ref_src=twsrc%5Etfw">#SciKitSprint</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> <a href="https://t.co/Avdo39sQQZ">pic.twitter.com/Avdo39sQQZ</a></p>&mdash; Theodora Hinkle (@acornthea) <a href="https://twitter.com/acornthea/status/1046122924787273729?ref_src=twsrc%5Etfw">September 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-<img src="../assets/images/books.jpg" />
-
 ## Testing Our Pull Request
+
+After working on the issue and committing changes to our branch, we tested our pull request with this code:  
+```python
+pytest sklearn
+```
+
 <img src="../assets/images/testing.jpg" />
 
 
@@ -72,7 +75,7 @@ In 2010 [Fabian Pedregosa](https://twitter.com/fpedregosa), [Gael Varoquaux](htt
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-## Pull Requests 
+## Pull Requests Summary
 It looks like 24 pull requests were submitted.  Here's a list of the pull requests:  https://github.com/scikit-learn/scikit-learn/pulls
 
 <img src="../assets/images/pull_requests.png" width="300" height="220"/>
