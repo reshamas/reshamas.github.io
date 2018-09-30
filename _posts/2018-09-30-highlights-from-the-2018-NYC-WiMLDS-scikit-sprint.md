@@ -56,6 +56,7 @@ We even had two attendees who lived in Europe (one in Belgium and one in Paris).
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+---
 
 ## Book Signing
 Andy gave away signed copies of his book [Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do).
@@ -66,6 +67,8 @@ Andy gave away signed copies of his book [Machine Learning with Python](http://s
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> for giving copies of your book Introduction to Machine Learning with Python for attendees of the scikit-learn sprint today! <a href="https://twitter.com/hashtag/SciKitSprint?src=hash&amp;ref_src=twsrc%5Etfw">#SciKitSprint</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> <a href="https://t.co/Avdo39sQQZ">pic.twitter.com/Avdo39sQQZ</a></p>&mdash; Theodora Hinkle (@acornthea) <a href="https://twitter.com/acornthea/status/1046122924787273729?ref_src=twsrc%5Etfw">September 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
+
+---
 
 ## Testing Our Pull Request
 
@@ -79,10 +82,7 @@ It is always exciting to see (most of) our code tests passing.
 <img src="../assets/images/testing.jpg" />
 </p>
 
-<p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Saturday well spent co-organizing another great <a href="https://twitter.com/WiMLDS_NYC?ref_src=twsrc%5Etfw">@WiMLDS_NYC</a> event! Scikit-learn sprint to contribute to open source with <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a>! And he brought his awesome <a href="https://twitter.com/OReillyMedia?ref_src=twsrc%5Etfw">@OReillyMedia</a> book for signing! Thank you <a href="https://twitter.com/StackExchange?ref_src=twsrc%5Etfw">@StackExchange</a> for hosting us! <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/ScikitSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitSprint</a> <a href="https://twitter.com/hashtag/ml?src=hash&amp;ref_src=twsrc%5Etfw">#ml</a> <a href="https://twitter.com/hashtag/WiMLDS?src=hash&amp;ref_src=twsrc%5Etfw">#WiMLDS</a> <a href="https://t.co/C5KFEm0kBz">pic.twitter.com/C5KFEm0kBz</a></p>&mdash; Noemi Derzsy (@NoemiDerzsy) <a href="https://twitter.com/NoemiDerzsy/status/1046221251587510272?ref_src=twsrc%5Etfw">September 30, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
+---
 
 ## We Did It!
 
@@ -90,6 +90,13 @@ It is always exciting to see (most of) our code tests passing.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A big thank you to <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> for organizing a <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> Sprint with <a href="https://twitter.com/hashtag/WiMLDS?src=hash&amp;ref_src=twsrc%5Etfw">#WiMLDS</a>. Thanks also to <a href="https://twitter.com/StackOverflow?ref_src=twsrc%5Etfw">@StackOverflow</a> for hosting us! <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://t.co/Lv9ziNbBJa">pic.twitter.com/Lv9ziNbBJa</a></p>&mdash; Andreas Mueller (@amuellerml) <a href="https://twitter.com/amuellerml/status/1046120461476802561?ref_src=twsrc%5Etfw">September 29, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Saturday well spent co-organizing another great <a href="https://twitter.com/WiMLDS_NYC?ref_src=twsrc%5Etfw">@WiMLDS_NYC</a> event! Scikit-learn sprint to contribute to open source with <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a>! And he brought his awesome <a href="https://twitter.com/OReillyMedia?ref_src=twsrc%5Etfw">@OReillyMedia</a> book for signing! Thank you <a href="https://twitter.com/StackExchange?ref_src=twsrc%5Etfw">@StackExchange</a> for hosting us! <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/ScikitSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitSprint</a> <a href="https://twitter.com/hashtag/ml?src=hash&amp;ref_src=twsrc%5Etfw">#ml</a> <a href="https://twitter.com/hashtag/WiMLDS?src=hash&amp;ref_src=twsrc%5Etfw">#WiMLDS</a> <a href="https://t.co/C5KFEm0kBz">pic.twitter.com/C5KFEm0kBz</a></p>&mdash; Noemi Derzsy (@NoemiDerzsy) <a href="https://twitter.com/NoemiDerzsy/status/1046221251587510272?ref_src=twsrc%5Etfw">September 30, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+---
 
 ## Pull Requests Summary
 It looks like **24 pull requests** were submitted.  Here's a list of some of the [pull requests](https://github.com/scikit-learn/scikit-learn/pulls).
