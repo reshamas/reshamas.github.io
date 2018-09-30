@@ -6,15 +6,7 @@
 
 
 ## Sprint Repo
-The 2nd Annual NYC WiMLDS / Scikit Sprint was held on Saturday, September 29 at Stack Exchange in New York City.  This is our repository for all items related to the [2018 NYC WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint-nyc-2018)
-
-
-## Advertising Sprint
-A few weeks before the sprint, we still had 30 spots open.  The below tweet reached so many scikit-learn users that it ensured that all spots were taken.  We even had two attendees who lived in Europe (one in Belgium and one in Paris).  They were visiting NYC during that time, and so joined the event on Saturday.  
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There&#39;s still some spots left in the <br>NYC Women in Machine Learning &amp; Data Science Scikit-learn Sprint on September 29! Joing <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> and me for a day of contributing to OSS! <a href="https://t.co/vpsdafg4DD">https://t.co/vpsdafg4DD</a></p>&mdash; Andreas Mueller (@amuellerml) <a href="https://twitter.com/amuellerml/status/1037001088371752960?ref_src=twsrc%5Etfw">September 4, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+The 2nd Annual NYC WiMLDS / Scikit Sprint was held on Saturday, September 29 at Stack Exchange in New York City.  This is our repository for all items related to the [2018 NYC WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint-nyc-2018).
 
 
 ## [History of Scikit-Learn](http://scikit-learn.org/stable/about.html) Python Library
@@ -22,6 +14,17 @@ A few weeks before the sprint, we still had 30 spots open.  The below tweet reac
 This project was started in 2007 as a Google Summer of Code project by [David Cournapeau](https://twitter.com/cournape). Later that year, [Matthieu Brucher](https://www.linkedin.com/in/matthieubrucher/) started work on this project as part of his thesis.
 
 In 2010 [Fabian Pedregosa](https://twitter.com/fpedregosa), [Gael Varoquaux](https://twitter.com/GaelVaroquaux), [Alexandre Gramfort](https://twitter.com/agramfort) and [Vincent Michel](https://www.linkedin.com/in/vincent-michel-79526427/) of [INRIA](https://www.inria.fr/en) took leadership of the project and made the first public release, February the 1st 2010. Since then, several releases have appeared following a ~3 month cycle, and a thriving international community has been leading the development.
+
+
+## Advertising Sprint
+A few weeks before the sprint, we still had 30 spots open.  The below tweet reached so many scikit-learn users that it ensured that all spots were taken.  
+
+We even had two attendees who lived in Europe (one in Belgium and one in Paris).  They were visiting NYC during that time, and so joined the event on Saturday!  
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There&#39;s still some spots left in the <br>NYC Women in Machine Learning &amp; Data Science Scikit-learn Sprint on September 29! Joing <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> and me for a day of contributing to OSS! <a href="https://t.co/vpsdafg4DD">https://t.co/vpsdafg4DD</a></p>&mdash; Andreas Mueller (@amuellerml) <a href="https://twitter.com/amuellerml/status/1037001088371752960?ref_src=twsrc%5Etfw">September 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 ## The Sprint
 
@@ -43,7 +46,8 @@ In 2010 [Fabian Pedregosa](https://twitter.com/fpedregosa), [Gael Varoquaux](htt
 </p>
 
 
-### Book Signing
+## Book Signing
+Andy gave away a couple dozen copies of his book [Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do) and signed all the books. 
 
 <img src="../assets/images/books.jpg" />
 
@@ -58,7 +62,7 @@ After working on the issue and committing changes to our branch, we tested our p
 ```python
 pytest sklearn
 ```
-It is always exciting to see [most of] our code tests passing.
+It is always exciting to see (most of) our code tests passing.
 
 <p>
 <img src="../assets/images/testing.jpg" />
@@ -88,3 +92,11 @@ It looks like 24 pull requests were submitted.  Here's a list of the pull reques
 </p>
 <p>
 </p>
+
+## What's Next
+Looks like we still have some work to do on the pull request submitted by my sprint partner, Alice and me.  
+
+<img src="../assets/images/pr1.png" />
+
+
+<img src="../assets/images/pr2.png" />
