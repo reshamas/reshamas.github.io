@@ -62,7 +62,7 @@ We even had two attendees who lived in Europe (one in Belgium and one in Paris).
 
 
 ## Book Signing
-Andy gave away a copies of his book [Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do) and signed all the books. 
+Andy gave away signed copies of his book [Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do).
 
 <img src="../assets/images/books.jpg" />
 
