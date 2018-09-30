@@ -96,7 +96,7 @@ It is always exciting to see (most of) our code tests passing.
 </p>
 
 ## Pull Requests Summary
-It looks like **24 pull requests** were submitted.  Here's a list of some of the pull requests:  https://github.com/scikit-learn/scikit-learn/pulls
+It looks like **24 pull requests** were submitted.  Here's a list of some of the [pull requests](https://github.com/scikit-learn/scikit-learn/pulls).
 
 <img src="../assets/images/pull_requests.png" />
 
@@ -111,7 +111,12 @@ It looks like **24 pull requests** were submitted.  Here's a list of some of the
 ## What's Next
 Looks like we still have some work to do on the pull request submitted by my sprint partner, Alice and me.  
 
+<p>
 <img src="../assets/images/pr1.png" />
+</p>
 
-
+<p>
 <img src="../assets/images/pr2.png" />
+ </p>
+ 
+ 
