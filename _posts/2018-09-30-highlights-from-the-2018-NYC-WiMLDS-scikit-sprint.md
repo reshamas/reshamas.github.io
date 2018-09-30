@@ -22,6 +22,10 @@ This project was started in 2007 as a Google Summer of Code project by [David Co
 
 In 2010 [Fabian Pedregosa](https://twitter.com/fpedregosa), [Gael Varoquaux](https://twitter.com/GaelVaroquaux), [Alexandre Gramfort](https://twitter.com/agramfort) and [Vincent Michel](https://www.linkedin.com/in/vincent-michel-79526427/) of [INRIA](https://www.inria.fr/en) took leadership of the project and made the first public release, February the 1st 2010. Since then, several releases have appeared following a ~3 month cycle, and a thriving international community has been leading the development.
 
+This is how Andreas Mueller became involved in scikit-learn:  
+>While working on my Ph.D. in computer vision and learning, the scikit-learn library became an essential part of my toolkit. I was an ardent user of the library, and I wanted to partake in its advancement. My initial participation in open source began in 2011 at the NIPS conference in Granada, Spain, where I had attended a scikit-learn sprint. The scikit-learn release manager at the time had to leave, and the project leads asked me to become release manager; that’s how it all got started.
+
+Read more in this [interview with Andreas Mueller]((http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)). 
 
 ## Advertising Sprint
 A few weeks before the sprint, we still had 30 spots open.  The below tweet reached so many scikit-learn users that it ensured that all spots were taken.  
