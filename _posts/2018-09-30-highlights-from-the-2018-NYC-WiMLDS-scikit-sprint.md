@@ -30,7 +30,7 @@ Read more in this [interview with Andreas Mueller](http://mlconf.com/interview-a
 ## Advertising the Sprint
 A few weeks before the sprint, we still had 30 spots open.  The below tweet reached so many scikit-learn users that it ensured that all spots were taken.  
 
-We even had two attendees who lived in Europe (one in Belgium and one in Paris).  They were visiting NYC during that time, and so joined the event on Saturday!  
+We even had two attendees who lived in Europe.  They were visiting NYC during that time, and so joined the event on Saturday!  I worked with one of them, Alice, who was visiting NYC from Paris.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There&#39;s still some spots left in the <br>NYC Women in Machine Learning &amp; Data Science Scikit-learn Sprint on September 29! Joing <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> and me for a day of contributing to OSS! <a href="https://t.co/vpsdafg4DD">https://t.co/vpsdafg4DD</a></p>&mdash; Andreas Mueller (@amuellerml) <a href="https://twitter.com/amuellerml/status/1037001088371752960?ref_src=twsrc%5Etfw">September 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
