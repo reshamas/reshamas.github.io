@@ -1,6 +1,14 @@
 
 <img src="../assets/images/afternoon.jpg"/>
 
+<p float="left">
+  <img src="../assets/images/afternoon.jpg" width="300" height="220"/>
+  <img src="../assets/images/scikit-learn-logo.jpg"  width="300" height="220"/> 
+</p>
+<p>
+</p>
+
+
 ## Sprint Repo
 The 2nd Annual NYC WiMLDS / Scikit Sprint was held on Saturday, September 29 at Stack Exchange in New York City.  This is our repository for all items related to the [2018 NYC WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint-nyc-2018).
 
