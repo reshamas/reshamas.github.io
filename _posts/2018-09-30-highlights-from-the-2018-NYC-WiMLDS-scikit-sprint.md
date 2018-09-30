@@ -27,7 +27,7 @@ This is how Andreas Mueller became involved in scikit-learn:
 
 Read more in this [interview with Andreas Mueller](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/). 
 
-## Advertising Sprint
+## Advertising the Sprint
 A few weeks before the sprint, we still had 30 spots open.  The below tweet reached so many scikit-learn users that it ensured that all spots were taken.  
 
 We even had two attendees who lived in Europe (one in Belgium and one in Paris).  They were visiting NYC during that time, and so joined the event on Saturday!  
