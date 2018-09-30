@@ -1,12 +1,27 @@
 
 <img src="../assets/images/afternoon.jpg"/>
 
-
-
-
-
 ## Sprint Repo
 The 2nd Annual NYC WiMLDS / Scikit Sprint was held on Saturday, September 29 at Stack Exchange in New York City.  This is our repository for all items related to the [2018 NYC WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint-nyc-2018).
+
+
+## Acknowledgements
+- Thank you to Stack Exchange for hosting WiMLDS.  They are also hiring!  Check out their [open positions](https://stackoverflow.com/company/work-here).
+- Andreas Mueller, core contributor of scikit-learn for facilitating this event and his team of TAs.
+  * [Theodora Hinkle](https://www.linkedin.com/in/theodora-hinkle-5b80a238/)
+  * [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/)
+- [The Team](https://github.com/WiMLDS/scikit-sprint-nyc-2018/blob/master/README.md#the-team)
+  * [Laurence DeTorrente](https://twitter.com/LauTor83)
+  * [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
+  * [Marina Piller](https://twitter.com/mgpiller)
+  * [Carissa Shafto](https://twitter.com/carissa_shafto)
+
+
+### Helpers
+* [Laurence DeTorrente](https://twitter.com/LauTor83)
+* [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
+* [Marina Piller](https://twitter.com/mgpiller)
+* [Carissa Shafto](https://twitter.com/carissa_shafto)
 
 
 ## [History of Scikit-Learn](http://scikit-learn.org/stable/about.html) Python Library
