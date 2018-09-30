@@ -25,7 +25,7 @@ In 2010 [Fabian Pedregosa](https://twitter.com/fpedregosa), [Gael Varoquaux](htt
 This is how Andreas Mueller became involved in scikit-learn:  
 >While working on my Ph.D. in computer vision and learning, the scikit-learn library became an essential part of my toolkit. I was an ardent user of the library, and I wanted to partake in its advancement. My initial participation in open source began in 2011 at the NIPS conference in Granada, Spain, where I had attended a scikit-learn sprint. The scikit-learn release manager at the time had to leave, and the project leads asked me to become release manager; that’s how it all got started.
 
-Read more in this [interview with Andreas Mueller]((http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)). 
+Read more in this [interview with Andreas Mueller](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/). 
 
 ## Advertising Sprint
 A few weeks before the sprint, we still had 30 spots open.  The below tweet reached so many scikit-learn users that it ensured that all spots were taken.  
