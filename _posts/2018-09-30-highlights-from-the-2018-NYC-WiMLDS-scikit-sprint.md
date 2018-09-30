@@ -111,7 +111,7 @@ It looks like **24 pull requests** were submitted.  Here's a list of some of the
 <p>
 </p>
 
-## What's Next
+## What's Next?
 Looks like we still have some work to do on the pull request submitted by my sprint partner, Alice and me.  
 
 <p>
