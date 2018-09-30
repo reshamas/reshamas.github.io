@@ -1,9 +1,8 @@
 
-<img src="../assets/images/afternoon.jpg"/>
 
 <p float="left">
   <img src="../assets/images/afternoon.jpg" width="300" height="220"/>
-  <img src="../assets/images/scikit-learn-logo.jpg"  width="300" height="220"/> 
+  <img src="../assets/images/scikit-learn-logo.png"  width="300" height="220"/> 
 </p>
 <p>
 </p>
