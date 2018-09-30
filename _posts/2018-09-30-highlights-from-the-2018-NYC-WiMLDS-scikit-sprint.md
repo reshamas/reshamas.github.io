@@ -79,7 +79,7 @@ It is always exciting to see [most of] our code tests passing.
 ## Pull Requests Summary
 It looks like 24 pull requests were submitted.  Here's a list of the pull requests:  https://github.com/scikit-learn/scikit-learn/pulls
 
-<img src="../assets/images/pull_requests.png" width="300" height="220"/>
+<img src="../assets/images/pull_requests.png" />
 
 
 <p float="left">
