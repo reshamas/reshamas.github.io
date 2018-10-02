@@ -152,6 +152,12 @@ Looks like we still have some work to do on the pull request submitted by my spr
   - SciPy
 - [2015 (Oct), in Paris](https://twitter.com/GaelVaroquaux/status/656847270550310912)
   - Criteo
+- [2014 (Jul), in Paris](http://gael-varoquaux.info/programming/scikit-learn-2014-sprint-a-report.html)
+  - 
+- [2013 (Jun), in Austin](https://conference.scipy.org/scipy2013/sprint_detail.php?id=36)
+  - SciPy   
+- [2012 (Jul), in Austin](http://conference.scipy.org/scipy2012/sprints/sprint_detail.php?id=15)
+  - SciPy  
 - [2011 (Dec), Granada, Spain](http://gael-varoquaux.info/programming/scikit-learn-nips-2011-sprint-international-thanks-to-our-sponsors.html)
   - NIPS
 - [2011 (Aug), Paris](http://fa.bianp.net/blog/2011/scikit-learn-euroscipy-2011-coding-sprint-day-one/)
