@@ -146,10 +146,10 @@ Looks like we still have some work to do on the pull request submitted by my spr
 - [Jun 2017, in Paris](http://gael-varoquaux.info/programming/scikit-learn-paris-sprint-2017.html)
 - [Mar 2017, in New York City](https://github.com/WiMLDS/scikit-sprint-nyc-2017/blob/master/README.md)
   - NYC WiMLDS
-- [Oct 2015, in Paris]
-  - [organized by Criteo](https://twitter.com/GaelVaroquaux/status/656847270550310912)
+- [Oct 2015, in Paris](https://twitter.com/GaelVaroquaux/status/656847270550310912)
+  - Criteo
 - [Aug 2011, Paris](http://fa.bianp.net/blog/2011/scikit-learn-euroscipy-2011-coding-sprint-day-one/)
-  - at Euro SciPy
+  - Euro SciPy
 - [2011, Granada, Spain](http://gael-varoquaux.info/programming/scikit-learn-nips-2011-sprint-international-thanks-to-our-sponsors.html)
-  - at NIPS
+  - NIPS
 
