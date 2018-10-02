@@ -135,7 +135,8 @@ Looks like we still have some work to do on the pull request submitted by my spr
 <img src="../assets/images/pr2.png" />
  </p>
  
---
+---
+
 ## Other Scikit Sprints
 - [Jul 2018, in Austin and Paris](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html)
   - Austin: open sprint, with SciPy conference, for new contributors
