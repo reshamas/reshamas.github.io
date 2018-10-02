@@ -153,7 +153,7 @@ Looks like we still have some work to do on the pull request submitted by my spr
 - [2015 (Oct), in Paris](https://twitter.com/GaelVaroquaux/status/656847270550310912)
   - Criteo
 - [2014 (Jul), in Paris](http://gael-varoquaux.info/programming/scikit-learn-2014-sprint-a-report.html)
-  - 
+  - INRIA, Criteo, La paillasse, Tinyclues
 - [2013 (Jun), in Austin](https://conference.scipy.org/scipy2013/sprint_detail.php?id=36)
   - SciPy   
 - [2012 (Jul), in Austin](http://conference.scipy.org/scipy2012/sprints/sprint_detail.php?id=15)
