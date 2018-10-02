@@ -243,10 +243,12 @@ In honor of Women's History Month, we are celebrating several ASA women who work
 <p><iframe width="460" height="215" src="https://www.youtube.com/embed/y2udE5N4l_4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></p>
  
  
-## Slack Teams 
-* [PyLadies](http://slackin.pyladies.com)
-* R-Ladies:  send an email to `nyc@rladies.org` to request your invite
-* WiMLDS:  email `slack@wimlds.org` for invite link (**for women and non-binary**)
+## Slack Teams  (* **for women and gender minorities** *)
+* [PyLadies Global](http://slackin.pyladies.com)
+* R-Ladies 
+  - Global:  https://rladies-community-slack.herokuapp.com/
+  - New York City:  send an email to `nyc@rladies.org` to request your invite
+* WiMLDS:  email `slack@wimlds.org` for invite link
 
 
 ## For Pre-college Students
