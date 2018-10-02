@@ -138,18 +138,18 @@ Looks like we still have some work to do on the pull request submitted by my spr
 ---
 
 ## Other Scikit Sprints
-- [Jul 2018, in Austin and Paris](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html)
-  - Austin: open sprint, with SciPy conference, for new contributors
-  - Paris:  core sprint, for advanced contributors
-- [Jun 2018, in New York City](https://twitter.com/amuellerml/status/1007670849774784512)
+- [2018 (Jul), in Austin and Paris](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html)
+  - SciPy conference, open sprint, for new contributors (Austin)
+  - core sprint, for advanced contributors (Paris)
+- [2018 (Jun), in New York City](https://twitter.com/amuellerml/status/1007670849774784512)
   - Two Sigma
-- [Jun 2017, in Paris](http://gael-varoquaux.info/programming/scikit-learn-paris-sprint-2017.html)
-- [Mar 2017, in New York City](https://github.com/WiMLDS/scikit-sprint-nyc-2017/blob/master/README.md)
+- [2017 (Jun), in Paris](http://gael-varoquaux.info/programming/scikit-learn-paris-sprint-2017.html)
+- [2017 (Mar), in New York City](https://github.com/WiMLDS/scikit-sprint-nyc-2017/blob/master/README.md)
   - NYC WiMLDS
-- [Oct 2015, in Paris](https://twitter.com/GaelVaroquaux/status/656847270550310912)
+- [2015 (Oct), in Paris](https://twitter.com/GaelVaroquaux/status/656847270550310912)
   - Criteo
-- [Aug 2011, Paris](http://fa.bianp.net/blog/2011/scikit-learn-euroscipy-2011-coding-sprint-day-one/)
+- [2011 (Aug), Paris](http://fa.bianp.net/blog/2011/scikit-learn-euroscipy-2011-coding-sprint-day-one/)
   - Euro SciPy
-- [2011, Granada, Spain](http://gael-varoquaux.info/programming/scikit-learn-nips-2011-sprint-international-thanks-to-our-sponsors.html)
+- [2011 (Dec), Granada, Spain](http://gael-varoquaux.info/programming/scikit-learn-nips-2011-sprint-international-thanks-to-our-sponsors.html)
   - NIPS
 
