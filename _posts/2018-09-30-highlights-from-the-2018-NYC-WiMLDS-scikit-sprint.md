@@ -91,7 +91,7 @@ It is always exciting to see (most of) our code tests passing.
 
 ---
 
-## We Did It!
+## We Made It!
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A big thank you to <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> for organizing a <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> Sprint with <a href="https://twitter.com/hashtag/WiMLDS?src=hash&amp;ref_src=twsrc%5Etfw">#WiMLDS</a>. Thanks also to <a href="https://twitter.com/StackOverflow?ref_src=twsrc%5Etfw">@StackOverflow</a> for hosting us! <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://t.co/Lv9ziNbBJa">pic.twitter.com/Lv9ziNbBJa</a></p>&mdash; Andreas Mueller (@amuellerml) <a href="https://twitter.com/amuellerml/status/1046120461476802561?ref_src=twsrc%5Etfw">September 29, 2018</a></blockquote>
@@ -116,6 +116,12 @@ It looks like **24 pull requests** were submitted.  Here's a list of some of the
   <img src="../assets/images/view_pm.png"  width="300" height="220"/> 
 </p>
 <p>
+</p>
+
+## My Sentiments Exactly!
+<p>
+ <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This weekend I contributed to an open source project <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> <a href="https://twitter.com/WiMLDS_NYC?ref_src=twsrc%5Etfw">@WiMLDS_NYC</a>. It was more challenging than I had expected but I learned so much! Check out <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> blog post to get an idea of what the day looked like. Thanks to <a href="https://twitter.com/StackOverflow?ref_src=twsrc%5Etfw">@StackOverflow</a> for the amazing space 😍 <a href="https://t.co/zcmN3imRnE">https://t.co/zcmN3imRnE</a></p>&mdash; Melissa Ferrari (@Ferrari3Melissa) <a href="https://twitter.com/Ferrari3Melissa/status/1046761969049632774?ref_src=twsrc%5Etfw">October 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
 ## What's Next?
