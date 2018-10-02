@@ -137,7 +137,9 @@ Looks like we still have some work to do on the pull request submitted by my spr
  
 ---
 
-## Other Scikit Sprints
+## Listing of Scikit Sprints
+- [2018 (Sep), in New York City](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint)
+  - NYC WiMLDS
 - [2018 (Jul), in Austin and Paris](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html)
   - SciPy conference, open sprint, for new contributors (Austin)
   - core sprint, for advanced contributors (Paris)
