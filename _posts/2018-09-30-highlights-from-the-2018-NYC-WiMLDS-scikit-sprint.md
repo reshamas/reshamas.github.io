@@ -148,8 +148,8 @@ Looks like we still have some work to do on the pull request submitted by my spr
   - NYC WiMLDS
 - [2015 (Oct), in Paris](https://twitter.com/GaelVaroquaux/status/656847270550310912)
   - Criteo
-- [2011 (Aug), Paris](http://fa.bianp.net/blog/2011/scikit-learn-euroscipy-2011-coding-sprint-day-one/)
-  - Euro SciPy
 - [2011 (Dec), Granada, Spain](http://gael-varoquaux.info/programming/scikit-learn-nips-2011-sprint-international-thanks-to-our-sponsors.html)
   - NIPS
-
+- [2011 (Aug), Paris](http://fa.bianp.net/blog/2011/scikit-learn-euroscipy-2011-coding-sprint-day-one/)
+  - Euro SciPy
+- 2010 (Feb):  **first release of scikit-learn**
