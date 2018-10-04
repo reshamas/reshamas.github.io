@@ -8,7 +8,7 @@ comments: false
 ## Cassie Kozyrkov
 My [interview with Cassie Kozyrkov](https://mlconf.com/interview-with-cassie-kozyrkov-chief-decision-scientist-at-google-by-reshama-shaikh-program-committee-member/), Chief Decision Scientist at Google.  Many topics are covered:  data science, statistics, education, leadership, inclusivity, comprehensive list of favorite resources and so much more!
 
-LinkedIn: [cassie](https://www.linkedin.com/in/cassie-kozyrkov-9531919/)
+LinkedIn: [cassie](https://www.linkedin.com/in/cassie-kozyrkov-9531919/)  
 Twitter: [@quaesita](https://twitter.com/quaesita)
 
 ## Narine Kokhlikyan
