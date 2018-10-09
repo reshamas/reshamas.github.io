@@ -118,10 +118,17 @@ It looks like **24 pull requests** were submitted.  Here's a list of some of the
 <p>
 </p>
 
-## My Sentiments Exactly!
+## Now I know why it's called a sprint!
+It was more challenging than I had anticipated.  We spent most of the day going through the Python code base, trying to understand the maze of functions and how they are all related.  We explored the Python files to determine where to place the `assert` error for the issue we picked.  
+
+
 <p>
  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This weekend I contributed to an open source project <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> <a href="https://twitter.com/WiMLDS_NYC?ref_src=twsrc%5Etfw">@WiMLDS_NYC</a>. It was more challenging than I had expected but I learned so much! Check out <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> blog post to get an idea of what the day looked like. Thanks to <a href="https://twitter.com/StackOverflow?ref_src=twsrc%5Etfw">@StackOverflow</a> for the amazing space 😍 <a href="https://t.co/zcmN3imRnE">https://t.co/zcmN3imRnE</a></p>&mdash; Melissa Ferrari (@Ferrari3Melissa) <a href="https://twitter.com/Ferrari3Melissa/status/1046761969049632774?ref_src=twsrc%5Etfw">October 1, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+<img src="../assets/images/sprint_am.png" />
 </p>
 
 ## What's Next?
