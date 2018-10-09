@@ -161,30 +161,22 @@ If you would like to participate in a scikit sprint, based on the history below,
     - core sprint, for advanced contributors (Paris)
   - Two Sigma:  [2018 (Jun), in New York City](https://twitter.com/amuellerml/status/1007670849774784512)
 - 2017
-  - [2017 (Jun), in Paris](http://gael-varoquaux.info/programming/scikit-learn-paris-sprint-2017.html)
-  - [2017 (Mar), in New York City](https://github.com/WiMLDS/scikit-sprint-nyc-2017/blob/master/README.md)
-    - NYC WiMLDS
+  - [(Jun), in Paris](http://gael-varoquaux.info/programming/scikit-learn-paris-sprint-2017.html)
+  - NYC WiMLDS: [(Mar), in New York City](https://github.com/WiMLDS/scikit-sprint-nyc-2017/blob/master/README.md)
 - 2016
-  - [2016 (Jul), in Austin](https://scipy2016.scipy.org/ehome/146062/332969/)
-    - SciPy
+  - SciPy:  [(Jul), in Austin](https://scipy2016.scipy.org/ehome/146062/332969/)
 - 2015
-  - [2015 (Jul), in Austin](https://scipy2016.scipy.org/ehome/115969/292867/)
-    - SciPy
-  - [2015 (Oct), in Paris](https://twitter.com/GaelVaroquaux/status/656847270550310912)
-    - Criteo
+  - SciPy:  [(Jul), in Austin](https://scipy2016.scipy.org/ehome/115969/292867/)
+  - Criteo:  [(Oct), in Paris](https://twitter.com/GaelVaroquaux/status/656847270550310912)
 - 2014
-  - [2014 (Jul), in Paris](http://gael-varoquaux.info/programming/scikit-learn-2014-sprint-a-report.html)
+  - [(Jul), in Paris](http://gael-varoquaux.info/programming/scikit-learn-2014-sprint-a-report.html)
     - INRIA, Criteo, La paillasse, Tinyclues
 - 2013
-  - [2013 (Jun), in Austin](https://conference.scipy.org/scipy2013/sprint_detail.php?id=36)
-    - SciPy   
+  - SciPy:  [(Jun), in Austin](https://conference.scipy.org/scipy2013/sprint_detail.php?id=36) 
 - 2012
-  - [2012 (Jul), in Austin](http://conference.scipy.org/scipy2012/sprints/sprint_detail.php?id=15)
-    - SciPy  
+  - SciPy:  [(Jul), in Austin](http://conference.scipy.org/scipy2012/sprints/sprint_detail.php?id=15)
 - 2011
-  - [2011 (Dec), Granada, Spain](http://gael-varoquaux.info/programming/scikit-learn-nips-2011-sprint-international-thanks-to-our-sponsors.html)
-    - NIPS
-  - [2011 (Aug), Paris](http://fa.bianp.net/blog/2011/scikit-learn-euroscipy-2011-coding-sprint-day-one/)
-    - Euro SciPy
+  - NIPS:  [(Dec), Granada, Spain](http://gael-varoquaux.info/programming/scikit-learn-nips-2011-sprint-international-thanks-to-our-sponsors.html)
+  - Euro SciPy:  [(Aug), Paris](http://fa.bianp.net/blog/2011/scikit-learn-euroscipy-2011-coding-sprint-day-one/)
 - 2010 
-  (Feb):  **first release of scikit-learn**
+  - **first release of scikit-learn** (Feb)
