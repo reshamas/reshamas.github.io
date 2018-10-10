@@ -157,7 +157,7 @@ If you would like to participate in a scikit sprint, based on the history below,
 - 2018
   - WiMLDS:  [New York City](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint) (Sep)
   - SciPy:  [Austin](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) (open sprint, for new contributors) (Jul)
-  - Paris:  core sprint, for advanced contributors
+  - Paris:  core sprint, for advanced contributors (Jul)
   - Two Sigma:  [New York City](https://twitter.com/amuellerml/status/1007670849774784512) (Jun)
 - 2017
   - [Paris](http://gael-varoquaux.info/programming/scikit-learn-paris-sprint-2017.html) (Jun)
