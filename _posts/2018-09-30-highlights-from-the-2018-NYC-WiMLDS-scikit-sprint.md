@@ -156,10 +156,9 @@ If you would like to participate in a scikit sprint, based on the history below,
 ### Listing of Scikit Sprints
 - 2018
   - NYC WiMLDS:  [(Sep), in New York City](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint)
-  - [2018 (Jul), in Austin and Paris](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html)
-    - SciPy conference, open sprint, for new contributors (Austin)
-    - core sprint, for advanced contributors (Paris)
-  - Two Sigma:  [2018 (Jun), in New York City](https://twitter.com/amuellerml/status/1007670849774784512)
+  - SciPy Austin:  [(Jul)](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) (open sprint, for new contributors)
+  - Paris:  core sprint, for advanced contributors (Paris)
+  - Two Sigma:  [(Jun), in New York City](https://twitter.com/amuellerml/status/1007670849774784512)
 - 2017
   - [(Jun), in Paris](http://gael-varoquaux.info/programming/scikit-learn-paris-sprint-2017.html)
   - NYC WiMLDS: [(Mar), in New York City](https://github.com/WiMLDS/scikit-sprint-nyc-2017/blob/master/README.md)
@@ -169,8 +168,7 @@ If you would like to participate in a scikit sprint, based on the history below,
   - SciPy:  [(Jul), in Austin](https://scipy2016.scipy.org/ehome/115969/292867/)
   - Criteo:  [(Oct), in Paris](https://twitter.com/GaelVaroquaux/status/656847270550310912)
 - 2014
-  - [(Jul), in Paris](http://gael-varoquaux.info/programming/scikit-learn-2014-sprint-a-report.html)
-    - INRIA, Criteo, La paillasse, Tinyclues
+  - INRIA, Criteo, La paillasse, Tinyclues:  [(Jul), in Paris](http://gael-varoquaux.info/programming/scikit-learn-2014-sprint-a-report.html)
 - 2013
   - SciPy:  [(Jun), in Austin](https://conference.scipy.org/scipy2013/sprint_detail.php?id=36) 
 - 2012
