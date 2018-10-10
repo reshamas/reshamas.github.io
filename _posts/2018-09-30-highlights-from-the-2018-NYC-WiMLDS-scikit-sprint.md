@@ -148,9 +148,9 @@ Looks like we still have some work to do on the pull request submitted by my spr
 
 ## Participating in a Scikit Sprint
 If you would like to participate in a scikit sprint, based on the history below, these look like the three best cities:
-1.  Paris, France:  where the scikit learn library was developed and where the majority of contributors reside
-2.  New York, New York:  where Andreas Mueller resides
-3.  Austin, Texas:  where the annual SciPy conference takes place
+1.  **Paris, France:**  where the scikit learn library was developed and where the majority of contributors reside
+2.  **New York, New York:**  where Andreas Mueller resides
+3.  **Austin, Texas:**  where the annual SciPy conference takes place
 
 
 ### Listing of Scikit Sprints
