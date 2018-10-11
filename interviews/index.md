@@ -5,6 +5,13 @@ tags:
 comments: false
 ---
 
+## Abhineet Gupta
+My interview with [Abhineet Gupta](https://mlconf.com/interview-with-abhineet-gupta-resilience-engineering-lead-at-one-concern-by-reshama-shaikh-program-committee-member/) of [One Concern](https://www.oneconcern.com).  Abhineet works on **fascinating applications of ML** such as:
+- creating specific metrics for measuring how access to critical resources is impacted in disasters and to identify those communities that are most at risk before, during and after disasters.
+- contributing to development of Seismic product to estimate near real time impacts in an earthquake
+- creating evaluation metrics for machine learning models and set up the simulation pipeline to generate earthquakes for preparedness trainings and mitigation policy design
+
+
 ## Cassie Kozyrkov
 My [interview with Cassie Kozyrkov](https://mlconf.com/interview-with-cassie-kozyrkov-chief-decision-scientist-at-google-by-reshama-shaikh-program-committee-member/), Chief Decision Scientist at Google.  Many topics are covered:  data science, statistics, education, leadership, inclusivity, comprehensive list of favorite resources and so much more!
 
