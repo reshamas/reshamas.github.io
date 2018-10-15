@@ -7,6 +7,8 @@ comments: false
 
 ## Conference Videos for 2018
 
+* [SciPy 2018](https://www.youtube.com/playlist?list=PLYx7XA2nY5Gd-tNhm79CNMe_qvi35PgUR)
+
 * [ICLR: Int'l Conf on Learning Representations](https://iclr.cc)
   - [videos (2hr Facebook Live)](https://www.facebook.com/iclr.cc/videos/2123114954384226/), (Apr, Vancouver, Canada)
 
