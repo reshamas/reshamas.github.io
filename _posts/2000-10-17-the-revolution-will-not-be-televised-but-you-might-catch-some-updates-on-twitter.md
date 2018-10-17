@@ -19,14 +19,21 @@ Women Techmakers provides visibility, community, and resources for women in tech
 [Join the movement](https://www.womentechmakers.com/membership)  
 Membership empowers women in their careers by providing access to curated resources and events, as well as information and tools from Google, our partners, and the global tech ecosystem.  There is a [WTM form](https://services.google.com/fb/forms/joinwomentechmakers/) to join the program.
 
+### Membership Statistics
+
+- [@WomenTechmakers](https://twitter.com/WomenTechmakers)  on Twitter <a   style="color:red"><i> ⟶  </i></a>
+<a   style="color:purple; font:italic"><i> 99.8K followers! </i></a>
+- There are 43K Women Techmaker **Members**, worldwide
+  - the largest membership is in San Francisco, New York, London and Seattle
+  - there are **550** Women Techmaker **Leads** around the world and in **69** countries
+
 
 ### Summit Information
 Attendance for the summit was by invitation.  
 
 - [WTM Summit Website](https://events.withgoogle.com/women-techmakers-leads-summit/)
 - [Agenda](https://events.withgoogle.com/women-techmakers-leads-summit/schedule-v1/#content)
-- [@WomenTechmakers](https://twitter.com/WomenTechmakers)  on Twitter ⟶ <a   style="color:red"><i> ⟶  </i></a>
-<a   style="color:purple; font:italic"><i> 99.8K followers! </i></a>
+
 
 #### Summit Social Media Hashtags
 - LinkedIn:  #NAWTMSummit18
@@ -117,9 +124,6 @@ My favorite takeway:
 
 ### Natalie Villalobos:  Women Techmakers Program & Updates
 Natalie has been at Google for 9 years and is the Global Head of Women Techmakers.  
-- There are 43K Women Techmaker members, worldwide
-  - the largest membership is in San Francisco, New York, London and Seattle
-  - there are **550** Women Techmaker **Leads** around the world and in **69** countries
 
 Natalie mentioned the phrase **"The revolution will not be televised"** as an analogy to empowering women where they are.  Women Techmaker leads are having a significant impact on their community at the grassroots level, and that activity, leadership and programming will have a ripple effect to impact a million women positively.  Women Techmakers will be the driver of that million with these 3 actions:
 1.  Join
