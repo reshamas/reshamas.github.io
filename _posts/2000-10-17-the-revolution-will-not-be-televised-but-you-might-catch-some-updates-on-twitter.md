@@ -31,7 +31,7 @@ Membership empowers women in their careers by providing access to curated resour
 
 
 ## Summit Information
-Participation in the summit was by invitation.  
+Attendance for the summit was by invitation.  
 
 - [WTM Summit Website](https://events.withgoogle.com/women-techmakers-leads-summit/)
 - [Agenda](https://events.withgoogle.com/women-techmakers-leads-summit/schedule-v1/#content)
