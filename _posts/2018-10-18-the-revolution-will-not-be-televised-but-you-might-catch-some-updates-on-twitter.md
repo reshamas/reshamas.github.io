@@ -28,17 +28,20 @@ Women Techmakers provides visibility, community, and resources for women in tech
 >Filling out our membership form will ensure we're able to tailor offerings to your needs and interests, which we will send to you via email. If you have any questions or suggestions, please email the Women Techmakers team at wtmmembership@google.com.
 
 ## Participating in WTM
+ 
+### Becoming a WTM Member
+[Join the movement](https://www.womentechmakers.com/membership):  Membership empowers women in their careers by providing access to curated resources and events, as well as information and tools from Google, our partners, and the global tech ecosystem.
 
-### Membership
-Membership is for GDG (Google Developer Group) organizers.  
+### Becoming a WTM Lead
+Leads are invited through GDG (Google Developer Group). 
 
-### Membership Statistics
+### Statistics on Members / Leads
 
 - [@WomenTechmakers](https://twitter.com/WomenTechmakers)  on Twitter <a   style="color:red"><i> ⟶  </i></a>
 <a   style="color:purple; font:italic"><b> 99.8K followers! </b></a>
 - There are **43K** Women Techmaker **Members**, worldwide
   - the largest membership is in San Francisco, New York, London and Seattle
-  - there are **550** Women Techmaker **Leads** around the world and in **69** countries
+- There are **550** Women Techmaker **Leads** around the world and in **69** countries
 
 
 ### Summit Information
