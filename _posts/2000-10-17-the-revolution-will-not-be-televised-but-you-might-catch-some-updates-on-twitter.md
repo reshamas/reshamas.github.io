@@ -33,11 +33,9 @@ Attendance for the summit was by invitation.
 
 - [WTM Summit Website](https://events.withgoogle.com/women-techmakers-leads-summit/)
 - [Agenda](https://events.withgoogle.com/women-techmakers-leads-summit/schedule-v1/#content)
-
-
-#### Summit Social Media Hashtags
-- LinkedIn:  #NAWTMSummit18
-- Twitter: [#nawtmsummit18](https://twitter.com/search?q=%23nawtmsummit18&src=typd)
+- Summit Social Media Hashtags
+  - LinkedIn:  #NAWTMSummit18
+  - Twitter: [#nawtmsummit18](https://twitter.com/search?q=%23nawtmsummit18&src=typd)
 
 
 ## Keynotes
