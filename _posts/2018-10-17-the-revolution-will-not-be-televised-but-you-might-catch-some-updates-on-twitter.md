@@ -152,7 +152,7 @@ Download the [Negotiation Framework](https://developher.com/resource/)
 ### Natalie Villalobos:  Women Techmakers Program & Updates
 Natalie has been at Google for 9 years and is the Global Head of Women Techmakers.  
 
-Natalie mentioned the phrase **"The revolution will not be televised"** as an analogy to the community events of empowering and advancing women in tech.  Women Techmaker leads are having a significant impact on their community at the grassroots level, and that activity, leadership and programming will have a ripple effect to impact a million women positively.  Women Techmakers will be the driver of that million with these 3 actions:
+Natalie mentioned the phrase **"The revolution will not be televised"** as an analogy to the community events of empowering and advancing women in tech.  Women Techmaker leads are having a significant impact on their community at the grassroots level, and that activity, leadership and programming will have a ripple effect to impact a million women positively.  Women Techmakers will be the driver of that million with this advice:
 1.  Join
 2.  Thrive
 3.  Lead
