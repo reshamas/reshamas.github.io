@@ -29,9 +29,8 @@ Women Techmakers provides visibility, community, and resources for women in tech
 
 ## Participating in WTM
 
-### Become a Member
-[Join the movement](https://www.womentechmakers.com/membership)  
-Membership empowers women in their careers by providing access to curated resources and events, as well as information and tools from Google, our partners, and the global tech ecosystem.  There is a [WTM form](https://services.google.com/fb/forms/joinwomentechmakers/) to join the program.
+### Membership
+Membership is for GDG (Google Developer Group) organizers.  
 
 ### Membership Statistics
 
@@ -43,7 +42,7 @@ Membership empowers women in their careers by providing access to curated resour
 
 
 ### Summit Information
-Attendance for the summit was by invitation.  
+Attendance for the summit was by invitation to GDG organizers and some tech community group leaders.
 
 - [WTM Summit Website](https://events.withgoogle.com/women-techmakers-leads-summit/)
 - [Agenda](https://events.withgoogle.com/women-techmakers-leads-summit/schedule-v1/#content)
