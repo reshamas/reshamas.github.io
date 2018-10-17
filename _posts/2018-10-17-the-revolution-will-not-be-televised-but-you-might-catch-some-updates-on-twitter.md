@@ -253,6 +253,48 @@ Tina has had one of the most non-linear paths in tech.  She is a certified socia
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello New York! Excited to see <a href="https://twitter.com/AraStarEngineer?ref_src=twsrc%5Etfw">@AraStarEngineer</a> standing tall and happy at the Women Techmakers Leads Summit <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a>! Excited to talk about parallels between engineering and authoring. <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://twitter.com/mad_sha?ref_src=twsrc%5Etfw">@mad_sha</a> <a href="https://twitter.com/Naveen__Nigam?ref_src=twsrc%5Etfw">@Naveen__Nigam</a> <a href="https://twitter.com/zenginkubraa?ref_src=twsrc%5Etfw">@zenginkubraa</a> <a href="https://t.co/KrYsVpfiR0">pic.twitter.com/KrYsVpfiR0</a></p>&mdash; Komal Singh (@think_oid) <a href="https://twitter.com/think_oid/status/1051099494408957953?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">We&#39;re thrilled to have Komal Singh, author of <a href="https://twitter.com/AraStarEngineer?ref_src=twsrc%5Etfw">@AraStarEngineer</a> speaking at the <a href="https://twitter.com/hashtag/NAWTMsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMsummit18</a> about bringing a passion project to launch 🎉👩🏽‍💻 <a href="https://t.co/9amwhFJAES">pic.twitter.com/9amwhFJAES</a></p>&mdash; Women Techmakers (@WomenTechmakers) <a href="https://twitter.com/WomenTechmakers/status/1051149288229756928?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+### Regine Gilbert
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/reg_inee?ref_src=twsrc%5Etfw">@reg_inee</a> “you don’t grow when everything is easy” live at this very moment and no regret <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://twitter.com/hashtag/womentechmakers?src=hash&amp;ref_src=twsrc%5Etfw">#womentechmakers</a> <a href="https://twitter.com/hashtag/Empowerment?src=hash&amp;ref_src=twsrc%5Etfw">#Empowerment</a> <a href="https://t.co/JFQvGgvjey">pic.twitter.com/JFQvGgvjey</a></p>&mdash; Macy Kuang (@MacyKuang) <a href="https://twitter.com/MacyKuang/status/1051171384653750273?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">RT DoesitPew: reg_inee Everyone has a Story. You have to be lost in order to be found. WomenTechmakers  <a href="https://twitter.com/hashtag/WTMsummit?src=hash&amp;ref_src=twsrc%5Etfw">#WTMsummit</a>  <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://t.co/Jskw9dKQj5">pic.twitter.com/Jskw9dKQj5</a></p>&mdash; Women Techmakers Palermo (@WTMpalermo) <a href="https://twitter.com/WTMpalermo/status/1051171581588922368?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+### Jen Kohl
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Curating and refining stories with <a href="https://twitter.com/jen_kohl?ref_src=twsrc%5Etfw">@jen_kohl</a> <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://twitter.com/hashtag/WTM?src=hash&amp;ref_src=twsrc%5Etfw">#WTM</a> <a href="https://t.co/36soj9FZbP">pic.twitter.com/36soj9FZbP</a></p>&mdash; pthalocyanine (@pthalocyanine) <a href="https://twitter.com/pthalocyanine/status/1051197564836503552?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+### Jenn Schiffer
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Art, technology, planned obsolescence, digial art shelf life ,non-consentual ephemerality. Racist machines and too much to put in one tweet. <br><br>Thank you for an epic <a href="https://twitter.com/jennschiffer?ref_src=twsrc%5Etfw">@jennschiffer</a> <a href="https://twitter.com/WomenTechmakers?ref_src=twsrc%5Etfw">@WomenTechmakers</a> <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://t.co/JxYn42Y3uM">pic.twitter.com/JxYn42Y3uM</a></p>&mdash; Amal Hussein (@nomadtechie) <a href="https://twitter.com/nomadtechie/status/1051186138667540482?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;technology is making it easier to steal when it should be making it easier to share and express ownership&quot; <a href="https://twitter.com/jennschiffer?ref_src=twsrc%5Etfw">@jennschiffer</a> <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://twitter.com/hashtag/WTM?src=hash&amp;ref_src=twsrc%5Etfw">#WTM</a> apparently <a href="https://twitter.com/glitch?ref_src=twsrc%5Etfw">@glitch</a> just made a feature to allow you to add a code of conduct to your app which is p cool</p>&mdash; pthalocyanine (@pthalocyanine) <a href="https://twitter.com/pthalocyanine/status/1051184666231889922?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;I always keep saying the worst thing that could happen to a white person is being called racist... Maybe if we keep doing it long enough we&#39;ll all break down and stop being complicit&quot; <a href="https://twitter.com/jennschiffer?ref_src=twsrc%5Etfw">@jennschiffer</a> <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://twitter.com/hashtag/WTM?src=hash&amp;ref_src=twsrc%5Etfw">#WTM</a></p>&mdash; pthalocyanine (@pthalocyanine) <a href="https://twitter.com/pthalocyanine/status/1051189374807928832?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+### Tanya Valle
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excited to be a guest speaker at Google’s Women Techmakers Leads Summit! I’ll be talking about how to be a Mindful Leader of yourself and others—and why that matters. <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://twitter.com/hashtag/mindfulness?src=hash&amp;ref_src=twsrc%5Etfw">#mindfulness</a> <a href="https://twitter.com/hashtag/compassionateleadership?src=hash&amp;ref_src=twsrc%5Etfw">#compassionateleadership</a> <a href="https://twitter.com/hashtag/leadership?src=hash&amp;ref_src=twsrc%5Etfw">#leadership</a> <a href="https://twitter.com/hashtag/careercoach?src=hash&amp;ref_src=twsrc%5Etfw">#careercoach</a> <a href="https://twitter.com/hashtag/entrepreneur?src=hash&amp;ref_src=twsrc%5Etfw">#entrepreneur</a> <a href="https://twitter.com/hashtag/womenintech?src=hash&amp;ref_src=twsrc%5Etfw">#womenintech</a> <a href="https://t.co/fVaDqdi9Ck">pic.twitter.com/fVaDqdi9Ck</a></p>&mdash; Tanya Valle (@TanyaValle23) <a href="https://twitter.com/TanyaValle23/status/1050876321524400128?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 ### Community
 <p>
