@@ -9,19 +9,17 @@
 <img src="../assets/images/wtm/wtm_about.png" />
 </p>
 
-Women Techmakers provides visibility, community, and resources for women in technology to drive participation and innovation in the field. We achieve this by hosting events, launching resources, and piloting new initiatives with communities and partners around the world. By joining Women Techmakers you'll receive regular emails with access to resources, tools and opportunities from Google and Women Techmakers partnerships to support you in your career.
+Women Techmakers provides visibility, community, and resources for women in technology to drive participation and innovation in the field. They achieve this by hosting events, launching resources, and piloting new initiatives with communities and partners around the world. By joining Women Techmakers you'll receive regular emails with access to resources, tools and opportunities from Google and Women Techmakers partnerships to support you in your career.
 Filling out our membership form will ensure we're able to tailor offerings to your needs and interests, which we will send to you via email. If you have any questions or suggestions, please email the Women Techmakers team at wtmmembership@google.com.
 
-Join the Women Techmakers program
-https://services.google.com/fb/forms/joinwomentechmakers/
-
+## Participating in WTM
 
 ### Become a Member
-#### [Join the movement](https://www.womentechmakers.com/membership)  
-Membership empowers women in their careers by providing access to curated resources and events, as well as information and tools from Google, our partners, and the global tech ecosystem.
+[Join the movement](https://www.womentechmakers.com/membership)  
+Membership empowers women in their careers by providing access to curated resources and events, as well as information and tools from Google, our partners, and the global tech ecosystem.  There is a [WTM form](https://services.google.com/fb/forms/joinwomentechmakers/) to join the program.
 
 
-## Summit Information
+### Summit Information
 Attendance for the summit was by invitation.  
 
 - [WTM Summit Website](https://events.withgoogle.com/women-techmakers-leads-summit/)
@@ -29,7 +27,7 @@ Attendance for the summit was by invitation.
 - [@WomenTechmakers](https://twitter.com/WomenTechmakers)  on Twitter ⟶ <a   style="color:red"><i> ⟶  </i></a>
 <a   style="color:purple; font:italic"><i> 99.8K followers! </i></a>
 
-### Social Media Hashtags
+#### Summit Social Media Hashtags
 - LinkedIn:  #NAWTMSummit18
 - Twitter: [#nawtmsummit18](https://twitter.com/search?q=%23nawtmsummit18&src=typd)
 
