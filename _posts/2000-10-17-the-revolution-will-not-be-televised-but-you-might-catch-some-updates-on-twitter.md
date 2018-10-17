@@ -188,6 +188,11 @@ slides:  <a href="https://tehfedaykin.github.io/HackingYourWorkLife__Balance/#/t
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">🔥🔥 Quote of the day: &quot;I&#39;m a JavaScript Developer which means I have to learn a new framework more often than I get my period.&quot;  <a href="https://twitter.com/likeOMGitsFEDAY?ref_src=twsrc%5Etfw">@likeOMGitsFEDAY</a> on Work/Volunteer Life Balance <a href="https://twitter.com/hashtag/hackyourbalance?src=hash&amp;ref_src=twsrc%5Etfw">#hackyourbalance</a> <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a>  <a href="https://twitter.com/WomenTechmakers?ref_src=twsrc%5Etfw">@WomenTechmakers</a> <a href="https://t.co/DFxqoDtY32">pic.twitter.com/DFxqoDtY32</a></p>&mdash; Amal Hussein (@nomadtechie) <a href="https://twitter.com/nomadtechie/status/1051213853114204162?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 ### Tina Arnoldi:  A Digital Detox is Good for You - and Your Business
 slides:  <a href="https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufVo73tB1cXdhv9tYAxIWtnM/edit#slide=id.p4"  style="color:orange; font:bold">Digital Well-Being</a>
 
