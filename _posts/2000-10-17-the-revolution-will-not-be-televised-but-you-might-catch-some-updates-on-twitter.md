@@ -139,6 +139,12 @@ My favorite takeway:
 
 Download the [Negotiation Framework](https://developher.com/resource/)
 
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">It&#39;s not just your ability to write code but your ability to communicate the value you bring that will determine your worth - <a href="https://twitter.com/laurenrhasson?ref_src=twsrc%5Etfw">@laurenrhasson</a> <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://t.co/1uESOyuqmk">pic.twitter.com/1uESOyuqmk</a></p>&mdash; Jiaqi Liu (@jiaqicodes) <a href="https://twitter.com/jiaqicodes/status/1051110025266118656?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+
 ### Natalie Villalobos:  Women Techmakers Program & Updates
 Natalie has been at Google for 9 years and is the Global Head of Women Techmakers.  
 
@@ -159,15 +165,28 @@ Natalie mentioned the phrase **"The revolution will not be televised"** as an an
 
 
 
-### Nitya Narasimhan:  Why It Matters / How to Get There]
+### Nitya Narasimhan:  Why It Matters / How to Get There] (#FirstLadyOfTech)
 slides:  <a href="http://bit.ly/2018-WTMSummit-Advocacy"  style="color:orange; font:bold">Advocacy</a>
 
 
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The &quot;A.B.C.D.E.F&quot; of &quot;G.D.E&quot; - Why it matters &amp; How to get there, an inspirational talk by <a href="https://twitter.com/nitya?ref_src=twsrc%5Etfw">@nitya</a>.  <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://twitter.com/hashtag/GDE?src=hash&amp;ref_src=twsrc%5Etfw">#GDE</a> <a href="https://t.co/QzqWj5nS8N">pic.twitter.com/QzqWj5nS8N</a></p>&mdash; Margaret Maynard-Reid (@margaretmz) <a href="https://twitter.com/margaretmz/status/1051206292474347528?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/gdg?ref_src=twsrc%5Etfw">@gdg</a>, <a href="https://twitter.com/GoogleDevExpert?ref_src=twsrc%5Etfw">@GoogleDevExpert</a>,  <a href="https://twitter.com/WomenTechmakers?ref_src=twsrc%5Etfw">@WomenTechmakers</a>,  <a href="https://twitter.com/Microsoft?ref_src=twsrc%5Etfw">@Microsoft</a> Devrel,  <a href="https://twitter.com/hashtag/FirstLadyofTech?src=hash&amp;ref_src=twsrc%5Etfw">#FirstLadyofTech</a> extrodinaire <a href="https://twitter.com/nitya?ref_src=twsrc%5Etfw">@nitya</a> 👩‍🏫 teaching how to be a Tech advocate. Listen Up! 👂 <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://t.co/5U41wvRVjO">pic.twitter.com/5U41wvRVjO</a></p>&mdash; Stacy Devino 👟 (@DoesitPew) <a href="https://twitter.com/DoesitPew/status/1051206330768330752?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 ### Jennifer Wadella:  Hacking Your Work Life __ Balance To Take Over The World
 slides:  <a href="https://tehfedaykin.github.io/HackingYourWorkLife__Balance/#/title"  style="color:orange; font:bold">Hacking Your Work Life</a>
 
 
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Now listening to <a href="https://twitter.com/likeOMGitsFEDAY?ref_src=twsrc%5Etfw">@likeOMGitsFEDAY</a> talking about taking care of yourself and hacking your work/life balance! Dropping serious truths &amp; advice.<a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://t.co/MPSOq1xpGQ">pic.twitter.com/MPSOq1xpGQ</a></p>&mdash; Nitya Narasimhan (@nitya) <a href="https://twitter.com/nitya/status/1051214680247685120?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 ### Tina Arnoldi:  A Digital Detox is Good for You - and Your Business
 slides:  <a href="https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufVo73tB1cXdhv9tYAxIWtnM/edit#slide=id.p4"  style="color:orange; font:bold">Digital Well-Being</a>
@@ -217,8 +236,10 @@ Ara the book
 
 
 ## Twitter Highlights
-
-
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Got to love the energy in this room <a href="https://twitter.com/hashtag/NAWTMsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMsummit18</a> <a href="https://t.co/2cjz51yMXi">pic.twitter.com/2cjz51yMXi</a></p>&mdash; Naveen Nigam 🇨🇦 (@Naveen__Nigam) <a href="https://twitter.com/Naveen__Nigam/status/1051204624806498304?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 ## References
 
