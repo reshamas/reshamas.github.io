@@ -7,9 +7,6 @@
 
 <img src="../assets/images/wtm/wtm_speakers.jpg" />
 
-<a   style="color:blue; font:italic"><i>Is Kaggle... useful?</i></a>
-
-
 
 ## Intro
 *To what revolution are we referring?*  
