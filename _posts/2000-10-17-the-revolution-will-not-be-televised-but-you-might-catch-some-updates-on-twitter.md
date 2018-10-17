@@ -42,7 +42,7 @@ Attendance for the summit was by invitation.
 
 ## Keynotes
 
-<img src="../assets/images/wtm/wtm_speakers.png" width="50%" height="50%" />
+<img src="../assets/images/wtm/wtm_speakers2.png" width="67%" height="67%" />
 
 | Speaker    | Role  | Twitter  |  
 |----|----|----|
