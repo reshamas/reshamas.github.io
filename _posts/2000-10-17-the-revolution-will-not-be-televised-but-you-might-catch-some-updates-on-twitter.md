@@ -10,7 +10,8 @@
 </p>
 
 Women Techmakers provides visibility, community, and resources for women in technology to drive participation and innovation in the field. They achieve this by hosting events, launching resources, and piloting new initiatives with communities and partners around the world. By joining Women Techmakers you'll receive regular emails with access to resources, tools and opportunities from Google and Women Techmakers partnerships to support you in your career.
-Filling out our membership form will ensure we're able to tailor offerings to your needs and interests, which we will send to you via email. If you have any questions or suggestions, please email the Women Techmakers team at wtmmembership@google.com.
+
+>Filling out our membership form will ensure we're able to tailor offerings to your needs and interests, which we will send to you via email. If you have any questions or suggestions, please email the Women Techmakers team at wtmmembership@google.com.
 
 ## Participating in WTM
 
