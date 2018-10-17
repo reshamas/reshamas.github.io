@@ -76,6 +76,11 @@ Attendance for the summit was by invitation.
 
 ### Kübra Zengin:  Opening Talk
 Kubra was the lead organizer of the event and emcee'd the program. 
+
+<p>
+<img src="../assets/images/wtm/kubra.jpg" />
+</p>
+
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to the 80+ Leads, GDEs, and community members that joined us for the <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> today! It&#39;s been an incredible day of talks, ideas, and creativity 🙌🎉🗽 <a href="https://t.co/vPgXS9XEs0">pic.twitter.com/vPgXS9XEs0</a></p>&mdash; Women Techmakers (@WomenTechmakers) <a href="https://twitter.com/WomenTechmakers/status/1051240425246392320?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
