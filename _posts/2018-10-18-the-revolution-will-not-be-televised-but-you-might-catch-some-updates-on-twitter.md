@@ -1,5 +1,7 @@
-<img src="../assets/images/wtm_group.png" />
 
+<p>
+<img src="../assets/images/wtm_group.png" />
+</p>
 
 ## Intro
 
