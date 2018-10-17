@@ -74,6 +74,14 @@ Attendance for the summit was by invitation.
 
 ## My Favorite Takeaways
 
+### Kubra:  Opening Talk
+Kubra was the lead organizer of the event and emcee'd the program. 
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to the 80+ Leads, GDEs, and community members that joined us for the <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> today! It&#39;s been an incredible day of talks, ideas, and creativity 🙌🎉🗽 <a href="https://t.co/vPgXS9XEs0">pic.twitter.com/vPgXS9XEs0</a></p>&mdash; Women Techmakers (@WomenTechmakers) <a href="https://twitter.com/WomenTechmakers/status/1051240425246392320?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+
 ### Lisa Martinez:  "Big Little Truths"
 Lisa has worked at Google for nearly 15 years, in various technologies.  She shared that at one point she went to work on Google AdWords because that was the "bread and butter" of the company, and she really wanted to understand it.  Her experience and wisdom were enlightening and inspiring.  These were my favorite shares from her talk:
 - Trust your channels
@@ -108,6 +116,12 @@ Lisa has worked at Google for nearly 15 years, in various technologies.  She sha
 #### Her advise to her younger self
 Wish I had been more my authentic self.
 
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Work hard and be nice to people...it can go a long way <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://t.co/QNnT2k7flg">pic.twitter.com/QNnT2k7flg</a></p>&mdash; Trish Whetzel 🏳️‍🌈🇺🇲🇬🇧 (@TrishWhetzel) <a href="https://twitter.com/TrishWhetzel/status/1051102892197892098?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+
 ### Lauren Hasson:  Become a Negotiat[Her]
 Lauren is a full-time software engineer, and founded a company called DevelopHer to empower women to own their careers and negotiate their salaries.  She told a breathtaking story of how she was grossly underpaid relative to a less experience male co-working who she was training.  She did extensive research and **tripled her base salary** in less than 2 years!
 
@@ -127,6 +141,17 @@ Natalie mentioned the phrase **"The revolution will not be televised"** as an an
 1.  Join
 2.  Thrive
 3.  Lead
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/nataliaenvy?ref_src=twsrc%5Etfw">@nataliaenvy</a> providing the state of the union of <a href="https://twitter.com/WomenTechmakers?ref_src=twsrc%5Etfw">@WomenTechmakers</a> - great news through WTM membership emails, WTM scholarships for learning and travel to tech summits and more. Awesome to hear of all the efforts! <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://t.co/rXHLZw0Kao">pic.twitter.com/rXHLZw0Kao</a></p>&mdash; Trish Whetzel 🏳️‍🌈🇺🇲🇬🇧 (@TrishWhetzel) <a href="https://twitter.com/TrishWhetzel/status/1051130063339573249?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Women Techmakers Program Updates&quot; by <a href="https://twitter.com/nataliaenvy?ref_src=twsrc%5Etfw">@nataliaenvy</a>, head of <a href="https://twitter.com/hashtag/WomenTechmakers?src=hash&amp;ref_src=twsrc%5Etfw">#WomenTechmakers</a> <a href="https://twitter.com/Google?ref_src=twsrc%5Etfw">@Google</a>.  <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://twitter.com/hashtag/WomeninTech?src=hash&amp;ref_src=twsrc%5Etfw">#WomeninTech</a> <a href="https://t.co/rYnzQDpmHF">pic.twitter.com/rYnzQDpmHF</a></p>&mdash; Margaret Maynard-Reid (@margaretmz) <a href="https://twitter.com/margaretmz/status/1051129431299948545?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 
 
 ### Nitya Narasimhan:  Why It Matters / How to Get There]
@@ -179,29 +204,14 @@ fun - GIF
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Having an amazing time at <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://t.co/9EtoHlTJJ5">pic.twitter.com/9EtoHlTJJ5</a></p>&mdash; 💎catface meowmers🔮 (@jordangee) <a href="https://twitter.com/jordangee/status/1051162698887639045?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-tweet: Word hard and be nice to people
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Work hard and be nice to people...it can go a long way <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://t.co/QNnT2k7flg">pic.twitter.com/QNnT2k7flg</a></p>&mdash; Trish Whetzel 🏳️‍🌈🇺🇲🇬🇧 (@TrishWhetzel) <a href="https://twitter.com/TrishWhetzel/status/1051102892197892098?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 Ara the book
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello New York! Excited to see <a href="https://twitter.com/AraStarEngineer?ref_src=twsrc%5Etfw">@AraStarEngineer</a> standing tall and happy at the Women Techmakers Leads Summit <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a>! Excited to talk about parallels between engineering and authoring. <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://twitter.com/mad_sha?ref_src=twsrc%5Etfw">@mad_sha</a> <a href="https://twitter.com/Naveen__Nigam?ref_src=twsrc%5Etfw">@Naveen__Nigam</a> <a href="https://twitter.com/zenginkubraa?ref_src=twsrc%5Etfw">@zenginkubraa</a> <a href="https://t.co/KrYsVpfiR0">pic.twitter.com/KrYsVpfiR0</a></p>&mdash; Komal Singh (@think_oid) <a href="https://twitter.com/think_oid/status/1051099494408957953?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Natalie Env
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/nataliaenvy?ref_src=twsrc%5Etfw">@nataliaenvy</a> providing the state of the union of <a href="https://twitter.com/WomenTechmakers?ref_src=twsrc%5Etfw">@WomenTechmakers</a> - great news through WTM membership emails, WTM scholarships for learning and travel to tech summits and more. Awesome to hear of all the efforts! <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://t.co/rXHLZw0Kao">pic.twitter.com/rXHLZw0Kao</a></p>&mdash; Trish Whetzel 🏳️‍🌈🇺🇲🇬🇧 (@TrishWhetzel) <a href="https://twitter.com/TrishWhetzel/status/1051130063339573249?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Women Techmakers Program Updates&quot; by <a href="https://twitter.com/nataliaenvy?ref_src=twsrc%5Etfw">@nataliaenvy</a>, head of <a href="https://twitter.com/hashtag/WomenTechmakers?src=hash&amp;ref_src=twsrc%5Etfw">#WomenTechmakers</a> <a href="https://twitter.com/Google?ref_src=twsrc%5Etfw">@Google</a>.  <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://twitter.com/hashtag/WomeninTech?src=hash&amp;ref_src=twsrc%5Etfw">#WomeninTech</a> <a href="https://t.co/rYnzQDpmHF">pic.twitter.com/rYnzQDpmHF</a></p>&mdash; Margaret Maynard-Reid (@margaretmz) <a href="https://twitter.com/margaretmz/status/1051129431299948545?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 
 ## Twitter Highlights
-
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to the 80+ Leads, GDEs, and community members that joined us for the <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> today! It&#39;s been an incredible day of talks, ideas, and creativity 🙌🎉🗽 <a href="https://t.co/vPgXS9XEs0">pic.twitter.com/vPgXS9XEs0</a></p>&mdash; Women Techmakers (@WomenTechmakers) <a href="https://twitter.com/WomenTechmakers/status/1051240425246392320?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
