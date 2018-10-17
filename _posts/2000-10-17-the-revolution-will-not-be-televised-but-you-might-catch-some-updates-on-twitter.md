@@ -3,14 +3,17 @@
 
 ## Intro
 
-*To what revolution are we referring?*  Women in Tech.  Around the World.  
+*To what revolution are we referring?*  
+- Women in Tech.  Around the World.  
 <p>
 </p>
-*What is one of the grassroots initiatives that will propel women in tech?*  Google Women Techmakers Program.  
+*What is one of the grassroots initiatives that will propel women in tech?*  
+- Google Women Techmakers Program.  
 <p>
 </p>
 
-*How will that happen?*  Read more below.  
+*How will that happen?*  
+- Read more below.  
 
 ## About [Women Techmakers](https://www.womentechmakers.com/)
 <p>
