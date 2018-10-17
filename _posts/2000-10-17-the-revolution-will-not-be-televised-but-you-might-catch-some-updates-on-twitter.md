@@ -22,8 +22,8 @@ Membership empowers women in their careers by providing access to curated resour
 ### Membership Statistics
 
 - [@WomenTechmakers](https://twitter.com/WomenTechmakers)  on Twitter <a   style="color:red"><i> ⟶  </i></a>
-<a   style="color:purple; font:italic"><i> 99.8K followers! </i></a>
-- There are 43K Women Techmaker **Members**, worldwide
+<a   style="color:purple; font:italic"><b> 99.8K followers! </b></a>
+- There are **43K** Women Techmaker **Members**, worldwide
   - the largest membership is in San Francisco, New York, London and Seattle
   - there are **550** Women Techmaker **Leads** around the world and in **69** countries
 
