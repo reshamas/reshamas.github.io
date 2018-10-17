@@ -1,19 +1,13 @@
 <img src="../assets/images/wtm/wtm_group.png" />
 
 
-## Images
-
-<img src="../assets/images/wtm/wtm_about.png" />
-
-<img src="../assets/images/wtm/wtm_speakers.png" />
-
-
 ## Intro
 *To what revolution are we referring?*  
 
-## About Women Techmakers
-About
-https://www.womentechmakers.com/
+## About [Women Techmakers](https://www.womentechmakers.com/)
+<p>
+<img src="../assets/images/wtm/wtm_about.png" />
+</p>
 
 Women Techmakers provides visibility, community, and resources for women in technology to drive participation and innovation in the field. We achieve this by hosting events, launching resources, and piloting new initiatives with communities and partners around the world. By joining Women Techmakers you'll receive regular emails with access to resources, tools and opportunities from Google and Women Techmakers partnerships to support you in your career.
 Filling out our membership form will ensure we're able to tailor offerings to your needs and interests, which we will send to you via email. If you have any questions or suggestions, please email the Women Techmakers team at wtmmembership@google.com.
@@ -41,6 +35,8 @@ Attendance for the summit was by invitation.
 
 
 ## Keynotes
+
+<img src="../assets/images/wtm/wtm_speakers.png" width="50%" height="50%" />
 
 | Speaker    | Role  | Twitter  |  
 |----|----|----|
