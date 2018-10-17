@@ -1,11 +1,11 @@
-<img src="../assets/images/wtm/wtm_group.jpg" />
+<img src="../assets/images/wtm/wtm_group.png" />
 
 
 ## Images
 
-<img src="../assets/images/wtm/wtm_about.jpg" />
+<img src="../assets/images/wtm/wtm_about.png" />
 
-<img src="../assets/images/wtm/wtm_speakers.jpg" />
+<img src="../assets/images/wtm/wtm_speakers.png" />
 
 
 ## Intro
