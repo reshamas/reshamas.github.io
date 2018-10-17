@@ -62,19 +62,8 @@ Attendance for the summit was by invitation.
 | [Jennifer Wadella](https://www.linkedin.com/in/jennifer-wadella-7985b46/) | Founder, President at Kansas City Women in Technology | [@likeOMGitsFEDAY](https://twitter.com/likeOMGitsFEDAY) |
 | [Tina Arnoldi](https://www.linkedin.com/in/tinaarnoldi/) | Marketing Strategist, Performance Analyst - 360 Internet Strategy | [@TinaArnoldi](https://twitter.com/TinaArnoldi) |
 
-### Slides
-Here are links to slides, where available:  
 
-#### Tina Arnoldi
 
-#### Laura Hasson
-Download the [Negotiation Framework](https://developher.com/resource/)
-
-#### Nitya Narasimhan
-[Why It Matters / How to Get There](http://bit.ly/2018-WTMSummit-Advocacy)
-
-#### Jennifer Wadella
-[Hacking Your Work Life](https://tehfedaykin.github.io/HackingYourWorkLife__Balance/#/title)
 
 
 ## My Favorite Takeaways
@@ -123,6 +112,8 @@ My favorite takeway:
 2.  Arm yourself with questions to handle pushback!
 3.  Know when to walk away!
 
+Download the [Negotiation Framework](https://developher.com/resource/)
+
 ### Natalie Villalobos:  Women Techmakers Program & Updates
 Natalie has been at Google for 9 years and is the Global Head of Women Techmakers.  
 
@@ -130,6 +121,17 @@ Natalie mentioned the phrase **"The revolution will not be televised"** as an an
 1.  Join
 2.  Thrive
 3.  Lead
+
+
+### Nitya Narasimhan:  Why It Matters / How to Get There]
+slides:  <a href="http://bit.ly/2018-WTMSummit-Advocacy"  style="color:orange; font:bold">Advocacy</a>
+
+
+
+### Jennifer Wadella:  Hacking Your Work Life __ Balance To Take Over The World
+slides:  <a href="https://tehfedaykin.github.io/HackingYourWorkLife__Balance/#/title"  style="color:orange; font:bold">Hacking Your Work Life</a>
+
+
 
 ### Tina Arnoldi:  A Digital Detox is Good for You - and Your Business
 slides:  <a href="https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufVo73tB1cXdhv9tYAxIWtnM/edit#slide=id.p4"  style="color:orange; font:bold">Digital Well-Being</a>
@@ -149,6 +151,7 @@ Tina has had one of the most non-linear paths in tech.  She is a certified socia
   - use apps to limit social media use
   - set a timer for 25 minutes, then take a break, walk 
 - **Voluntarily be bored** ---> that can stimulate creativity
+
 
 
 ---
