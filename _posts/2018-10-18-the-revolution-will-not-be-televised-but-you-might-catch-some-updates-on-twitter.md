@@ -1,4 +1,4 @@
-<img src="../assets/images/wtm/wtm_group.png" />
+<img src="../assets/images/wtm_group.png" />
 
 
 ## Intro
