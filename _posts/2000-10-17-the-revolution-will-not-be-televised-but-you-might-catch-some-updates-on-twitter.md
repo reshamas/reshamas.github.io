@@ -179,6 +179,11 @@ slides:  <a href="http://bit.ly/2018-WTMSummit-Advocacy"  style="color:orange; f
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">on taking compliments: do as <a href="https://twitter.com/nitya?ref_src=twsrc%5Etfw">@nitya</a> says not as she does<a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://twitter.com/hashtag/WTM?src=hash&amp;ref_src=twsrc%5Etfw">#WTM</a> <a href="https://t.co/dBmvTXtG5F">pic.twitter.com/dBmvTXtG5F</a></p>&mdash; pthalocyanine (@pthalocyanine) <a href="https://twitter.com/pthalocyanine/status/1051207803195588613?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 ### Jennifer Wadella:  Hacking Your Work Life __ Balance To Take Over The World
 slides:  <a href="https://tehfedaykin.github.io/HackingYourWorkLife__Balance/#/title"  style="color:orange; font:bold">Hacking Your Work Life</a>
 
