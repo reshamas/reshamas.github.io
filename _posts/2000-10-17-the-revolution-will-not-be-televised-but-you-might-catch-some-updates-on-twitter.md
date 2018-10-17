@@ -168,7 +168,7 @@ Natalie mentioned the phrase **"The revolution will not be televised"** as an an
 
 
 
-### Nitya Narasimhan:  Why It Matters / How to Get There] (#FirstLadyOfTech)
+### Nitya Narasimhan:  Why It Matters / How to Get There (#FirstLadyOfTech)
 slides:  <a href="http://bit.ly/2018-WTMSummit-Advocacy"  style="color:orange; font:bold">Advocacy</a>
 
 
