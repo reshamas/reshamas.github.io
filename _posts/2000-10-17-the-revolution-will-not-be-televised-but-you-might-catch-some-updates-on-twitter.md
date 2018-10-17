@@ -211,7 +211,7 @@ Natalie Env
   - [full lyrics](
 https://www.google.com/search?q=lyrics+the+revolution+will+not+be+televised&oq=lyrics+the+revolution&aqs=chrome.0.0j69i57j0l4.3047j0j4&sourceid=chrome&ie=UTF-8
 )
-<img src="../assets/images/wtm/wtm_lyrics.jpg" />
+<img src="../assets/images/wtm/wtm_lyrics.png" />
 
 
 - [How Do We Stop Technology Addiction?](https://medium.com/s/story/how-do-we-stop-technology-addiction-c0c081b8c970)
