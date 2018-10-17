@@ -75,7 +75,8 @@ Attendance for the summit was by invitation.
 
 
 
-## My Favorite Takeaways
+## Highlights
+All of the speakers and talks were incredibly inspiring and informative.  The content and delivery was at an unmatched level.  Here are some highlights from the keynotes. 
 
 ### Kübra Zengin:  Opening Talk
 Kubra was the lead organizer of the event and emcee'd the program. 
