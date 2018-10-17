@@ -1,5 +1,5 @@
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to the 80+ Leads, GDEs, and community members that joined us for the <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> today! It&#39;s been an incredible day of talks, ideas, and creativity 🙌🎉🗽 <a href="https://t.co/vPgXS9XEs0">pic.twitter.com/vPgXS9XEs0</a></p>&mdash; Women Techmakers (@WomenTechmakers) <a href="https://twitter.com/WomenTechmakers/status/1051240425246392320?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="../assets/images/wtm/wtm_group.jpg" />
+
 
 ## Images
 
@@ -193,6 +193,11 @@ Natalie Env
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">&quot;Women Techmakers Program Updates&quot; by <a href="https://twitter.com/nataliaenvy?ref_src=twsrc%5Etfw">@nataliaenvy</a>, head of <a href="https://twitter.com/hashtag/WomenTechmakers?src=hash&amp;ref_src=twsrc%5Etfw">#WomenTechmakers</a> <a href="https://twitter.com/Google?ref_src=twsrc%5Etfw">@Google</a>.  <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://twitter.com/hashtag/WomeninTech?src=hash&amp;ref_src=twsrc%5Etfw">#WomeninTech</a> <a href="https://t.co/rYnzQDpmHF">pic.twitter.com/rYnzQDpmHF</a></p>&mdash; Margaret Maynard-Reid (@margaretmz) <a href="https://twitter.com/margaretmz/status/1051129431299948545?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+## Twitter Highlights
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to the 80+ Leads, GDEs, and community members that joined us for the <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> today! It&#39;s been an incredible day of talks, ideas, and creativity 🙌🎉🗽 <a href="https://t.co/vPgXS9XEs0">pic.twitter.com/vPgXS9XEs0</a></p>&mdash; Women Techmakers (@WomenTechmakers) <a href="https://twitter.com/WomenTechmakers/status/1051240425246392320?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
