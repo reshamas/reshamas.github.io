@@ -29,7 +29,7 @@ comments: false
 - [Intro to Git Workshop](https://github.com/reshamas/git-intro-workshop)
 - [PyGotham 2016](https://github.com/reshamas/pygotham-2016)
 
-## Tutorials
+## Video Tutorials
 - [Getting Started with Git](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID])
 - [Create an Instance on AWS](https://www.youtube.com/watch?v=_dRXVp_kk7w&t=14s)
 
