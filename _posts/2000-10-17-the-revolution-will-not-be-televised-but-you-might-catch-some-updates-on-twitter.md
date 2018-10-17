@@ -9,13 +9,6 @@
 
 <a   style="color:blue; font:italic"><i>Is Kaggle... useful?</i></a>
 
-<p float="left">
-  <img src="../assets/images/afternoon.jpg" width="300" height="220"/>
-  <img src="../assets/images/scikit-learn-logo.png"  width="300" height="220"/> 
-</p>
-<p>
-</p>
-
 
 
 ## Intro
@@ -142,8 +135,15 @@ Natalie mentioned the phrase **"The revolution will not be televised"** as an an
 3.  Lead
 
 ### Tina Arnoldi:  A Digital Detox is Good for You - and Your Business
-slides:  <a href="https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufVo73tB1cXdhv9tYAxIWtnM/edit#slide=id.p4"  style="color:blue; font:italic"><i>Digital Well-Being</i></a>
+slides:  <a href="https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufVo73tB1cXdhv9tYAxIWtnM/edit#slide=id.p4"  style="color:orange; font:bold"><i>Digital Well-Being</i></a>
 
+
+<p float="left">
+  <img src="../assets/images/wtm/wtm_ta1.png" width="300" height="220"/>
+  <img src="../assets/images/wtm/wtm_ta2.png"  width="300" height="220"/> 
+</p>
+<p>
+</p>
 
 
 [Digital Well-Being](https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufVo73tB1cXdhv9tYAxIWtnM/edit#slide=id.p4)
