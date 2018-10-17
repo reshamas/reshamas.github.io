@@ -225,31 +225,36 @@ Tina has had one of the most non-linear paths in tech.  She is a certified socia
 
 ---
  
-swag
+## Twitter Highlights
 
+### Swag
+
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Not bad. Not bad at all.  <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://t.co/KHBmER1RSl">pic.twitter.com/KHBmER1RSl</a></p>&mdash; Tina Arnoldi (@TinaArnoldi) <a href="https://twitter.com/TinaArnoldi/status/1051818284696424450?ref_src=twsrc%5Etfw">October 15, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
+### Inspiring
 
-
-Neem Serra - baby tweet
-
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">My baby is starting to hear this week, and I’m happy that some of the first things it’s hearing are all these strong, inspirational women at the <a href="https://twitter.com/WomenTechmakers?ref_src=twsrc%5Etfw">@WomenTechmakers</a> summit <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a></p>&mdash; Neem Serra (@TeamNeem) <a href="https://twitter.com/TeamNeem/status/1051118909133344769?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
-fun - GIF
+### Fun
 
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Having an amazing time at <a href="https://twitter.com/hashtag/NAWTMSummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMSummit18</a> <a href="https://t.co/9EtoHlTJJ5">pic.twitter.com/9EtoHlTJJ5</a></p>&mdash; 💎catface meowmers🔮 (@jordangee) <a href="https://twitter.com/jordangee/status/1051162698887639045?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
-
-
-Ara the book
+### book:  Ara the Star Engineer
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello New York! Excited to see <a href="https://twitter.com/AraStarEngineer?ref_src=twsrc%5Etfw">@AraStarEngineer</a> standing tall and happy at the Women Techmakers Leads Summit <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a>! Excited to talk about parallels between engineering and authoring. <a href="https://twitter.com/hashtag/nawtmsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#nawtmsummit18</a> <a href="https://twitter.com/mad_sha?ref_src=twsrc%5Etfw">@mad_sha</a> <a href="https://twitter.com/Naveen__Nigam?ref_src=twsrc%5Etfw">@Naveen__Nigam</a> <a href="https://twitter.com/zenginkubraa?ref_src=twsrc%5Etfw">@zenginkubraa</a> <a href="https://t.co/KrYsVpfiR0">pic.twitter.com/KrYsVpfiR0</a></p>&mdash; Komal Singh (@think_oid) <a href="https://twitter.com/think_oid/status/1051099494408957953?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
-
-## Twitter Highlights
+### Community
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Got to love the energy in this room <a href="https://twitter.com/hashtag/NAWTMsummit18?src=hash&amp;ref_src=twsrc%5Etfw">#NAWTMsummit18</a> <a href="https://t.co/2cjz51yMXi">pic.twitter.com/2cjz51yMXi</a></p>&mdash; Naveen Nigam 🇨🇦 (@Naveen__Nigam) <a href="https://twitter.com/Naveen__Nigam/status/1051204624806498304?ref_src=twsrc%5Etfw">October 13, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -262,8 +267,4 @@ Ara the book
 https://www.google.com/search?q=lyrics+the+revolution+will+not+be+televised&oq=lyrics+the+revolution&aqs=chrome.0.0j69i57j0l4.3047j0j4&sourceid=chrome&ie=UTF-8
 )
 <img src="../assets/images/wtm/wtm_lyrics.png" />
-
-
-- [How Do We Stop Technology Addiction?](https://medium.com/s/story/how-do-we-stop-technology-addiction-c0c081b8c970)
-
 
