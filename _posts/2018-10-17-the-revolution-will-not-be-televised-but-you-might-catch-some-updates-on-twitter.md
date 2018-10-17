@@ -5,10 +5,13 @@
 
 *To what revolution are we referring?*  
 - Women in Tech.  Around the World.  
+
 <p>
 </p>
+
 *What is one of the grassroots initiatives that will propel women in tech?*  
 - Google Women Techmakers Program.  
+
 <p>
 </p>
 
