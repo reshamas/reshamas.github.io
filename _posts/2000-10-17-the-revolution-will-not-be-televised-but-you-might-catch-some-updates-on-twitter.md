@@ -135,7 +135,7 @@ Natalie mentioned the phrase **"The revolution will not be televised"** as an an
 3.  Lead
 
 ### Tina Arnoldi:  A Digital Detox is Good for You - and Your Business
-slides:  <a href="https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufVo73tB1cXdhv9tYAxIWtnM/edit#slide=id.p4"  style="color:orange; font:bold"><i>Digital Well-Being</i></a>
+slides:  <a href="https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufVo73tB1cXdhv9tYAxIWtnM/edit#slide=id.p4"  style="color:orange; font:bold">Digital Well-Being</a>
 
 
 <p float="left">
@@ -145,8 +145,6 @@ slides:  <a href="https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufV
 <p>
 </p>
 
-
-[Digital Well-Being](https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufVo73tB1cXdhv9tYAxIWtnM/edit#slide=id.p4)
 
 Tina has had one of the most non-linear paths in tech.  She is a certified social worker who transitioned into tech.  Some great advice to manage our tech consumption in a more productive way:  
 - Routine and habits are easier than willpower
