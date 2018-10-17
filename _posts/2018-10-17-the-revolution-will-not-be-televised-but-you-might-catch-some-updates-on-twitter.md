@@ -302,6 +302,15 @@ Tina has had one of the most non-linear paths in tech.  She is a certified socia
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+## Thank you
+Thank you to Google and their team for creating this stellar event:
+- [Kübra Zengin](https://www.linkedin.com/in/kubrazengin/) 
+- [Natalie Villabos](https://www.linkedin.com/in/natalievillalobos/)
+- [Melissa Muñoz](https://www.linkedin.com/in/melissa-munoz/)
+- [Laura Gluhanich](https://www.linkedin.com/in/lauraglu/)
+- [Naveen Nigam](https://www.linkedin.com/in/naveen-nigam/)
+- [Madusha Cooray](https://www.linkedin.com/in/madushacooray/)
+
 ## References
 
 - [The Revolution Will Not Be Televised](https://en.wikipedia.org/wiki/The_Revolution_Will_Not_Be_Televised)
