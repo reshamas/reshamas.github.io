@@ -325,4 +325,4 @@ Thank you to Google and their team for creating this stellar event:
   - [full lyrics](
 https://www.google.com/search?q=lyrics+the+revolution+will+not+be+televised&oq=lyrics+the+revolution&aqs=chrome.0.0j69i57j0l4.3047j0j4&sourceid=chrome&ie=UTF-8
 )
-<img src="../assets/images/wtm/wtm_lyrics.png" />
+<img src="../assets/images/wtm_lyrics.png" />
