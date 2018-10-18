@@ -220,8 +220,7 @@ slides:  <a href="https://docs.google.com/presentation/d/17KKwUwdy5Xel3QrlsIFufV
 <p>
 </p>
 
-
-Tina has had one of the most non-linear paths in tech.  She is a certified social worker who transitioned into tech.  Some great advice to manage our tech consumption in a more productive way:  
+Tina has had one of the most non-linear paths in tech.  She is a licensed professional counselor who transitioned into tech.  Some great advice to manage our tech consumption in a more productive way:  
 - Routine and habits are easier than willpower
   - keep email [and other browser] tabs closed
   - use apps to limit social media use
