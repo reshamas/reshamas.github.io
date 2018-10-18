@@ -1,7 +1,7 @@
 
 
 <p float="left">
-  <img src="../assets/images/afternoon.jpg" width="300" height="220"/>
+  <img src="../assets/images/sprrint_afternoon.jpg" width="300" height="220"/>
   <img src="../assets/images/scikit-learn-logo.png"  width="300" height="220"/> 
 </p>
 <p>
@@ -68,7 +68,7 @@ We even had two attendees who lived in Europe.  They were visiting NYC during th
 ## Book Signing
 Andy gave away signed copies of his book [Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do).
 
-<img src="../assets/images/books.jpg" />
+<img src="../assets/images/sprint_books.jpg" />
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> for giving copies of your book Introduction to Machine Learning with Python for attendees of the scikit-learn sprint today! <a href="https://twitter.com/hashtag/SciKitSprint?src=hash&amp;ref_src=twsrc%5Etfw">#SciKitSprint</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> <a href="https://t.co/Avdo39sQQZ">pic.twitter.com/Avdo39sQQZ</a></p>&mdash; Theodora Hinkle (@acornthea) <a href="https://twitter.com/acornthea/status/1046122924787273729?ref_src=twsrc%5Etfw">September 29, 2018</a></blockquote>
@@ -86,7 +86,7 @@ pytest sklearn
 It is always exciting to see (most of) our code tests passing.
 
 <p>
-<img src="../assets/images/testing.jpg" />
+<img src="../assets/images/sprint_testing.jpg" />
 </p>
 
 
@@ -100,8 +100,8 @@ It looks like **24 pull requests** were submitted.  Here's a list of some of the
 
 
 <p float="left">
-  <img src="../assets/images/view_am.png" width="300" height="220"/>
-  <img src="../assets/images/view_pm.png"  width="300" height="220"/> 
+  <img src="../assets/images/sprint_view_am.png" width="300" height="220"/>
+  <img src="../assets/images/sprint_view_pm.png"  width="300" height="220"/> 
 </p>
 <p>
 </p>
