@@ -3,9 +3,13 @@
 <img src="../assets/images/wimlds_map.png" />
 </p>
 
-## Background
+## History
 
 [WiMLDS](http://wimlds.org) is the acronym for "Women in Machine Learning & Data Science".  It was founded in 2013 by [Erin LeDell](https://twitter.com/ledell).  The first chapter of WiMLDS was in the [Bay Area](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/).
+
+
+## Mission
+The mission of WiMLDS is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.
 
 
 ## Map of WiMLDS Chapters
@@ -34,5 +38,12 @@
 - Google spreadsheets were utilized to store the data.
 - Google [Data Studio](https://datastudio.google.com/u/0/navigation/reporting) to produce the visualizations.
 
-### Acknowledgments
+## Other Groups
+Here's a list of other organizations in the same space:    
+- [WiDS:  Women in Data Science](https://www.widsconference.org/)
+- [WiML:  Women in Machine Learning](https://wimlworkshop.org/)
+- [WiBD:  Women in Big Data](https://www.womeninbigdata.org/)
+- [Women in Statistics and Data Science (conference)](http://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx)
+
+## Acknowledgments
 - Special thanks to Elena Bakhtina for updating the statistics. 
