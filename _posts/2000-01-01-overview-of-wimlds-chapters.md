@@ -7,7 +7,7 @@
 
 [WiMLDS](http://wimlds.org) is the acronym for "Women in Machine Learning & Data Science".  It was founded in 2013 by [Erin LeDell](https://twitter.com/ledell).  The first chapter of WiMLDS was in the [Bay Area](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/).  The organization hosts meetup events.
 
-Five years later, there are 30+ chapters worldwide in 15 countries and 6 continents.  (Antarctica remains unrepresented.)  Total membership is 18K.
+Five years after the founding of WiMLDS, there are 30+ chapters worldwide in 15 countries and 6 continents.  (Antarctica remains unrepresented.)  Total membership is 18K+.
 
 
 ## Mission
