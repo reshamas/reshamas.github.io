@@ -57,7 +57,7 @@ The 5 countries with the greatest membership are:
 4.  India
 5.  Nigeria
 
-<a style="color:orange"><b>Note:  4 of the top 5 are English-speaking countries.</b></a>
+<p style="color:orange"><b>Note:  4 of the top 5 are English-speaking countries.</b></p>
 
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/rpja" frameborder="0" style="border:0" allowfullscreen></iframe>
 
