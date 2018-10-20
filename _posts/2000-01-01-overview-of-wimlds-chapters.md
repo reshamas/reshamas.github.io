@@ -18,7 +18,6 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/3hia" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
 ## WiMLDS Chapters:  USA & Canada
 The two chapters in North America with the greatest membership are, unsurprisingly:
 1.  Bay Area (4.5K)
@@ -52,9 +51,16 @@ The 5 countries with the greatest membership are:
 4.  India
 5.  Nigeria
 
-Note:  4 of the top 5 are English-speaking countries.
+
+<p style="color:blue><b>Note:  4 of the top 5 are English-speaking countries.</b></>
 
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/rpja" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+## Starting a New Chapter
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Interested in starting a women&#39;s <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> or <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> meetup in your city?  We&#39;d love to help!  Reach out at info@wimlds.org.</p>&mdash; Women+ in ML/DS (@wimlds) <a href="https://twitter.com/wimlds/status/667197958278934529?ref_src=twsrc%5Etfw">November 19, 2015</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 ## Data & Tools
 
