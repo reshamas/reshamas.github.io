@@ -20,10 +20,25 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 
 
 ## WiMLDS Chapters:  USA & Canada
+The two chapters in North America with the greatest membership are, unsurprisingly, Bay Area (4.5K) and New York City (3.7K).
 
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/Sjja" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## WiMLDS Chapters:  Outside of North America
+
+The three chapters with the highest membership outside the USA are:
+- Nairobi, Kenya
+- Paris, France
+- Lagos, Nigeria
+
+Note:  France is where the Python library scikit-learn was developed.  
+
+India has 5 chapters:
+- Pune
+- Bengaluru
+- Mumbai
+- Delhi
+- Chennai
 
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/shja" frameborder="0" style="border:0" allowfullscreen></iframe>
 
