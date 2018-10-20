@@ -32,7 +32,8 @@ The three chapters with the highest membership outside the USA are:
 - Paris, France
 - Lagos, Nigeria
 
-Note:  France is where the Python library scikit-learn was developed.  
+<p style="color:orange><b>Note:  France is where the Python library scikit-learn was developed.</b></p>
+
 
 India has 5 chapters:
 - Pune
@@ -52,7 +53,7 @@ The 5 countries with the greatest membership are:
 5.  Nigeria
 
 
-<p style="color:blue><b>Note:  4 of the top 5 are English-speaking countries.</b></>
+<p style="color:orange><b>Note:  4 of the top 5 are English-speaking countries.</b></p>
 
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/rpja" frameborder="0" style="border:0" allowfullscreen></iframe>
 
