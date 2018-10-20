@@ -33,10 +33,12 @@ The 3 chapters in North America with the greatest membership are, unsurprisingly
 
 ## WiMLDS Chapters:  Outside of North America
 
-The 3 chapters with the highest membership outside the USA are:
+The 5 chapters with the highest membership outside the USA are:
 - Nairobi, Kenya
 - Paris, France
 - Lagos, Nigeria
+- Pune, India
+- Zurich, Switzerland
 
 <p style="color:orange"><b>Note:  France is where the Python library scikit-learn was developed.</b></p>
 
