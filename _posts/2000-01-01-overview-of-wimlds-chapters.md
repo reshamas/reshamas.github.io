@@ -6,7 +6,7 @@
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/3hia" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-## WiMLDS Chapters:  North America
+## WiMLDS Chapters:  USA & Canada
 
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/Sjja" frameborder="0" style="border:0" allowfullscreen></iframe>
 
