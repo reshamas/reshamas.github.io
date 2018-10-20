@@ -1,6 +1,6 @@
 
 <p>
-<img src="../assets/images/wimlds_map.png" />
+<img src="../assets/images/wimlds_map2.png" />
 </p>
 
 ## History
