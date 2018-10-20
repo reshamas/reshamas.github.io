@@ -72,9 +72,6 @@ The 5 countries with the greatest membership are:
 
 ## Connecting with WiMLDS
 
-### Website
-Our website is:  http://wimlds.org
-
 ### Twitter
 Follow us on Twitter at [@wimlds](https://twitter.com/wimlds).  There is also a Twitter [list of chapters](https://twitter.com/wimlds/lists/wimlds-chapters/members). 
 
@@ -93,13 +90,3 @@ A list of all chapters and their [meetup group links](http://wimlds.org/chapters
 ### Tools
 - Google spreadsheets were utilized to store the data.
 - Google [Data Studio](https://datastudio.google.com/u/0/navigation/reporting) to produce the visualizations.
-
-## Other Groups
-Here's a list of other organizations in the same space:    
-- [WiDS:  Women in Data Science](https://www.widsconference.org/)
-- [WiML:  Women in Machine Learning](https://wimlworkshop.org/)
-- [WiBD:  Women in Big Data](https://www.womeninbigdata.org/)
-- [Women in Statistics and Data Science (conference)](http://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx)
-
-## Acknowledgments
-- Special thanks to Elena Bakhtina for updating the statistics. 
