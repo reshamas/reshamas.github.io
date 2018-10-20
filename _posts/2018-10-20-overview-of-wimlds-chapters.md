@@ -27,6 +27,7 @@ The 3 chapters in North America with the greatest membership are, unsurprisingly
 1.  Bay Area (4.5K)
 2.  New York City (3.7K)
 3.  Cary, North Carolina (800+)
+4.  Chicago, Illinois (750+)
 
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/Sjja" frameborder="0" style="border:0" allowfullscreen></iframe>
 
