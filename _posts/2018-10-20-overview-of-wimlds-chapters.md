@@ -5,7 +5,7 @@
 
 ## History
 
-[WiMLDS](http://wimlds.org) is the acronym for "Women in Machine Learning & Data Science".  It was founded in 2013 by [Erin LeDell](https://twitter.com/ledell) in San Francisco, and the group hosts meetups.  This is the order of founding of the chapters:
+[WiMLDS](http://wimlds.org) is the acronym for "Women in Machine Learning & Data Science".  It was founded in 2013 by [Erin LeDell](https://twitter.com/ledell) in San Francisco, and the group hosts meetups.  This is the founding order of the chapters:
 1.  [Bay Area](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/), Dec 2013
 2.  [New York City](http://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/), Oct 2014
 3.  [Cary, North Carolina](https://www.meetup.com/NC-Women-in-Machine-Learning-and-Data-Science/ ), Feb 2016
