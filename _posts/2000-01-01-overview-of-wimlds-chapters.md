@@ -43,6 +43,14 @@ India has 5 chapters:
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/shja" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Summary by Country
+The 5 countries with the greatest membership are:
+1.  USA
+2.  Kenya
+3.  France
+4.  India
+5.  Nigeria
+
+Note:  4 of the top 5 are English-speaking countries.
 
 <iframe width="800" height="600" src="https://datastudio.google.com/embed/reporting/1jwcw5flFvjGaTY-Lxh5ZLQg7H4dbV1xs/page/rpja" frameborder="0" style="border:0" allowfullscreen></iframe>
 
