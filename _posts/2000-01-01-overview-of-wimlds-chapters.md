@@ -5,7 +5,7 @@
 
 ## History
 
-[WiMLDS](http://wimlds.org) is the acronym for "Women in Machine Learning & Data Science".  It was founded in 2013 by [Erin LeDell](https://twitter.com/ledell).  The first chapter of WiMLDS was in the [Bay Area](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/).
+[WiMLDS](http://wimlds.org) is the acronym for "Women in Machine Learning & Data Science".  It was founded in 2013 by [Erin LeDell](https://twitter.com/ledell).  The first chapter of WiMLDS was in the [Bay Area](https://www.meetup.com/Bay-Area-Women-in-Machine-Learning-and-Data-Science/).  The organization hosts meetup events.
 
 Five years later, there are 30+ chapters worldwide in 15 countries and 6 continents.  (Antarctica remains unrepresented.)  Total membership is 18K.
 
@@ -61,6 +61,21 @@ The 5 countries with the greatest membership are:
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Interested in starting a women&#39;s <a href="https://twitter.com/hashtag/DataScience?src=hash&amp;ref_src=twsrc%5Etfw">#DataScience</a> or <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> meetup in your city?  We&#39;d love to help!  Reach out at info@wimlds.org.</p>&mdash; Women+ in ML/DS (@wimlds) <a href="https://twitter.com/wimlds/status/667197958278934529?ref_src=twsrc%5Etfw">November 19, 2015</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
+
+## Connecting with WiMLDS
+
+### Website
+Our website is:  http://wimlds.org
+
+### Twitter
+Follow us on Twitter at [@wimlds](https://twitter.com/wimlds).  There is also a Twitter [list of chapters](https://twitter.com/wimlds/lists/wimlds-chapters/members). 
+
+### Slack
+We have a global Slack team for female and gender minority members of WiMLDS.  To join, send an email request to slack@wimlds.org with a brief note.
+
+### Meetup Groups
+A list of all chapters and their [meetup group links](http://wimlds.org/chapters/) can be found on our website.
+
 
 ## Data & Tools
 
