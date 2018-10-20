@@ -24,7 +24,7 @@
 - The statistics represented were updated October 2018.
 
 ### Tools
-- Google spreadsheets to store the data
+- Google spreadsheets were utilized to store the data.
 - Google [Data Studio](https://datastudio.google.com/u/0/navigation/reporting) to produce the visualizations.
 
 ### Acknowledgments
