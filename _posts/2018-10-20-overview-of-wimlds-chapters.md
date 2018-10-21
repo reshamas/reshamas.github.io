@@ -11,7 +11,7 @@
 3.  [Cary, North Carolina](https://www.meetup.com/NC-Women-in-Machine-Learning-and-Data-Science/ ), Feb 2016
 4.  [Chicago, Illinois](https://www.meetup.com/NC-Women-in-Machine-Learning-and-Data-Science/), Mar 2016
 
-Five years after the founding of WiMLDS, there are 30+ chapters worldwide in 15 countries and 6 continents.  (Antarctica remains unrepresented.)  Total membership is 18K+.
+Five years after the founding of WiMLDS, there are 30+ chapters worldwide in more than a dozen countries and 6 continents.  (Antarctica remains unrepresented.)  Total membership is 18K+.
 
 
 ## Mission
