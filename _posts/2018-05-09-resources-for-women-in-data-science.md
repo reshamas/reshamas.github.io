@@ -78,6 +78,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 ## Women in Data Organizations
 
 Here's a list of women in data groups:  
+
 - [WiDS:  Women in Data Science](https://www.widsconference.org/)
 - [WiML:  Women in Machine Learning](https://wimlworkshop.org/)
 - [WiMLDS:  Women in Machine Learning & Data Science](http://wimlds.org)
