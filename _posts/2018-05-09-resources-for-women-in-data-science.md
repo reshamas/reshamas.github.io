@@ -75,17 +75,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 - co-located with NIPS 2018
 - other events co-located with COLT, ICML and [more](http://wimlworkshop.org/events/)
 
-## Women in Data Organizations
 
-Here's a list of women in data groups:  
-
-| Group Name    |   |  
-|----|----|
-| [WiDS:  Women in Data Science](https://www.widsconference.org/) |   |
-| [WiML:  Women in Machine Learning](https://wimlworkshop.org/) |   |
-| [WiMLDS:  Women in Machine Learning & Data Science](http://wimlds.org) |    |
-| [WiBD:  Women in Big Data](https://www.womeninbigdata.org/) |   |
-| [WSDS:  Women in Statistics and Data Science](http://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx) | |
  
 ## Women in Tech Conferences
 
@@ -115,6 +105,16 @@ Below are various groups in the data and tech space.  You can participate by:
 - volunteering your time 
 
 If there is not a local chapter, consider starting one and enlist the aid of others.  
+
+### Women in Data Organizations
+
+| Group Name    | Twitter   |  
+|----|----|
+| [WiDS:  Women in Data Science](https://www.widsconference.org/) |   |
+| [WiML:  Women in Machine Learning](https://wimlworkshop.org/) |   |
+| [WiMLDS:  Women in Machine Learning & Data Science](http://wimlds.org) |    |
+| [WiBD:  Women in Big Data](https://www.womeninbigdata.org/) |   |
+| [WSDS:  Women in Statistics and Data Science](http://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx) | |
 
 ###  Tech Groups
 
