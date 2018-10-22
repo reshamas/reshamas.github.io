@@ -2,6 +2,9 @@
 <img src="../assets/images/chart.png" align="center"> 
 </p>
 
+<a href="https://www.kdnuggets.com/news/top-stories.html"><img src="https://www.kdnuggets.com/images/tkb-1810-g.png" width=95 height=95 alt="Top KDnuggets Blogger for Oct 2018"></a>
+
+
 ## GraphConnect 2018
 [GraphConnect 2018](https://graphconnect.com), Neo4j's bi-annual conference, was held in New York City in mid-September.  It took place right in mid-town Manhattan at the beautiful Marriott Marquis Times Square. I had the opportunity to attend some parts of the conference. 
 <p>
