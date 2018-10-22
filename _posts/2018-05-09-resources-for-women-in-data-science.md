@@ -106,16 +106,6 @@ Below are various groups in the data and tech space.  You can participate by:
 
 If there is not a local chapter, consider starting one and enlist the aid of others.  
 
-### Women in Data Organizations
-
-| Group Name    | Twitter   |  
-|----|----|
-| [WiDS:  Women in Data Science](https://www.widsconference.org/) |   |
-| [WiML:  Women in Machine Learning](https://wimlworkshop.org/) |   |
-| [WiMLDS:  Women in Machine Learning & Data Science](http://wimlds.org) |    |
-| [WiBD:  Women in Big Data](https://www.womeninbigdata.org/) |   |
-| [WSDS:  Women in Statistics and Data Science](http://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx) | |
-
 ###  Tech Groups
 
 | Group Name    | Twitter  |  
