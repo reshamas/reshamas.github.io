@@ -79,12 +79,14 @@ Prior to joining any of the organizations or attending their events, it is essen
 
 Here's a list of women in data groups:  
 
-- [WiDS:  Women in Data Science](https://www.widsconference.org/)
-- [WiML:  Women in Machine Learning](https://wimlworkshop.org/)
-- [WiMLDS:  Women in Machine Learning & Data Science](http://wimlds.org)
-- [WiBD:  Women in Big Data](https://www.womeninbigdata.org/)
-- [WSDS:  Women in Statistics and Data Science (conference)](http://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx)
-
+| Group Name    |   |  
+|----|----|
+| [WiDS:  Women in Data Science](https://www.widsconference.org/) |   |
+| [WiML:  Women in Machine Learning](https://wimlworkshop.org/) |   |
+| [WiMLDS:  Women in Machine Learning & Data Science](http://wimlds.org) |    |
+| [WiBD:  Women in Big Data](https://www.womeninbigdata.org/) |   |
+| [WSDS:  Women in Statistics and Data Science](http://www.amstat.org/ASA/Meetings/Women-in-Statistics-and-Data-Science.aspx) | |
+ 
 ## Women in Tech Conferences
 
 ### [Women Who Code CONNECT](https://connect2018.womenwhocode.com/)
