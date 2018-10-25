@@ -189,6 +189,10 @@ A statement issued by NIPS on why the name was not changed is [included here](ht
 [NIPS AI Conference to Continue Laughing about Nipples at the Expense of Women in Tech](https://medium.com/@therese.koch1/nips-ai-conference-to-continue-laughing-about-nipples-at-the-expense-of-women-in-tech-8c0fa74b1ec4):  
 > By only inviting former attendees of the conference to respond to the survey, the organizers had to have known that the demographics would break down in this way. This drowns out the voices of the minority of people — women — most affected by this issue and completely erases the voices of any women who have been discouraged from attending the conference in the past due to the name or to the fratty, sexist culture in tech more broadly.
 
+>By conducting this survey and publicly announcing the result, the NIPS conference organizers knew that they would be making an important statement, one way or the other. Rather than choosing to oppose a tradition that promotes sexism and harassment, they decided that the majority — the men who have attended in the past — count more than those women who chose to speak up and criticize the name, both through the survey and publicly, at risk to their own careers.
+
+>If you feel strongly about this issue, consider signing this open letter to the NIPS board asking them to reconsider: https://www.change.org/p/members-of-nips-board-protestnips-nips-acronym-encourages-sexism-and-is-a-slur-change-the-name
+
 #### Responses to Not Changing NIPS Name
 
 <p>
