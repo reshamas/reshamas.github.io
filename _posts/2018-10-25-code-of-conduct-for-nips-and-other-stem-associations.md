@@ -7,7 +7,7 @@ The hope is that organizations that are trailing in their CoC policies will reac
 There is a hypothesis here that to create a welcoming and professional environment, it is necessary to have a comprehensive code of conduct as well as detailed procedures for handling violations.  The hope is that comprehensive codes of conduct will provide a safe avenue for communicating violations, prevent inappropriate behavior in the community, and encourage professional and inclusionary behavior.
 
 ## Background 
-I am a member of the NumFOCUS [DISC committee](https://numfocus.org/programs/diversity-inclusion), and we worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
+I am a member of the NumFOCUS [DISC committee](https://numfocus.org/programs/diversity-inclusion), and the committee worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
 
 ## Overview of Organizations
 Let's begin with some background on some of the major STEM organizations.  
