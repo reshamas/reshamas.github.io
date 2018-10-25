@@ -172,7 +172,7 @@ Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medici
 </p>
 
 #### [NIPS Name Change](https://nips.cc/public/NameChange)
-A statement issued by NIPS on why the name was not changed is included here.
+A statement issued by NIPS on why the name was not changed is [included here](https://nips.cc/public/NameChange).
 
 
 <p>
