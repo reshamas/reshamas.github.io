@@ -134,8 +134,6 @@ Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medici
 	
 - Bystander Training:  ["It's on US"](https://www.itsonus.org/)
 	- has a pledge that folks can take. 
-	
-- [Project Include](http://projectinclude.org/)
 - [Managing our Code of Conduct](https://reshamas.github.io/managing-our-code-of-conduct/) (lists different types of violations)
 - [Where do Data Scientists Come From?](https://medium.com/indeed-data-science/where-do-data-scientists-come-from-fc526023ace)
 
@@ -173,6 +171,11 @@ Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medici
 </p>
 
 <p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I&#39;m proud to be a member of the <a href="https://twitter.com/JohnsHopkins?ref_src=twsrc%5Etfw">@JohnsHopkins</a> faculty making a call for greater inclusion for <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> and <a href="https://twitter.com/hashtag/WomenInSTEM?src=hash&amp;ref_src=twsrc%5Etfw">#WomenInSTEM</a> at <a href="https://twitter.com/NipsConference?ref_src=twsrc%5Etfw">@NipsConference</a> <a href="https://t.co/HqgteO1tit">https://t.co/HqgteO1tit</a></p>&mdash; Dr. Elana J Fertig (@FertigLab) <a href="https://twitter.com/FertigLab/status/979738095481434112?ref_src=twsrc%5Etfw">March 30, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">NIPS conference decided to keep its name unchanged <a href="https://t.co/ExEAJmu9O0">https://t.co/ExEAJmu9O0</a> <a href="https://t.co/AFLCaZ8s62">pic.twitter.com/AFLCaZ8s62</a></p>&mdash; hardmaru (@hardmaru) <a href="https://twitter.com/hardmaru/status/1054872232722223104?ref_src=twsrc%5Etfw">October 23, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
@@ -180,6 +183,18 @@ Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medici
 #### [NIPS Name Change](https://nips.cc/public/NameChange)
 A statement issued by NIPS on why the name was not changed is [included here](https://nips.cc/public/NameChange).
 
+
+#### Responses to Not Changing NIPS Name
+
+<p>
+	<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I am so disappointed in <a href="https://twitter.com/NipsConference?ref_src=twsrc%5Etfw">@NipsConference</a> for missing the opportunity to join the 21st century and change the name of this conference. But maybe the worst part is that their purported justification is based on a shoddy analysis of their survey results. 1/n<a href="https://t.co/YmyRObpUch">https://t.co/YmyRObpUch</a></p>&mdash; Daniela Witten (@daniela_witten) <a href="https://twitter.com/daniela_witten/status/1054800509364621312?ref_src=twsrc%5Etfw">October 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">This is textbook results of a classifier applied to a biased training set to lead to a biased outcome 3/ <a href="https://t.co/97SFgX9Ud7">pic.twitter.com/97SFgX9Ud7</a></p>&mdash; Dr. Elana J Fertig (@FertigLab) <a href="https://twitter.com/FertigLab/status/1054500054868860928?ref_src=twsrc%5Etfw">October 22, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ProtestNIPS?src=hash&amp;ref_src=twsrc%5Etfw">#ProtestNIPS</a> <br><br>Great hashtag to follow if you want to see how many people are *seriously pissed off* that <a href="https://twitter.com/NipsConference?ref_src=twsrc%5Etfw">@NipsConference</a> is burying its head in the sand after the request by the members of the <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> community to change the name of the conference. <a href="https://t.co/Wf9ExCv6bo">pic.twitter.com/Wf9ExCv6bo</a></p>&mdash; Women+ in ML/DS (@wimlds) <a href="https://twitter.com/wimlds/status/1055312910103175168?ref_src=twsrc%5Etfw">October 25, 2018</a></blockquote>
