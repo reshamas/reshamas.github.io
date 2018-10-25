@@ -67,7 +67,7 @@ These are examples of some highly publicized harassment incidents within the com
 ## Associations
 
 ### ASA (American Statistical Association)
-It was founded in Boston, Massachusetts in 1839, and is the second oldest continuously operating professional society in the US.  JSM has a [Conduct Policy](http://ww2.amstat.org/meetings/jsm/2019/conductpolicy.cfm).  Beginning in August 2018, they use an independent third party where attendees can report violations.  It is called [Ombuds Service](http://ww2.amstat.org/meetings/jsm/2018/conductpolicy.cfm).  This organization is most mature in their procedures.  The fact that it has a long history and structured organziation likely contributes to implementing these changes.  
+It was founded in Boston, Massachusetts in 1839, and is the second oldest continuously operating professional society in the US.  JSM has a [Conduct Policy](http://ww2.amstat.org/meetings/jsm/2019/conductpolicy.cfm).  Beginning in August 2018, they use an independent third party where attendees can report violations.  It is called [Ombuds Service](http://ww2.amstat.org/meetings/jsm/2018/conductpolicy.cfm).  This organization is the most mature in their procedures.  They have also experienced high-profile conduction violations in the community.  The fact that it has a long history and structured organziation likely contributes to implementing these changes first.    
 
 Contact:  meetings@amstat.org
 
