@@ -142,7 +142,6 @@ Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medici
 ## Diversity & Inclusion
 - [DISC Cookbook](https://github.com/numfocus/DISCOVER-Cookbook)
 - [Five Tactical Tips to Improve Diversity for Pitch Event Organizers](https://medium.com/@reiwang/five-tactical-tips-to-improve-diversity-for-pitch-event-organizers-5493cf915926)
-- 
 
 ## Acknowledgements
 - Donna LaDonde
@@ -194,7 +193,7 @@ A statement issued by NIPS on why the name was not changed is included here.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-### Demma Rodriguez of Google
+### Demma Rodriguez of Google says it best
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Diversity: <br>make sure everyone is in the room<br><br>Inclusion: <br>make sure everyone feels welcome<br><br>Integrity: <br>how we do that<br><br>Equity:<br>make sure everyone gets what they *need*<br><br>Emma Rodriguez of Google at <a href="https://twitter.com/hashtag/WSC2018Conf?src=hash&amp;ref_src=twsrc%5Etfw">#WSC2018Conf</a> <a href="https://t.co/HQyDBdkjPq">pic.twitter.com/HQyDBdkjPq</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1025384111861653505?ref_src=twsrc%5Etfw">August 3, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
