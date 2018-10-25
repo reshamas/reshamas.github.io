@@ -35,7 +35,7 @@ I investigated the STEM associations and their current status on CoC as well as 
 
 | Acronym    |    CoC  | Instructions for Reporting Violations?   |  Anonymous Reporting Possible? | Independent Reporting Party? | Note  | 
 |------------|--------|--------|------------|----| ----| 
-| [ASA](http://www.amstat.org)   | [CP for JSM](https://ww2.amstat.org/meetings/jsm/2016/conductpolicy.cfm) | ✅ | ✅ | ✅  | [Ombuds Service](http://ww2.amstat.org/meetings/jsm/2018/conductpolicy.cfm)   |  
+| [ASA](http://www.amstat.org)   | [CP for JSM](https://ww2.amstat.org/meetings/jsm/2016/conductpolicy.cfm) | ✅ | ✅ | ✅  | [Ombuds Service: pilot program](http://ww2.amstat.org/meetings/jsm/2018/conductpolicy.cfm)   |  
 | [NumFOCUS](https://numfocus.org)| [CoC](https://numfocus.org/code-of-conduct)   | ✅|  ✅ | ❌  | |
 | [ACM](https://www.acm.org)    | [CoE](https://www.acm.org/code-of-ethics)    | ❌    |  ❌   | ❌    |    |
 | [ICML](https://icml.cc)       | [CoC](https://icml.cc/public/CodeOfConduct) | ✅ | ❌  |  ❌  | not easy to find CoC   |
