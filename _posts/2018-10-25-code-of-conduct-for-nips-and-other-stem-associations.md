@@ -10,7 +10,7 @@ There is a hypothesis here that to create a welcoming and professional environme
 I am a member of the NumFOCUS [DISC committee](https://numfocus.org/programs/diversity-inclusion), and the committee worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
 
 ## Overview of Organizations
-Let's begin with some background on some of the major STEM organizations.  I chose 10 STEM organizations in variousl impactful disciplines and researched them. 
+Let's begin with some background on some of the major STEM organizations.  I chose 10 STEM organizations in variousl quantitative disciplines and researched them. 
 
 
 | Acronym    | Name  | Field  |  Membership | Headquarters | Non-profit | 
