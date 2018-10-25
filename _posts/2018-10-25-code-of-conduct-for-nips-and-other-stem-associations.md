@@ -3,7 +3,7 @@
 </p>
 
 ## Goal
-This article examines the professional organizations that serve some of the major fields of study or related areas in STEM.  These organizations represent many of the disciplines that flow into the **data science** pipeline.  The focus is on American associations.  However, often membership can be worldwide.  The goal of this writing is to see what the current codes of conduct (CoC) are in some of the largest STEM associations.
+This article examines the professional organizations that serve some of the major fields of study or related areas in STEM.  These organizations represent many of the disciplines that flow into the **data science** pipeline.  The focus is on American associations.  However, often membership can be worldwide.  The goal of this writing is to see what the current codes of conduct (CoC) are in some of the largest STEM associations.  All views are my own. 
 
 The hope is that organizations that are trailing in their CoC policies will reach out to the trailblazing organizations to gain knowledge and update their procedures.  
 
