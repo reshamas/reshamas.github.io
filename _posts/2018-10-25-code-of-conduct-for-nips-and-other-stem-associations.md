@@ -201,3 +201,5 @@ A statement issued by NIPS on why the name was not changed is included here.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+## Contact
+I welcome any updates to the CoC status of organizations.  Email me at reshama@wimlds.org to request any edits to this article.  
