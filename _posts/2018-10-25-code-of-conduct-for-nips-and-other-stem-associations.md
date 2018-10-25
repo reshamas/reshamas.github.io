@@ -183,6 +183,8 @@ Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medici
 #### [NIPS Name Change](https://nips.cc/public/NameChange)
 A statement issued by NIPS on why the name was not changed is [included here](https://nips.cc/public/NameChange).
 
+[NIPS AI Conference to Continue Laughing about Nipples at the Expense of Women in Tech](https://medium.com/@therese.koch1/nips-ai-conference-to-continue-laughing-about-nipples-at-the-expense-of-women-in-tech-8c0fa74b1ec4):  
+> By only inviting former attendees of the conference to respond to the survey, the organizers had to have known that the demographics would break down in this way. This drowns out the voices of the minority of people — women — most affected by this issue and completely erases the voices of any women who have been discouraged from attending the conference in the past due to the name or to the fratty, sexist culture in tech more broadly.
 
 #### Responses to Not Changing NIPS Name
 
