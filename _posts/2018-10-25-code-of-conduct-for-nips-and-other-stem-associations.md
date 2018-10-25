@@ -78,7 +78,7 @@ It was founded in Boston, Massachusetts in 1839, and is the second oldest contin
 Contact:  Donna LaLonde at DonnaL@amstat.org
 
 ### NumFocus
-NumFOCUS was founded in 2012, and it supports and promotes world-class, innovative, open source scientific software.  NumFOCUS issued an updated comprehensive CoC [October 4, 2018](https://numfocus.org/blog/updates-to-the-numfocus-code-of-conduct).  They also recently implemented a [CoC Reporting Form](https://numfocus.typeform.com/to/ynjGdT)  
+NumFOCUS was founded in 2012, and it supports and promotes world-class, innovative, open source scientific software.  NumFOCUS issued an updated comprehensive CoC [October 4, 2018](https://numfocus.org/blog/updates-to-the-numfocus-code-of-conduct).  They also recently implemented a [CoC Reporting Form](https://numfocus.typeform.com/to/ynjGdT) which permits anonymous reporting.  There is also a detailed guide on the process for addressing violations.  This is the most comprehensive guide available on procedures for handling violations.  
 
 Contact:  Gina Helfritch at gina@numfocus.org
 
