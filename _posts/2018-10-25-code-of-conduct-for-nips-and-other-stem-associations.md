@@ -191,7 +191,7 @@ A statement issued by NIPS on why the name was not changed is [included here](ht
 
 >By conducting this survey and publicly announcing the result, the NIPS conference organizers knew that they would be making an important statement, one way or the other. Rather than choosing to oppose a tradition that promotes sexism and harassment, they decided that the majority — the men who have attended in the past — count more than those women who chose to speak up and criticize the name, both through the survey and publicly, at risk to their own careers.
 
->If you feel strongly about this issue, consider signing this open letter to the NIPS board asking them to reconsider: https://www.change.org/p/members-of-nips-board-protestnips-nips-acronym-encourages-sexism-and-is-a-slur-change-the-name
+>If you feel strongly about this issue, consider [signing this open letter](https://www.change.org/p/members-of-nips-board-protestnips-nips-acronym-encourages-sexism-and-is-a-slur-change-the-name) to the NIPS board asking them to reconsider.
 
 #### Responses to Not Changing NIPS Name
 
