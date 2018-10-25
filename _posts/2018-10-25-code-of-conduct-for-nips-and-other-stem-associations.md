@@ -60,7 +60,7 @@ It looks like there are many variations of CoC:
 - CPCE = Code of Professional Conduct and Ethics
 
 ## High Profile Cases of Violations
-These are examples of some highly publicized harassment incidents within the community:   
+These are examples of some highly publicized harassment incidents within the **statistics** community:   
 - Brad Carlin
 	- [Statistics, we have a problem](https://medium.com/@kristianlum/statistics-we-have-a-problem-304638dc5de5)
 	- [UMN biostatistics professor investigated after allegation on conduct](https://www.twincities.com/2017/12/18/umn-biostatistics-professor-investigated-after-allegation-on-conduct/)
