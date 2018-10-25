@@ -31,6 +31,7 @@ Let's begin with some background on some of the major STEM organizations.
 (b) **NIPS/ICML** do not have official "membership".  This number represents total attendees at their annual conference.  
 
 ## Codes of Conduct
+I investigated the STEM associations and their current status on CoC as well as reporting procedures.  
 
 | Acronym    |    CoC  | Instructions for Reporting Violations?   |  Anonymous Reporting Possible? | Independent Reporting Party? | Note  | 
 |------------|--------|--------|------------|----| ----| 
