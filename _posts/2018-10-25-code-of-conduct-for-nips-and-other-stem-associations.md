@@ -60,10 +60,14 @@ It looks like there are many variations of CoC:
 - CPCE = Code of Professional Conduct and Ethics
 
 ## High Profile Cases of Violations
-These are examples of some highly publicized harassment incidents within the community:  
+These are examples of some highly publicized harassment incidents within the community:   
+- Brad Carlin
+	- [Statistics, we have a problem](https://medium.com/@kristianlum/statistics-we-have-a-problem-304638dc5de5)
+	- [UMN biostatistics professor investigated after allegation on conduct](https://www.twincities.com/2017/12/18/umn-biostatistics-professor-investigated-after-allegation-on-conduct/)
+	- [Minnesota professor Brad Carlin resigns amid sexual harassment complaints](http://www.citypages.com/news/minnesota-professor-brad-carlin-resigns-amid-sexual-harassment-complaints/482944771)
 - [Google AI Researcher Accused of Sexual Harassment](https://www.bloomberg.com/news/articles/2017-12-16/google-researcher-accused-of-sexual-harassment-roiling-ai-field)
-- [Statistics, we have a problem](https://medium.com/@kristianlum/statistics-we-have-a-problem-304638dc5de5)
 - [UC Berkeley statistics professor allegedly sexually harassed postdoctoral researcher](http://www.dailycal.org/2018/03/25/uc-berkeley-statistics-professor-allegedly-sexually-harassed-postdoctoral-researcher/)
+
 
 
 ## Associations
