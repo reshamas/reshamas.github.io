@@ -128,17 +128,19 @@ After the publicized violations, this is the [NIPS Updated CoC (summer 2018)](ht
 Hence, that is why I am writing this article.
 
 
-## Resources
+## References
 - [Hopkins faculty promote better climate in machine learning](https://hopkinscsw.wordpress.com/2018/03/30/hopkins-faculty-promote-better-climate-in-machine-learning/)
 - [Changing the Culture for Women and Underrepresented Groups in STEM+M](http://www.insightintodiversity.com/changing-the-culture-for-women-and-underrepresented-groups-in-stemm/)
 - Report:  [Sexual Harassment of Women
 Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medicine](https://www.nap.edu/catalog/24994/sexual-harassment-of-women-climate-culture-and-consequences-in-academic)
 	- Even though the focus was academics, the report has a lot to offer in terms of understanding the problem and working toward solutions.
-	
+- [Where do Data Scientists Come From?](https://medium.com/indeed-data-science/where-do-data-scientists-come-from-fc526023ace)
+
+
+## Resources
 - Bystander Training:  ["It's on US"](https://www.itsonus.org/)
 	- has a pledge that folks can take. 
 - [Managing our Code of Conduct](https://reshamas.github.io/managing-our-code-of-conduct/) (lists different types of violations)
-- [Where do Data Scientists Come From?](https://medium.com/indeed-data-science/where-do-data-scientists-come-from-fc526023ace)
 
 ### Creating a Code of Conduct
 - [How to Design a Code of Conduct for Your Community](https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
