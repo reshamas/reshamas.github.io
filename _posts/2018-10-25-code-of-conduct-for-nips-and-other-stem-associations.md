@@ -7,7 +7,7 @@ This article examines the professional organizations that serve some of the majo
 
 The hope is that organizations that are trailing in their CoC policies will reach out to the trailblazing organizations to gain knowledge and update their procedures.  
 
-There is a hypothesis here that to create a welcoming and professional environment, it is necessary to have a comprehensive code of conduct as well as detailed procedures for handling violations.  The expectd impact is that comprehensive codes of conduct will provide a safe avenue for communicating violations, prevent inappropriate behavior in the community, and encourage professional and inclusionary behavior.
+There is a hypothesis here that to create a welcoming and professional environment, it is necessary to have a comprehensive code of conduct as well as detailed procedures for handling violations.  The expected impact is that comprehensive codes of conduct will provide a safe avenue for communicating violations, prevent inappropriate behavior in the community, and encourage professional and inclusionary behavior.
 
 ## Background 
 I am a member of the NumFOCUS [DISC committee](https://numfocus.org/programs/diversity-inclusion), and the committee worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
