@@ -72,6 +72,7 @@ Contact:  meetings@amstat.org
 
 ### NumFocus
 NumFOCUS was founded in 2012, and it supports and promotes world-class, innovative, open source scientific software.  NumFOCUS has a comprehensive Code of Conduct.  They also recently implemented a [CoC Reporting Form](https://numfocus.typeform.com/to/ynjGdT)  
+
 Contact:  Gina Helfritch at gina@numfocus.org
 
 ### [Association for Computing Machinery](https://www.acm.org/) 
