@@ -15,20 +15,22 @@ Let's begin with some background on some of the major STEM organizations.
 
 | Acronym    | Name  | Field  |  Membership | Headquarters | Non-profit | 
 |------------|--------|--------|------------|----| ----| 
-| [ASA](http://www.amstat.org)     | American Statistical Association      | Statistics         | 18K     | Alexandra, VA  | yes |
-| [NumFOCUS](https://numfocus.org) |                                       | Open Source        | 1K / 3500 (a)    | Austin, TX     | 501 c3|
+| [ASA](http://www.amstat.org)     | American Statistical Association      | Statistics         | 18K/ 6300 (a)    | Alexandra, VA  | yes |
+| [NumFOCUS](https://numfocus.org) |                                       | Open Source        | 1K / 3500 (b)    | Austin, TX     | 501 c3|
 | [ACM](https://www.acm.org)       | Association for Computing Machinery   | Computer Science   | 100K    | New York, NY   | no  |
-| [ICML](https://icml.cc)          | Int'l Conf on Machine Learning        | Machine Learning   | 10K (b) |               | yes |
-| [NIPS](https://nips.cc)          | Neural Information Processing Systems |                    | 8K (b)  |               | yes |
+| [ICML](https://icml.cc)          | Int'l Conf on Machine Learning        | Machine Learning   | 10K (c) |               | yes |
+| [NIPS](https://nips.cc)          | Neural Information Processing Systems |                    | 8K (c)  |               | yes |
 | [AIP](https://www.aip.org/)      | American Institute of Physics         | Physics            | 135K    | College Park, MD | yes | 
 | [AEA](https://www.aeaweb.org)    | American Economic Association         | Economics          | 20K     | Nashville, TN  |yes |
 | [AAES](http://www.aaes.org/)         | American Association of Engineering Societies| Engineering |         | Reston, VA     | yes |
 | [AMS](https://www.ams.org/home/page) | American Mathematical Society         | Mathematics        | 30K     | Providence, RI | no |
 | [AMF](https://www.afajof.org)        | American Finance Association          | Finance            | 8K      |               | no |
 
-(a) **NuMFOCUS** has approximately 1K voting members and approximately 3500 attendees to their conferences annually.  Their user base is upwards of 1 million.  They sponsor numerous open source projects.  As an example, any comment on an issue to a GitHub repo for open source is covered under their CoC.  
+(a) **ASA** membership is 18K.  The recent JSM (Joint Statistical Meetings) in August 2018 had 6346 attendees.  
 
-(b) **NIPS/ICML** do not have official "membership".  This number represents total attendees at their annual conference.  
+(b) **NuMFOCUS** has approximately 1K voting members and approximately 3500 attendees to their conferences annually.  Their user base is upwards of 1 million.  They sponsor numerous open source projects.  As an example, any comment on an issue to a GitHub repo for open source is covered under their CoC.  
+
+(c) **NIPS/ICML** do not have official "membership".  This number represents total attendees at their annual conference.  
 
 ## Codes of Conduct
 I investigated the STEM associations and their current status on CoC as well as reporting procedures.  
@@ -69,7 +71,7 @@ These are examples of some highly publicized harassment incidents within the com
 ### ASA (American Statistical Association)
 It was founded in Boston, Massachusetts in 1839, and is the second oldest continuously operating professional society in the US.  JSM has a [Conduct Policy](http://ww2.amstat.org/meetings/jsm/2019/conductpolicy.cfm).  Beginning in August 2018, they use an independent third party where attendees can report violations, as a **pilot program**.  It is called [Ombuds Service](http://ww2.amstat.org/meetings/jsm/2018/conductpolicy.cfm).  This organization is the most mature in their procedures.  They have also experienced high-profile conduction violations in the community.  The fact that it has a long history and structured organziation likely contributes to implementing these changes first.    
 
-Contact:  meetings@amstat.org
+Contact:  Donna LaLonde at DonnaL@amstat.org
 
 ### NumFocus
 NumFOCUS was founded in 2012, and it supports and promotes world-class, innovative, open source scientific software.  NumFOCUS issued an updated comprehensive CoC [October 4, 2018](https://numfocus.org/blog/updates-to-the-numfocus-code-of-conduct).  They also recently implemented a [CoC Reporting Form](https://numfocus.typeform.com/to/ynjGdT)  
@@ -145,7 +147,7 @@ Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medici
 - [Five Tactical Tips to Improve Diversity for Pitch Event Organizers](https://medium.com/@reiwang/five-tactical-tips-to-improve-diversity-for-pitch-event-organizers-5493cf915926)
 
 ## Acknowledgements
-- Donna LaDonde
+- Donna LaLonde
 - Gina Helfrich
 - Hal Daume 
 
