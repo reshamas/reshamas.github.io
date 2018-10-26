@@ -82,13 +82,14 @@ These are examples of some highly publicized harassment incidents within the **s
 It was founded in Boston, Massachusetts in 1839, and is the second oldest continuously operating professional society in the US.  JSM has a [Conduct Policy](http://ww2.amstat.org/meetings/jsm/2019/conductpolicy.cfm).  Beginning in August 2018, they used an independent third party where attendees can report violations, as a **pilot program**.  It is called [Ombuds Service](http://ww2.amstat.org/meetings/jsm/2018/conductpolicy.cfm).  
 
 The ASA is the most mature organization in their procedures.  They have also experienced high-profile conduction violations in the community.  The fact that it has a long history and structured organziation likely also contributed to implementing these changes first.    
-
 Contact:  Donna LaLonde at DonnaL@amstat.org
 
 ### NumFocus
 NumFOCUS was founded in 2012, and it supports and promotes world-class, innovative, open source scientific software.  NumFOCUS issued an updated comprehensive CoC [October 4, 2018](https://numfocus.org/blog/updates-to-the-numfocus-code-of-conduct).  They also recently implemented a [CoC Reporting Form](https://numfocus.typeform.com/to/ynjGdT) which permits anonymous reporting.  There is also a detailed guide on the process for addressing violations.  This is the most comprehensive guide available on procedures for handling violations.  
 
 Contact:  Gina Helfritch at gina@numfocus.org
+
+[PyData Membership Overview](http://meetup.com/pro/pydata):  PyData has ~ **96K** members worldwide.  
 
 ### [Association for Computing Machinery](https://www.acm.org/) 
 ACM was founded in 1947.  Its Special Interest Groups (SIGs) sponsor more than 170 computing conferences, workshops, and symposia around the world.  They sponsor [SIGKDD](https://www.kdd.org/conferences) which is a premier and highly respected international data mining conference.  
