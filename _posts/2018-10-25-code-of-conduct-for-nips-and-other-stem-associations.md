@@ -34,7 +34,7 @@ Let's begin with some background on some of the major STEM organizations.  I cho
 
 (a) **ASA** membership is 18K.  The recent JSM (Joint Statistical Meetings) in August 2018 had 6346 attendees.  
 
-(b) **NuMFOCUS** has approximately 100K members and approximately 3500 attendees to their conferences annually.  Their user base is upwards of 1 million.  They sponsor numerous open source projects.  As an example, any comment on an issue to a GitHub repo for open source is covered under their CoC.  
+(b) **NuMFOCUS** has approximately 100K members and approximately 3500 attendees to their conferences annually.  They have about [1K voting members](https://numfocus.org/blog/endorsements-in-the-2018-numfocus-election).  Their user base is upwards of 1 million.  They sponsor numerous open source projects.  As an example, any comment on an issue to a GitHub repo for open source is covered under their CoC.  
 
 (c) **NIPS/ICML** do not have official "membership".  This number represents total attendees at their annual conference.  
 
