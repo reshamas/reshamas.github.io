@@ -97,12 +97,11 @@ For an organization of that size, their reporting guidelines are disappointingly
 > Each ACM member should encourage and support adherence by all computing professionals regardless of ACM membership. ACM members who recognize a breach of the Code should consider reporting the violation to the ACM, which may result in remedial action as specified in the ACM's Code of Ethics and Professional Conduct Enforcement Policy.
 
 
-### NIPS / ICML
-#### ICML
+### ICML
 - [About ICML](https://icml.cc/About)
 The International Machine Learning Society is a non-profit organisation whose main aim is to foster machine learning research and whose main activity is the coordination of the annual International Conference on Machine Learning (ICML).
 
-#### NIPS
+### NIPS
 - [About NIPS](https://nips.cc/About)
 The Neural Information Processing Systems (NIPS) Foundation is a non-profit corporation whose purpose is to foster the exchange of research on neural information processing systems in their biological, technological, mathematical, and theoretical aspects. Neural information processing is a field which benefits from a combined view of biological, physical, mathematical, and computational sciences.
 
