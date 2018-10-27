@@ -30,7 +30,7 @@ Let's begin with some background on some of the major STEM organizations.  I cho
 | Acronym    | Name  | Field  |  Membership | Headquarters | Non-profit | 
 |------------|--------|--------|------------|----| ----| 
 | [ASA](http://www.amstat.org)     | American Statistical Association      | Statistics         | 18K/ 6.3K (a)    | Alexandra, VA  | yes |
-| [NumFOCUS](https://numfocus.org) |                                       | Open Source        | 100K / 3.5K (b)    | Austin, TX     | 501 c3|
+| [NumFOCUS](https://numfocus.org) |                                       | Open Source        | 96K / 3.5K (b)    | Austin, TX     | 501 c3|
 | [ACM](https://www.acm.org)       | Association for Computing Machinery   | Computer Science   | 100K    | New York, NY   | no  |
 | [ICML](https://icml.cc)          | Int'l Conf on Machine Learning        | Machine Learning   | 10K (c) |               | yes |
 | [NIPS](https://nips.cc)          | Neural Information Processing Systems |                    | 8K (c)  |               | yes |
@@ -42,7 +42,7 @@ Let's begin with some background on some of the major STEM organizations.  I cho
 
 (a) **ASA** membership is 18K.  The recent JSM (Joint Statistical Meetings) in August 2018 had 6346 attendees.  
 
-(b) **NuMFOCUS** has approximately 100K members and approximately 3500 attendees to their conferences annually.  They have about [1K voting members](https://numfocus.org/blog/endorsements-in-the-2018-numfocus-election).  Their user base is upwards of 1 million.  They sponsor numerous open source projects.  As an example, any comment on an issue to a GitHub repo for open source is covered under their CoC.  
+(b) **NuMFOCUS** has approximately [96K members](http://meetup.com/pro/pydata) and 3500 attendees to their conferences annually.  They have about [1K voting members](https://numfocus.org/blog/endorsements-in-the-2018-numfocus-election).  Their user base is upwards of **1 million**.  They sponsor numerous open source projects.  As an example, any comment on an issue to a GitHub repo for open source is covered under their CoC.  
 
 (c) **NIPS/ICML** do not have official "membership".  This number represents total attendees at their annual conference.  
 
@@ -91,14 +91,14 @@ It was founded in Boston, Massachusetts in 1839, and is the second oldest contin
 
 The ASA is the most mature organization in their procedures.  They have also experienced high-profile conduction violations in the community.  The fact that it has a long history and structured organziation likely also contributed to implementing these changes first.  
 
-Contact:  Donna LaLonde at DonnaL@amstat.org
+For more information, contact Donna LaLonde at DonnaL@amstat.org
 
 ### NumFocus
-NumFOCUS was founded in 2012, and it supports and promotes world-class, innovative, open source scientific software.  NumFOCUS issued an updated comprehensive CoC [October 4, 2018](https://numfocus.org/blog/updates-to-the-numfocus-code-of-conduct).  They also recently implemented a [CoC Reporting Form](https://numfocus.typeform.com/to/ynjGdT) which permits anonymous reporting.  There is also a detailed guide on the process for addressing violations.  This is the most comprehensive guide available on procedures for handling violations.  
+NumFOCUS was founded in 2012, and it supports and promotes world-class, innovative, open source scientific software.  NumFOCUS issued an updated comprehensive CoC [October 4, 2018](https://numfocus.org/blog/updates-to-the-numfocus-code-of-conduct).  They also recently implemented a [CoC Reporting Form](https://numfocus.typeform.com/to/ynjGdT) which permits anonymous reporting.  There is also a detailed guide on the process for addressing violations.  
+<p style="color:red"><b>This is the most comprehensive guide available on procedures for handling violations.  
+</b></p>
 
-Contact:  Gina Helfrich at gina@numfocus.org
-
-[PyData Membership Overview](http://meetup.com/pro/pydata):  PyData has ~ **96K** members worldwide.  
+For more information, contact Gina Helfrich at gina@numfocus.org
 
 ### [Association for Computing Machinery](https://www.acm.org/) 
 ACM was founded in 1947.  Its Special Interest Groups (SIGs) sponsor more than 170 computing conferences, workshops, and symposia around the world.  They sponsor [SIGKDD](https://www.kdd.org/conferences) which is a premier and highly respected international data mining conference.  
@@ -128,6 +128,18 @@ After the publicized violations, this is the [NIPS Updated CoC (summer 2018)](ht
 - Have clear reporting guidelines.
 - Use independent party reporting.
 - Walk the talk:  take violations seriously.
+
+Resources:  
+
+<p>
+<img src="../assets/images/numfocus1.png" />
+</p>
+<p>
+</p>
+<p>
+<img src="../assets/images/numfocus2.png" />
+</p>
+
 
 ## Challenges
 1.  Most of these organizations are broad umbrella associations.  They have numerous societies and projects within their fold.  It's possible that CoC may *not exist* for all these sub-divisions or be standard.  They may also be a disconnect from a society CoC and a conference.  
@@ -163,8 +175,7 @@ Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medici
 - [Five Tactical Tips to Improve Diversity for Pitch Event Organizers](https://medium.com/@reiwang/five-tactical-tips-to-improve-diversity-for-pitch-event-organizers-5493cf915926)
 
 ## Acknowledgements
-Special thanks to the following people who work in diversity and inclusion and shared their experiences:
-
+Special thanks to the following people who work in diversity and inclusion and shared their knowledge and experiences:
 - [Gina Helfrich](https://www.linkedin.com/in/ginahelfrich/) of NumFOCUS
 - [Donna LaLonde](https://www.linkedin.com/in/donna-lalonde-a6a41124/) of ASA
 - [Hal Daume](https://twitter.com/haldaume3) of NIPS
