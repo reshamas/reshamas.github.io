@@ -13,7 +13,7 @@ There is a hypothesis here that to create a welcoming and professional environme
 - provide a safe avenue for communicating violations
 
 ## Background 
-I am a member of the NumFOCUS [DISC committee](https://numfocus.org/programs/diversity-inclusion), and the committee worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
+I am a member of the NumFOCUS Diversity and Inclusion in Scientific Computing [(DISC) committee](https://numfocus.org/programs/diversity-inclusion).  This group worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
 
 I am an organizer for two NYC meetup groups:  
 - [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/), ([@WiMLDS](https://twitter.com/wimlds))
@@ -99,7 +99,10 @@ NumFOCUS was founded in 2012, and it supports and promotes world-class, innovati
 <p style="color:red"><i>This is the most comprehensive guide available on procedures for handling violations.  
 </i></p>
 
-For more information, contact Gina Helfrich at gina@numfocus.org
+#### For more information on NumFOCUS DISC
+- [DISC Wiki](https://wiki.numfocus.org/DISC:_Diversity_%26_Inclusion_in_Scientific_Computing)
+- Join the [DISC mailing list](https://groups.google.com/a/numfocus.org/forum/#!forum/disc/join)
+- Specific inquiries can be directed to Gina Helfrich at gina@numfocus.org
 
 ### [Association for Computing Machinery](https://www.acm.org/) 
 ACM was founded in 1947.  Its Special Interest Groups (SIGs) sponsor more than 170 computing conferences, workshops, and symposia around the world.  They sponsor [SIGKDD](https://www.kdd.org/conferences) which is a premier and highly respected international data mining conference.  
