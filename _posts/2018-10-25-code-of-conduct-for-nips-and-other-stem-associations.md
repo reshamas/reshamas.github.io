@@ -65,7 +65,7 @@ I investigated the STEM associations and their current status on CoC as well as 
 (a)  Each member society has its own "Member Society Policies and Codes of Conduct"
 
 #### Acronyms
-It looks like there are many variations of the term CoC:  
+Different organizations using different naming conventions.  There are many variations of the term CoC:  
 - CoC = Code of Condudct
 - CoE = Code of Ethics
 - CP = Conduct Policy
