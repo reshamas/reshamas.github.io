@@ -1,5 +1,5 @@
 <p>
-<img src="../assets/images/stem-infographic.jpg" />
+<img src="../assets/images/stem_careers.jpg" />
 </p>
 
 ## Goal
