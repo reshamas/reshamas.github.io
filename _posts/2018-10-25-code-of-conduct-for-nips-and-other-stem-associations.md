@@ -13,7 +13,7 @@ There is a hypothesis here that to create a welcoming and professional environme
 - provide a safe avenue for communicating violations
 
 ## Background 
-I am a member of the NumFOCUS Diversity and Inclusion in Scientific Computing [(DISC) committee](https://numfocus.org/programs/diversity-inclusion).  This group worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
+I am a member of the NumFOCUS **Diversity and Inclusion in Scientific Computing** [(DISC) committee](https://numfocus.org/programs/diversity-inclusion).  This group worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
 
 I am an organizer for two NYC meetup groups:  
 - [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/), ([@WiMLDS](https://twitter.com/wimlds))
