@@ -29,8 +29,8 @@ Let's begin with some background on some of the major STEM organizations.  I cho
 
 | Acronym    | Name  | Field  |  Membership | Headquarters | Non-profit | 
 |------------|--------|--------|------------|----| ----| 
-| [ASA](http://www.amstat.org)     | American Statistical Association      | Statistics         | 18K/ 6.3K (a)    | Alexandra, VA  | yes |
-| [NumFOCUS](https://numfocus.org) |                                       | Open Source        | 96K / 3.5K (b)    | Austin, TX     | 501 c3|
+| [ASA](http://www.amstat.org)     | American Statistical Association      | Statistics         | 18K/ 6.3K (a)   | Alexandra, VA  | yes |
+| [NumFOCUS](https://numfocus.org) |                                       | Open Source        | 96K/ 3.5K (b)   | Austin, TX     | yes|
 | [ACM](https://www.acm.org)       | Association for Computing Machinery   | Computer Science   | 100K    | New York, NY   | no  |
 | [ICML](https://icml.cc)          | Int'l Conf on Machine Learning        | Machine Learning   | 10K (c) |               | yes |
 | [NIPS](https://nips.cc)          | Neural Information Processing Systems |                    | 8K (c)  |               | yes |
