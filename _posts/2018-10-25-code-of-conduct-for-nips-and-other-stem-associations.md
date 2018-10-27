@@ -130,7 +130,7 @@ After the publicized violations, this is the [NIPS Updated CoC (summer 2018)](ht
 - Walk the talk:  take violations seriously.
 
 Resources:  
-https://numfocus.org/code-of-conduct  
+[https://numfocus.org/code-of-conduct](https://numfocus.org/code-of-conduct)  
 
 <p>
 <img src="../assets/images/numfocus1.png" />
