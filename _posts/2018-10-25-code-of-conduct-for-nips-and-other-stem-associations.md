@@ -133,6 +133,8 @@ After the publicized violations, this is the [NIPS Updated CoC (summer 2018)](ht
 Resources:  
 [https://numfocus.org/code-of-conduct](https://numfocus.org/code-of-conduct)  
 
+NumFOCUS Code of Conduct is licensed under a [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/)
+
 <p>
 <img src="../assets/images/numfocus1.png" />
 </p>
