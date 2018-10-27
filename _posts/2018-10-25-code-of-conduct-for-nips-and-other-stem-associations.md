@@ -16,7 +16,7 @@ There is a hypothesis here that to create a welcoming and professional environme
 I am a member of the NumFOCUS [DISC committee](https://numfocus.org/programs/diversity-inclusion), and the committee worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
 
 I am an organizer for two NYC meetup groups:  
-- [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) [(@WiMLDS)](https://twitter.com/wimlds)
+- [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/), ([@WiMLDS](https://twitter.com/wimlds))
 - [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/)
 
 I am also a [Board Member](http://wimlds.org) for WiMLDS.  
