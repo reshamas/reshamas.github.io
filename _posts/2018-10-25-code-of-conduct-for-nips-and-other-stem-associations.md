@@ -1,9 +1,9 @@
 <p>
-<img src="../assets/images/diversity_tweet.png" />
+<img src="../assets/images/stem-infographic.jpg" />
 </p>
 
 ## Goal
-This article examines the professional organizations that serve some of the major fields of study or related areas in STEM.  These organizations represent many of the disciplines that flow into the **data science** pipeline.  The focus is on American associations.  However, often membership can be worldwide.  The goal of this writing is to see what the current codes of conduct (CoC) are in some of the largest STEM associations.  All views are my own. 
+This article examines the professional organizations that serve some of the major fields of study or related areas in STEM.  These organizations represent many of the disciplines that flow into the **data science** pipeline.  The focus is on American associations.  However, often membership can be worldwide.  The goal of this writing is to see what the current codes of conduct (CoC) are in some of the largest STEM associations.  
 
 The hope is that organizations that are trailing in their CoC policies will reach out to the trailblazing organizations to gain knowledge and update their procedures.  
 
@@ -14,6 +14,14 @@ There is a hypothesis here that to create a welcoming and professional environme
 
 ## Background 
 I am a member of the NumFOCUS [DISC committee](https://numfocus.org/programs/diversity-inclusion), and the committee worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
+
+I am an organizer for two NYC meetup groups:  
+- [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) [(@WiMLDS)](https://twitter.com/wimlds)
+- [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/)
+
+I am also a [Board Member](http://wimlds.org) for WiMLDS.  
+
+All views in this article are my own. 
 
 ## Overview of Organizations
 Let's begin with some background on some of the major STEM organizations.  I chose 10 STEM organizations in various quantitative disciplines and researched them. **Positively changing the culture in these organizations has the capacity to have a profound effect on the entire STEM ecosystem.**  
