@@ -8,9 +8,9 @@ This article examines the professional organizations that serve some of the majo
 The hope is that organizations that are trailing in their CoC policies will reach out to the trailblazing organizations to gain knowledge and update their procedures.  
 
 There is a hypothesis here that to create a welcoming and professional environment, it is necessary to have a comprehensive code of conduct as well as detailed procedures for handling violations.  The expected impact is that comprehensive codes of conduct will:  
-- provide a safe avenue for communicating violations
 - prevent inappropriate behavior in the community
 - encourage professional and inclusionary behavior
+- provide a safe avenue for communicating violations
 
 ## Background 
 I am a member of the NumFOCUS [DISC committee](https://numfocus.org/programs/diversity-inclusion), and the committee worked on drafting a new CoC and guidelines for reporting violations.  Both the short and long version of the [NumFOCUS CoC](https://numfocus.org/code-of-conduct) have been finalized and published. 
@@ -106,11 +106,6 @@ ACM was founded in 1947.  Its Special Interest Groups (SIGs) sponsor more than 1
 For an organization of that size, their reporting guidelines are disappointingly skeletal: 
 > Each ACM member should encourage and support adherence by all computing professionals regardless of ACM membership. ACM members who recognize a breach of the Code should consider reporting the violation to the ACM, which may result in remedial action as specified in the ACM's Code of Ethics and Professional Conduct Enforcement Policy.
 
-
-### ICML
-- [About ICML](https://icml.cc/About)
-The International Machine Learning Society is a non-profit organisation whose main aim is to foster machine learning research and whose main activity is the coordination of the annual International Conference on Machine Learning (ICML).
-
 ### NIPS
 - [About NIPS](https://nips.cc/About)
 The Neural Information Processing Systems (NIPS) Foundation is a non-profit corporation whose purpose is to foster the exchange of research on neural information processing systems in their biological, technological, mathematical, and theoretical aspects. Neural information processing is a field which benefits from a combined view of biological, physical, mathematical, and computational sciences.
@@ -168,9 +163,11 @@ Climate, Culture, and Consequences in Academic Sciences, Engineering, and Medici
 - [Five Tactical Tips to Improve Diversity for Pitch Event Organizers](https://medium.com/@reiwang/five-tactical-tips-to-improve-diversity-for-pitch-event-organizers-5493cf915926)
 
 ## Acknowledgements
-- Donna LaLonde
-- Gina Helfrich
-- Hal Daume 
+Special thanks to the following people who work in diversity and inclusion and shared their experiences:
+
+- [Gina Helfrich](https://www.linkedin.com/in/ginahelfrich/) of NumFOCUS
+- [Donna LaLonde](https://www.linkedin.com/in/donna-lalonde-a6a41124/) of ASA
+- [Hal Daume](https://twitter.com/haldaume3) of NIPS
 
 
 ## Tweets
