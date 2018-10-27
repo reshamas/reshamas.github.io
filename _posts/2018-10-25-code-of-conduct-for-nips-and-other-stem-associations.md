@@ -142,7 +142,7 @@ NumFOCUS [Code of Conduct](https://numfocus.org/code-of-conduct) is licensed und
 <p>
 </p>
 <p>
-<img src="../assets/images/numfocus2.png" />
+<img src="../assets/images/numfocus2.png" style="padding:1px;border:thin solid black;"/>
 </p>
 
 
