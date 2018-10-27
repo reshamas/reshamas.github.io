@@ -137,7 +137,7 @@ Resources:
 NumFOCUS [Code of Conduct](https://numfocus.org/code-of-conduct) is licensed under a [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/)
 
 <p>
-<img src="../assets/images/numfocus1.png" />
+<img src="../assets/images/numfocus1.png" style="padding:1px;border:thin solid black;" />
 </p>
 <p>
 </p>
