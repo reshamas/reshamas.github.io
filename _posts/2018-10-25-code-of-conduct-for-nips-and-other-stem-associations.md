@@ -147,7 +147,7 @@ NumFOCUS [Code of Conduct](https://numfocus.org/code-of-conduct) is licensed und
 
 
 ## Challenges
-1.  Most of these organizations are broad umbrella associations.  They have numerous societies and projects within their fold.  It's possible that CoC may *not exist* for all these sub-divisions or be standard.  They may also be a disconnect from a society CoC and a conference.  
+1.  Most of these organizations are broad umbrella associations.  They have numerous societies and projects within their fold.  It's possible that CoC may *not exist* for all these sub-divisions or be standard.  There may also be a disconnect from a society CoC and a conference or event CoC.  
 2.  CoC are fairly new, emerging within the last few years.  
 3.  There is no global communication system for this type of information to be funneled to various organizations.  
 
