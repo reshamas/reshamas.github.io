@@ -62,7 +62,7 @@ I investigated the STEM associations and their current status on CoC as well as 
 | [AMS](https://www.ams.org/home/page)| [CCP](https://www.ams.org/about-us/governance/policy-statements/code-of-conduct.pdf)  | ✅ |      ❌  |  ❌     | not easy to find CoC   |
 | [AMF](https://www.afajof.org) | [CPCE](https://cdn.ymaws.com/www.afajof.org/resource/resmgr/files/afacodeofprofessionalconduct.pdf)         | ❌    | ❌ |    ❌         |  not easy to find CoC   |
 
-(a)  Each member society has its own "Member Society Policies and Codes of Conduct"
+(a)  **AIP** Each member society has its own "Member Society Policies and Codes of Conduct"
 
 #### Acronyms
 Different organizations using different naming conventions.  There are many variations of the term CoC:  
