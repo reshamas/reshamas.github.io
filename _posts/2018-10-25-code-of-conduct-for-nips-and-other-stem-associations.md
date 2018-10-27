@@ -40,7 +40,7 @@ Let's begin with some background on some of the major STEM organizations.  I cho
 | [AMS](https://www.ams.org/home/page) | American Mathematical Society         | Mathematics        | 30K     | Providence, RI | no |
 | [AMF](https://www.afajof.org)        | American Finance Association          | Finance            | 8K      |               | no |
 
-(a) **ASA** membership is 18K.  The recent JSM (Joint Statistical Meetings) in August 2018 had 6346 attendees.  
+(a) **ASA** membership is 18K.  The recent [JSM](http://ww2.amstat.org/meetings/jsm/2018/) (Joint Statistical Meetings) in August 2018 had 6346 attendees.  
 
 (b) **NumFOCUS** has approximately [96K members](http://meetup.com/pro/pydata) and 3500 attendees to their conferences annually.  They have about [1K voting members](https://numfocus.org/blog/endorsements-in-the-2018-numfocus-election).  Their user base is upwards of **1 million**.  They sponsor numerous open source projects.  As an example, any comment on an issue to a GitHub repo for open source is covered under their CoC.  
 
