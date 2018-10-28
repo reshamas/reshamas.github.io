@@ -171,7 +171,7 @@ Let's see how well a CNN classifier does in differentiating the two types of ele
     		- this will put `download.csv` file in `Downloads` folder
 		- Rename to:  `asian.csv`
 
-#### Step2:  **Upload both URLs file to GCP** (on local computer)
+#### Step 2:  **Upload both URLs file to GCP** (on local computer)
 
 ```bash
 gcloud compute scp /Users/reshamashaikh/Downloads/african.csv jupyter@my-fastai-instance:~/tutorials/data
