@@ -192,25 +192,28 @@ asian.csv                                                                   100%
 ```
 
 3.  Log back into GCP
+
 ```bash
 % gcloud compute ssh --zone=us-west2-b jupyter@my-fastai-instance -- -L 8080:localhost:8080                
-
 Enter passphrase for key '/Users/reshamashaikh/.ssh/google_compute_engine': 
 ```
 
 4.  Go to appropriate `data` directory on GCP
+
 ```
 jupyter@my-fastai-instance:~/tutorials/data$ pwd
 /home/jupyter/tutorials/data
 ```
 
 5.  Convert to `.txt` files & Rename files
+
 ```bash
 cat african.csv | tr  ',' '\n' > urls_african.txt
 cat asian.csv | tr  ',' '\n' > urls_asian.txt
 ```
 
 6.  View the first 10 rows of the file
+
 ```bash
 head urls_african.txt
 head urls_asian.txt
