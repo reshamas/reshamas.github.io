@@ -126,7 +126,11 @@ Here is the confusion matrix.
 </p>
 
 Here we can see the first row shows the 3 missclassified images.  The first image has the highest loss, where we see the man holding the camel's head. 
-The numbers at the top of the images represent, in this order:  prediction | actual | loss | probability it was predicted
+The numbers at the top of the images represent, in this order:  
+- prediction label
+- actual label
+- loss
+- probability it was predicted
 
 <p>
 <img src="../assets/images/fl1_camels_class.png" width="95%" height="95%" style="padding:1px;border:thin solid black;"/>
