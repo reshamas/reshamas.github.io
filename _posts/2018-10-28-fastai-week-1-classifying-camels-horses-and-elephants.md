@@ -74,7 +74,7 @@ This was my first time using Google Cloud Platform (GCP).  Previously, I have us
 - GCP:  `gcloud compute scp urls_horses.txt jupyter@my-fastai-instance:~`
 
 <p>
-<img src="../assets/images/fl1_gcp1.png"width="80%" height="80%" />
+<img src="../assets/images/fl1_gcp1.png" width="80%" height="80%" />
 </p>
 
 Based on my recent use of GCP, it looks like many commands begin with `gcloud` or `gcloud compute`.
