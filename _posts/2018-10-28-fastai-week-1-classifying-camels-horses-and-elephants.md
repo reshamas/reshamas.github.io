@@ -136,7 +136,6 @@ The numbers at the top of the images represent, in this order:
 <img src="../assets/images/fl1_camels_class.png" width="95%" height="95%" style="padding:1px;border:thin solid black;"/>
 </p>
 
-- include link to gist
 
 In retrospect, it is quite easy to tell the difference between camels and horses.   Let's challenge the neural network with something more difficult to discern, even for a human...
 
@@ -271,8 +270,9 @@ Here's a visual on some of the misclassified images, dispelling the myth that de
 </p>
 
 
-
-This is the confusion matrix. 
+This is the confusion matrix:  
+- 12 and 38 African/Asian elephants were labeled correctly
+- 9 and 8 African/Asian elephants were misclassified, respectively
 
 <p>
 <img src="../assets/images/fl1_elephant_cm.png" width="76%" height="75%" style="padding:1px;border:thin solid black;"/>
