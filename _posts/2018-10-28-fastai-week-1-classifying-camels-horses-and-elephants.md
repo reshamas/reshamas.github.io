@@ -116,6 +116,7 @@ epoch  train_loss  valid_loss  error_rate
 2      0.138307    0.179179    0.038961    (00:08)
 ```
 The **error rate** is now reduced to **3.9%**.  
+Note:  re-train since valid loss > train loss, it is overfit right now.  
 
 A closer look at the classification shows that only 3 images were mis-classified, and for all 3, they were predicted to be horses, but were actually camels.  
 
@@ -269,6 +270,7 @@ epoch  train_loss  valid_loss  error_rate
 1      0.343066    0.696139    0.164179    (00:08)
 2      0.334749    1.065531    0.253731    (00:10)
 ```
+Note:  re-train since valid loss > train loss, it is overfit right now.  
 
 Here's a visual on some of the misclassified images, dispelling the myth that deep learning is a black box and non-interpretable:
 1.  In the middle image, both types of elephants are present.  So, it is unsurprising this image was misclassified.  
@@ -296,6 +298,7 @@ epoch  train_loss  valid_loss  error_rate
 1      0.239210    0.705375    0.223881    (00:07)
 2      0.255059    0.636563    0.194030    (00:08)
 ```
+Note:  re-train since valid loss > train loss, it is overfit right now.  
 
 #### Next steps
 - I used about 400 images.  I can re-run the neural networks with a larger sample and see if the error rate decreases.
