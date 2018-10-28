@@ -240,6 +240,7 @@ jupyter@my-fastai-instance:~/tutorials/data$
 cd /home/jupyter/course-v3/nbs/dl1/dl_fastai
 cp reshama_camels_clean.ipynb reshama_elephants.ipynb
 ```
+
 >my example
 
 ```bash
