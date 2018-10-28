@@ -178,6 +178,7 @@ gcloud compute scp /Users/reshamashaikh/Downloads/asian.csv jupyter@my-fastai-in
 ```
 
 >my example
+
 ```bash
 % gcloud compute scp /Users/reshamashaikh/Downloads/african.csv jupyter@my-fastai-instance:~/tutorials/data
 No zone specified. Using zone [us-west2-b] for instance: [my-fastai-instance].
@@ -216,6 +217,7 @@ head urls_asian.txt
 ```
 
 >my example
+
 ```bash
 jupyter@my-fastai-instance:~/tutorials/data$ head urls_african.txt 
 https://media.buzzle.com/media/images-en/gallery/mammals/elephants/1200-elephants-performing-tricks-before-trainer.jpg
@@ -239,6 +241,7 @@ cd /home/jupyter/course-v3/nbs/dl1/dl_fastai
 cp reshama_camels_clean.ipynb reshama_elephants.ipynb
 ```
 >my example
+
 ```bash
 jupyter@my-fastai-instance:~/course-v3/nbs/dl1/dl_fastai$ pwd
 /home/jupyter/course-v3/nbs/dl1/dl_fastai
