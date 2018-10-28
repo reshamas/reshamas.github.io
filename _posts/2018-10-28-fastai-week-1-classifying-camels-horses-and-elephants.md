@@ -120,6 +120,9 @@ The **error rate** is now reduced to **3.9%**.
 A closer look at the classification shows that only 3 images were mis-classified, and for all 3, they were predicted to be horses, but were actually camels.  
 
 Here is the confusion matrix.  
+- 36 camels were classified correctly
+- 38 horses were classified correctly
+- 3 camels were misclassified as horses
 
 <p>
 <img src="../assets/images/fl1_camels_confusion.png" width="60%" height="60%" style="padding:1px;border:thin solid black;"/>
