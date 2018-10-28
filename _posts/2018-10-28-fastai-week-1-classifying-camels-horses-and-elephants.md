@@ -256,7 +256,7 @@ lesson1-pets-reshama.ipynb    reshama_camels_clean.ipynb
 jupyter@my-fastai-instance:~/course-v3/nbs/dl1/dl_fastai$ cp reshama_camels_clean.ipynb reshama_elephants.ipynb
 ```
 
-I used 378 images.  After running the pre-trained CNN resnet34 model, these are the results.  Unsurprisingly, it did not perform as well as on the camels/horses data.  However, it is much more accurate than what I would predict, which would be 50%.  The error rate for this classifier is **29.9%**
+I used 378 images.  After running the pre-trained CNN resnet34 model, these are the results.  Unsurprisingly, it did not perform as well as on the camels/horses data.  However, it is much more accurate than what I would predict, which would be similar to a random classifier, which would be 50%.  The error rate for this classifier is **29.9%**
 
 <p>
 <img src="../assets/images/fl1_elephant1.png" width="76%" height="75%" style="padding:1px;border:thin solid black;"/>
