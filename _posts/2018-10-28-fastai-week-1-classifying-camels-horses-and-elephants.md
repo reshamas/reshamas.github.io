@@ -4,7 +4,6 @@
 <img src="../assets/images/fl1_rs_camel.jpg" width="50%" height="50%" />
 </p>
 
-# Training a Neural Net to Classify Camels and Horses Using fastai
 
 ## Intro
 
