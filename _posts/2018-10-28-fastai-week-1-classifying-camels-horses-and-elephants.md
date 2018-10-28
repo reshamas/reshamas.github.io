@@ -162,7 +162,8 @@ The easiest way to distinguish African elephants from Asian elephants is to look
 Let's see how well a CNN classifier does in differentiating the two types of elephants!
 
 ### PART A:  Getting Data Ready
-1.  **Download URLs** (on local computer)
+
+#### Step 1:  **Download URLs** (on local computer)
 	- for [african elephants](https://www.google.com/search?tbm=isch&source=hp&biw=1706&bih=773&ei=NuLVW_vZKeKGggfj5JzwDw&q=african+elephants&oq=african+elephants&gs_l=img.3..0l10.2032.4335..4430...0.0..0.80.943.17......0....1..gws-wiz-img.x6tVGnm8lj0)
     		- this will put `download.csv` file in `Downloads` folder
 		- Rename to:  `african.csv`
@@ -170,7 +171,7 @@ Let's see how well a CNN classifier does in differentiating the two types of ele
     		- this will put `download.csv` file in `Downloads` folder
 		- Rename to:  `asian.csv`
 
-2.  **Upload both URLs file to GCP** (on local computer)
+#### Step2:  **Upload both URLs file to GCP** (on local computer)
 
 ```bash
 gcloud compute scp /Users/reshamashaikh/Downloads/african.csv jupyter@my-fastai-instance:~/tutorials/data
@@ -191,28 +192,28 @@ asian.csv                                                                   100%
 % 
 ```
 
-3.  Log back into GCP
+#### Step 3:  Log back into GCP
 
 ```bash
 % gcloud compute ssh --zone=us-west2-b jupyter@my-fastai-instance -- -L 8080:localhost:8080                
 Enter passphrase for key '/Users/reshamashaikh/.ssh/google_compute_engine': 
 ```
 
-4.  Go to appropriate `data` directory on GCP
+#### Step 4:  Go to appropriate `data` directory on GCP
 
 ```
 jupyter@my-fastai-instance:~/tutorials/data$ pwd
 /home/jupyter/tutorials/data
 ```
 
-5.  Convert to `.txt` files & Rename files
+#### Step 5:  Convert to `.txt` files & Rename files
 
 ```bash
 cat african.csv | tr  ',' '\n' > urls_african.txt
 cat asian.csv | tr  ',' '\n' > urls_asian.txt
 ```
 
-6.  View the first 10 rows of the file
+#### Step 6:  View the first 10 rows of the file
 
 ```bash
 head urls_african.txt
