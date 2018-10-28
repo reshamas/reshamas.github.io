@@ -15,7 +15,7 @@ The course uses the recent release of [fastai version 1.0](http://www.fast.ai/20
 
 The fastai library and documentation are being updated as the course progresses.  Patience is important as students share progress as well as glitches encountered.  Anyone is welcome to contribute to the library, as it is open source.  Learning to search the Forums and google errors are important skills to master. 
 
-💡It's also important to be working with the latest version of the fastai library:  `git pull`
+💡Therefore, it is of upmost interest to be working with the latest version of the fastai library:  `git pull`
 
 
 ## New York City (NYC) Study Group
