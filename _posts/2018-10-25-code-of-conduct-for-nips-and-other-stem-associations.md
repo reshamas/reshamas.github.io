@@ -128,7 +128,7 @@ After the publicized violations, this is the [NIPS Updated CoC (summer 2018)](ht
 </b></p>
  
 ## Suggestions
-- Put CoC at main menu level so it is easy to find.  It also shows the priority of professional conduct to the organization.  
+- Put CoC at main menu level on the website where it is easy to find.  It also shows the priority of professional conduct to the organization.  
 - Require that attendees check that CoC has been read prior to completing registration for an event.
 - Have clear guidelines for what behavior is and is not acceptable.
 - Have clear reporting guidelines.
