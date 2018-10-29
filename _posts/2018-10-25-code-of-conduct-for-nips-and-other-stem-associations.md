@@ -124,8 +124,9 @@ This *used to be* the CoC for NIPS (quite brief):
 
 After the publicized violations, this is the [NIPS Updated CoC (summer 2018)](https://nips.cc/public/CodeOfConduct) 
 
-**Given the highly publicized incidents, NIPS should have a more comprehensive CoC as well as a reporting policy.  They should also permit anonymous reporting as well as use an independent party for receiving violations reports.**  
-
+<p style="color:red"><b>Given the highly publicized incidents, NIPS should have a more comprehensive CoC as well as a reporting policy.  They should also permit anonymous reporting as well as use an independent party for receiving violations reports.  
+</b></p>
+ 
 ## Suggestions
 - Put CoC at main menu level so it is easy to find.  It also shows the priority of professional conduct to the organization.  
 - Require that attendees check that CoC has been read prior to completing registration for an event.
