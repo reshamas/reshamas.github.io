@@ -134,6 +134,7 @@ After the publicized violations, this is the [NIPS Updated CoC (summer 2018)](ht
 - Have clear reporting guidelines.
 - Use independent party reporting.
 - Walk the talk:  take violations seriously.
+- Be **transparent** about procedures with your membership and the community
 
 Resources:   
 NumFOCUS [Code of Conduct](https://numfocus.org/code-of-conduct) is licensed under a [Creative Commons Attribution 3.0 Unported License.](https://creativecommons.org/licenses/by/3.0/)
