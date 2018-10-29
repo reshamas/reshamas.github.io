@@ -117,7 +117,7 @@ The Neural Information Processing Systems (NIPS) Foundation is a non-profit corp
 
 The primary focus of the NIPS Foundation is the presentation of a continuing series of professional meetings known as the Neural Information Processing Systems Conference, held over the years at various locations in the United States, Canada and Spain.
 
-Both these conferences have a minimal code of conduct and reporting guidelines.
+Both conferences (NIPS and ICML) have a minimal code of conduct and reporting guidelines.
 
 This *used to be* the CoC for NIPS (quite brief):
 >The NIPS foundation is welcoming of all attendees and the diversity of opinions they bring. However, we ask that their contributions are made in a manner which is respectful of their colleagues. Scientific work will necessarily from time to time enter into areas of controversy, and such discussions, when handled sensitively, will be welcome at NIPS. However, frivolous use of material or content that threatens the inclusivity of our community will not be tolerated. The NIPS organising committee reserves the right to withdraw registration without refund from attendees who transgress these ideals.
