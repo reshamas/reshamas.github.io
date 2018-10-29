@@ -15,7 +15,7 @@ comments: false
 
 
 ## Open Source Contribution
-* [fastai deep learning repo](https://github.com/reshamas/fastai_deeplearn_part1)
+* created documentation:  [fastai deep learning repo](https://github.com/reshamas/fastai_deeplearn_part1)
 * Simple changes to libraries:
     * fastai:  [added x and y labels to 'find learning rate' plot #999](https://github.com/fastai/fastai/pull/999)
 
