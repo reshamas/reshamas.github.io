@@ -16,8 +16,10 @@ comments: false
 
 ## Open Source Contribution
 * created documentation:  [fastai deep learning repo](https://github.com/reshamas/fastai_deeplearn_part1)
-* Simple changes to libraries:
+* created scikit-sprint open source repo for public use:  [nyc-2018-scikit-sprint](https://github.com/WiMLDS/nyc-2018-scikit-sprint) w/[@amueller](https://github.com/amueller)
+* contributions to libraries:
     * fastai:  [added x and y labels to 'find learning rate' plot #999](https://github.com/fastai/fastai/pull/999)
+    * scikit-learn: [check if algorithm is appropriate for classifier #12486](https://github.com/scikit-learn/scikit-learn/pull/12486)
 
 
 ## Kaggle
