@@ -5,7 +5,7 @@
 ## Goal
 This article examines the professional organizations that serve some of the major fields of study or related areas in STEM.  These organizations represent many of the disciplines that flow into the **data science** pipeline.  The focus is on American associations.  However, often membership can be worldwide.  The goal of this writing is to see what the current codes of conduct (CoC) are in some of the largest STEM associations.  
 
-The hope is that organizations that are trailing in their CoC policies will reach out to the trailblazing organizations to gain knowledge and update their procedures.  
+The hope is that organizations that are lagging in their CoC policies will reach out to the trailblazing organizations to gain knowledge and update their procedures.  
 
 There is a hypothesis here that to create a welcoming and professional environment, it is necessary to have a comprehensive code of conduct as well as detailed procedures for handling violations.  The expected impact is that comprehensive codes of conduct will:  
 - prevent inappropriate behavior in the community
