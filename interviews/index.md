@@ -5,6 +5,9 @@ tags:
 comments: false
 ---
 
+## Humayun Irshad
+My interview with [Humayun Irshad](https://mlconf.com/interview-with-humayun-irshad-leveraging-street-view-imagery-and-deep-learning-models-to-build-parking-augmented-maps/) of [Figure Eight](https://www.figure-eight.com).  One of the exciting projects that Humayun works on is using deep learning to find parking spots in San Francisco.
+
 ## Abhineet Gupta
 My interview with [Abhineet Gupta](https://mlconf.com/interview-with-abhineet-gupta-resilience-engineering-lead-at-one-concern-by-reshama-shaikh-program-committee-member/) of [One Concern](https://www.oneconcern.com).  Abhineet works on **fascinating applications of ML** such as:
 - creating specific metrics for measuring how access to critical resources is impacted in disasters and to identify those communities that are most at risk before, during and after disasters.
