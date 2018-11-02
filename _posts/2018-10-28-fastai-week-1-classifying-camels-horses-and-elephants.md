@@ -314,21 +314,4 @@ Note:  re-train since valid loss > train loss, it is overfit right now.
 </p>
 
 
-<p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Excited for the start of the new deep learning course! <a href="https://twitter.com/DataInstituteSF?ref_src=twsrc%5Etfw">@DataInstituteSF</a> <a href="https://t.co/Ai0fKanRaJ">pic.twitter.com/Ai0fKanRaJ</a></p>&mdash; Rachel Thomas (@math_rachel) <a href="https://twitter.com/math_rachel/status/1054545291825696768?ref_src=twsrc%5Etfw">October 23, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-<p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thanks to <a href="https://twitter.com/TheEconomist?ref_src=twsrc%5Etfw">@TheEconomist</a> for recognizing our work at <a href="https://t.co/GEOZuodrZj">https://t.co/GEOZuodrZj</a>, where we&#39;re doing what we can to being real diversity to AI.<br><br>Apparently the writers reached out to many to research this story &amp; got unanimously glowing feedback - so thanks all!<a href="https://t.co/F7WuMJnbIv">https://t.co/F7WuMJnbIv</a> <a href="https://t.co/NVXgbmKj5z">pic.twitter.com/NVXgbmKj5z</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/1055626641601253376?ref_src=twsrc%5Etfw">October 26, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-<p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">New release of fastprogress for fastai. Prettier and completely coded in HTML so it doesn&#39;t rely on widgets anymore which means an easier installation and compatibility with Colab ^^ <a href="https://t.co/G003usVe79">pic.twitter.com/G003usVe79</a></p>&mdash; Sylvain Gugger (@GuggerSylvain) <a href="https://twitter.com/GuggerSylvain/status/1055571427653500934?ref_src=twsrc%5Etfw">October 25, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-
-
 
