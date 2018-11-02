@@ -16,6 +16,11 @@ My interview with [Jerry Talton](https://mlconf.com/interview-with-jerry-talton-
 ## Humayun Irshad
 My interview with [Humayun Irshad](https://mlconf.com/interview-with-humayun-irshad-leveraging-street-view-imagery-and-deep-learning-models-to-build-parking-augmented-maps/) of [Figure Eight](https://www.figure-eight.com).  One of the exciting projects that Humayun works on is using deep learning to find parking spots in San Francisco.
 
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our Program Committee Member, <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> recently interviewed <a href="https://twitter.com/FigureEightInc?ref_src=twsrc%5Etfw">@FigureEightInc</a> &#39;s <a href="https://twitter.com/HumayunIrshad?ref_src=twsrc%5Etfw">@HumayunIrshad</a> on his work using <a href="https://twitter.com/hashtag/deeplearning?src=hash&amp;ref_src=twsrc%5Etfw">#deeplearning</a> to find parking. A must in SF! Check it out here:<a href="https://t.co/hYqDSXhA2T">https://t.co/hYqDSXhA2T</a></p>&mdash; MLconf (@MLconf) <a href="https://twitter.com/MLconf/status/1058092046727045120?ref_src=twsrc%5Etfw">November 1, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 ## Abhineet Gupta
 My interview with [Abhineet Gupta](https://mlconf.com/interview-with-abhineet-gupta-resilience-engineering-lead-at-one-concern-by-reshama-shaikh-program-committee-member/) of [One Concern](https://www.oneconcern.com).  Abhineet works on **fascinating applications of ML** such as:
 - creating specific metrics for measuring how access to critical resources is impacted in disasters and to identify those communities that are most at risk before, during and after disasters.
@@ -28,6 +33,14 @@ My [interview with Cassie Kozyrkov](https://mlconf.com/interview-with-cassie-koz
 
 LinkedIn: [cassie](https://www.linkedin.com/in/cassie-kozyrkov-9531919/)  
 Twitter: [@quaesita](https://twitter.com/quaesita)
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In this interview, <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> got me talking about all kinds of things, from <a href="https://twitter.com/hashtag/DecisionIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#DecisionIntelligence</a> to being unboring to <a href="https://twitter.com/hashtag/diversity?src=hash&amp;ref_src=twsrc%5Etfw">#diversity</a> to socks... great fun, thanks <a href="https://twitter.com/MLconf?ref_src=twsrc%5Etfw">@MLconf</a>! <a href="https://t.co/Xjl4evn6S4">https://t.co/Xjl4evn6S4</a></p>&mdash; Cassie Kozyrkov (@quaesita) <a href="https://twitter.com/quaesita/status/1047905972407214080?ref_src=twsrc%5Etfw">October 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+</p>
 
 ## Narine Kokhlikyan
 My [interview with Narine Kokhlikyan](https://mlconf.com/interview-with-narine-kokhlikyan-machine-learning-engineer-at-slice-technologies-inc-by-reshama-shaikh-program-committee-member/).  Many topics are covered:  time series + NLP + anomaly detection as well as hot topics like diversity and algorithm reliability.
