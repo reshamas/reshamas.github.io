@@ -38,7 +38,7 @@ In the course last year, I mainly watched the videos, created documentation and 
 - Google Cloud setup
   - Get GPU going
 - read lesson1 notebook
-- read [Lesson 1 notes](https://forums.fast.ai/t/deep-learning-lesson-1-notes/27748)
+- read [Lesson 1 notes](https://forums.fast.ai/t/deep-learning-lesson-1-notes/27748) (link is not public yet)
 - read tutorial on creating own Image dataset using Google Images
 - read fastai documentation
 - run lesson1-pets Jupyter notebook, which was presented in Lecture 1, to ensure all code runs without errors
