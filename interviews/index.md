@@ -5,6 +5,14 @@ tags:
 comments: false
 ---
 
+## Jerry Talton
+My interview with [Jerry Talton](https://mlconf.com/interview-with-jerry-talton-director-of-data-machine-learning-carta/) of [Carta](https://carta.com).   
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Had tons of fun chatting with <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> about my new role <a href="https://twitter.com/cartainc?ref_src=twsrc%5Etfw">@cartainc</a>, and my upcoming <a href="https://twitter.com/MLconf?ref_src=twsrc%5Etfw">@MLconf</a> talk on <a href="https://twitter.com/hashtag/Equity?src=hash&amp;ref_src=twsrc%5Etfw">#Equity</a>, <a href="https://twitter.com/hashtag/Inequity?src=hash&amp;ref_src=twsrc%5Etfw">#Inequity</a>, and <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a>. <a href="https://t.co/ChVMOt4RZj">https://t.co/ChVMOt4RZj</a></p>&mdash; Jerry Talton (@jerrytalton) <a href="https://twitter.com/jerrytalton/status/1058468369337405440?ref_src=twsrc%5Etfw">November 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 ## Humayun Irshad
 My interview with [Humayun Irshad](https://mlconf.com/interview-with-humayun-irshad-leveraging-street-view-imagery-and-deep-learning-models-to-build-parking-augmented-maps/) of [Figure Eight](https://www.figure-eight.com).  One of the exciting projects that Humayun works on is using deep learning to find parking spots in San Francisco.
 
