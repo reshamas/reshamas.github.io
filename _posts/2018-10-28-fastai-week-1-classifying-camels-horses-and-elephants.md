@@ -89,7 +89,7 @@ gcloud compute scp urls_horses.txt jupyter@my-fastai-instance:~
 ### Result for Camels / Horses
 I used a small dataset, about 80 images.  I used a CNN pre-trained model, and trained for 4 epochs (number of passes through the data). The architecture used was resnet34.  Below are my results:  
 ```python
-learn = ConvLearner(data, models.resnet34, metrics=error_rate)
+learn = learner.create_cnn(data, models.resnet34, metrics=error_rate)
 learn.fit_one_cycle(4)
 ```
 ```bash
