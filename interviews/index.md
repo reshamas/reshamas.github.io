@@ -63,6 +63,11 @@ LinkedIn:  [drlesliensmith](https://www.linkedin.com/in/drlesliensmith/)
 Twitter:  [@lnsmith613](https://twitter.com/lnsmith613)  
 GitHub:  [lnsmith54](https://github.com/lnsmith54)
 
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Interview with Leslie N Smith, PhD of <a href="https://twitter.com/USNRL?ref_src=twsrc%5Etfw">@USNRL</a> by <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> on his research:  optimizing hyperparameters in <a href="https://twitter.com/hashtag/DeepLearning?src=hash&amp;ref_src=twsrc%5Etfw">#DeepLearning</a>, which has been implemented in the <a href="https://twitter.com/fastdotai?ref_src=twsrc%5Etfw">@fastdotai</a> library<a href="https://t.co/ZccjNxIsaS">https://t.co/ZccjNxIsaS</a> <a href="https://t.co/na5zbhE4DU">pic.twitter.com/na5zbhE4DU</a></p>&mdash; MLconf (@MLconf) <a href="https://twitter.com/MLconf/status/991697521029201920?ref_src=twsrc%5Etfw">May 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 ## Erik Schlicht
 My [interview with Erik Schlicht](https://mlconf.com/interview-erik-schlicht-founder-computational-cognition-group-c2-g-llc-reshama-shaikh/), who is the founder of the Computational Cognition Group, LLC.   It is posted on MLConf's website. 
 
