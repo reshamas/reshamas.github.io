@@ -23,12 +23,14 @@ Let's see how well a CNN classifier does in differentiating the two types of ele
 ### PART A:  Getting Data Ready
 
 #### Step 1:  **Download URLs** (on local computer)
-	- for [african elephants](https://www.google.com/search?tbm=isch&source=hp&biw=1706&bih=773&ei=NuLVW_vZKeKGggfj5JzwDw&q=african+elephants&oq=african+elephants&gs_l=img.3..0l10.2032.4335..4430...0.0..0.80.943.17......0....1..gws-wiz-img.x6tVGnm8lj0)
-    		- this will put `download.csv` file in `Downloads` folder
-		- Rename to:  `african.csv`
-	- for [asian elephants](https://www.google.com/search?tbm=isch&source=hp&biw=1706&bih=773&ei=TOLVW4GiI8Ob_QbqwqOwBg&q=asian+elephants&oq=asian+elephants&gs_l=img.3..0l10.1085.3027..3092...0.0..0.65.837.15......0....1..gws-wiz-img.U3fVVgzco34 )
-    		- this will put `download.csv` file in `Downloads` folder
-		- Rename to:  `asian.csv`
+
+- for [african elephants](https://www.google.com/search?tbm=isch&source=hp&biw=1706&bih=773&ei=NuLVW_vZKeKGggfj5JzwDw&q=african+elephants&oq=african+elephants&gs_l=img.3..0l10.2032.4335..4430...0.0..0.80.943.17......0....1..gws-wiz-img.x6tVGnm8lj0)
+	- this will put `download.csv` file in `Downloads` folder
+	- rename to:  `african.csv`
+	
+- for [asian elephants](https://www.google.com/search?tbm=isch&source=hp&biw=1706&bih=773&ei=TOLVW4GiI8Ob_QbqwqOwBg&q=asian+elephants&oq=asian+elephants&gs_l=img.3..0l10.1085.3027..3092...0.0..0.65.837.15......0....1..gws-wiz-img.U3fVVgzco34 )
+    	- this will put `download.csv` file in `Downloads` folder
+	- Rename to:  `asian.csv`
 
 #### Step 2:  **Upload both URLs file to GCP** (on local computer)
 
