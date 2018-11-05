@@ -1,5 +1,7 @@
 
-
+<p>
+<img src="../assets/images/car_elephant.jpg" width="50%" height="50%" />
+</p>
 
 ## Classifier for Elephants:  African vs Asian
 Elephants are one of my favorite animals.  This is the closest I ever came to an elephant, while on a safari in South Africa.
