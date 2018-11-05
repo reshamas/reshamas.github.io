@@ -141,7 +141,7 @@ The numbers at the top of the images represent, in this order:
 </p>
 
 
-In retrospect, it is quite easy to tell the difference between camels and horses.   Let's challenge the neural network with something more difficult to discern, even for a human...
+In retrospect, it is quite easy to tell the difference between camels and horses.   Let's challenge the neural network with something more difficult to discern, even for a human...  Perhaps classifying African and Asian elephants.  
 
 
 ---
