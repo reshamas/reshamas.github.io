@@ -1,13 +1,13 @@
 
 <p>
-<img src="../assets/images/car_elephant.jpg" width="50%" height="50%" />
+<img src="../assets/images/car_elephant.jpg" width="75%" height="75%" />
 </p>
 
 ## Classifier for Elephants:  African vs Asian
 Elephants are one of my favorite animals.  This is the closest I ever came to an elephant, while on a safari in South Africa.
 
 <p>
-<img src="../assets/images/rs_elephant.jpg" width="76%" height="75%" style="padding:1px;border:thin solid black;"/>
+<img src="../assets/images/rs_elephant.jpg" width="50%" height="50%" style="padding:1px;border:thin solid black;"/>
 </p>
 
 I remember learning in school that there are two different types.  I cannot visually distinguish between the two types.  
