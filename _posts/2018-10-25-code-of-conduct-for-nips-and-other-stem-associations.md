@@ -24,7 +24,7 @@ I am also a [Board Member](http://wimlds.org) for WiMLDS.
 All views in this article are my own. 
 
 ## Overview of Organizations
-Let's begin with some background on some of the major STEM organizations.  I chose 10 STEM organizations in various quantitative disciplines and researched them. **Positively changing the culture in these organizations has the capacity to have a profound effect on the entire STEM ecosystem.**  
+Let's begin with some background on some of the major STEM organizations.  I chose 10 STEM organizations in various quantitative disciplines and researched them. **Positively changing the culture in these organizations has the potential to have a profound effect on the entire STEM ecosystem.**  
 
 
 | Acronym    | Name  | Field  |  Membership | Headquarters | Non-profit | 
