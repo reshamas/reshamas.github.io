@@ -5,8 +5,11 @@ tags:
 comments: false
 ---
 
-## Scientific Publications
-* [Scientific contributions while affiliated with Thomas Jefferson University](https://www.researchgate.net/scientific-contributions/59221316_Reshama_Shaikh)
+## [Scientific Publications](https://www.researchgate.net/scientific-contributions/59221316_Reshama_Shaikh) 
+(while affiliated with Thomas Jefferson University)
+* Modified two‐sided normal tolerance intervals for batch acceptance of dose uniformity
+* Sample sizes for batch acceptance from single- and multistage designs using two-sided normal tolerance intervals with specified content
+* The Utility of a 7‐Day Percutaneous Spinal Cord Stimulator Trial Measured by a Pain Diary: A Long‐term Retrospective Analysis
 * [The Outcome of Neoadjuvant Hormonal Therapy with Radiation Therapy Depends on the Definition of Biochemical Failure: P-33](https://journals.lww.com/journalppo/Citation/2002/11000/The_Outcome_of_Neoadjuvant_Hormonal_Therapy_with.77.aspx)
 
 ## Book Contribution
