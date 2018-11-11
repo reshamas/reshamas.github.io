@@ -163,4 +163,4 @@ Note:  re-train since valid loss > train loss, it is overfit right now.
 #### Next steps
 - I used about 400 images.  I can re-run the neural networks with a larger sample and see if the error rate decreases.
 - I will try different architectures, such as resnet50.  
-
+- My work in progress is here:  https://github.com/reshamas/dl_fastai
