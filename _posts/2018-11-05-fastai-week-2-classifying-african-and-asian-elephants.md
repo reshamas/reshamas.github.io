@@ -3,6 +3,17 @@
 <img src="../assets/images/car_elephant.jpg" width="75%" height="75%" />
 </p>
 
+## Week 2 of fastai (Nov 2018)
+Our NYC study group met again, and our guest for Week 2 was [Sylvain Gugger](https://www.linkedin.com/in/sylvain-gugger-74218b144/).  
+This is Sylvain's intro:  
+>I’m French but relocated to New York City three years ago. I’ve been a Math and Computer Science teacher for undergrads for seven years in Paris, and since I discovered deep learning (through the first part of this course) I’ve been really excited about Machine Learning. So far, I’ve mostly been teaching myself, between the part one (v1 and v2), blogs and online books.
+
+Sylvain is fast.ai’s first Researcher in Residence, and he is the primary contributor to the development of fastai v1.  His position is sponsored by Amazon Web Services
+
+<p>
+<img src="../assets/images/fastai_week2.jpg" width="50%" height="50%" style="padding:1px;border:thin solid black;"/>
+</p>
+
 ## Classifier for Elephants:  African vs Asian
 Elephants are one of my favorite animals.  This is the closest I ever came to an elephant, while on a safari in South Africa.
 
