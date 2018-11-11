@@ -8,7 +8,7 @@ Our NYC study group met again, and our guest for Week 2 was [Sylvain Gugger](htt
 This is Sylvain's intro:  
 >I’m French but relocated to New York City three years ago. I’ve been a Math and Computer Science teacher for undergrads for seven years in Paris, and since I discovered deep learning (through the first part of this course) I’ve been really excited about Machine Learning. So far, I’ve mostly been teaching myself, between the part one (v1 and v2), blogs and online books.
 
-Sylvain is fast.ai’s first Researcher in Residence, and he is the primary contributor to the development of fastai v1.  His position is sponsored by Amazon Web Services
+Sylvain is fast.ai’s first Researcher in Residence (sponsored by Amazon Web Services), and he is the primary contributor to the development of fastai v1.  It was a privilege meeting Sylvain in person and learning first hand about the development of fastai.  
 
 <p>
 <img src="../assets/images/fastai_week2.jpg" width="50%" height="50%" style="padding:1px;border:thin solid black;"/>
