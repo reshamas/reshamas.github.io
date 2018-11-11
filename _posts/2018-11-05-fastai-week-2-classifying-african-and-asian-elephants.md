@@ -15,7 +15,7 @@ Sylvain is fast.ai’s first Researcher in Residence (sponsored by Amazon Web Se
 </p>
 
 ## Classifier for Elephants:  African vs Asian
-Elephants are one of my favorite animals.  This is the closest I ever came to an elephant, while on a safari in South Africa.
+Elephants are one of my favorite animals.  This is the closest I ever came to an elephant, while on a safari in South Africa in 2009.
 
 <p>
 <img src="../assets/images/rs_elephant.jpg" width="50%" height="50%" style="padding:1px;border:thin solid black;"/>
