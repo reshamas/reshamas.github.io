@@ -200,6 +200,13 @@ Special thanks to the following people who work in diversity and inclusion and s
 
 
 ### NIPS
+
+#### NIPS 2018 [Press Releases](https://nips.cc/Conferences/2018/Press)
+- [survey results](https://nips.cc/Conferences/2018/News)
+- [NIPS Foundation Board Concludes Name Change Deliberations](https://nips.cc/Conferences/2018/Press)
+- [Response to Further Questions on Name Change](https://nips.cc/Conferences/2018/Press)
+- [NIPS 2018 Demographics and Inclusion Survey](https://github.com/hal3/nips2018survey) 
+
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Some disturbing claims about <a href="https://twitter.com/NipsConference?ref_src=twsrc%5Etfw">@NipsConference</a> in this thread.  Jokes about sexual assault and apparently NIPS does not have a Code of Conduct!?!? cc <a href="https://twitter.com/WiMLworkshop?ref_src=twsrc%5Etfw">@WiMLworkshop</a> <a href="https://t.co/IomT3pwLvK">https://t.co/IomT3pwLvK</a></p>&mdash; Women+ in ML/DS (@wimlds) <a href="https://twitter.com/wimlds/status/940111697368334336?ref_src=twsrc%5Etfw">December 11, 2017</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
