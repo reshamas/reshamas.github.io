@@ -141,8 +141,7 @@ epoch  train_loss  valid_loss  error_rate
 1      0.343066    0.696139    0.164179    (00:08)
 2      0.334749    1.065531    0.253731    (00:10)
 ```
-Note:  re-train since valid loss > train loss, it is overfit right now.  
-
+ 
 Here's a visual on some of the misclassified images, dispelling the myth that deep learning is a black box and non-interpretable:
 1.  In the middle image, both types of elephants are present.  So, it is unsurprising this image was misclassified.  
 2.  In the lower left and lower right images, ears are missing in the image.  Since that is the key difference in differentiating between the two, it is unsurprising.
