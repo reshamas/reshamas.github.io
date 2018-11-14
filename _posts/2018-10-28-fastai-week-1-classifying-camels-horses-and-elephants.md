@@ -116,7 +116,6 @@ epoch  train_loss  valid_loss  error_rate
 2      0.138307    0.179179    0.038961    (00:08)
 ```
 The **error rate** is now reduced to **3.9%**.  
-Note:  re-train since valid loss > train loss, it is overfit right now.  
 
 A closer look at the classification shows that only 3 images were mis-classified, and for all 3, they were predicted to be horses, but were actually camels.  
 
