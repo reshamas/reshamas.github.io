@@ -8,7 +8,7 @@ comments: false
 ## Gender / STEM 
 - [Understanding the Gender Imbalance in STEM Fields](https://collections.plos.org/gender-imbalance)
 - [Why it’s hard to prove gender discrimination in science](https://www.nature.com/articles/d41586-018-05109-w)
-- [Inequality of underrepresnted groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb)
+- [Inequality of under-represented groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb)
 
 ## Women's Space
 - [On the Design of Women's Spaces](https://medium.com/@maybekatz/on-the-design-of-womens-spaces-72bf8f396dc0)
