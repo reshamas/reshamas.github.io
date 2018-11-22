@@ -45,11 +45,6 @@ This plot shows 5 different key statistics.
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/d1rc" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
-## Takeaways
-We can utilize this data in many ways:  
-- 
-
-
 ## Insider Insights
 The majority of these organizations are lead by volunteers.  Almost all chapter events are organized by volunteers.  These groups have worked diligently to build and support their communities.  
 
@@ -59,9 +54,9 @@ We often receive requests with the magic **D-word**, such as:
 
 >We support diversity.  Can you promote our [product / organization / event / job posting]?
 
->Can you share our [event / product]?  We will share your logo in return.
+>We support diversity.  Can you share our [event / product]?  We will share your logo in return.
 
->Can I drop into your next event to do a 10-minute pitch on our [paid program]?
+>We want to help women in data science.  Can I drop into your next event to do a 10-minute pitch on our [for-profit program]?
 
 Support them by making a monetary contribution and developing a lasting relationship.  
 
