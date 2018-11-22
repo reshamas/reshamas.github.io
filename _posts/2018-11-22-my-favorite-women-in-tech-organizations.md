@@ -58,7 +58,7 @@ We often receive requests with the magic **D-word**, such as:
 
 >We want to help women in data science.  Can I drop into your next event to do a 10-minute pitch on our [for-profit program]?
 
-Support them by making a monetary contribution and developing a lasting relationship.  
+Support them by making a monetary contribution and developing an authentic business partnership.  
 
 ## Guidelines for Engagement
 Prior to joining any of the organizations or attending their events, it is essential to become familiar with these details:  
