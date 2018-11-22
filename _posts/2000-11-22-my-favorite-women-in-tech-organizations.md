@@ -50,18 +50,19 @@ We can utilize this data in many ways
 
 
 ## Insider Insights
-The majority of these organizations are lead by volunteers.  Almost all chapter events are organized by volunteers.  The groups have worked diligently to build and support their communities.  
+The majority of these organizations are lead by volunteers.  Almost all chapter events are organized by volunteers.  These groups have worked diligently to build and support their communities.  
 
-Please do not reach out to these organizations for <p style="color:orange"><i>free marketing.</i></p>
+Please do not reach out to these organizations for <p style="color:orange">free marketing.</p>
 
-We often receive requests with the magic **D-word**, such as:  
+We often receive requests with the magic **D-word**, such as: 
+
 >We support diversity.  Can you promote our [product / organization / event]?
 
 >Can you share our [event / product]?  We will share your logo in return.
 
 >Can I drop into your next event to do a 10-minute pitch on our [paid program]?
 
-Support them by making a contribution and developing a lasting relationship.  
+Support them by making a monetary contribution and developing a lasting relationship.  
 
 
 ## Data & Tools
