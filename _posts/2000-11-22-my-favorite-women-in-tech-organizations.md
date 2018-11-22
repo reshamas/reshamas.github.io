@@ -4,14 +4,13 @@
 </p>
 
 ## Background
-In October 2018, I was invited to the Google [Women Techmakers Leads Summit](https://events.withgoogle.com/women-techmakers-leads-summit/).   Attendance for the summit was by invitation to GDG (Google Developers Group) organizers and some tech community group leaders.  I am an organizer for the NYC chapters of Women in Machine Learning and Data Science (WiMLDS) and PyLadies.  I was curious to learn which of my favorite women-in-tech organizations were represented.  This prompted me to conduct further research on some of the most impactful and active women's organizations, in my opinion.  Luckily for me, all 6 of them have a chapter in NYC.
+In October 2018, I was invited to the Google [Women Techmakers Leads Summit](https://events.withgoogle.com/women-techmakers-leads-summit/).   Attendance for the summit was by invitation to GDG (Google Developers Group) organizers and some tech community group leaders.  I am an organizer for the NYC chapters of Women in Machine Learning and Data Science (WiMLDS) and PyLadies.  I was curious to learn which of my favorite women-in-tech organizations were represented.  This prompted me to conduct further research on some of the most impactful and active women's meetup groups, in my opinion.  Luckily for me, all 6 of them have a chapter in NYC.
 
+
+## Membership by Women-in-Tech Group
 
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/qzrc" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-
-
-## Membership Percentages
 We can see from the pie chart that Women Who Code has the greatest percentage of members at an impressive 45%.  Girl Develop It comes in second at 30%.  The remaining 25% is comprised of the 4 groups:
 - PyLadies:  ~10%
 - R-Ladies:  8%
@@ -32,6 +31,9 @@ We can see from the pie chart that Women Who Code has the greatest percentage of
 - Source data is available in this [women-in-tech spreadsheet](https://docs.google.com/spreadsheets/d/105VtTjnMyhnqItMYORNxMkurb6essQN1xGW7RArjA-Q/edit?usp=sharing)
 - Google [Data Studio](https://datastudio.google.com/u/0/navigation/reporting) to produce the visualizations.
 
+
+
+---
 
 ## History
 
