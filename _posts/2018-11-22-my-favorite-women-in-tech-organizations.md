@@ -48,7 +48,7 @@ The plot below shows 5 different key statistics.
 ## Insider Insights
 The majority of these organizations are lead by volunteers.  Almost all chapter events are organized by volunteers.  These groups have worked diligently to build and support their communities.  
 
-Please do not reach out to these organizations for *free marketing*. 
+Please do not reach out to these organizations for *unpaid marketing*. 
 
 We often receive requests with the magic **D-word**, such as: 
 
@@ -66,7 +66,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 - <span style="color:orange"> **Code of Conduct:** </span>  read the CoC of the organization
 - <span style="color:orange"> **Membership:** </span>  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
-These organizations are not for meeting women to date.  Anyone who contacts a meetup member for a dating proposition will be removed and blocked from the group.  
+These meetup groups are for women in tech/coding/analytics.  These organizations are *not* for meeting women to date.  Anyone who contacts a meetup member for a dating proposition will be removed and blocked from the group.  
 
 
 ## Data & Tools
