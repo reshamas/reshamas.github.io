@@ -33,7 +33,7 @@ We can see from the pie chart that Women Who Code has the greatest percentage of
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/c9uc" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ## Comparing Statistics
-This plot shows 5 different key statistics.  
+The plot below shows 5 different key statistics.  
 1.  On the x-axis, the groups are plotted in the order in which they were founded.  The year of founding is shown below the group name. 
 2.  The two lines representing number of chapters and countries for each group are at the bottom.  
   - Both Girl Develop It and Write/Speak/Code are only represented in the United States.
