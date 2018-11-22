@@ -3,7 +3,7 @@
 
 <figure>
   <img title="WiMLDS event at NY Times"  src="../assets/images/rs_nytimes.jpg" align="center"> 
- <figcaption>WiMLDS event at NY Times, Oct 2018</figcaption>
+ <figcaption>NYC WiMLDS event at NY Times, Oct 2018</figcaption>
 </figure>
 
 ## Background
@@ -46,7 +46,8 @@ This plot shows 5 different key statistics.
 </p>
 
 ## Takeaways
-We can utilize this data in many ways
+We can utilize this data in many ways:  
+- 
 
 
 ## Insider Insights
@@ -56,7 +57,7 @@ Please do not reach out to these organizations for *free marketing*.
 
 We often receive requests with the magic **D-word**, such as: 
 
->We support diversity.  Can you promote our [product / organization / event]?
+>We support diversity.  Can you promote our [product / organization / event / job posting]?
 
 >Can you share our [event / product]?  We will share your logo in return.
 
