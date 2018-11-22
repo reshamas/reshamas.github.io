@@ -2,7 +2,7 @@
 
 
 <figure>
-  <img title="WiMLDS event at NY Times"  src="../assets/images/rs_nytimes.jpeg" align="center"> 
+  <img title="WiMLDS event at NY Times"  src="../assets/images/rs_nytimes.jpg" align="center"> 
  <figcaption>WiMLDS event at NY Times</figcaption>
 </figure>
 
