@@ -66,7 +66,7 @@ Prior to joining any of the organizations or attending their events, it is essen
 - <span style="color:orange"> **Code of Conduct:** </span>  read the CoC of the organization
 - <span style="color:orange"> **Membership:** </span>  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
-These organizations are not for meeting women to date.  Anyone who contacts a meetup member for a dating proposition will be removed from the group.  
+These organizations are not for meeting women to date.  Anyone who contacts a meetup member for a dating proposition will be removed and blocked from the group.  
 
 
 ## Data & Tools
