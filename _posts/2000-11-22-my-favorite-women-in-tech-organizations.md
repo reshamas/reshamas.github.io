@@ -12,10 +12,10 @@ In October 2018, I was invited to the Google [Women Techmakers Leads Summit](htt
 <iframe width="675" height="450" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/qzrc" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 We can see from the pie chart that Women Who Code has the greatest percentage of members at an impressive 45%.  Girl Develop It comes in second at 30%.  The remaining 25% is comprised of the 4 groups:
-- PyLadies:  ~10%
-- R-Ladies:  8%
-- WiMLDS:  5.5%
-- Write/Speak/Code:  1.2%
+- PyLadies:  **~10%**
+- R-Ladies:  **8%**
+- WiMLDS:  **5.5%**
+- Write/Speak/Code:  **1.2%**
 
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/c9uc" frameborder="0" style="border:0" allowfullscreen></iframe>
 
