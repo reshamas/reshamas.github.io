@@ -52,7 +52,7 @@ We can utilize this data in many ways
 ## Insider Insights
 The majority of these organizations are lead by volunteers.  Almost all chapter events are organized by volunteers.  These groups have worked diligently to build and support their communities.  
 
-Please do not reach out to these organizations for <p style="color:orange">free marketing.</p>
+Please do not reach out to these organizations for *free marketing*. 
 
 We often receive requests with the magic **D-word**, such as: 
 
@@ -74,11 +74,6 @@ Support them by making a monetary contribution and developing a lasting relation
 - Google spreadsheets were utilized to store the data.
 - Source data is available in this [women-in-tech spreadsheet](https://docs.google.com/spreadsheets/d/105VtTjnMyhnqItMYORNxMkurb6essQN1xGW7RArjA-Q/edit?usp=sharing)
 - Google [Data Studio](https://datastudio.google.com/u/0/navigation/reporting) to produce the visualizations.
-
-
-
----
-
 
 
 
