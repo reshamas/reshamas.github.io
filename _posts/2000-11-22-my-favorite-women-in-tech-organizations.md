@@ -10,6 +10,29 @@ In October 2018, I was invited to the Google [Women Techmakers Leads Summit](htt
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/qzrc" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
+
+## Membership Percentages
+We can see from the pie chart that Women Who Code has the greatest percentage of members at an impressive 45%.  Girl Develop It comes in second at 30%.  The remaining 25% is comprised of the 4 groups:
+- PyLadies:  ~10%
+- R-Ladies:  8%
+- WiMLDS:  5.5%
+- Write/Speak/Code:  1.2%
+
+<iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/c9uc" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+
+## Data & Tools
+
+### Data
+- The statistics represented were updated November 2018.
+
+### Tools
+- Google spreadsheets were utilized to store the data.
+- Source data is available in this [women-in-tech spreadsheet](https://docs.google.com/spreadsheets/d/105VtTjnMyhnqItMYORNxMkurb6essQN1xGW7RArjA-Q/edit?usp=sharing)
+- Google [Data Studio](https://datastudio.google.com/u/0/navigation/reporting) to produce the visualizations.
+
+
 ## History
 
 [WiMLDS](http://wimlds.org) is the acronym for "Women in Machine Learning & Data Science".  It was founded in 2013 by [Erin LeDell](https://twitter.com/ledell) in San Francisco, and the group hosts meetups.  This is the founding order of the chapters:
