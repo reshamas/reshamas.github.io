@@ -7,7 +7,13 @@
 </figure>
 
 ## Background
-In October 2018, I was invited to the Google [Women Techmakers Leads Summit](https://events.withgoogle.com/women-techmakers-leads-summit/).   Attendance for the summit was by invitation to GDG (Google Developers Group) organizers and some tech community group leaders.  I am an organizer for the NYC chapters of Women in Machine Learning and Data Science (WiMLDS) and PyLadies.  I was curious to learn which of my favorite women-in-tech organizations were represented.  This prompted me to conduct further research on what I consider to be some of the most impactful and active women's meetup groups.  Luckily for me, all 6 of them have a chapter in NYC.
+In October 2018, I was invited to the Google [Women Techmakers Leads Summit](https://events.withgoogle.com/women-techmakers-leads-summit/).   Attendance for the summit was by invitation to GDG (Google Developers Group) organizers and some tech community group leaders.  I am an organizer for the NYC chapters of Women in Machine Learning and Data Science (WiMLDS) and PyLadies.  I was curious to learn which of my favorite women-in-tech organizations were represented.  This prompted me to conduct further research on what I consider to be some of the most impactful and active women's meetup groups.  Luckily for me, all 6 of them have a chapter in NYC:
+- [Women Who Code](https://www.womenwhocode.com/networks)
+- [Girl Develop It](https://www.girldevelopit.com/chapters)
+- [PyLadies](https://www.pyladies.com/locations/)
+- [R-Ladies](https://rladies.org/about-us/history/)
+- [WiMLDS](http://wimlds.org/chapters/)
+- [Write/Speak/Code](https://www.writespeakcode.com)
 
 
 ## Membership by Women-in-Tech Group
