@@ -8,12 +8,12 @@
 
 ## Background
 In October 2018, I was invited to the Google [Women Techmakers Leads Summit](https://events.withgoogle.com/women-techmakers-leads-summit/).   Attendance for the summit was by invitation to GDG (Google Developers Group) organizers and some tech community group leaders.  I am an organizer for the NYC chapters of Women in Machine Learning and Data Science (WiMLDS) and PyLadies.  I was curious to learn which of my favorite women-in-tech organizations were represented.  This prompted me to conduct further research on what I consider to be some of the most impactful and active women's meetup groups.  Luckily for me, all 6 of them have a chapter in NYC:
-- [Women Who Code](https://www.womenwhocode.com/networks)
-- [Girl Develop It](https://www.girldevelopit.com/chapters)
+- [Women Who Code](https://www.womenwhocode.com/networks) (WWCode)
+- [Girl Develop It](https://www.girldevelopit.com/chapters) (GDI)
 - [PyLadies](https://www.pyladies.com/locations/)
 - [R-Ladies](https://rladies.org/about-us/history/)
-- [WiMLDS](http://wimlds.org/chapters/)
-- [Write/Speak/Code](https://www.writespeakcode.com)
+- [Women in Machine Learning and Data Science](http://wimlds.org/chapters/) (WiMLDS)
+- [Write/Speak/Code](https://www.writespeakcode.com) (WSC)
 
 
 ## Membership by Women-in-Tech Group
@@ -24,13 +24,16 @@ This horizontal histogram plots membership statistics as well as number of Twitt
 </p>
 
 
+<p>
 We can see from the pie chart that Women Who Code has the greatest percentage of members at an impressive 45%.  Girl Develop It comes in second at 30%.  The remaining 25% is comprised of the 4 groups:
 - PyLadies:  **~10%**
 - R-Ladies:  **8%**
 - WiMLDS:  **5.5%**
 - Write/Speak/Code:  **1.2%**
-
+</p>
+<p>
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/c9uc" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
 
 ## Comparing Statistics
 The plot below shows 5 different key statistics.  
