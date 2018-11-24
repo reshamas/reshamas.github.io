@@ -17,7 +17,7 @@ In October 2018, I was invited to the Google [Women Techmakers Leads Summit](htt
 
 
 ## Membership by Women-in-Tech Group
-This horizontal histogram plots membership statistics as well as number of Twitter followers by the most popular groups.  
+This horizontal histogram plots membership statistics as well as number of Twitter followers ordered by the most populous groups.  
 
 <p>
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/qzrc" frameborder="0" style="border:0" allowfullscreen></iframe>
