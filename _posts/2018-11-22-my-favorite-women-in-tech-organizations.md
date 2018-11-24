@@ -35,11 +35,11 @@ We can see from the pie chart that Women Who Code has the greatest percentage of
 ## Comparing Statistics
 The plot below shows 5 different key statistics.  
 1.  On the x-axis, the groups are plotted in the order in which they were founded.  The year of founding is shown below the group name. 
-2.  The two lines representing number of chapters and countries for each group are at the bottom.  
+2.  We can see there is a correlation between number of members and twitter followers for each group (upper two lines).
+3.  The two lines representing number of chapters and countries for each group are the lower two lines.  
   - Both Girl Develop It and Write/Speak/Code are only represented in the United States.
   - Aside from the US-only groups, for the other 4 groups, we can see a relationship between number of chapters and number of countries represented.
-3.  We can see there is a correlation between number of members and twitter followers for each group.
-4.  R-Ladies is the most broadly present group.  They have 120 chapters in 40 countries.
+  - R-Ladies is the most broadly present group.  They have 120 chapters in 40 countries.
 
 <p>
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1GRHGgx6VnbmSbOWCbrLbzsZKys_-JmwY/page/d1rc" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -58,7 +58,7 @@ We often receive requests with the magic **D-word**, such as:
 
 >We want to help women in data science.  Can I drop into your next event to do a 10-minute pitch on our [for-profit program]?
 
-Support them by making a monetary contribution and developing an authentic business partnership.  
+Support them by making a monetary contribution and building an authentic business partnership.  
 
 ## Guidelines for Engagement
 Prior to joining any of the organizations or attending their events, it is essential to become familiar with these details:  
