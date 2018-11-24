@@ -3,7 +3,7 @@
 
 <figure>
   <img title="WiMLDS event at NY Times"  src="../assets/images/rs_nytimes.jpg" align="center"> 
- <figcaption>NYC WiMLDS event at NY Times, Oct 2018</figcaption>
+ <figcaption>NYC WiMLDS event at NY Times, Oct 2018, photo courtesty of [Jen Kanjana](https://twitter.com/jennkanjana)</figcaption>
 </figure>
 
 ## Background
