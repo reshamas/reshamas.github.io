@@ -25,7 +25,7 @@ This horizontal histogram plots membership statistics as well as number of Twitt
 
 
 <p>
-We can see from the pie chart that Women Who Code has the greatest percentage of members at an impressive 45%.  Girl Develop It comes in second at 30%.  The remaining 25% is comprised of the 4 groups:
+We can see from the pie chart that Women Who Code has the greatest percentage of members at an impressive **45%**.  Girl Develop It comes in second at **30%**.  The remaining **25%** is comprised of the 4 groups:
 - PyLadies:  **~10%**
 - R-Ladies:  **8%**
 - WiMLDS:  **5.5%**
