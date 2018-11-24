@@ -70,7 +70,7 @@ Support them by making a monetary contribution and building an authentic busines
 Prior to joining any of the organizations or attending their events, it is essential to become familiar with these details:  
 - <span style="color:orange"> **Mission:** </span>  read the mission statement of the organization
 - <span style="color:orange"> **Code of Conduct:** </span>  read the CoC of the organization
-- <span style="color:orange"> **Membership:** </span>  some of the organizations are open solely to women and non-binary people. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
+- <span style="color:orange"> **Membership:** </span>  some of the organizations are open solely to women and **gender minorities**. Others are open to male allies.  Be informed and respectful of their membership requirements before joining.  
 
 These meetup groups are for women in tech/coding/analytics.  These organizations are *not* for meeting women to date.  Anyone who contacts a meetup member for a dating proposition will be removed and blocked from the group.  
 
