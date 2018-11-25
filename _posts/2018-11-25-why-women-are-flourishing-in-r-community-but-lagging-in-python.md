@@ -128,7 +128,7 @@ The R community has prominent data scientists that are vocally supportive of wom
 - [Karthik Ram](https://twitter.com/_inundata), Data Scientist at Berkeley Institute for DS / Lead for rOpenSci project
 
 ## Table of Key Characteristics of R-Ladies and PyLadies
-This table compares key details of R-Ladies and PyLadies, as well as Women in Machine Learning and Data Science (WiMLDS).  
+This table compares key details of R-Ladies and PyLadies, as well as Women in Machine Learning and Data Science (WiMLDS).  WiMLDS is included because it serves both populations in data science.
 
 | Detail            | R-Ladies     | WiMLDS | PyLadies         |  
 |-------------------|--------------|--------|------------------|
@@ -136,6 +136,7 @@ This table compares key details of R-Ladies and PyLadies, as well as Women in Ma
 | Users (a)         | 6.1%         |        | 38.8%            |
 | Language          | R            |        | Python           |
 | Sponsors          | R Consortium | none   | PSF (b)          |   
+| Sponsor Followers | [5.9K](https://twitter.com/RConsortium)             |        | [223K](https://twitter.com/ThePSF) |
 | Field of Study    | Statistics   |        | CS (c), others   |
 | Board             | yes          | yes    | no               |
 | Members           | 29,455       | 20,140 | 36,500           |
@@ -153,15 +154,49 @@ Notes:
 - CS (c) = Computer Science
 
 
-## What has the Python community been doing?
+## What steps has the Python community taken?
+The Python community has acknowledged the lack of diversity in speakers, open source contributors and working developers.  There are various organizations with initiatives to improve diversity.  
+
+### Open Source Sprints
+
+To increase the participation of women in open source, and specifically for scikit-learn, [Andreas Mueller](https://twitter.com/amuellerml) has organized open source sprints with [NYC Women in Machine Learning and Data Science](https://github.com/WiMLDS/nyc-2018-scikit-sprint).  While the event was a positive learning experience, the impact is undetermined, with 5 pull requests merged at the event, and two more merged post-sprint.  It will take a while to make a significant dent.  
+
+[NumFOCUS DISC and Jupyter](https://github.com/sbrice/disc-sprint-nyc-2018) held a sprint in October 2018 to increase diversity in open source.  The impact of that sprint has not yet been published.
+
+It is unclear how many open source sprints are being held and their impact.  That data is not being tracked by a single organization.  
+
+### [Python Software Foundation](https://www.python.org/psf/) (PSF)
+The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  
+
+
+#### PyCon
+
+[PyCon 2018](https://us.pycon.org/2018/about/) was held in Cleveland, Ohio this past May.  It is the national conference, sponsored by PSF, and is the largest annual gathering for the community using and developing the open-source Python programming language.   PyCon organizers reached out to women to encourage them to submit proposals and they also provided mentoring around the process.  The impact of this process is unknown.
+
+
+
+#### [PyData](https://pydata.org/)
+
+PyData is an educational program of NumFOCUS which provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. They have a [community of meetup groups](https://www.meetup.com/pro/pydata/) with 100K members in 120 groups in 47 countries.  They host meetup events as well as yearly conferences.  There is no formal relationship between PyData and PyLadies.  It is unclear if there is a formal collaboration with the Python Software Foundation.  
+
+### [Big Apple Py](https://bigapplepy.org/
+
+Big Apple Py is an organization which supports open source in New York City.  They organize the annual Python conference [PyGotham](https://2018.pygotham.org/).  They are a transparent and inclusive NYC organization which is committed to increasing diversity of speakers and attendees at PyGotham.  They offer NYC PyLadies a booth at the conference free of charge.  
+
+### NumFOCUS
+
+NumFOCUS was founded in 2012, and it supports and promotes open source scientific software (some examples: Numpy, Pandas and Jupyter).  Beginning in 2017, they began a [Diversity in Scientific Computing (DISC)](https://numfocus.org/programs/diversity-inclusion) committee whose aim is to increase diversity in the open source community.  
+
+
+
 
 
 ## What more can the Python community do?
 1.  Create an official/unofficial "Board" for PyLadies
 2.  Get more male allies
-3.  Connect women in Python with each other
 4.  Celebrate the wide scope of Python
-5.  Connect the Python communities
+    - Connect the Python communities
+    - Connect women in Python with each other
 5.  Grant proposal
 6.  Increase PyLadies membership and track statistics
 7.  Involve more women to be contributors to open source
