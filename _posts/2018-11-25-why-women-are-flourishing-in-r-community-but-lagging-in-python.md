@@ -10,24 +10,6 @@ There is a general understanding in the world of data and coding that the R comm
 In this article, I compare numbers of users in the R and Python communities.  I also compare statistics on the respective women's meetup organizations for each language:  R-Ladies and PyLadies.  
 
 
-$$
-\begin{align*}
-  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
-  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
-  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
-      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
-      \vdots & \ddots & \vdots \\
-      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
-    \end{array} \right)
-  \left( \begin{array}{c}
-      y_1 \\
-      \vdots \\
-      y_n
-    \end{array} \right)
-\end{align*}
-$$
-
-
 
 ## What makes people think R is more inclusive, anyway?
 
@@ -115,6 +97,30 @@ The proportion of women graduating with degrees in statistics (44%) is significa
 This hypothesis has not been tested, because I do not have the data.  But, it could be a possible factor:  
 - H_0:  Both R and Python receive funding that is commensurate with the number of users
 - H_1:  R receives greater funding than Python
+
+$$
+\begin{align*}
+\begin{hyp}[Test hypothesis] \label{hyp:a}This is my first hypothesis. \end{hyp}
+\end{align*}
+$$
+
+$$
+\begin{align*}
+
+  & \phi(x,y) = \phi \left(\sum_{i=1}^n x_ie_i, \sum_{j=1}^n y_je_j \right)
+  = \sum_{i=1}^n \sum_{j=1}^n x_i y_j \phi(e_i, e_j) = \\
+  & (x_1, \ldots, x_n) \left( \begin{array}{ccc}
+      \phi(e_1, e_1) & \cdots & \phi(e_1, e_n) \\
+      \vdots & \ddots & \vdots \\
+      \phi(e_n, e_1) & \cdots & \phi(e_n, e_n)
+    \end{array} \right)
+  \left( \begin{array}{c}
+      y_1 \\
+      \vdots \\
+      y_n
+    \end{array} \right)
+\end{align*}
+$$
 
 ### Scope
 R is used for statistical analysis and has about 10K CRAN packages.  Python has the ability to be deployed at scale and the Python Package Index ([PyPI](https://en.wikipedia.org/wiki/Python_Package_Index)) offers over 100K libraries.  The fact that R is statistically based with a specific focus makes it easier to manage.  As an analogy, it is much easier to know neighbors and shopkeepers in a small town than in a large city.  
