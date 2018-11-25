@@ -169,9 +169,9 @@ It is unclear how many open source sprints are being held and their impact.  Tha
 The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  
 
 
-#### PyCon
+#### [PyCon](https://us.pycon.org)
 
-[PyCon 2018](https://us.pycon.org/2018/about/) was held in Cleveland, Ohio this past May.  It is the national conference, sponsored by PSF, and is the largest annual gathering for the community using and developing the open-source Python programming language.   PyCon organizers reached out to women to encourage them to submit proposals and they also provided mentoring around the process.  The impact of this process is unknown.
+PyCon [2018](https://us.pycon.org/2018/about/) was held in Cleveland, Ohio this past May.  It is the national conference, sponsored by PSF, and is the largest annual gathering for the community using and developing the open-source Python programming language.   PyCon organizers reached out to women to encourage them to submit proposals and they also provided mentoring around the process.  The impact of this process is unknown.
 
 
 
@@ -179,7 +179,7 @@ The Python Software Foundation manages the open source licensing of Python.  The
 
 PyData is an educational program of NumFOCUS which provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. They have a [community of meetup groups](https://www.meetup.com/pro/pydata/) with 100K members in 120 groups in 47 countries.  They host meetup events as well as yearly conferences.  There is no formal relationship between PyData and PyLadies.  It is unclear if there is a formal collaboration with the Python Software Foundation.  
 
-### [Big Apple Py](https://bigapplepy.org/
+### [Big Apple Py](https://bigapplepy.org/)
 
 Big Apple Py is an organization which supports open source in New York City.  They organize the annual Python conference [PyGotham](https://2018.pygotham.org/).  They are a transparent and inclusive NYC organization which is committed to increasing diversity of speakers and attendees at PyGotham.  They offer NYC PyLadies a booth at the conference free of charge.  
 
