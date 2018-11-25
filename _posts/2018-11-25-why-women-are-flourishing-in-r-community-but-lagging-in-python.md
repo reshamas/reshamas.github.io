@@ -85,6 +85,10 @@ The proportion of women graduating with degrees in statistics (44%) is significa
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1C8ouhyJ9WVyvGftSkkAhiEqAuWvksE5n/page/yr0c" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
+<p>
+<img src="../assets/images/cs_degrees.jpg" width="99%" height="99%" />
+</p>
+
 ### Funding
 This hypothesis has not been tested, because I do not have the data.  But, it could be a possible factor:  
 - H_0:  Both R and Python receive funding that is commensurate with the number of users
