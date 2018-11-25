@@ -100,10 +100,11 @@ This hypothesis has not been tested, because I do not have the data.  But, it co
 
 $$
 \begin{align*}
-\begin{hyp}[Test hypothesis] \label{hyp:a}This is my first hypothesis. \end{hyp}
+\begin{hyp}[Test hypothesis] \label{hyp:0}This is my first hypothesis. \end{hyp}
 \end{align*}
 $$
-
+  
+  
 $$
 \begin{align*}
   \begin{hyp}[Test hypothesis] \label{hyp:a}This is my first hypothesis. \end{hyp}
@@ -208,6 +209,7 @@ PyData is an educational program of NumFOCUS which provides a forum for the inte
 
 Big Apple Py is an organization which supports open source in New York City.  They organize the annual Python conference [PyGotham](https://2018.pygotham.org/).  They are a transparent and inclusive NYC organization which is committed to increasing diversity of speakers and attendees at PyGotham.  They offer NYC PyLadies a booth at the conference free of charge.  
 
+### [Django Girls](https://djangogirls.org/)
 
 ## What more can the Python community do?
 
