@@ -225,5 +225,7 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 - [Women In Science, Technology, Engineering, And Mathematics (STEM)](https://www.catalyst.org/knowledge/women-science-technology-engineering-and-mathematics-stem)
 - [AI is the Future, But Where are the women?](https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance/)
 - [Gender Ratio of Programmers, by Language](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html)
+- [Inequality of underrepresnted groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb)
+
 
 <a href="http://www.pewresearch.org/fact-tank/2018/01/09/7-facts-about-the-stem-workforce/ft_18-01-08_stemworkers_5/"><img width="615" height="642" src="http://www.pewresearch.org/wp-content/uploads/2018/01/FT_18.01.08_STEMworkers_5.png?w=415" class="attachment-large size-large" alt="Representation of women in STEM jobs varies widely" /></a>
