@@ -166,14 +166,16 @@ To increase the participation of women in open source, and specifically for scik
 It is unclear how many open source sprints are being held and their impact.  That data is not being tracked by a single organization.  
 
 ### [Python Software Foundation](https://www.python.org/psf/) (PSF)
-The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  
+The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  PSF has [27 meetup groups](https://www.meetup.com/pro/python-software-foundation-meetups/) in 3 countries, totaling 46K members. 
 
 
 #### [PyCon](https://us.pycon.org)
 
 PyCon [2018](https://us.pycon.org/2018/about/) was held in Cleveland, Ohio this past May.  It is the national conference, sponsored by PSF, and is the largest annual gathering for the community using and developing the open-source Python programming language.   PyCon organizers reached out to women to encourage them to submit proposals and they also provided mentoring around the process.  The impact of this process is unknown.
 
+### NumFOCUS
 
+NumFOCUS was founded in 2012, and it supports and promotes open source scientific software (some examples: Numpy, Pandas and Jupyter).  Beginning in 2017, they began a [Diversity in Scientific Computing (DISC)](https://numfocus.org/programs/diversity-inclusion) committee whose aim is to increase diversity in the open source community.  
 
 #### [PyData](https://pydata.org/)
 
@@ -183,11 +185,8 @@ PyData is an educational program of NumFOCUS which provides a forum for the inte
 
 Big Apple Py is an organization which supports open source in New York City.  They organize the annual Python conference [PyGotham](https://2018.pygotham.org/).  They are a transparent and inclusive NYC organization which is committed to increasing diversity of speakers and attendees at PyGotham.  They offer NYC PyLadies a booth at the conference free of charge.  
 
-### NumFOCUS
 
-NumFOCUS was founded in 2012, and it supports and promotes open source scientific software (some examples: Numpy, Pandas and Jupyter).  Beginning in 2017, they began a [Diversity in Scientific Computing (DISC)](https://numfocus.org/programs/diversity-inclusion) committee whose aim is to increase diversity in the open source community.  
-
-
+## What more can the Python community do?
 
 
 
