@@ -1,4 +1,6 @@
 
+$$ {1}/{2}
+$$
 
 <p>
 <img src="../assets/images/stem_women.png" width="99%" height="99%" />
