@@ -1,6 +1,5 @@
 
-$$ {1}/{2}
-$$
+
 
 <p>
 <img src="../assets/images/stem_women.png" width="99%" height="99%" />
@@ -12,6 +11,7 @@ In this article, I compare numbers of users in the R and Python communities.  I 
 
 
 
+$$ {1}/{2}  $$
 
 ## What makes people think R is more inclusive, anyway?
 
