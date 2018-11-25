@@ -11,7 +11,9 @@ In this article, I compare numbers of users in the R and Python communities.  I 
 
 
 
-$$ {1}/{2}  $$
+$$ {1}/{2}  $$  
+
+\\( a^2 = b^2 \\)
 
 ## What makes people think R is more inclusive, anyway?
 
