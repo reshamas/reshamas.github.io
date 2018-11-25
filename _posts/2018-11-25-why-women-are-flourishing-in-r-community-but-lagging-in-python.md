@@ -177,6 +177,7 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 - [2017 SAS, R, or Python Flash Survey Results](https://www.burtchworks.com/2017/06/19/2017-sas-r-python-flash-survey-results/)
 - [Women a Growing Force in Statistics and Data Science, Reports Washington Post](https://thisisstatistics.org/women-a-growing-force-in-statistics-and-data-science-reports-washington-post/)
 - [Women In Science, Technology, Engineering, And Mathematics (STEM)](https://www.catalyst.org/knowledge/women-science-technology-engineering-and-mathematics-stem)
+- [AI is the Future, But Where are the women?](https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance/)
 
 
 <a href="http://www.pewresearch.org/fact-tank/2018/01/09/7-facts-about-the-stem-workforce/ft_18-01-08_stemworkers_5/"><img width="615" height="642" src="http://www.pewresearch.org/wp-content/uploads/2018/01/FT_18.01.08_STEMworkers_5.png?w=415" class="attachment-large size-large" alt="Representation of women in STEM jobs varies widely" /></a>
