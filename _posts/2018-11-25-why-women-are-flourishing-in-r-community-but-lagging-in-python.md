@@ -24,6 +24,10 @@ A study examining the [gender ratios of programmers](https://blog.revolutionanal
 While these stats are shockingly low for both groups, R has more than 4 times more female contributors than Python.
 
 
+<p>
+<img src="../assets/images/gh_contributions.png" width="99%" height="99%" />
+</p>
+
 ### Conference Speakers
 
 The New York R 2018 conference had 45% women speakers.  I don’t know of any Python conference that boasts that high a percentage. 
