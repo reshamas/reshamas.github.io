@@ -89,4 +89,4 @@ A list of all chapters and their [meetup group links](http://wimlds.org/chapters
 
 ### Tools
 - Google spreadsheets were utilized to store the data.
-- Google [Data Studio](https://datastudio.google.com/u/0/navigation/reporting) to produce the visualizations.
+- Visualizations were produced using Google [Data Studio](https://datastudio.google.com/u/0/navigation/reporting).
