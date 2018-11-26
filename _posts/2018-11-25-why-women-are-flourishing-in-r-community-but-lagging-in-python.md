@@ -1,5 +1,9 @@
 
 
+$$
+\begin{hyp}[Test hypothesis] \label{hyp:0}This is my first hypothesis. \end{hyp}
+$$
+
 
 <p>
 <img src="../assets/images/stem_women.png" width="99%" height="99%" />
