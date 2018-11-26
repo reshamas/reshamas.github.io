@@ -118,7 +118,7 @@ $$
 In March 2018, the R Consortium announced that R-Ladies is a [top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project).  This provides R-Ladies with a longer term budget cycle (3 years instead of 1 year) to support their community. R-Ladies will also have a voting seat on the [Infrastructure Steering Committee](https://www.r-consortium.org/about/isc-charter) of R Consortium.  
 
 ### R Open Source Initiative
-The annual [rstudio::conf] is scheduled for January 17-19, 2019 in Austin, Texas.  On Saturday, January 19, there is a [tidyverse dev day](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687):    
+The annual [rstudio::conf](https://www.rstudio.com/conference/) is scheduled for January 17-19, 2019 in Austin, Texas.  On Saturday, January 19, there is a [tidyverse dev day](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687):    
 >The broad goal of this event is to nurture regular contributors to the tidyverse by having a day where we can work together on anything ranging from submitting your first pull request, to working on a package.
 
 ### R Forwards Taskforce
