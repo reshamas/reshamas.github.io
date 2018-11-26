@@ -124,7 +124,7 @@ As a comparison, PyLadies has 45 chapters in 19 countries which is surprisingly 
 
 ### Enthusiasm / Priority
 R-Ladies are either more enthusiastic and/or more communicative.  There are many related twitter accounts:  
-- [@WeAreRLadies](https://twitter.com/WeAreRLadies), 4700+ followers
+- [@WeAreRLadies](https://twitter.com/WeAreRLadies), 4900+ followers, which has a weekly rotating curator for the @RLadiesGlobal community #rladies. 
 - [@RCatLadies](https://twitter.com/RCatLadies) with this [#rcatladies](https://twitter.com/hashtag/rcatladies?src=hash)
 
 ### Prominent Male Supporters
@@ -137,6 +137,9 @@ The R community has prominent data scientists that are vocally supportive of wom
 - [David Meza](https://twitter.com/davidmeza1), Chief Knowledge Architect at NASA
 - [Noam Ross](https://twitter.com/noamross), Senior Research Scientist at EcoHealth / Editor at rOpenSci
 - [Karthik Ram](https://twitter.com/_inundata), Data Scientist at Berkeley Institute for DS / Lead for rOpenSci project
+
+### R-Ladies is a priority project for R Consortium
+In March 2018, the R Consortium announced that R-Ladies is a [top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project).  This provides R-Ladies with a longer term budget cycle (3 years instead of 1 year) to support their community. R-Ladies will also have a voting seat on the [Infrastructure Steering Committee](https://www.r-consortium.org/about/isc-charter) of R Consortium.  
 
 ### Diversity Scholarships
 [rstudio](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/) is offering 32 domestic diversity scholarships and 6 internatioal scholarships to its 2019 conference. 
