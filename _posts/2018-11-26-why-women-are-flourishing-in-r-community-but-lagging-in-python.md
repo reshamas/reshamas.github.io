@@ -279,4 +279,10 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 - [Gender Ratio of Programmers, by Language](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html)
 - [Inequality of underrepresnted groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb)
 
- 
+## Acknowledgements
+Thanks to the following people who provided information for my blog via twitter:  
+- [Emily Robinson](https://twitter.com/robinson_es/status/1067107701086478337)
+- [Jenny Bryan](https://twitter.com/JennyBryan/status/1067101086970916864)
+- [Greg Wilson] ()
+
+
