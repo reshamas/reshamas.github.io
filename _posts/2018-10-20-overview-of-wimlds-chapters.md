@@ -24,8 +24,8 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 
 ## WiMLDS Chapters:  USA & Canada
 The 4 chapters in North America with the greatest membership are, unsurprisingly:
-1.  Bay Area (4.5K)
-2.  New York City (3.7K)
+1.  San Francisco Bay Area, California (4.5K)
+2.  New York, New York (3.7K)
 3.  Cary, North Carolina (800+)
 4.  Chicago, Illinois (750+)
 
