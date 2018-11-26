@@ -3,7 +3,7 @@
 <img src="../assets/images/stem_women.png" width="99%" height="99%" />
 </p>
 
-There is a general understanding in the world of data and coding that the R community is impressively welcoming and inclusive of women.  Python does not necessarily have a reputation for being exclusive, but we do not often hear accolades of its inclusivithis article, I compare numbers of users in the R and Python communities.  I also compare statistics on the respective women's meetup organizations for each language:  R-Ladies and PyLadies.  
+There is a general understanding in the world of data and coding that the R community is impressively welcoming and inclusive of women.  Python does not necessarily have a reputation for being exclusive, but we do not often hear accolades of its inclusivity either.  In this article, I compare numbers of users in the R and Python communities.  I also compare statistics on the respective women's meetup organizations for each language:  R-Ladies and PyLadies.  
 
 
 
