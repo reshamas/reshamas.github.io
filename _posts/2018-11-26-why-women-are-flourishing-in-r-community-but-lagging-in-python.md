@@ -99,13 +99,10 @@ The proportion of women graduating with degrees in statistics (44%) is significa
 
 ### Funding
 This hypothesis has not been tested, because I do not have the data.  But, it could be a possible factor:  
-- H_0:  Both R and Python receive funding that is commensurate with the number of users
-- H_1:  R receives greater funding than Python
-
 
 $$
 \begin{align*}
-   H_0&: \text{Both R and Python receive equal funding (adjusted by number of users)}
+   H_0&: \text{R and Python receive equal funding (adjusted by number of users)}
    \\
    H_1&: \text{R receives greater funding than Python}
 \end{align*}
