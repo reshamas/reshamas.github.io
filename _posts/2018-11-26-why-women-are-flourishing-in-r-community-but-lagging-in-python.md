@@ -138,6 +138,9 @@ The R community has prominent data scientists that are vocally supportive of wom
 - [Noam Ross](https://twitter.com/noamross), Senior Research Scientist at EcoHealth / Editor at rOpenSci
 - [Karthik Ram](https://twitter.com/_inundata), Data Scientist at Berkeley Institute for DS / Lead for rOpenSci project
 
+### Diversity Scholarships
+[rstudio](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/) is offering 32 domestic diversity scholarships and 6 internatioal scholarships to its 2019 conference. 
+
 ## Table of Key Characteristics of R-Ladies and PyLadies
 This table compares key details of R-Ladies and PyLadies, as well as Women in Machine Learning and Data Science (WiMLDS).  WiMLDS is included because it serves both populations in data science.
 
