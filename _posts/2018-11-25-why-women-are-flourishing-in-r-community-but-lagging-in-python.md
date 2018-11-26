@@ -1,9 +1,9 @@
  
 $$
 \begin{align*}
-   H_0 &: \text{Both R and Python receive equal funding (adjusted by number of users)}
+   H_0&: \text{Both R and Python receive equal funding (adjusted by number of users)}
    \\
-   H_1 &: \text{R receives greater funding than Python}
+   H_1&: \text{R receives greater funding than Python}
 \end{align*}
 $$
 
