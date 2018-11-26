@@ -67,7 +67,8 @@ These are some feasible reasons for the R community's culture:
 - Foundational:  Underlying field of study (statistics vs computer science)
 - Funding
 - Scope
-- Network
+- R Communities Connected Network
+- R-Ladies Network
 - Enthusiasm / Priority
 - Prominent Male Supporters
 
@@ -123,7 +124,7 @@ The annual [rstudio::conf] is scheduled for January 17-19, 2019 in Austin, Texas
 ### R Forwards Taskforce
 The [R Forwards](https://forwards.github.io) task force was set up by the [R Foundation](https://www.r-project.org/foundation/) in December 2015 to address the underrepresentation of women and rebranded in January 2017 to accommodate **more under-represented groups such as LGBT, minority ethnic groups, and people with disabilities in the R community.**
 
-### R Communities
+### R Communities Connected Network
 Below is a network of the R communities.  We can see there is a tight network of collaboration.  
 
 <p>
