@@ -13,13 +13,13 @@ There is a general understanding in the world of data and coding that the R comm
   
 [Scikit-learn](https://scikit-learn.org/stable/) is the machine learning library of Python.  There is only 1 woman in the [100 top contributors](https://scikit-learn.org/stable/about.html#citing-scikit-learn).
 
-A study examining the [gender ratios of programmers](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html) found that this is the breakdown of "Percent Female GitHub Contributors, by Language":  
+
+This plot was taken from [Gender Ratios of Programmers](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html) and shows the percent women GitHub contributors to some popular coding languages.  this is the breakdown of "Percent Female GitHub Contributors, by Language":  
 - R:  **9.3%**
 - Python : **2.0%**
 
 While these stats are shockingly low for both groups, R has more than 4 times more female contributors than Python.
 
-This plot shows the gender difference in R and Python GitHub contributions. 
 <p>
 <img src="../assets/images/gh_contributions.png" width="99%" height="99%" />
 </p>
