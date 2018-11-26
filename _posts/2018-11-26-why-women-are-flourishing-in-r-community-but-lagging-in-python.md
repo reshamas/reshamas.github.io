@@ -181,8 +181,8 @@ This table compares key details of R-Ladies and PyLadies, as well as Women in Ma
 | Countries         | 40           | 17     | 19               |
 | Slack Members     | 650          | 751    | 1515             |
 | Twitter Followers | 8112         | 8376   | 10000            |
-| Affiliated Conferences | ?       | none   | PyCon            |
-| Other Conferences | Rstudio, useR!, NYR | none | PyData ?    |
+| Affiliated Conferences | Rstudio, useR!      | none   | PyCon            |
+| Other Conferences | NYR | none |      |
 | Language First Released |   1993 |         | 1990            |
 
 Notes:  
