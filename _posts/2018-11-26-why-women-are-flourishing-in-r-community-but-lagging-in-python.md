@@ -37,10 +37,18 @@ A study examining the [gender ratios of programmers](https://blog.revolutionanal
 
 While these stats are shockingly low for both groups, R has more than 4 times more female contributors than Python.
 
-
+This plot shows the gender difference in R and Python GitHub contributions. 
 <p>
 <img src="../assets/images/gh_contributions.png" width="99%" height="99%" />
 </p>
+
+
+This plot was presented in [Inequality of underrepresented groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb).  It shows projects that are sponsored by NumFOCUS, an organization that provides fiscal support to open source projects.  The projects that are higher up show a greater degree of gender inequality in open source contributions.  We can see many Python projects (NumPy, PyMC3, matplotlib) are higher up and rOpenSci is one with a low degree of inequality.  
+
+<p>
+<img src="../assets/images/stem_women.png" width="99%" height="99%" />
+</p>
+
 
 ### Conference Speakers
 
