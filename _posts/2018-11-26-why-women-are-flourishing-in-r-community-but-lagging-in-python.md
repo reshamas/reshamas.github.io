@@ -118,7 +118,7 @@ The annual [rstudio::conf] is scheduled for January 17-19, 2019 in Austin, Texas
 >The broad goal of this event is to nurture regular contributors to the tidyverse by having a day where we can work together on anything ranging from submitting your first pull request, to working on a package.
 
 ### R Forwards Taskforce
-The [R Forwards](https://forwards.github.io) task force was set up by the [R Foundation](https://www.r-project.org/foundation/) in December 2015 to address the underrepresentation of women and rebranded in January 2017 to accommodate more under-represented groups such as LGBT, minority ethnic groups, and people with disabilities in the R community.
+The [R Forwards](https://forwards.github.io) task force was set up by the [R Foundation](https://www.r-project.org/foundation/) in December 2015 to address the underrepresentation of women and rebranded in January 2017 to accommodate **more under-represented groups such as LGBT, minority ethnic groups, and people with disabilities in the R community.**
 
 ### R Communities
 Below is a network of the R communities.  We can see there is a tight network of collaboration.  
