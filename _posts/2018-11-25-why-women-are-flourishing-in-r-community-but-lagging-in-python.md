@@ -1,4 +1,6 @@
-
+$$
+z=\frac{ab+cd+ef+gh+ij+kl+mn+op+qr}{y}
+$$
 
 $$
 \begin{hyp}[Test hypothesis] \label{hyp:0}This is my first hypothesis. \end{hyp}
