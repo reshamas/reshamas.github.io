@@ -171,6 +171,8 @@ Notes:
 ## What steps has the Python community taken?
 The Python community has acknowledged the lack of diversity in speakers, open source contributors and developers/engineers.  There are various organizations with initiatives to improve diversity.  
 
+*Note:*  This article is not intended to focus only on the New York City community.  I use examples of NYC events, but all the organizations have events that are world-wide.  
+
 ### Open Source Sprints
 
 To increase the participation of women in open source, and specifically for scikit-learn, [Andreas Mueller](https://twitter.com/amuellerml) has organized open source sprints with [NYC Women in Machine Learning and Data Science](https://github.com/WiMLDS/nyc-2018-scikit-sprint).  While the event was a positive learning experience, the impact is undetermined, with 5 pull requests merged at the event, and two more merged post-sprint.  It will take a while to make a significant dent.  
@@ -207,26 +209,29 @@ Django is a Python-based free and open-source web framework, which follows the m
 
 Django Girls is a non-profit organization and a community that empowers and helps women to organize free, one-day programming workshops by providing tools, resources and support. During each of their events, 30-60 women build their first web application using HTML, CSS, Python and Django.
 
-## What more can the Python community do?
+## How connected are the Python communities?
+Below is a network of some of the Python communities.  It is unknown whether and to what extent the communities collaborate with each other.  
 
-
+<p>
+<img src="../assets/images/python_community_map.png" width="99%" height="99%" />
+</p>
 
 ## What more can the Python community do?
 1.  Create an official/unofficial "Board" for PyLadies
 2.  Get more male allies
 4.  Celebrate the wide scope of Python
-    - Connect the Python communities
+
     - Connect women in Python with each other
+Connect the Python communities
 5.  Grant proposal
-6.  Increase PyLadies membership and track statistics
+    - Increase PyLadies membership and track statistics
+    - Track number of women speakers at conferences and make goals for increasing those statistics
+    
 7.  Involve more women to be contributors to open source
 
 Some of the following
 
-### Action Items
-Grant to do this, key endpoints:
-Track number of women speakers at conferences and make goals for increasing those statistics
-Collaboration between NumFOCUS, PSF and PyLadies
+
 
 
 ## Contact 
