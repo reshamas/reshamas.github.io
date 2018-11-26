@@ -197,6 +197,9 @@ PyData is an educational program of NumFOCUS which provides a forum for the inte
 Big Apple Py is an organization which supports open source in New York City.  They organize the annual Python conference [PyGotham](https://2018.pygotham.org/).  They are a transparent and inclusive NYC organization which is committed to increasing diversity of speakers and attendees at PyGotham.  They offer NYC PyLadies a booth at the conference free of charge.  
 
 ### [Django Girls](https://djangogirls.org/)
+Django is a Python-based free and open-source web framework, which follows the model-view-template architectural pattern. It is maintained by the Django Software Foundation.  
+
+Django Girls is a non-profit organization and a community that empowers and helps women to organize free, one-day programming workshops by providing tools, resources and support. During each of their events, 30-60 women build their first web application using HTML, CSS, Python and Django.
 
 ## What more can the Python community do?
 
