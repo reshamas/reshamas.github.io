@@ -1,6 +1,4 @@
-$$
-z=\frac{ab+cd+ef+gh+ij+kl+mn+op+qr}{y}
-$$
+ 
 
 - H_0:  Both R and Python receive funding that is commensurate with the number of users
 - H_1:  R receives greater funding than Python
@@ -14,10 +12,7 @@ $$
 \end{align*}
 $$
 
-$$
-H_0
-$$
-
+ 
 
 $$
 \begin{hyp}[Test hypothesis] \label{hyp:0}This is my first hypothesis. \end{hyp}
