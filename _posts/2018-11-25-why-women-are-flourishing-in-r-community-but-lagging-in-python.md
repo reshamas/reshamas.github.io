@@ -4,11 +4,12 @@ $$
 
 - H_0:  Both R and Python receive funding that is commensurate with the number of users
 - H_1:  R receives greater funding than Python
-\
+
+
 $$
 \begin{align*}
    H_0 & : \text{Both R and Python receive funding that is commensurate with the number of users}
-   \
+   \\
    H_a & : \text{R receives greater funding than Python}
 \end{align*}
 $$
