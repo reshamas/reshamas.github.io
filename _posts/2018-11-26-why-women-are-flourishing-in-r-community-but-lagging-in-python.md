@@ -110,6 +110,17 @@ $$
 \end{align*}
 $$
 
+### R-Ladies is a priority project for R Consortium
+In March 2018, the R Consortium announced that R-Ladies is a [top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project).  This provides R-Ladies with a longer term budget cycle (3 years instead of 1 year) to support their community. R-Ladies will also have a voting seat on the [Infrastructure Steering Committee](https://www.r-consortium.org/about/isc-charter) of R Consortium.  
+
+### R Open Source Initiative
+The annual [rstudio::conf] is scheduled for January 17-19, 2019 in Austin, Texas.  On Saturday, January 19, there is a [tidyverse dev day](https://www.eventbrite.com/e/tidyverse-developer-day-tickets-1617065687):    
+>The broad goal of this event is to nurture regular contributors to the tidyverse by having a day where we can work together on anything ranging from submitting your first pull request, to working on a package.
+
+### R Forwards Taskforce
+The [R Forwards](https://forwards.github.io) task force was set up by the [R Foundation](https://www.r-project.org/foundation/) in December 2015 to address the underrepresentation of women and rebranded in January 2017 to accommodate more under-represented groups such as LGBT, minority ethnic groups, and people with disabilities in the R community.
+
+
 
 ### Scope
 R is used for statistical analysis and has about 10K CRAN packages.  Python has the ability to be deployed at scale and the Python Package Index ([PyPI](https://en.wikipedia.org/wiki/Python_Package_Index)) offers over 100K libraries.  The fact that R is statistically based with a specific focus makes it easier to manage.  As an analogy, it is much easier to know neighbors and shopkeepers in a small town than in a large city.  
@@ -126,6 +137,8 @@ As a comparison, PyLadies has 45 chapters in 19 countries which is surprisingly 
 R-Ladies are either more enthusiastic and/or more communicative.  There are many related twitter accounts:  
 - [@WeAreRLadies](https://twitter.com/WeAreRLadies), 4900+ followers, which has a weekly rotating curator for the @RLadiesGlobal community #rladies. 
 - [@RCatLadies](https://twitter.com/RCatLadies) with this [#rcatladies](https://twitter.com/hashtag/rcatladies?src=hash)
+- [@R_Forwards](https://twitter.com/R_Forwards):  taskforce on women and other under-represented groups
+- [@_R_Foundation](https://twitter.com/_R_Foundation)
 
 ### Prominent Male Supporters
 The R community has prominent data scientists that are vocally supportive of women in the R community and R-Ladies:  
@@ -138,8 +151,6 @@ The R community has prominent data scientists that are vocally supportive of wom
 - [Noam Ross](https://twitter.com/noamross), Senior Research Scientist at EcoHealth / Editor at rOpenSci
 - [Karthik Ram](https://twitter.com/_inundata), Data Scientist at Berkeley Institute for DS / Lead for rOpenSci project
 
-### R-Ladies is a priority project for R Consortium
-In March 2018, the R Consortium announced that R-Ladies is a [top level project](https://www.r-consortium.org/announcement/2018/03/27/r-consortium-welcomes-r-ladies-as-a-top-level-project).  This provides R-Ladies with a longer term budget cycle (3 years instead of 1 year) to support their community. R-Ladies will also have a voting seat on the [Infrastructure Steering Committee](https://www.r-consortium.org/about/isc-charter) of R Consortium.  
 
 ### Diversity Scholarships
 [rstudio](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/) is offering 32 domestic diversity scholarships and 6 internatioal scholarships to its 2019 conference. 
