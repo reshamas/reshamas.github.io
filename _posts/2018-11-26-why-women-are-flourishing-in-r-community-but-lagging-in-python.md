@@ -25,7 +25,7 @@ While these stats are shockingly low for both groups, R has more than 4 times mo
 </p>
 
 
-This plot was presented in [Inequality of underrepresented groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb).  It shows projects that are sponsored by NumFOCUS, an organization that provides fiscal support to open source projects.  The projects that are higher up show a greater degree of gender inequality in open source contributions.  We can see many Python projects (NumPy, PyMC3, matplotlib) are higher up and rOpenSci is one with a low degree of inequality.  
+This plot was presented in [Inequality of Underrepresented Groups in PyData Leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb).  It shows projects that are sponsored by NumFOCUS, an organization that provides fiscal support to open source projects.  The projects that are higher up show a greater degree of gender inequality in open source contributions.  We can see many Python projects (NumPy, PyMC3, matplotlib) are higher up and rOpenSci is one with a low degree of inequality.  
 
 <p>
 <img src="../assets/images/numfocus_os.png" width="99%" height="99%" />
