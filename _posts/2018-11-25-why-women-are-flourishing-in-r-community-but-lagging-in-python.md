@@ -16,7 +16,7 @@ $$
    \\
    H_1&: \text{R receives greater funding than Python}
 \end{align*}
-}%
+}
 $$
 
 
