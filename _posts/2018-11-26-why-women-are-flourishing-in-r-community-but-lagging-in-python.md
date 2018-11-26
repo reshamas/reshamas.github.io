@@ -34,7 +34,7 @@ This plot was presented in [Inequality of Underrepresented Groups in PyData Lead
 
 ### Conference Speakers
 
-The New York R 2018 conference had 45% women speakers.  I don’t know of any Python conference that boasts that high a percentage. 
+The New York R 2018 conference had 45% women speakers. 
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">45% of speakers are female 👍🏼<a href="https://twitter.com/NumFOCUS?ref_src=twsrc%5Etfw">@NumFOCUS</a> <a href="https://twitter.com/wimlds?ref_src=twsrc%5Etfw">@wimlds</a> <a href="https://twitter.com/hashtag/diversityawards?src=hash&amp;ref_src=twsrc%5Etfw">#diversityawards</a> <a href="https://twitter.com/hashtag/rstatsnyc?src=hash&amp;ref_src=twsrc%5Etfw">#rstatsnyc</a> <a href="https://t.co/UNbqBESRa4">https://t.co/UNbqBESRa4</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/987384241070616576?ref_src=twsrc%5Etfw">April 20, 2018</a></blockquote>
@@ -217,7 +217,21 @@ The Python Software Foundation manages the open source licensing of Python.  The
 
 #### [PyCon](https://www.pycon.org/)
 
-PyCon [2018](https://us.pycon.org/2018/about/) was held in Cleveland, Ohio this past May.  It is the national conference, sponsored by PSF, and is the largest annual gathering for the community using and developing the open-source Python programming language.   PyCon organizers reached out to women to encourage them to submit proposals and they also provided mentoring around the process.  The impact of this process is unknown.  PyCon also offers diversity scholarships for its conference.
+PyCon [2018](https://us.pycon.org/2018/about/) was held in Cleveland, Ohio this past May.  It is the national conference, sponsored by PSF, and is the largest annual gathering for the community using and developing the open-source Python programming language.   PyCon organizers reached out to women to encourage them to submit proposals and they also provided mentoring around the process.  PyCon also offers diversity scholarships for its conference.
+
+The 2016 impact of this process is:  
+**% PyCon talks by women**:  
+- 2011: 1%
+- 2012: 7%
+- 2013: 15%
+- 2014: 33%
+- 2015: 33%
+- 2016: **40%**
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello from your <a href="https://twitter.com/pycon?ref_src=twsrc%5Etfw">@PyCon</a> Diversity Chair. % PyCon talks by women: (2011: 1%), (2012: 7%), (2013: 15%), (2014/15: 33%), (2016: 40%). <a href="https://twitter.com/hashtag/pycon2016?src=hash&amp;ref_src=twsrc%5Etfw">#pycon2016</a></p>&mdash; Jessica McKellar (@jessicamckellar) <a href="https://twitter.com/jessicamckellar/status/737299461563502595?ref_src=twsrc%5Etfw">May 30, 2016</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 ### NumFOCUS
 
@@ -284,6 +298,6 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 Thanks to the following people who provided information for my blog via twitter:  
 - [Emily Robinson](https://twitter.com/robinson_es/status/1067107701086478337)
 - [Jenny Bryan](https://twitter.com/JennyBryan/status/1067101086970916864)
-- [Greg Wilson] ()
+- [Greg Wilson](https://twitter.com/gvwilson) for sharing PyCon percent women speakers
 
 
