@@ -3,6 +3,19 @@ z=\frac{ab+cd+ef+gh+ij+kl+mn+op+qr}{y}
 $$
 
 $$
+\begin{align*}
+   H_0 & : h_1(t) = h_0(t),   \qquad \text{for all $t \in[0,\tau]$}
+   \\
+   H_a & : h_1(t) \ne h_0(t), \qquad \text{for some $t \in[0,\tau]$}
+\end{align*}
+$$
+
+$$
+H_0
+$$
+
+
+$$
 \begin{hyp}[Test hypothesis] \label{hyp:0}This is my first hypothesis. \end{hyp}
 $$
 
