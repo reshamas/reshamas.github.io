@@ -1,4 +1,11 @@
  
+$$
+\begin{align*}
+   H_0 &: \text[11pt]{{Both R and Python receive funding that is commensurate with the number of users}
+   \\
+   H_a &: \text{R receives greater funding than Python}
+\end{align*}
+$$
 
 
 
