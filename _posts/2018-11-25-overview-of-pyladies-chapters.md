@@ -2,8 +2,8 @@
 
 
 <p float="left">
-  <img src="../assets/images/wtm_ta1.png" width="300" height="220"/>
-  <img src="../assets/images/wtm_ta2.png"  width="300" height="220"/> 
+  <img src="../assets/images/pyladies1.png" width="300" height="220"/>
+  <img src="../assets/images/pyladies2.jpeg"  width="300" height="220"/> 
 </p>
 <p>
 </p>
