@@ -240,7 +240,7 @@ NumFOCUS was founded in 2012, and it supports and promotes open source scientifi
 
 #### [PyData](https://pydata.org/)
 
-PyData is an educational program of NumFOCUS which provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. They have a [community of meetup groups](https://www.meetup.com/pro/pydata/) with 100K members in 120 groups in 47 countries.  They host meetup events as well as yearly conferences.  
+PyData is an educational program of NumFOCUS which provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. They have a [community of meetup groups](https://www.meetup.com/pro/pydata/) with 100K members in 120 groups in 47 countries.  They host meetup events as well as annual conferences in [various cities](https://pydata.org/events/).  
 
 NuMFOCUS / PyData offers diversity scholarships.  But, there is no formal relationship between PyData and PyLadies.  Sharing PyData events happens organically.  In the case of PyData NYC 2018, PyLadies NYC shared their conference and diversity scholarship information because I, as an organizer for NYC PyLadies, knew the organizer for NYC PyData.  In past years, conference information was not shared or communicated.  
 It is unclear if there is a formal collaboration between NumFOCUS and the Python Software Foundation.  
