@@ -227,7 +227,7 @@ Below is a network of some of the Python communities.  It is unknown whether and
     - Increase PyLadies membership and track statistics
     - Track number of women speakers at conferences and make goals for increasing those statistics
 6.  Involve more women to be contributors to open source
-7.  Reach out to young women in universities and high schools to become involved in the Python community at an earlier age.
+7.  Reach out to young women in universities and high schools to become involved in the Python community at an earlier age
 
 
 ## Contact 
@@ -247,5 +247,4 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 - [Gender Ratio of Programmers, by Language](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html)
 - [Inequality of underrepresnted groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb)
 
-
-<a href="http://www.pewresearch.org/fact-tank/2018/01/09/7-facts-about-the-stem-workforce/ft_18-01-08_stemworkers_5/"><img width="615" height="642" src="http://www.pewresearch.org/wp-content/uploads/2018/01/FT_18.01.08_STEMworkers_5.png?w=415" class="attachment-large size-large" alt="Representation of women in STEM jobs varies widely" /></a>
+ 
