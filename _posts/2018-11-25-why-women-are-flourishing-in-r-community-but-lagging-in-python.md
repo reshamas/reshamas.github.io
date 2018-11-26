@@ -109,21 +109,7 @@ This hypothesis has not been tested, because I do not have the data.  But, it co
 - H_0:  Both R and Python receive funding that is commensurate with the number of users
 - H_1:  R receives greater funding than Python
 
-$$
-\begin{align*}
-   H_0 &: \text[11pt]{{Both R and Python receive funding that is commensurate with the number of users}
-   \\
-   H_a &: \text{R receives greater funding than Python}
-\end{align*}
-$$
-
-$$
-\begin{align*}
-\begin{hyp}[Test hypothesis] \label{hyp:0}This is my first hypothesis. \end{hyp}
-\end{align*}
-$$
-  
-  
+    
 
 ### Scope
 R is used for statistical analysis and has about 10K CRAN packages.  Python has the ability to be deployed at scale and the Python Package Index ([PyPI](https://en.wikipedia.org/wiki/Python_Package_Index)) offers over 100K libraries.  The fact that R is statistically based with a specific focus makes it easier to manage.  As an analogy, it is much easier to know neighbors and shopkeepers in a small town than in a large city.  
