@@ -135,7 +135,7 @@ The R community has prominent data scientists that are vocally supportive of wom
 - [Jared Lander](https://twitter.com/jaredlander), CDS of Lander Analytics / Organizer of NY Open Stats Meetup & NY R Conference
 - [Nicholas Horton](https://twitter.com/askdrstats), Biostatistician and Professor at Amherst College
 - [David Meza](https://twitter.com/davidmeza1), Chief Knowledge Architect at NASA
-- [Noam Ross](https://twitter.com/noamross), Senior Research Scientist at EcoHealth / Editor at rOpenSci. 
+- [Noam Ross](https://twitter.com/noamross), Senior Research Scientist at EcoHealth / Editor at rOpenSci
 - [Karthik Ram](https://twitter.com/_inundata), Data Scientist at Berkeley Institute for DS / Lead for rOpenSci project
 
 ## Table of Key Characteristics of R-Ladies and PyLadies
