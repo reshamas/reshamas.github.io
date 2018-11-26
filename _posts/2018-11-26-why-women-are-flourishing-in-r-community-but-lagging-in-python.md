@@ -120,7 +120,12 @@ The annual [rstudio::conf] is scheduled for January 17-19, 2019 in Austin, Texas
 ### R Forwards Taskforce
 The [R Forwards](https://forwards.github.io) task force was set up by the [R Foundation](https://www.r-project.org/foundation/) in December 2015 to address the underrepresentation of women and rebranded in January 2017 to accommodate more under-represented groups such as LGBT, minority ethnic groups, and people with disabilities in the R community.
 
+### R Communities
+Below is a network of the R communities.  We can see there is a tight network of collaboration.  
 
+<p>
+<img src="../assets/images/r_community_map.png" width="99%" height="99%" />
+</p>
 
 ### Scope
 R is used for statistical analysis and has about 10K CRAN packages.  Python has the ability to be deployed at scale and the Python Package Index ([PyPI](https://en.wikipedia.org/wiki/Python_Package_Index)) offers over 100K libraries.  The fact that R is statistically based with a specific focus makes it easier to manage.  As an analogy, it is much easier to know neighbors and shopkeepers in a small town than in a large city.  
