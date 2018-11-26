@@ -217,6 +217,7 @@ Below is a network of some of the Python communities.  It is unknown whether and
 </p>
 
 ## What more can the Python community do?
+The Python community is large and disparate.  If all the entities collaborated, measured diversity statistics and shared notes, that is one place to begin.  Here are some more ideas:   
 1.  Connect the Python communities
 2.  Create an official/unofficial "Board" for PyLadies
   - Connect women in Python with each other
