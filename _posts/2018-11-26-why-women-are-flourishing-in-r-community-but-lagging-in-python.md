@@ -243,16 +243,18 @@ Below is a network of some of the Python communities.  It is unknown whether and
 </p>
 
 ## What more can the Python community do?
-The Python community is large and disparate.  If all the entities collaborated, measured diversity statistics and shared notes, that is one place to begin.  Here are some more ideas:   
-1.  Connect the Python communities
-2.  Create an official/unofficial "Board" for PyLadies
-  - Connect women in Python with each other
-3.  Get more male allies
-4.  Celebrate the wide scope of Python
-5.  Grant proposal
+The Python community is large and disparate.  If all the entities collaborated, measured diversity statistics and shared notes, that is one place to begin.  
+
+Here are some ideas:   
+1.  Create an entity designated solely for diversity for under-represented groups and connect it to all the Python communities. 
   - Create a full time position funded by the PSF to make increasing diversity a priority
     - Increase PyLadies membership and track statistics
     - Track number of women speakers at conferences and make goals for increasing those statistics
+2.  Connect the Python communities
+3.  Create an official/unofficial "Board" for PyLadies
+  - Connect women in Python with each other
+4.  Get more male allies
+5.  Celebrate the wide scope of Python
 6.  Involve more women to be contributors to open source
 7.  Reach out to young women in universities and high schools to become involved in the Python community at an earlier age
 
