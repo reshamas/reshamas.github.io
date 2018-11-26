@@ -7,7 +7,7 @@ $$
 \
 $$
 \begin{align*}
-   H_0 & : Both R and Python receive funding that is commensurate with the number of users
+   H_0 & : \text{Both R and Python receive funding that is commensurate with the number of users}
    \\
    H_a & : h_1(t) \ne h_0(t), \qquad \text{for some $t \in[0,\tau]$}
 \end{align*}
