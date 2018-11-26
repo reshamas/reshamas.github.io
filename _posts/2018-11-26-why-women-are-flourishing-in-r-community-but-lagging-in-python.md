@@ -84,6 +84,8 @@ email our organizers list (must be added to the mailing list first).
 
 The PyLadies website currently has [89 chapters listed](https://www.pyladies.com/locations/), but 17 of them are defunct, and that data has not been updated.  Determining how many active chapters and members was a tedious and manual process.  Comparatively, R-Ladies has a [central account](https://www.meetup.com/pro/rladies/) where it is easy to obtain the numbers.  Some of the PyLadies chapters are included in the [PSF account](https://www.meetup.com/pro/python-software-foundation-meetups/) which includes various Python user groups. 
 
+Here is a recently published [PyLadies Overview](https://prith13.github.io/posts/2018/11/pyladies-overview/).  
+
 ### Foundational
 Many R users have a background in statistics.  Membership in the American Statistical Association (ASA) is 53% women.  We can make a rough comparison to computer scientists.  The Association for Computing Machinery is the largest society of computer scientists.  [I have emailed ACM for percent female membership, and I am waiting for their response.]  
 
