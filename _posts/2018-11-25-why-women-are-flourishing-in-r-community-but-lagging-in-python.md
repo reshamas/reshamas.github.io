@@ -1,8 +1,5 @@
  
 
-- H_0:  Both R and Python receive funding that is commensurate with the number of users
-- H_1:  R receives greater funding than Python
-
 
 $$
 \begin{align*}
@@ -12,11 +9,6 @@ $$
 \end{align*}
 $$
 
- 
-
-$$
-\begin{hyp}[Test hypothesis] \label{hyp:0}This is my first hypothesis. \end{hyp}
-$$
 
 
 <p>
