@@ -166,7 +166,7 @@ Notes:
 
 
 ## What steps has the Python community taken?
-The Python community has acknowledged the lack of diversity in speakers, open source contributors and working developers.  There are various organizations with initiatives to improve diversity.  
+The Python community has acknowledged the lack of diversity in speakers, open source contributors and developers/engineers.  There are various organizations with initiatives to improve diversity.  
 
 ### Open Source Sprints
 
