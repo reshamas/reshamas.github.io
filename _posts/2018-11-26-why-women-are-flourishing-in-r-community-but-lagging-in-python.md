@@ -183,7 +183,7 @@ It is unclear how many open source sprints are being held and their impact.  Thi
 The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  PSF has [27 meetup groups](https://www.meetup.com/pro/python-software-foundation-meetups/) in 3 countries, totaling 46K members. 
 
 
-#### [PyCon](https://us.pycon.org)
+#### [PyCon](https://www.pycon.org/)
 
 PyCon [2018](https://us.pycon.org/2018/about/) was held in Cleveland, Ohio this past May.  It is the national conference, sponsored by PSF, and is the largest annual gathering for the community using and developing the open-source Python programming language.   PyCon organizers reached out to women to encourage them to submit proposals and they also provided mentoring around the process.  The impact of this process is unknown.  PyCon also offers diversity scholarships for its conference.
 
@@ -193,7 +193,10 @@ NumFOCUS was founded in 2012, and it supports and promotes open source scientifi
 
 #### [PyData](https://pydata.org/)
 
-PyData is an educational program of NumFOCUS which provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. They have a [community of meetup groups](https://www.meetup.com/pro/pydata/) with 100K members in 120 groups in 47 countries.  They host meetup events as well as yearly conferences.  There is no formal relationship between PyData and PyLadies.  It is unclear if there is a formal collaboration with the Python Software Foundation.  
+PyData is an educational program of NumFOCUS which provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. They have a [community of meetup groups](https://www.meetup.com/pro/pydata/) with 100K members in 120 groups in 47 countries.  They host meetup events as well as yearly conferences.  
+
+NuMFOCUS / PyData offers diversity scholarships.  But, there is no formal relationship between PyData and PyLadies.  Sharing PyData events happens organically.  In the case of PyData NYC 2018, PyLadies NYC shared their conference and diversity scholarship information because I, as an organizer for NYC PyLadies, knew the organizer for NYC PyData.  In past years, conference information was not shared or communicated.  
+It is unclear if there is a formal collaboration with NumFOCUS and the Python Software Foundation.  
 
 ### [Big Apple Py](https://bigapplepy.org/)
 
