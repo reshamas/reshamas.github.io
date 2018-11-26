@@ -50,7 +50,7 @@ These are the breakdowns for membership in the meetup groups:
 - R-Ladies: **29.5K**
 - PyLadies:  **36.5K**
 
-Given that there are more than 6x the number of users of Python as compared to R (loose deduction from survey), we would expect the number of meetup members to be significantly greater.   But, the meetup population for PyLadies is **only 1.25x** greater than R-Ladies.   
+Given that there are more than **6x** the number of users of Python as compared to R (loose deduction from survey), we would expect the number of meetup members to be significantly greater.   But, the meetup population for PyLadies is **only 1.25x** greater than R-Ladies.   
 
 ### Amplification / Networking / Marketing on Twitter
 R-Ladies has a designated twitter account to celebrate International Women's Day (IWD), [@rladies_iwd2018](https://twitter.com/rladies_iwd2018).  Last year, on IWD, I noticed blazing R-Ladies activity on Twitter. From March 7 to 8, 2018, they posted over 400 tweets highlighting women in R.  Here is one of those tweets:  
