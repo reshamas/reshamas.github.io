@@ -217,21 +217,17 @@ Below is a network of some of the Python communities.  It is unknown whether and
 </p>
 
 ## What more can the Python community do?
-1.  Create an official/unofficial "Board" for PyLadies
-2.  Get more male allies
+1.  Connect the Python communities
+2.  Create an official/unofficial "Board" for PyLadies
+  - Connect women in Python with each other
+3.  Get more male allies
 4.  Celebrate the wide scope of Python
-
-    - Connect women in Python with each other
-Connect the Python communities
 5.  Grant proposal
+  - Create a full time position funded by the PSF to make increasing diversity a priority
     - Increase PyLadies membership and track statistics
     - Track number of women speakers at conferences and make goals for increasing those statistics
-    
-7.  Involve more women to be contributors to open source
-
-Some of the following
-
-
+6.  Involve more women to be contributors to open source
+7.  Reach out to young women in universities and high schools to become involved in the Python community at an earlier age.
 
 
 ## Contact 
