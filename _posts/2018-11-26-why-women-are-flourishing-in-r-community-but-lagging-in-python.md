@@ -172,7 +172,8 @@ This table compares key details of R-Ladies and PyLadies, as well as Women in Ma
 | Founded           | 2012         | 2013   | 2011             |   
 | Users (a)         | 6.1%         |        | 38.8%            |
 | Language          | R            |        | Python           |
-| Sponsors          | R Consortium | none   | PSF (b)          |   
+| Sponsors          | R Consortium | none   | PSF (b)          |  
+| Funding           | $?           | none   | $?               |
 | Sponsor Followers | [5.9K](https://twitter.com/RConsortium)             |        | [223K](https://twitter.com/ThePSF) |
 | Field of Study    | Statistics   |        | CS (c), others   |
 | Board             | yes          | yes    | no               |
