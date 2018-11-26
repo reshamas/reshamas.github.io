@@ -187,7 +187,14 @@ The Python community has acknowledged the lack of diversity in speakers, open so
 
 *Note:*  This article is not intended to focus only on the New York City community.  I use examples of NYC events, but all the organizations have events that are world-wide.  
 
-### Open Source Sprints
+### Python Open Source
+This article [By Welcoming Women, Python’s Founder [Guido van Rossum] Overcomes Closed Minds In Open Source](https://www.forbes.com/sites/oracle/2018/11/20/by-welcoming-women-pythons-founder-overcomes-closed-minds-in-open-source/#516361614a73) was published on November 20, 2018.  
+
+>...van Rossum is dedicating himself to other efforts to support the wildly successful language and community. One such activity is mentoring women apprentices to the core team of about 30 developers.
+
+>Since van Rossum’s invitation to mentor women, Python has added four women to the team of around 50 core developers, with one or two apprentices who might become core developers in the next year, he says.
+
+#### Open Source Sprints
 
 To increase the participation of women in open source, and specifically for scikit-learn, [Andreas Mueller](https://twitter.com/amuellerml) has organized open source sprints with [NYC Women in Machine Learning and Data Science](https://github.com/WiMLDS/nyc-2018-scikit-sprint).  While the event was a positive learning experience, the impact is undetermined, with 5 pull requests merged at the event, and two more merged post-sprint.  It will take a while to make a significant dent.  
 
