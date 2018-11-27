@@ -255,6 +255,12 @@ Django is a Python-based free and open-source web framework, which follows the m
 
 Django Girls is a non-profit organization and a community that empowers and helps women to organize free, one-day programming workshops by providing tools, resources and support. During each of their events, 30-60 women build their first web application using HTML, CSS, Python and Django.
 
+In 2015, the Django Girls community organized **89 events** - almost 6 times as much as year before. They went to **77 cities** across **36 countries** and all **6 continents**.
+
+In 2015, **2785 women** attended their events, and more than **8,600 applied**. All of those events were organized by volunteers: an army of **221 organizers** and **920 coaches** supported by **393 sponsors**.
+
+In 2015, the Django Girls tutorial was translated to **12 languages** thanks to thousands hours of work contributed by **358 translators**. That's 29,4036 translated words. **169,107 people** visited the [Django Tutorial](https://tutorial.djangogirls.org/en/) generating more than 2 million page views!
+
 ## How connected are the Python communities?
 Below is a network of some of the Python communities.  It is unknown whether and to what extent the communities collaborate with each other.  
 
@@ -302,5 +308,6 @@ Thanks to the following people who provided information for my blog via twitter:
 - [Jenny Bryan](https://twitter.com/JennyBryan/status/1067101086970916864)
 - [Greg Wilson](https://twitter.com/gvwilson) for sharing PyCon percent women speakers
 - [Gabriela de Queiroz](https://twitter.com/gdequeiroz/status/1067108850128568323)
+- [Fernando Masanori](https://twitter.com/fmasanori/status/1067415718067613696) for sharing statistics on Django Girls
 
 
