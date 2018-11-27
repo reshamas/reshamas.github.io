@@ -10,9 +10,13 @@ There is a general understanding in the world of data and coding that the R comm
 ## What makes people think R is more inclusive, anyway?
 
 ### Open Source Contributions
-  
-[Scikit-learn](https://scikit-learn.org/stable/) is the machine learning library of Python, and there is only 1 woman in the [100 top contributors](https://scikit-learn.org/stable/about.html#citing-scikit-learn).
 
+#### R Package Authors
+In 2010, 9% of package authors were women.  (Data is self-report with a 27% response rate.)
+
+<p>
+<img src="../assets/images/r_pkg_auhors.png" width="99%" height="99%" />
+</p>
 
 This plot was taken from [Gender Ratios of Programmers](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html) and shows the percent women GitHub contributors for some popular coding languages.  For the languages of interest here, we see that these are the stats:  
 - R:  **9.3%**
@@ -30,6 +34,10 @@ This plot was presented in [Inequality of Underrepresented Groups in PyData Lead
 <p>
 <img src="../assets/images/numfocus_os.png" width="99%" height="99%" />
 </p>
+
+
+[Scikit-learn](https://scikit-learn.org/stable/) is the machine learning library of Python, and there is only 1 woman in the [100 top contributors](https://scikit-learn.org/stable/about.html#citing-scikit-learn).
+
 
 
 ### Conference Speakers
