@@ -12,7 +12,7 @@ There is a general understanding in the world of data and coding that the R comm
 ### Open Source Contributions
 
 #### R Package Authors
-In 2010, 9% of package authors were women.  (Data is self-reported with a 27% response rate.)
+In 2010, **9%** of package authors were women.  (Data is self-reported with a 27% response rate.)
 <p>
 <img src="../assets/images/r_pkg_authors.png" width="99%" height="99%" />
 </p>
@@ -58,6 +58,15 @@ These are the breakdowns for membership in the meetup groups:
 - PyLadies:  **36.5K**
 
 Given that there are more than **6x** the number of users of Python as compared to R (loose deduction from survey), we would expect the number of meetup members to be significantly greater.   But, the meetup population for PyLadies is **only 1.25x** greater than R-Ladies.   
+
+### Demographics Data
+A [2017 demographics study](https://blog.revolutionanalytics.com/downloads/Voice%20of%20R%20Community.pdf) by the R Consortium found the following:  
+- 3618 users responded
+- Gender:  14% women, ~83% men, 2% did not answer, ~1% other
+- Industry
+   - 35% academic
+   - 65% industry
+
 
 ### Amplification / Networking / Marketing on Twitter
 R-Ladies has a designated twitter account to celebrate International Women's Day (IWD), [@rladies_iwd2018](https://twitter.com/rladies_iwd2018).  Last year, on IWD, I noticed blazing R-Ladies activity on Twitter. From March 7 to 8, 2018, they posted over 400 tweets highlighting women in R.  Here is one of those tweets:  
@@ -336,5 +345,6 @@ Thanks to the following people who provided information for my blog via twitter:
 - [Greg Wilson](https://twitter.com/gvwilson) for sharing PyCon percent women speakers
 - [Gabriela de Queiroz](https://twitter.com/gdequeiroz/status/1067108850128568323)
 - [Fernando Masanori](https://twitter.com/fmasanori/status/1067415718067613696) for sharing statistics on Django Girls
+- [David Smith](https://twitter.com/revodavid/status/1067519542128254976) for sharing R demographics survey for 2017
 
 
