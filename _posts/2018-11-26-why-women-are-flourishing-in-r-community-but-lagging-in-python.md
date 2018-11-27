@@ -134,7 +134,7 @@ Below is a network of the R communities.  We can see there is a tight network of
 ### Scope
 R is used for statistical analysis and has about 10K CRAN packages.  Python has the ability to be deployed at scale and the Python Package Index ([PyPI](https://en.wikipedia.org/wiki/Python_Package_Index)) offers over 100K libraries.  The fact that R is statistically based with a specific focus makes it easier to manage.  As an analogy, it is much easier to know neighbors and shopkeepers in a small town than in a large city.  
 
-### Network
+### Prominent Women and URG in R and the R Network
 The R-Ladies network is broad.  They have [120 chapters in 40 countries](https://www.meetup.com/pro/rladies/).  It’s easy to find R-Ladies (to speak at conferences).  There is an [R-Ladies directory form](https://rladies.org/r-ladies-directory-form/) which asks this question:   
 > Could we list you as someone willing to speak about your relevant R topics/experience?
 
@@ -142,12 +142,24 @@ Here is the [complete R-Ladies list](https://rladies.org/ladies-complete-list/).
 
 As a comparison, PyLadies has 45 chapters in 19 countries which is surprisingly narrow given its user base.  
 
+There are a number of prominent women who have made significant contributions to the development of R and its community:  
+- [Gabriela de Queiroz](https://twitter.com/gdequeiroz), Senior Developer at IBM and Founder of R-Ladies
+- [Jenny Bryan](https://twitter.com/JennyBryan), software engineer at RStudio and Adjunct Professor of UBC, creator of [stat 545](http://stat545.com/), [Happy Git with R](http://happygitwithr.com/), package reprex, reads, and google sheets and ordinary member of the R Foundation
+- [Di Cook](https://twitter.com/visnut), Professor at Monash University, ordinary member of the R Foundation
+- [Jesse Mostipak](https://twitter.com/kierisi), managing director of data science at teaching trust, creator of R4DS online learning community
+- [Mara Averick](https://twitter.com/dataandme), tidyverse developer advocate at RStudio and well known for her frequent tweets on R resources
+
+There are a dozen women on the [leadership team and "R-Masters"](https://rladies.org/about-us/team/).  
+
+
 ### Enthusiasm / Priority
 R-Ladies are either more enthusiastic and/or more communicative.  There are many related twitter accounts:  
 - [@WeAreRLadies](https://twitter.com/WeAreRLadies), 4900+ followers, which has a weekly rotating curator for the @RLadiesGlobal community #rladies. 
 - [@RCatLadies](https://twitter.com/RCatLadies) with this [#rcatladies](https://twitter.com/hashtag/rcatladies?src=hash)
 - [@R_Forwards](https://twitter.com/R_Forwards):  taskforce on women and other under-represented groups
 - [@_R_Foundation](https://twitter.com/_R_Foundation)
+
+
 
 ### Prominent Male Supporters
 The R community has prominent data scientists that are vocally supportive of women in the R community and R-Ladies:  
@@ -211,6 +223,12 @@ To increase the participation of women in open source, and specifically for scik
 [NumFOCUS DISC and Jupyter](https://github.com/sbrice/disc-sprint-nyc-2018) held a sprint in October 2018 to increase diversity in open source.  The impact of that sprint has not yet been published.
 
 It is unclear how many open source sprints are being held and their impact.  This data is not being tracked by a single organization.  
+
+### Prominent Women in Python
+There are many active women and URG in the Python community, but there is no central list.  Here are some.  **On the initiative list is to create a list for easy reference.**  
+- [Renee Teate](https://twitter.com/BecomingDataSci) Creator/Host of Becoming a Data Scientist Podcast, and so many other resources
+- [Lynn Root](https://twitter.com/roguelynn) Python Software Foundation member, PyLadies Leader
+- [Sarah Guido](https://twitter.com/sarah_guido), co-author of Introduction to Machine Learning with Python
 
 ### [Python Software Foundation](https://www.python.org/psf/) (PSF)
 The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  PSF has [27 meetup groups](https://www.meetup.com/pro/python-software-foundation-meetups/) in 3 countries, totaling 46K members. 
@@ -279,10 +297,11 @@ Here are some ideas:
 2.  Connect the Python communities
 3.  Create an official/unofficial "Board" for PyLadies
   - Connect women in Python with each other
-4.  Get more male allies
-5.  Celebrate the wide scope of Python
-6.  Involve more women to be contributors to open source
-7.  Reach out to young women in universities and high schools to become involved in the Python community at an earlier age
+4.  Create a list of active women in Python for speaking at conferences
+5.  Get more male allies
+6.  Celebrate the wide scope of Python
+7.  Involve more women to be contributors to open source
+8.  Reach out to young women in universities and high schools to become involved in the Python community at an earlier age
 
 
 ## Contact 
