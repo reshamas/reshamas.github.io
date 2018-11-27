@@ -90,7 +90,7 @@ Here is a recently published [PyLadies Overview](https://prith13.github.io/posts
 ### Foundational
 Many R users have a background in statistics.  Membership in the American Statistical Association (ASA) is [53% women](http://www.asanet.org/research-and-publications/research-sociology/trends/asa-membership-gender).  
 
-We can make a rough comparison to computer scientists.  The Association for Computing Machinery is the largest society of computer scientists.  I emailed ACM to obtain female membership, and received the following response:  
+We can make a rough comparison to computer scientists.  The Association for Computing Machinery is the largest society of computer scientists.  I emailed ACM to obtain female membership percent, and I received the following response:  
 >ACM has nearly 100,000 members from more than 190 countries.   We do not have any additional information to provide.
 
 The proportion of women graduating with degrees in statistics (44%) is significantly greater than those graduating in computer science (19%).  The pipeline of R users and statisticians is rich with women as compared to computer science.  
