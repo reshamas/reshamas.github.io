@@ -48,6 +48,10 @@ The New York R 2018 conference had 45% women speakers.
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+Data is being collected and shared for the [useR! conference](https://user2018.r-project.org/).  Data was last [published for 2016](https://forwards.github.io/data/) which shows:  
+- 2016 saw a rise in the proportion of female attendees from 19% to 28%
+
+
 ### Membership Numbers
 Python is, by far, more widely used than R.  Both languages are popular for data science and analysis.  Python, however, is used widely by computer scientists, web developers (Django), software engineers, and many others.  According to the [2018 Stack Overflow Developer's Survey](https://insights.stackoverflow.com/survey/2018/#technology-programming-scripting-and-markup-languages), this is the breakdown of users:  
 - R:  **6.1%**
@@ -160,7 +164,7 @@ As a comparison, PyLadies has 45 chapters in 19 countries which is surprisingly 
 
 There are a number of prominent women who are making significant contributions in making R welcoming to beginners and people of different backgrounds and growing the community:  
 - [Gabriela de Queiroz](https://twitter.com/gdequeiroz), Senior Developer at IBM and Founder of R-Ladies
-- [Jenny Bryan](https://twitter.com/JennyBryan), software engineer at RStudio and Adjunct Professor of UBC, creator of [stat 545](http://stat545.com/), [Happy Git with R](http://happygitwithr.com/), package reprex, reads, and google sheets and ordinary member of the R Foundation
+- [Jenny Bryan](https://twitter.com/JennyBryan), software engineer at RStudio and Adjunct Professor of UBC, creator of [stat 545](http://stat545.com/), [Happy Git with R](http://happygitwithr.com/), package reprex, readr, and google sheets and ordinary member of the R Foundation
 - [Di Cook](https://twitter.com/visnut), Professor at Monash University, ordinary member of the R Foundation
 - [Jesse Mostipak](https://twitter.com/kierisi), managing director of data science at teaching trust, creator of R4DS online learning community
 - [Mara Averick](https://twitter.com/dataandme), tidyverse developer advocate at RStudio and well known for her frequent tweets on R resources
