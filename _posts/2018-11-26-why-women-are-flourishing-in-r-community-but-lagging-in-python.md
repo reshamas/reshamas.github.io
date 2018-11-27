@@ -236,7 +236,7 @@ It is unclear how many open source sprints are being held and their impact.  Thi
 There are many active women and URG in the Python community, but there is no central list.  Here are some.  **On the initiative list is to create a list for easy reference.**  
 - [Renee Teate](https://twitter.com/BecomingDataSci) Creator/Host of Becoming a Data Scientist Podcast, and so many other resources
 - [Lynn Root](https://twitter.com/roguelynn) Python Software Foundation member, PyLadies Leader
-- [Sarah Guido](https://twitter.com/sarah_guido), co-author of Introduction to Machine Learning with Python
+- [Jessica McKeller](https://twitter.com/jessicamckellar) PyCon Staff, Python Software Foundation
 
 ### [Python Software Foundation](https://www.python.org/psf/) (PSF)
 The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  PSF has [27 meetup groups](https://www.meetup.com/pro/python-software-foundation-meetups/) in 3 countries, totaling 46K members. 
