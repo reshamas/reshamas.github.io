@@ -50,7 +50,7 @@ The New York R 2018 conference had 45% women speakers.
 
 Data is being collected and shared for the [useR! conference](https://user2018.r-project.org/).  Data was last [published for 2016](https://forwards.github.io/data/) which shows:  
 - 2016 saw a rise in the proportion of female attendees from 19% to 28%
-
+- "The numbers of female invited speakers has increased from zero in the early years (2004-2008) through one in later years (2009-2013) to two in recent years - this is the level that useR! is seeking to maintain for now."
 
 ### Membership Numbers
 Python is, by far, more widely used than R.  Both languages are popular for data science and analysis.  Python, however, is used widely by computer scientists, web developers (Django), software engineers, and many others.  According to the [2018 Stack Overflow Developer's Survey](https://insights.stackoverflow.com/survey/2018/#technology-programming-scripting-and-markup-languages), this is the breakdown of users:  
