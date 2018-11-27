@@ -108,16 +108,22 @@ The PyLadies website currently has [89 chapters listed](https://www.pyladies.com
 Here is a recently published [PyLadies Overview](https://prith13.github.io/posts/2018/11/pyladies-overview/).  
 
 ### Foundational
-Many R users have a background in statistics.  Membership in the American Statistical Association (ASA) is [53% women](http://www.asanet.org/research-and-publications/research-sociology/trends/asa-membership-gender).  
-
-We can make a rough comparison to computer scientists.  The Association for Computing Machinery is the largest society of computer scientists.  I emailed ACM to obtain female membership percent, and I received the following response:  
->ACM has nearly 100,000 members from more than 190 countries.   We do not have any additional information to provide.
-
 The proportion of women graduating with degrees in statistics (44%) is significantly greater than those graduating in computer science (19%).  The pipeline of R users and statisticians is rich with women as compared to computer science.  
 
 <p>
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1C8ouhyJ9WVyvGftSkkAhiEqAuWvksE5n/page/yr0c" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
+
+Data scientist come from a [number of disciplines](https://www.burtchworks.com/wp-content/uploads/2018/05/Burtch-Works-Study-DS-2018-Webinar-Slide-Deck.pdf).  For those who study math/statistics (25%), natural science (20%), social science (5%), and economics (4%), R is the primary language.  For those who study computer science (20%) (and some math people), C++ or Python is more likely to be the starting coding language.  
+
+Membership in the American Statistical Association (ASA) is [53% women](http://www.asanet.org/research-and-publications/research-sociology/trends/asa-membership-gender).  
+
+<p>
+<img src="../assets/images/ds_degrees.png" width="99%" height="99%" />
+</p>
+
+We can make a rough comparison to computer scientists.  The Association for Computing Machinery is the largest society of computer scientists.  I emailed ACM to obtain female membership percent, and I received the following response:  
+>ACM has nearly 100,000 members from more than 190 countries.   We do not have any additional information to provide.
 
 <p>
 <img src="../assets/images/cs_degrees.jpg" width="99%" height="99%" />
@@ -350,5 +356,6 @@ Thanks to the following people who provided information for my blog via twitter:
 - [Gabriela de Queiroz](https://twitter.com/gdequeiroz/status/1067108850128568323) for sharing R-Ladies and Pyladies contributors
 - [Fernando Masanori](https://twitter.com/fmasanori/status/1067415718067613696) for sharing statistics on Django Girls
 - [David Smith](https://twitter.com/revodavid/status/1067519542128254976) for sharing R demographics survey for 2017
+- [Catherine Zhou](https://twitter.com/catherinezh/status/1067487447376896003) for sharing entry degrees to data science and R
 
 
