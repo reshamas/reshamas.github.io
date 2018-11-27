@@ -150,14 +150,15 @@ Here is the [complete R-Ladies list](https://rladies.org/ladies-complete-list/).
 
 As a comparison, PyLadies has 45 chapters in 19 countries which is surprisingly narrow given its user base.  
 
-There are a number of prominent women who have made significant contributions to the development of R and its community:  
+There are a number of prominent women who are making significant contributions in making R welcoming to beginners and people of different backgrounds and growing the community:  
 - [Gabriela de Queiroz](https://twitter.com/gdequeiroz), Senior Developer at IBM and Founder of R-Ladies
 - [Jenny Bryan](https://twitter.com/JennyBryan), software engineer at RStudio and Adjunct Professor of UBC, creator of [stat 545](http://stat545.com/), [Happy Git with R](http://happygitwithr.com/), package reprex, reads, and google sheets and ordinary member of the R Foundation
 - [Di Cook](https://twitter.com/visnut), Professor at Monash University, ordinary member of the R Foundation
 - [Jesse Mostipak](https://twitter.com/kierisi), managing director of data science at teaching trust, creator of R4DS online learning community
 - [Mara Averick](https://twitter.com/dataandme), tidyverse developer advocate at RStudio and well known for her frequent tweets on R resources
+- [Erin LeDell](https://twitter.com/ledell), leadership at R-Ladies Global
 
-There are a dozen women on the [leadership team and "R-Masters"](https://rladies.org/about-us/team/).  
+There are a dozen women on the [leadership team and "R-Masters"](https://rladies.org/about-us/team/).  The list is very long, in a good way.
 
 
 ### Enthusiasm / Priority
