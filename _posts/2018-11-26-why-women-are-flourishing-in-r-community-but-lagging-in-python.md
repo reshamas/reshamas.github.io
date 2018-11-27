@@ -344,10 +344,10 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 
 ## Acknowledgements
 Thanks to the following people who provided information for my blog via twitter:  
-- [Emily Robinson](https://twitter.com/robinson_es/status/1067107701086478337)
-- [Jenny Bryan](https://twitter.com/JennyBryan/status/1067101086970916864)
+- [Emily Robinson](https://twitter.com/robinson_es/status/1067107701086478337) for sharing demographic data and R organization structure
+- [Jenny Bryan](https://twitter.com/JennyBryan/status/1067101086970916864) for sharing the Guido Van Rossum article
 - [Greg Wilson](https://twitter.com/gvwilson) for sharing PyCon percent women speakers
-- [Gabriela de Queiroz](https://twitter.com/gdequeiroz/status/1067108850128568323)
+- [Gabriela de Queiroz](https://twitter.com/gdequeiroz/status/1067108850128568323) for sharing R-Ladies and Pyladies contributors
 - [Fernando Masanori](https://twitter.com/fmasanori/status/1067415718067613696) for sharing statistics on Django Girls
 - [David Smith](https://twitter.com/revodavid/status/1067519542128254976) for sharing R demographics survey for 2017
 
