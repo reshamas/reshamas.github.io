@@ -14,7 +14,7 @@ There is a general understanding in the world of data and coding that the R comm
 #### R Package Authors
 In 2010, 9% of package authors were women.  (Data is self-reported with a 27% response rate.)
 <p>
-<img src="../assets/images/r_pkg_auhtors.png" width="99%" height="99%" />
+<img src="../assets/images/r_pkg_authors.png" width="99%" height="99%" />
 </p>
 
 This plot was taken from [Gender Ratios of Programmers](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html) and shows the percent women GitHub contributors for some popular coding languages.  For the languages of interest here, we see that these are the stats:  
