@@ -355,4 +355,8 @@ Thanks to the following people who provided information for my blog via twitter:
 - [David Smith](https://twitter.com/revodavid/status/1067519542128254976) for sharing R demographics survey for 2017
 - [Catherine Zhou](https://twitter.com/catherinezh/status/1067487447376896003) for sharing entry degrees to data science and R
 
-
+## R Improvements
+<p>
+   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Great post! One area where R definitely needs to improve is having more gender diversity on the core team, which is currently 100% male.  <a href="https://t.co/9rK7IpYnnO">https://t.co/9rK7IpYnnO</a> <a href="https://twitter.com/hashtag/rstats?src=hash&amp;ref_src=twsrc%5Etfw">#rstats</a> <a href="https://t.co/Lm9tFHQK9U">https://t.co/Lm9tFHQK9U</a></p>&mdash; Stuart Lee (@_StuartLee) <a href="https://twitter.com/_StuartLee/status/1067617863911927808?ref_src=twsrc%5Etfw">November 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
