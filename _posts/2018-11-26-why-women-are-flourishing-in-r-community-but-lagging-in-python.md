@@ -146,7 +146,7 @@ The annual [rstudio::conf](https://www.rstudio.com/conference/) is scheduled for
 ### R Forwards Taskforce
 The [R Forwards](https://forwards.github.io) task force was set up by the [R Foundation](https://www.r-project.org/foundation/) in December 2015 to address the underrepresentation of women and rebranded in January 2017 to accommodate **more under-represented groups such as LGBT, minority ethnic groups, and people with disabilities in the R community.**
 
-#### rOpenSci
+### rOpenSci
 [rOpenSci](https://ropensci.org/about/) is an organization whose mission is to make scientific data retrieval reproducible.  There is 
 rOpenSci [Educators Collaborative:  What Educational Resources Work Well and Why?](https://ropensci.org/blog/2018/07/25/educollab-resources/) which provides resources to educators of the R language.  
 
