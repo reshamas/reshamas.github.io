@@ -317,15 +317,15 @@ Here are some ideas:
 1.  Create an entity designated solely for diversity for under-represented groups and connect it to all the Python communities. 
   - Create a full time position funded by the PSF to make increasing diversity a priority
     - Increase PyLadies membership and track statistics
-    - Track number of women speakers at conferences and make goals for increasing those statistics
+    - Track number of women and URG speakers at conferences and make goals for increasing those statistics
 2.  Connect the Python communities
 3.  Create an official/unofficial "Board" for PyLadies
   - Connect women in Python with each other
-4.  Create a list of active women in Python for speaking at conferences
+4.  Create a list of active women AND URGs in Python for speaking at conferences
 5.  Get more male allies
 6.  Celebrate the wide scope of Python
-7.  Involve more women to be contributors to open source
-8.  Reach out to young women in universities and high schools to become involved in the Python community at an earlier age
+7.  Involve more members from under-represented groups to be contributors to open source
+8.  Reach out to under-represented group in universities and high schools to become involved in the Python community at an earlier age
 
 
 ## Contact 
