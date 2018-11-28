@@ -314,7 +314,7 @@ Below is a network of some of the Python communities.  It is unknown whether and
 </p>
 
 ## What more can the Python community do?
-The Python community is large and disparate.  If all the entities collaborated, measured diversity statistics and shared notes, that is one place to begin.  
+The Python community is large and disparate.  A good starting point would be for all the entities to connect, collaborate and measure/share diversity statistics.  
 
 Here are some ideas:   
 1.  Create an entity designated solely for diversity for under-represented groups and connect it to all the Python communities. 
