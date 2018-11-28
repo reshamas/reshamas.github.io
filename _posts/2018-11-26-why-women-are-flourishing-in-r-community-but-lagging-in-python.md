@@ -35,10 +35,6 @@ This plot was presented in [Inequality of Underrepresented Groups in PyData Lead
 </p>
 
 
-[Scikit-learn](https://scikit-learn.org/stable/) is the machine learning library of Python, and there is only 1 woman in the [100 top contributors](https://scikit-learn.org/stable/about.html#citing-scikit-learn).
-
-
-
 ### Conference Speakers
 
 The New York R 2018 conference had 45% women speakers. 
@@ -244,8 +240,9 @@ This article [By Welcoming Women, Python’s Founder [Guido van Rossum] Overcome
 >Since van Rossum’s invitation to mentor women, Python has added four women to the team of around 50 core developers, with one or two apprentices who might become core developers in the next year, he says.
 
 #### Open Source Sprints
+[Scikit-learn](https://scikit-learn.org/stable/) is the machine learning library of Python, and there is only 1 woman in the [100 top contributors](https://scikit-learn.org/stable/about.html#citing-scikit-learn).
 
-To increase the participation of women in open source, and specifically for scikit-learn, [Andreas Mueller](https://twitter.com/amuellerml) has organized open source sprints with [NYC Women in Machine Learning and Data Science](https://github.com/WiMLDS/nyc-2018-scikit-sprint).  While the event was a positive learning experience, the impact is undetermined, with 5 pull requests merged at the event, and two more merged post-sprint.  It will take a while to make a significant dent.  
+To increase the participation of women in open source, and specifically for scikit-learn, [Andreas Mueller](https://twitter.com/amuellerml) has organized open source sprints with [NYC Women in Machine Learning and Data Science](https://github.com/WiMLDS/nyc-2018-scikit-sprint).  While the event was a positive learning experience, the impact is undetermined, with 5 pull requests merged at the event, and two more merged post-sprint.  It will take a while to make a significant dent.  Scikit-learn has frequent sprints, a listing can be found at the end of [this article](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/).  
 
 [NumFOCUS DISC and Jupyter](https://github.com/sbrice/disc-sprint-nyc-2018) held a sprint in October 2018 to increase diversity in open source.  The impact of that sprint has not yet been published.
 
