@@ -254,6 +254,7 @@ There are many active women and URG in the Python community, but there is no cen
 - [Lynn Root](https://twitter.com/roguelynn) Python Software Foundation member, PyLadies Leader
 - [Jessica McKeller](https://twitter.com/jessicamckellar) PyCon Staff, Python Software Foundation
 - [Sarah Guido](https://twitter.com/sarah_guido), co-author of [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
+- [Julia Evans](https://twitter.com/b0rk), avid blogger, prolific contributor to the community
 
 ### [Python Software Foundation](https://www.python.org/psf/) (PSF)
 The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  PSF has [27 meetup groups](https://www.meetup.com/pro/python-software-foundation-meetups/) in 3 countries, totaling 46K members. 
