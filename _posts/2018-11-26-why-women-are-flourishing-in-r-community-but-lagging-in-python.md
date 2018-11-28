@@ -298,6 +298,10 @@ It is unclear if there is a formal collaboration between NumFOCUS and the Python
 
 Big Apple Py is an organization which supports open source in New York City.  They organize the annual Python conference [PyGotham](https://2018.pygotham.org/).  They are a transparent and inclusive NYC organization which is committed to increasing diversity of speakers and attendees at PyGotham.  They offer NYC PyLadies a booth at the conference free of charge.  
 
+### [SciPy](http://conference.scipy.org/)
+SciPy hosts the annual Scientific Computing with Python conference.  There are generally two events, one in Austin, Texas and one in Europe.  From their [past events](http://conference.scipy.org/past.html), it seems that some years there is also a conference in South America.  They have a [Diversity Committee](https://scipy2018.scipy.org/ehome/299527/648148/).
+
+
 ### [Django Girls](https://djangogirls.org/)
 Django is a Python-based free and open-source web framework, which follows the model-view-template architectural pattern. It is maintained by the Django Software Foundation.  
 
@@ -332,6 +336,8 @@ Here are some ideas:
 6.  Celebrate the wide scope of Python
 7.  Involve more members from under-represented groups to be contributors to open source
 8.  Reach out to under-represented group in universities and high schools to become involved in the Python community at an earlier age
+9.  Create a central list of Python conferences and events
+10.  Collaborate on a repository for submitting Calls for Proposals for Conferences
 
 
 ## Contact 
@@ -362,7 +368,7 @@ Thanks to the following people who provided information for my blog via twitter:
 - [Fernando Masanori](https://twitter.com/fmasanori/status/1067415718067613696) for sharing statistics on Django Girls
 - [David Smith](https://twitter.com/revodavid/status/1067519542128254976) for sharing R demographics survey for 2017
 - [Catherine Zhou](https://twitter.com/catherinezh/status/1067487447376896003) for sharing entry degrees to data science and R
-- [April Wright](https://twitter.com/WrightingApril/status/1067825378184462336) for sharing the Educators Collaborative of R
+- [April Wright](https://twitter.com/WrightingApril/status/1067825378184462336) for sharing the Educators Collaborative of R and SciPy
 
 ## R Improvements
 <p>
