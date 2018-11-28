@@ -253,6 +253,7 @@ There are many active women and URG in the Python community, but there is no cen
 - [Renee Teate](https://twitter.com/BecomingDataSci) Creator/Host of Becoming a Data Scientist Podcast, and so many other resources
 - [Lynn Root](https://twitter.com/roguelynn) Python Software Foundation member, PyLadies Leader
 - [Jessica McKeller](https://twitter.com/jessicamckellar) PyCon Staff, Python Software Foundation
+- [Sarah Guido](https://twitter.com/sarah_guido), co-author of [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
 
 ### [Python Software Foundation](https://www.python.org/psf/) (PSF)
 The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  PSF has [27 meetup groups](https://www.meetup.com/pro/python-software-foundation-meetups/) in 3 countries, totaling 46K members. 
@@ -345,6 +346,7 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 - [Gender Ratio of Programmers, by Language](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html)
 - [Inequality of underrepresnted groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb)
 - [Stop Mapping Names to Gender](https://ironholds.org/names-gender/) on gender inference
+- [Don't Just Open the Door, Welcome People Through It](https://snarky.ca/dont-just-open-the-door-welcome-people-through-it/)
 
 ## Acknowledgements
 Thanks to the following people who provided information for my blog via twitter:  
