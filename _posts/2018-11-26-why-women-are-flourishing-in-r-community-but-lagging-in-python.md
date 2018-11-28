@@ -344,6 +344,7 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 - [AI is the Future, But Where are the women?](https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance/)
 - [Gender Ratio of Programmers, by Language](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html)
 - [Inequality of underrepresnted groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb)
+- [Stop Mapping Names to Gender](https://ironholds.org/names-gender/) on gender inference
 
 ## Acknowledgements
 Thanks to the following people who provided information for my blog via twitter:  
