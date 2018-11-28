@@ -299,7 +299,7 @@ It is unclear if there is a formal collaboration between NumFOCUS and the Python
 Big Apple Py is an organization which supports open source in New York City.  They organize the annual Python conference [PyGotham](https://2018.pygotham.org/).  They are a transparent and inclusive NYC organization which is committed to increasing diversity of speakers and attendees at PyGotham.  They offer NYC PyLadies a booth at the conference free of charge.  
 
 ### [SciPy](http://conference.scipy.org/)
-SciPy hosts the annual Scientific Computing with Python conference.  There are generally two events, one in Austin, Texas and one in Europe.  From their [past events](http://conference.scipy.org/past.html), it seems that some years there is also a conference in South America.  They have a [Diversity Committee](https://scipy2018.scipy.org/ehome/299527/648148/).
+SciPy hosts the annual Scientific Computing with Python conference.  There are generally two events, one in Austin, Texas and one in Europe.  From their [past events](http://conference.scipy.org/past.html), it seems that some years there is also a conference in South America.  They have a [Diversity Committee](https://scipy2018.scipy.org/ehome/299527/648148/), and they offer diversity fellowships and assistance to first-time abstract submitters.
 
 
 ### [Django Girls](https://djangogirls.org/)
