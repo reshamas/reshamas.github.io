@@ -146,6 +146,10 @@ The annual [rstudio::conf](https://www.rstudio.com/conference/) is scheduled for
 ### R Forwards Taskforce
 The [R Forwards](https://forwards.github.io) task force was set up by the [R Foundation](https://www.r-project.org/foundation/) in December 2015 to address the underrepresentation of women and rebranded in January 2017 to accommodate **more under-represented groups such as LGBT, minority ethnic groups, and people with disabilities in the R community.**
 
+#### rOpenSci
+[rOpenSci](https://ropensci.org/about/) is an organization whose mission is to make scientific data retrieval reproducible.  There is 
+rOpenSci [Educators Collaborative:  What Educational Resources Work Well and Why?](https://ropensci.org/blog/2018/07/25/educollab-resources/) which provides resources to educators of the R language.  
+
 ### R Communities Connected Network
 Below is a network of the R communities.  We can see there is a tight network of collaboration.  
 
@@ -358,6 +362,7 @@ Thanks to the following people who provided information for my blog via twitter:
 - [Fernando Masanori](https://twitter.com/fmasanori/status/1067415718067613696) for sharing statistics on Django Girls
 - [David Smith](https://twitter.com/revodavid/status/1067519542128254976) for sharing R demographics survey for 2017
 - [Catherine Zhou](https://twitter.com/catherinezh/status/1067487447376896003) for sharing entry degrees to data science and R
+- [April Wright](https://twitter.com/WrightingApril/status/1067825378184462336) for sharing the Educators Collaborative of R
 
 ## R Improvements
 <p>
