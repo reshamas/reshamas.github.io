@@ -254,6 +254,7 @@ It is unclear how many open source sprints are being held and their impact.  Thi
 
 ### Prominent Women in Python
 There are many active women and URG in the Python community, but there is no central list.  Here are some.  **On the initiative list is to create a list for easy reference.**  
+- [Hilary Mason](https://twitter.com/hmason), co-founder of DataGotham, Data Science expert
 - [Renee Teate](https://twitter.com/BecomingDataSci) Creator/Host of Becoming a Data Scientist Podcast, and so many other resources
 - [Lynn Root](https://twitter.com/roguelynn) Python Software Foundation member, PyLadies Leader
 - [Jessica McKeller](https://twitter.com/jessicamckellar) PyCon Staff, Python Software Foundation
@@ -340,7 +341,8 @@ Here are some ideas:
 7.  Involve more members from under-represented groups to be contributors to open source
 8.  Reach out to under-represented group in universities and high schools to become involved in the Python community at an earlier age
 9.  Create a central list of Python conferences and events
-10.  Collaborate on a repository for submitting Calls for Proposals for Conferences
+10.  Collaborate on a repository on how to Calls for Proposals for Conferences
+11.  Create a central repository of resources for Python users and educators
 
 
 ## Contact 
