@@ -260,7 +260,7 @@ There are many active women and URG in the Python community, but there is no cen
 - [Jessica McKeller](https://twitter.com/jessicamckellar) PyCon Staff, Python Software Foundation
 - [Sarah Guido](https://twitter.com/sarah_guido), co-author of [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
 - [Julia Evans](https://twitter.com/b0rk), avid blogger, prolific contributor to the community
-- [Catherine Devlin](https://twitter.com/catherinedevlin)
+- [Catherine Devlin](https://twitter.com/catherinedevlin), founder PyOhio
 - [Anna Ossowski](https://twitter.com/OssAnna16) PyLadies Remote organizer
 - [𝙽𝚒𝚗𝚊 𝚉𝚊𝚔𝚑𝚊𝚛𝚎𝚗𝚔𝚘](https://twitter.com/nnja) developer, active speaker
 
