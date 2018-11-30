@@ -17,7 +17,7 @@ In 2010, **9%** of package authors were women.  (Data is **self-reported** with 
 <img src="../assets/images/r_pkg_authors.png" width="99%" height="99%" />
 </p>
 
-This plot was taken from [Gender Ratios of Programmers](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html) and shows the percent women GitHub contributors for some popular coding languages.  Note that this data is **gender-inferred, not self-reported gender.**  For the languages of interest here, we see that these are the statistics:  
+This plot was taken from [Gender Ratios of Programmers](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html) and shows the percent women GitHub contributors for some popular coding languages.  Note that this data is **gender-inferred, *not* **self-reported gender.**  For the languages of interest here, we see that these are the statistics:  
 - R:  **9.3%**
 - Python : **2.0%**
 
@@ -104,7 +104,7 @@ The PyLadies website currently has [89 chapters listed](https://www.pyladies.com
 Here is a recently published [PyLadies Overview](https://prith13.github.io/posts/2018/11/pyladies-overview/).  
 
 ### Foundational
-The proportion of women graduating with degrees in statistics (44%) is significantly greater than those graduating in computer science (19%).  The pipeline of R users and statisticians is rich with women as compared to computer science.  
+The proportion of women graduating with degrees in statistics (44%) is significantly greater than those graduating in computer science (19%).  The pipeline of R users and statisticians is rich with women compared to computer science.  
 
 <p>
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1C8ouhyJ9WVyvGftSkkAhiEqAuWvksE5n/page/yr0c" frameborder="0" style="border:0" allowfullscreen></iframe>
