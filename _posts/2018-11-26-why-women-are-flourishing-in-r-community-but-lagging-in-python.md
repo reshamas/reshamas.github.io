@@ -250,7 +250,7 @@ To increase the participation of women in open source, and specifically for scik
 
 [NumFOCUS DISC and Jupyter](https://github.com/sbrice/disc-sprint-nyc-2018) held a sprint in October 2018 to increase diversity in open source.  The impact of that sprint has not yet been published.
 
-It is unclear how many open source sprints are being held and their impact.  This data is not being tracked by a single organization.  
+It is unclear how many open source sprints are being held, which are targeted to under-represented groups and their impact.  This data is not being tracked by a single organization.  
 
 ### Prominent Women in Python
 There are many active women and URG in the Python community, but there is no central list.  Here are some.  **On the "Python Initiatives List" is to create a list for easy reference.**  
