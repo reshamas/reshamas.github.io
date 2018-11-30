@@ -262,7 +262,7 @@ There are many active women and URG in the Python community, but there is no cen
 - [Julia Evans](https://twitter.com/b0rk), avid blogger, prolific contributor to the community
 - [Catherine Devlin](https://twitter.com/catherinedevlin), founder PyOhio
 - [Anna Ossowski](https://twitter.com/OssAnna16) PyLadies Remote organizer
-- [𝙽𝚒𝚗𝚊 𝚉𝚊𝚔𝚑𝚊𝚛𝚎𝚗𝚔𝚘](https://twitter.com/nnja) developer, active speaker
+- [Nina Zakharenko]((https://twitter.com/nnja) developer, active speaker)
 
 ### [Python Software Foundation](https://www.python.org/psf/) (PSF)
 The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  PSF has [27 meetup groups](https://www.meetup.com/pro/python-software-foundation-meetups/) in 3 countries, totaling 46K members. 
