@@ -290,6 +290,13 @@ The 2016 impact of this process is:
 
 NumFOCUS was founded in 2012, and it supports and promotes open source scientific software (some examples: Numpy, Pandas and Jupyter).  Beginning in 2017, they began a [Diversity in Scientific Computing (DISC)](https://numfocus.org/programs/diversity-inclusion) committee whose aim is to increase diversity in the open source community.  
 
+#### Project Jupyter
+Project Jupyter is taking on two interns from URG for their open source project development. 
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">News! The <a href="https://twitter.com/ProjectJupyter?ref_src=twsrc%5Etfw">@ProjectJupyter</a> community is participating in <a href="https://twitter.com/outreachy?ref_src=twsrc%5Etfw">@outreachy</a> to grow our community and increase our diversity. We&#39;ll take on two interns this cycle from under-represented backgrounds thanks to generous support from <a href="https://twitter.com/UCBIDS?ref_src=twsrc%5Etfw">@UCBIDS</a> and <a href="https://twitter.com/NumFOCUS?ref_src=twsrc%5Etfw">@NumFOCUS</a> <a href="https://t.co/VbRI6vDeEF">https://t.co/VbRI6vDeEF</a></p>&mdash; Chris Holdgraf (@choldgraf) <a href="https://twitter.com/choldgraf/status/1067833035100348416?ref_src=twsrc%5Etfw">November 28, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 #### [PyData](https://pydata.org/)
 
 PyData is an educational program of NumFOCUS which provides a forum for the international community of users and developers of data analysis tools to share ideas and learn from each other. They have a [community of meetup groups](https://www.meetup.com/pro/pydata/) with 100K members in 120 groups in 47 countries.  They host meetup events as well as annual conferences in [various cities](https://pydata.org/events/).  
@@ -297,6 +304,7 @@ PyData is an educational program of NumFOCUS which provides a forum for the inte
 NumFOCUS / PyData offers diversity scholarships.  But, there is no formal relationship between PyData and PyLadies.  Sharing PyData events happens organically.  In the case of PyData NYC 2018, PyLadies NYC shared their conference and diversity scholarship information because I, as an organizer for NYC PyLadies, knew the organizer for NYC PyData.  In past years, conference information was not formally shared.  
 
 It is unclear if there is a formal collaboration between NumFOCUS and the Python Software Foundation.  
+
 
 ### [Big Apple Py](https://bigapplepy.org/)
 
