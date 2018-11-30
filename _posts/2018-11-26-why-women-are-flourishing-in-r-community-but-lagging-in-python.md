@@ -341,8 +341,9 @@ Here are some ideas:
 7.  Involve more members from under-represented groups to be contributors to open source
 8.  Reach out to under-represented group in universities and high schools to become involved in the Python community at an earlier age
 9.  Create a central list of Python conferences and events
-10.  Collaborate on a repository on how to Calls for Proposals for Conferences
-11.  Create a central repository of resources for Python users and educators
+10.  Collaborate on a repository on how to submit Calls for Proposals for Conferences
+11.  Create a central repository of resources for Python users and **educators**
+12.  Create an initiative to make Python friendly for beginners 
 
 
 ## Contact 
