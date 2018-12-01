@@ -39,9 +39,6 @@ Twitter: [@quaesita](https://twitter.com/quaesita)
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In this interview, <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> got me talking about all kinds of things, from <a href="https://twitter.com/hashtag/DecisionIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#DecisionIntelligence</a> to being unboring to <a href="https://twitter.com/hashtag/diversity?src=hash&amp;ref_src=twsrc%5Etfw">#diversity</a> to socks... great fun, thanks <a href="https://twitter.com/MLconf?ref_src=twsrc%5Etfw">@MLconf</a>! <a href="https://t.co/Xjl4evn6S4">https://t.co/Xjl4evn6S4</a></p>&mdash; Cassie Kozyrkov (@quaesita) <a href="https://twitter.com/quaesita/status/1047905972407214080?ref_src=twsrc%5Etfw">October 4, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-
 </p>
 
 ## Narine Kokhlikyan
