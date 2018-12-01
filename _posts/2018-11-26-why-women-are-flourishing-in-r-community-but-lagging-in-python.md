@@ -372,6 +372,8 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 - [Inequality of underrepresnted groups in PyData leadership](http://nbviewer.jupyter.org/github/scopatz/nf-project-inequality/blob/9b83df3090c9b9b1b953d2905d428b71165ce607/nf-project-inequality.ipynb)
 - [Stop Mapping Names to Gender](https://ironholds.org/names-gender/) on gender inference
 - [Don't Just Open the Door, Welcome People Through It](https://snarky.ca/dont-just-open-the-door-welcome-people-through-it/)
+- [Outreachy & Jupyter: Supporting diversity in open communities](https://blog.jupyter.org/outreachy-jupyter-supporting-diversity-in-open-communities-dfa78db4b0bd)
+- [Diversity in Open Source is Even Worse Than in Tech Overall](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/)
 
 ## Acknowledgements
 Thanks to the following people who provided information for my blog via twitter:  
