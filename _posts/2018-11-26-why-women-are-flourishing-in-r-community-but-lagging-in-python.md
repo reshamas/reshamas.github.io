@@ -110,7 +110,7 @@ The proportion of women graduating with degrees in statistics (44%) is significa
 <iframe width="750" height="500" src="https://datastudio.google.com/embed/reporting/1C8ouhyJ9WVyvGftSkkAhiEqAuWvksE5n/page/yr0c" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
-Data scientist come from a [number of disciplines](https://www.burtchworks.com/wp-content/uploads/2018/05/Burtch-Works-Study-DS-2018-Webinar-Slide-Deck.pdf).  For those who study math/statistics (25%), natural science (20%), social science (5%), and economics (4%), R is the primary language.  For those who study computer science (20%) (and some math people), C++ or Python is more likely to be the starting coding language. In summary, there are more entry points into R from various disciplines compared to Python, and those various disciplines have a greater gender balance than in computer science.  
+Data scientists come from a [number of disciplines](https://www.burtchworks.com/wp-content/uploads/2018/05/Burtch-Works-Study-DS-2018-Webinar-Slide-Deck.pdf).  For those who study math/statistics (25%), natural science (20%), social science (5%), and economics (4%), R is the primary language.  For those who study computer science (20%) (and some math people), C++ or Python is more likely to be the starting coding language. In summary, there are more entry points into R from various disciplines compared to Python, and those various disciplines have a greater gender balance than in computer science.  
 
 <p>
 <img src="../assets/images/ds_degrees.png" width="99%" height="99%" />
