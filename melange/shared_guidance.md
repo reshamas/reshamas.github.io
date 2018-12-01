@@ -59,3 +59,11 @@ comments: false
 #### Networking
 - Find a connection that you didn't have before [at an event].
 
+---
+
+## [Carla Harris](http://www.stern.nyu.edu/portal-partners/alumni/events/upcoming-events/lubin-lecture-series-carla-harris)
+Carla Harris, Vice Chairman at Morgan Stanley, spoke at NYU Stern School of Business on November 28, 2018.
+
+### 8 Things to be Intentional About in Being a Great Leader
+1.  Be intentional about authenticity.
+2.  Build trust with innovation
