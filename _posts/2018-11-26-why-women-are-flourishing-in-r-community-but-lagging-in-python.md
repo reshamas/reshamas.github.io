@@ -12,7 +12,7 @@ There is a general understanding in the world of data and coding that the R comm
 ### Open Source Contributions
 
 #### R Package Authors
-In 2010, **9%** of package authors were women.  (Data is **self-reported** with a 27% response rate.)
+In 2010, **9%** of [package authors](https://forwards.github.io/data/) were women.  Data is **self-reported** with a 27% response rate. 
 <p>
 <img src="../assets/images/r_pkg_authors.png" width="99%" height="99%" />
 </p>
