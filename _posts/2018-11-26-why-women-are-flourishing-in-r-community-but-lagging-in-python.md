@@ -17,12 +17,6 @@ In 2010, **9%** of [package authors](https://forwards.github.io/data/) were wome
 <img src="../assets/images/r_pkg_authors.png" width="99%" height="99%" />
 </p>
 
-In 2016, **11.4%** of [package authors](https://forwards.github.io/data/) were women.  Data is obtained through **gender-inferred** analysis.  
-
-<p>
-<img src="../assets/images/r_pkg_authors_2016.png" width="99%" height="99%" />
-</p>
-
 This plot was taken from [Gender Ratios of Programmers](https://blog.revolutionanalytics.com/2016/06/programmers-gender.html) (2016 data) and shows the percent women GitHub contributors for some popular coding languages.  Note that this data is **gender-inferred**, *not* **self-reported gender.**  For the languages of interest here, we see that these are the statistics:  
 - R:  **9.3%**
 - Python : **2.0%**
