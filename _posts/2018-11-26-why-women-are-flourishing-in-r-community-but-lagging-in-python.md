@@ -248,7 +248,7 @@ This article [By Welcoming Women, Python’s Founder [Guido van Rossum] Overcome
 
 To increase the participation of women in open source, and specifically for scikit-learn, [Andreas Mueller](https://twitter.com/amuellerml) has organized open source sprints with [NYC Women in Machine Learning and Data Science](https://github.com/WiMLDS/nyc-2018-scikit-sprint).  While the event was a positive learning experience, the impact is undetermined, with 5 pull requests merged at the event, and two more merged post-sprint.  It will take a while to make a significant dent.  Scikit-learn has frequent sprints, a listing can be found at the end of [this article](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/).  
 
-[NumFOCUS DISC and Jupyter](https://github.com/sbrice/disc-sprint-nyc-2018) held a sprint in October 2018 to increase diversity in open source.  The impact of that sprint has not yet been published.
+[NumFOCUS DISC and Jupyter](https://github.com/sbrice/disc-sprint-nyc-2018) held a sprint in October 2018 to increase diversity in open source.  The impact of that sprint has been published here:  [Highlights From The 2018 NYC DISC Sprint](https://medium.com/@sbrice/highlights-from-the-2018-nyc-disc-sprint-ac4cf34b1566). Six pull requests were merged, and 72% of the attendees were first-time contributors.
 
 It is unclear how many open source sprints are being held, which are targeted to under-represented groups and their impact.  This data is not being tracked by a single organization.  
 
