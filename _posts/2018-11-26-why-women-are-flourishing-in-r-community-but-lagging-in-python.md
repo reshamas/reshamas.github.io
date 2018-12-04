@@ -311,7 +311,7 @@ It is unclear if there is a formal collaboration between NumFOCUS and the Python
 Big Apple Py is an organization which supports open source in New York City.  They organize the annual Python conference [PyGotham](https://2018.pygotham.org/).  They are a transparent and inclusive NYC organization which is committed to increasing diversity of speakers and attendees at PyGotham.  They offer NYC PyLadies a booth at the conference free of charge.  
 
 ### [SciPy](http://conference.scipy.org/)
-SciPy hosts the annual Scientific Computing with Python conference.  There are generally two events, one in Austin, Texas and one in Europe.  From their [past events](http://conference.scipy.org/past.html), it seems that some years there is also a conference in South America.  They have a [Diversity Committee](https://scipy2018.scipy.org/ehome/299527/648148/), and they offer diversity fellowships and assistance to first-time abstract submitters.
+SciPy hosts the annual Scientific Computing with Python conference.  There are generally two events, one in Austin, Texas and one in Europe.  From their [past events](http://conference.scipy.org/past.html), it seems that some years there is also a conference in South America.  They have a [Diversity Committee](https://scipy2018.scipy.org/ehome/299527/648148/), and they offer diversity fellowships and assistance to first-time abstract submitters.  The conference schedule also includes 2 days of open source sprints which cover over a dozen Python packages. 
 
 
 ### [Django Girls](https://djangogirls.org/)
@@ -376,7 +376,7 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 - [Diversity in Open Source is Even Worse Than in Tech Overall](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/)
 
 ## Acknowledgements
-Thanks to the following people who provided information for my blog via twitter:  
+Special thanks to the following people who provided information for my blog via twitter:  
 - [Emily Robinson](https://twitter.com/robinson_es/status/1067107701086478337) for sharing demographic data and R organization structure
 - [Jenny Bryan](https://twitter.com/JennyBryan/status/1067101086970916864) for sharing the Guido Van Rossum article
 - [Greg Wilson](https://twitter.com/gvwilson) for sharing PyCon percent women speakers
