@@ -52,7 +52,7 @@ The plot below shows 5 different key statistics.
 </p>
 
 ## Insider Insights
-The majority of these organizations are lead by volunteers.  Almost all chapter events are organized by volunteers.  These groups have worked diligently to build and support their communities.  
+The majority of these organizations are led by volunteers.  Almost all chapter events are organized by volunteers.  These groups have worked diligently to build and support their communities.  
 
 Please do not reach out to these organizations for *unpaid marketing*. 
 
