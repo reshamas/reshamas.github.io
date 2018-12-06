@@ -64,7 +64,11 @@ Given that there are more than **6x** the number of users of Python as compared 
 ### Demographics Data
 A [2017 demographics study](https://blog.revolutionanalytics.com/downloads/Voice%20of%20R%20Community.pdf) by the R Consortium found the following:  
 - 3618 users responded
-- Gender:  14% women, ~83% men, 2% did not answer, ~1% other
+- Gender:  
+   - 14% women
+   - ~83% men
+   - 2% did not answer
+   - ~1% other
 - Industry
    - 35% academic
    - 65% industry
