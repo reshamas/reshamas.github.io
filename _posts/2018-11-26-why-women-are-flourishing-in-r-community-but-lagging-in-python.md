@@ -261,15 +261,18 @@ It is unclear how many open source sprints are being held, which are targeted to
 
 ### Prominent Women in Python
 There are many active women and URG in the Python community, but there is no central list.  Here are some.  **On the "Python Initiatives List" is to create a list for easy reference.**  
-- [Hilary Mason](https://twitter.com/hmason), co-founder of DataGotham, Data Science expert
+- [Audrey Roy Greenfeld](https://www.linkedin.com/in/audrey/) co-founder of PyLadies, co-author of Two Scoops of Django book, and creator of cookiecutter Python package [a]
+- [Hilary Mason](https://twitter.com/hmason) co-founder of DataGotham, Data Science expert
 - [Renee Teate](https://twitter.com/BecomingDataSci) Creator/Host of Becoming a Data Scientist Podcast, and so many other resources
-- [Lynn Root](https://twitter.com/roguelynn) Python Software Foundation member, PyLadies Leader
-- [Jessica McKeller](https://twitter.com/jessicamckellar) PyCon Staff, Python Software Foundation
-- [Sarah Guido](https://twitter.com/sarah_guido), co-author of [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
-- [Julia Evans](https://twitter.com/b0rk), avid blogger, prolific contributor to the community
-- [Catherine Devlin](https://twitter.com/catherinedevlin), founder PyOhio
+- [Lynn Root](https://twitter.com/roguelynn) Python Software Foundation member, PyLadies San Francisco Founder
+- [Jessica McKellar](https://twitter.com/jessicamckellar) PyCon Staff, Python Software Foundation
+- [Sarah Guido](https://twitter.com/sarah_guido) co-author of [Introduction to Machine Learning with Python](http://shop.oreilly.com/product/0636920030515.do)
+- [Julia Evans](https://twitter.com/b0rk) avid blogger, prolific contributor to the community
+- [Catherine Devlin](https://twitter.com/catherinedevlin) founder PyOhio
 - [Anna Ossowski](https://twitter.com/OssAnna16) PyLadies Remote organizer
-- [Nina Zakharenko]((https://twitter.com/nnja) developer, active speaker)
+- [Nina Zakharenko]((https://twitter.com/nnja) developer, active speaker
+
+[a] [PyLadies was founded](https://en.m.wikipedia.org/wiki/PyLadies) in 2011 in Los Angeles, California by 7 women.  
 
 ### [Python Software Foundation](https://www.python.org/psf/) (PSF)
 The Python Software Foundation manages the open source licensing of Python.  They also run PyCon as well as other Python conferences around the world.  They have a grants program for funding special projects.  PSF has [27 meetup groups](https://www.meetup.com/pro/python-software-foundation-meetups/) in 3 countries, totaling 46K members. 
@@ -383,7 +386,7 @@ I welcome any updates or edits to this article.   I can be contacted via email a
 - [Diversity in Open Source is Even Worse Than in Tech Overall](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/)
 
 ## Acknowledgements
-Special thanks to the following people who provided information for my blog via twitter:  
+Special thanks to the following people who provided information for my blog via twitter or email:  
 - [Emily Robinson](https://twitter.com/robinson_es/status/1067107701086478337) for sharing demographic data and R organization structure
 - [Jenny Bryan](https://twitter.com/JennyBryan/status/1067101086970916864) for sharing the Guido Van Rossum article
 - [Greg Wilson](https://twitter.com/gvwilson) for sharing PyCon percent women speakers
@@ -392,6 +395,7 @@ Special thanks to the following people who provided information for my blog via 
 - [David Smith](https://twitter.com/revodavid/status/1067519542128254976) for sharing R demographics survey for 2017
 - [Catherine Zhou](https://twitter.com/catherinezh/status/1067487447376896003) for sharing entry degrees to data science and R
 - [April Wright](https://twitter.com/WrightingApril/status/1067825378184462336) for sharing the Educators Collaborative of R and SciPy
+- [Mariatta Wijaya](https://www.linkedin.com/in/mariatta/) for sharing more names in section "Prominent Women in Python"
 
 ## R Improvements
 <p>
