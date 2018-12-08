@@ -261,7 +261,7 @@ It is unclear how many open source sprints are being held, which are targeted to
 
 ### Prominent Women in Python
 There are many active women and URG in the Python community, but there is no central list.  Here are some.  **On the "Python Initiatives List" is to create a list for easy reference.**  
-- [Audrey Roy Greenfeld](https://www.linkedin.com/in/audrey/) co-founder of PyLadies, co-author of Two Scoops of Django book, and creator of cookiecutter Python package [a]
+- [Audrey Roy Greenfeld](https://www.linkedin.com/in/audrey/) co-founder of PyLadies, co-author of [Two Scoops of Django](https://www.twoscoopspress.com/), and creator of cookiecutter Python package [a]
 - [Hilary Mason](https://twitter.com/hmason) co-founder of DataGotham, Data Science expert
 - [Renee Teate](https://twitter.com/BecomingDataSci) Creator/Host of Becoming a Data Scientist Podcast, and so many other resources
 - [Lynn Root](https://twitter.com/roguelynn) Python Software Foundation member, PyLadies San Francisco Founder
