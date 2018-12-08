@@ -270,7 +270,7 @@ There are many active women and URG in the Python community, but there is no cen
 - [Julia Evans](https://twitter.com/b0rk) avid blogger, prolific contributor to the community
 - [Catherine Devlin](https://twitter.com/catherinedevlin) founder PyOhio
 - [Anna Ossowski](https://twitter.com/OssAnna16) PyLadies Remote organizer
-- [Nina Zakharenko]((https://twitter.com/nnja) developer, active speaker
+- [Nina Zakharenko](https://twitter.com/nnja) developer, active speaker
 
 [a] [PyLadies was founded](https://en.m.wikipedia.org/wiki/PyLadies) in 2011 in Los Angeles, California by 7 women.  
 
