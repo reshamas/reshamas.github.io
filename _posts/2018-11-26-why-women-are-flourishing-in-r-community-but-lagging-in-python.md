@@ -362,6 +362,7 @@ Here are some ideas:
 10.  Collaborate on a repository on how to submit Calls for Proposals for Conferences
 11.  Create a central repository of resources for Python users and **educators**.  (There is a [Python Educators Working Group](https://wiki.python.org/psf/PythonEduWG) with the PSF, but no specific information.)
 12.  Create an initiative to make Python friendly for beginners.  (There are some [beginner resources](https://wiki.python.org/moin/BeginnersGuide/Programmers) from the PSF, but no google searches have lead me here.)
+13.  Create a repository of Python open source sprints and track and publish their impact.  
 
 
 ## Contact 
