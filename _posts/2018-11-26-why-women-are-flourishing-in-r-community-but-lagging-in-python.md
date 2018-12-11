@@ -237,7 +237,7 @@ Notes:
 - PSF (b) = Python Software Foundation
 - CS (c) = Computer Science
 
-It is interesting to note that Python and R were released in the early 90's (1990 and 1993) and the women's communities were created nearly 20 years later.  Python did not add a woman to their core developer team until 2017, and it seems that R does not have a women on its core development team.  This sheds some light on the need for creating, growing and supporting communities for women and all under-represented groups.  
+It is interesting to note that Python and R were released in the early 90's (1990 and 1993) and the women's communities were created nearly 20 years later.  Python did not add a woman to their core developer team until 2017, and it seems that R does not have a woman on its core development team.  This sheds some light on the need for creating, growing and supporting communities for women and all under-represented groups.  
 
 ## What steps has the Python community taken?
 The Python community has acknowledged the lack of diversity in speakers, open source contributors and developers/engineers.  There are various organizations with initiatives to improve diversity.  
