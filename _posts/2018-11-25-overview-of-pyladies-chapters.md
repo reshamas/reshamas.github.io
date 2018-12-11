@@ -8,5 +8,5 @@
 <p>
 </p>
 
-I co-authored this blog with Prithvi Gandhi.  We provide a summary of the PyLadies chapters:  **[PyLadies Overview](https://prith13.github.io/posts/2018/11/pyladies-overview/)**
+This article was co-authored by [Prithvi Gandhi](https://www.linkedin.com/in/prithvi-gandhi/) and [Reshama Shaikh](https://reshamas.github.io).  A summary of the PyLadies chapters is presented:  **[PyLadies Overview](https://prith13.github.io/posts/2018/11/pyladies-overview/)**
 
