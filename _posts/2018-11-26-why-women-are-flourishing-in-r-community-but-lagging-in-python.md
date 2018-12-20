@@ -356,7 +356,7 @@ Here are some ideas:
   - Connect women in Python with each other
 4.  Create a list of active women and URGs in Python for speaking at conferences
 5.  Get more male allies
-6.  Celebrate the wide scope of Python
+6.  Celebrate the broad scope of Python
 7.  Involve more members from under-represented groups to be contributors to open source
 8.  Reach out to under-represented group in universities and high schools to become involved in the Python community at an earlier age
 9.  Create a central list of Python conferences and events
