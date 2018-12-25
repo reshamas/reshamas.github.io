@@ -140,7 +140,7 @@ The numbers at the top of the images represent, in this order:
 </p>
 
 ### References
-- My **work in progress** is here:  https://github.com/reshamas/dl_fastai
+- My **work in progress** is here:  [dl_fastai](https://github.com/reshamas/dl_fastai)
 
 ### Next Steps
 In retrospect, it is quite easy to tell the difference between camels and horses.   Let's challenge the neural network with something more difficult to discern, even for a human...  Perhaps classifying African and Asian elephants...  
