@@ -141,5 +141,5 @@ I can be reached at reshama@wimlds.org
 ## References
 - [AI Index 2018 Annual Report](http://cdn.aiindex.org/2018/AI%20Index%202018%20Annual%20Report.pdf)
 - [Overview of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/) Oct 2018
-- Video celebrating WiMLDS 5th Anniversary
+- Video celebrating WiMLDS 5th Anniversary (10-Dec-2018)
 <iframe src="https://spark.adobe.com/video/4qLqIbJjt55PB/embed" width="600" height="450" frameborder="0" allowfullscreen></iframe>
