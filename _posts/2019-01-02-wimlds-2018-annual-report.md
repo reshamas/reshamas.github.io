@@ -108,7 +108,9 @@ A total of 332 meetup events have been organized by the various WiMLDS chapters.
 
 This visualization is of number of past meetup events organized by meetup membership size.  Here are some key observations:  
 
-• We can see that the chapters that have been established earlier, such as Bay Area and New York, have greater membership size and also organize a greater number of events.  <p style="color:orange"><b>Note:  put mouse over bubble to obtain chapter name.</b></p>
+• We can see that the chapters that have been established earlier, such as Bay Area and New York, have greater membership size and also organize a greater number of events.  
+
+<p style="color:orange"><b>Note:  put mouse over bubble to obtain chapter name.</b></p>
 
 • Paris and Nairobi have high memberships, relative to when chapters were founded.
 
