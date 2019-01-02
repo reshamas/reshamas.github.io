@@ -4,7 +4,7 @@
 </p>
 
 ## About
-Women in Machine Learning and Data Science (WiMLDS) is a non-profit 501 (c)(3) corporation with headquarters in New York, New York.  It was founded in 2013.
+Women in Machine Learning and Data Science ([WiMLDS](http://wimlds.org)) is a non-profit 501 (c)(3) corporation with headquarters in New York, New York.  It was founded in 2013.
 
 The mission of WiMLDS is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.
 
@@ -135,14 +135,8 @@ A chapter is considerd inactive if they did not organize at least one event in 2
 
 ## Contact
 
-### Website
-http://wimlds.org
-
 ### Email
 info@wimlds.org
-
-### Twitter
-Follow us on Twitter at [@wimlds](https://twitter.com/wimlds)
 
 ### Slack
 We have a global Slack team for female and gender minority members of WiMLDS.  To join, send an email request to slack@wimlds.org with a brief note.
