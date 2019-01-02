@@ -19,7 +19,7 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 | Number of members                         | 21,500            |
 | Total number of meetups organized to date | 332               |
 | Twitter followers: [@wimlds](https://twitter.com/wimlds) | 8700 |
-| Data reference | [visualization URL](https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e)
+| Data reference | - [data source](https://docs.google.com/spreadsheets/d/1el7TG5566-3Zs9KUrlDqjS2_5Tvs4R-T9BVzyl_DBTA/edit?usp=sharing) - [visualization URL](https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e)
 
 ## Introduction to the WiMLDS Annnual Report
 WiMLDS celebrated its 5th anniversary in December of 2018.  This meetup community has seen significant worldwide growth over the past five years, particularly in 2018.  The objective of the report is to share statistics of the WiMLDS community.
