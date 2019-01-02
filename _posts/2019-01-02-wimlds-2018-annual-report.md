@@ -10,7 +10,7 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 
 ## Summary
 
-| Dimension                                 | 2018              |
+| Dimension                                 | Stats            |
 |-------------------------------------------|-------------------|
 | Data for time period ending               | 31-Dec-2018       |
 | Report published                          | 02-Jan-2019       |
