@@ -107,16 +107,16 @@ A total of **332 meetup events** have been organized by the various WiMLDS chapt
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/VE9e" frameborder="0" style="border:0" allowfullscreen></iframe>
 
-This visualization is of number of past meetup events organized by meetup membership size.  Here are some key observations:  
-
-• We can see that the chapters that have been established earlier, such as Bay Area and New York, have greater membership size and also organize a greater number of events.  
+The below visualization is of number of past meetup events organized by meetup membership size.  
 
 <p style="color:orange"><b>Note:  put mouse over bubble to obtain chapter name.</b></p>
 
-• Paris and Nairobi have high memberships, relative to when chapters were founded.
+Here are some key observations:  
+• We can see that the chapters that have been established earlier, such as Bay Area and New York, have greater membership size and also organize a greater number of events.  
+
+• Paris, France and Nairobi, Kenya have high memberships, relative to when chapters were founded.
 
 • Burlington, Vermont and Boulder, Colorado are organizing greater number of events, relative to their membership size.
-
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/N88e" frameborder="0" style="border:0" allowfullscreen></iframe>
 
