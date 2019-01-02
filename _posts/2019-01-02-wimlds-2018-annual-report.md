@@ -16,7 +16,7 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 | Report published                          | 02-Jan-2019       |
 | Number of continents represented          | 6                 |
 | Number of countries represented           | 18                |
-| Number of chapters                        | 39                |
+| Number of cities represented (chapters)   | 39                |
 | Number of members                         | 21,500            |
 | Total number of meetups organized to date | 332               |
 | Twitter followers: [@wimlds](https://twitter.com/wimlds) | 8700 |
