@@ -95,7 +95,7 @@ The 5 city chapters with the greatest membership size are:
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/s38e" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### By Events Organized
-A total of **332 meetup events** have been organized by the various WiMLDS chapters.  This barchart shows the number of events organized by the different chapters.  These 5 chapters have organized 69% of the meetup events since their founding:
+A total of **332 meetup events** have been organized by the various WiMLDS chapters in the past 5 years.  This barchart shows the number of events organized by the different chapters.  These 5 chapters have organized 69% of the meetup events since their founding:
 
 1.  San Francisco Bay Area, California (83)
 2.  New York, New York (71)
@@ -122,7 +122,7 @@ This visualization is of number of past meetup events organized by meetup member
 
 
 ## Inactive Chapters
-A chapter is considerd inactive if they did not organize at least one event in 2018.  The following chapters are currently considered inactive:  
+A chapter is considered inactive if they did not organize at least one event in 2018.  The following chapters are currently considered inactive:  
 1.  Detroit Metro, Michigan
 2.  Corpus Christie, Texas
 3.  Sao Paolo, Brazil
