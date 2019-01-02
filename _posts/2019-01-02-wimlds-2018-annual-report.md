@@ -9,6 +9,7 @@ Women in Machine Learning and Data Science (WiMLDS) is a non-profit 501 (c)(3) c
 The mission of WiMLDS is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.
 
 ## Summary
+
 | Dimension                                 | 2018              |
 |-------------------------------------------|-------------------|
 | Reporting period for data                 | up to 31-Dec-2018 |
