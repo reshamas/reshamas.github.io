@@ -134,12 +134,7 @@ A chapter is considerd inactive if they did not organize at least one event in 2
 
 
 ## Contact
-
-### Email
-info@wimlds.org
-
-### Slack
-We have a global Slack team for female and gender minority members of WiMLDS.  To join, send an email request to slack@wimlds.org with a brief note.
+I can be reached at reshama@wimlds.org
  
 ---
 ## References
