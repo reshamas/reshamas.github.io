@@ -48,7 +48,7 @@ About 55% of WiMLDS members are in North America (USA and Canada).
 ### By Country
 The 5 countries with the greatest membership size are:  
 
-1.  United States of America (11.7K)
+1.  USA (11.7K)
 2.  India (2.0K, 54.2%)
 3.  Kenya (2.0K, 9.3%)
 4.  France (1.9K, 9.1%)
