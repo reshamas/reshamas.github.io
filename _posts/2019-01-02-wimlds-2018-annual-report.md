@@ -13,6 +13,7 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 | Dimension                                 | 2018              |
 |-------------------------------------------|-------------------|
 | Reporting period for data                 | up to 31-Dec-2018 |
+| Report published                          | 02-Jan-2019       |
 | Number of continents represented          | 6                 |
 | Number of countries represented           | 18                |
 | Number of chapters                        | 39                |
