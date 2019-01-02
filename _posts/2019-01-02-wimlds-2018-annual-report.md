@@ -81,7 +81,7 @@ The 5 city chapters with the greatest membership size are:
 5.  Cary, North Carolina (0.9K)
 
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/VE9e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/s38e" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ### By Events Organized
 This barchart shows the number of events organized by the different chapters.  These 5 chapters have organized 70% of the meetup events since their founding:
@@ -114,6 +114,12 @@ A chapter is considerd inactive if they did not organize at least one event in 2
 4.  Kigali, Rwanda
 
 <p style="color:orange"><b>Note:  4 of the top 5 are English-speaking countries.</b></p>
+
+## Data Table
+Note:  You can click on "Full Screen" icon on lower right to see enlarged image.  
+
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/yH9e" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 
 ## Contact Us
 
