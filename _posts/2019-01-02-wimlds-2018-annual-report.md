@@ -21,10 +21,16 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 | Twitter followers: [@wimlds](https://twitter.com/wimlds) | 8700 |
 | Data reference | [data source](https://docs.google.com/spreadsheets/d/1el7TG5566-3Zs9KUrlDqjS2_5Tvs4R-T9BVzyl_DBTA/edit?usp=sharing) / [visualization URL](https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e)
 
+<p style="color:purple"><i>Note:  click on "full screen" icon on lower right to see enlarged image in visualizations. </i></p>
+
+
 ## Introduction to the WiMLDS Annnual Report
 WiMLDS celebrated its 5th anniversary in December of 2018.  This meetup community has seen significant worldwide growth over the past five years, particularly in 2018.  The objective of the report is to share statistics of the WiMLDS community.
 
-Another objective is to improve diversity by connecting the WiMLDS community with the greater data science, machine learning and artificial intelligence communities.
+<p style="color:orange"><b>Another objective is to improve diversity by connecting the WiMLDS community with the greater data science, machine learning and artificial intelligence communities.</b></p>
+
+
+
 
 ## Map of WiMLDS Chapters
 
@@ -43,7 +49,9 @@ Twenty-five new chapters were founded in 2018, bringing the total number of WiML
 
 About 55% of WiMLDS members are in North America (USA and Canada).
 
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
 
 ### By Country
 The 5 countries with the greatest membership size are:  
@@ -69,7 +77,9 @@ These 6 countries have multiple chapters (more than one city in country with a W
 4.  Poland (2)
 5.  Nigeria (2)
 6.  Canada (2)
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/JK9e" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
 
 ### By City Chapter
 
@@ -114,8 +124,6 @@ A chapter is considerd inactive if they did not organize at least one event in 2
 2.  Corpus Christie, Texas
 3.  Sao Paolo, Brazil
 4.  Kigali, Rwanda
-
-<p style="color:orange"><b>Note:  4 of the top 5 are English-speaking countries.</b></p>
 
 ## Data Table
 Note:  You can click on "Full Screen" icon on lower right to see enlarged image.  
