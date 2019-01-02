@@ -112,6 +112,7 @@ The below visualization is of number of past meetup events organized by meetup m
 <p style="color:orange"><b>Note:  put mouse over bubble to obtain chapter name.</b></p>
 
 Here are some key observations:  
+
 • We can see that the chapters that have been established earlier, such as Bay Area and New York, have greater membership size and also organize a greater number of events.  
 
 • Paris, France and Nairobi, Kenya have high memberships, relative to when chapters were founded.
