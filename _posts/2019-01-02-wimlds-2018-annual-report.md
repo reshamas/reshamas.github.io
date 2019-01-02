@@ -26,21 +26,21 @@ WiMLDS celebrated its 5th anniversary in December of 2018.  This meetup communit
 
 Another objective is to improve diversity by connecting the WiMLDS community with the greater data science, machine learning and artificial intelligence communities.
 
+## Map of WiMLDS Chapters
+
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/f38e" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 ## Growth
 Twenty-five new chapters were founded in 2018, bringing the total number of WiMLDS chapters to 39.  Nearly 50% of the new chapters in 2018 were from Asia, South America and Africa.  The remaining 50% were in North America, Europe and Australia.
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/Q58e" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-## Map of WiMLDS Chapters
-
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/f38e" frameborder="0" style="border:0" allowfullscreen></iframe>
-
-
 ## Chapters
+
 ### By Continent
+
 About 50% of WiMLDS members are in North America (USA and Canada).
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e" frameborder="0" style="border:0" allowfullscreen></iframe>
