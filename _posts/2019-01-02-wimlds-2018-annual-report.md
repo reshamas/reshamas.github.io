@@ -54,7 +54,13 @@ The 5 countries with the greatest membership size are:
 4.  France (1.9K, 9.1%)
 5.  Nigeria (1.1K, 5.2%)
 
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/C78e" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
+
+<p>
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/hC9e" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
 
 These 6 countries have multiple chapters (more than one city in country with a WiMLDS chapter):
 1.  USA (13)
