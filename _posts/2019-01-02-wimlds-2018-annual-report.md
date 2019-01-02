@@ -85,11 +85,11 @@ These 6 countries have multiple chapters (more than one city in country with a W
 ### By City Chapter
 
 The 5 city chapters with the greatest membership size are:  
-1.  San Francisco Bay Area, California (4.6K)
-2.  New York, New York (3.8K)
+1.  San Francisco Bay Area, California, USA (4.6K)
+2.  New York, New York, USA (3.8K)
 3.  Nairobi, Kenya (2.0K)
 4.  Paris, France (1.9K)
-5.  Cary, North Carolina (0.9K)
+5.  Cary, North Carolina, USA (0.9K)
 
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/s38e" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -97,11 +97,11 @@ The 5 city chapters with the greatest membership size are:
 ### By Events Organized
 A total of **332 meetup events** have been organized by the various WiMLDS chapters in the past 5 years.  This barchart shows the number of events organized by the different chapters.  These 5 chapters have organized 69% of the meetup events since their founding:
 
-1.  San Francisco Bay Area, California (83)
-2.  New York, New York (71)
+1.  San Francisco Bay Area, California, USA (83)
+2.  New York, New York, USA (71)
 3.  Nairobi, Kenya (27)
-4.  Burlington, Vermont (25)
-5.  Boulder, Colorado (23)
+4.  Burlington, Vermont, USA (25)
+5.  Boulder, Colorado, USA (23)
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/nE9e" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -123,8 +123,8 @@ Here are some key observations:
 
 ## Inactive Chapters
 A chapter is considered inactive if they did not organize at least one event in 2018.  The following chapters are currently considered inactive:  
-1.  Detroit Metro, Michigan
-2.  Corpus Christie, Texas
+1.  Detroit Metro, Michigan, USA
+2.  Corpus Christie, Texas, USA
 3.  Sao Paolo, Brazil
 4.  Kigali, Rwanda
 
