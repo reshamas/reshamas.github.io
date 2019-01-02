@@ -21,13 +21,13 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 | Twitter followers: [@wimlds](https://twitter.com/wimlds) | 8700 |
 | Data reference | [data source](https://docs.google.com/spreadsheets/d/1el7TG5566-3Zs9KUrlDqjS2_5Tvs4R-T9BVzyl_DBTA/edit?usp=sharing) / [visualization URL](https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e)
 
-<p style="color:purple"><b>General note:  click on "full screen" icon on lower right to see enlarged images of visualizations in this article. </b></p>
+<p style="color:orange"><b>General note:  click on "full screen" icon on lower right to see enlarged images of visualizations in this article. </b></p>
 
 
 ## Introduction to the WiMLDS Annnual Report
 WiMLDS celebrated its 5th anniversary in December of 2018.  This meetup community has seen significant worldwide growth over the past five years, particularly in 2018.  The objective of the report is to share statistics of the WiMLDS community.
 
-<p style="color:orange"><b>Another objective is to improve diversity by connecting the WiMLDS community with the greater data science, machine learning and artificial intelligence communities.</b></p>
+<p style="color:purple"><b>Another objective is to improve diversity by connecting the WiMLDS community with the greater data science, machine learning and artificial intelligence communities.</b></p>
 
 
 
@@ -128,7 +128,7 @@ A chapter is considerd inactive if they did not organize at least one event in 2
 4.  Kigali, Rwanda
 
 ## Data Table
-Note:  You can click on "Full Screen" icon on lower right to see enlarged image.  
+<p style="color:orange"><b>Note:  You can click on "Full Screen" icon on lower right to see enlarged image.  </b></p>
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/yH9e" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -146,14 +146,6 @@ Follow us on Twitter at [@wimlds](https://twitter.com/wimlds)
 
 ### Slack
 We have a global Slack team for female and gender minority members of WiMLDS.  To join, send an email request to slack@wimlds.org with a brief note.
-
----
-
-## Data and Tools
-
-- The statistics represented were updated January 1, 2019.
-- The data is available in [this Google spreadsheet](https://docs.google.com/spreadsheets/d/1el7TG5566-3Zs9KUrlDqjS2_5Tvs4R-T9BVzyl_DBTA/edit?usp=sharing).
-- Visualizations were produced using Google [Data Studio](https://datastudio.google.com/u/0/navigation/reporting).
  
 ---
 ## References
