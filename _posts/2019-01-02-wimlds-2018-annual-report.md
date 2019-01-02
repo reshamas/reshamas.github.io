@@ -151,3 +151,5 @@ We have a global Slack team for female and gender minority members of WiMLDS.  T
 ## References
 - [AI Index 2018 Annual Report](http://cdn.aiindex.org/2018/AI%20Index%202018%20Annual%20Report.pdf)
 - [Overview of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/) Oct 2018
+- Video celebrating WiMLDS 5th Anniversary
+<iframe src="https://spark.adobe.com/video/4qLqIbJjt55PB/embed" width="960" height="540" frameborder="0" allowfullscreen></iframe>
