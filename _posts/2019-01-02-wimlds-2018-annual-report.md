@@ -138,7 +138,7 @@ A chapter is considered inactive if they did not organize at least one event in 
 ## Contact
 I can be reached at reshama@wimlds.org
  
----
+ 
 ## References
 - [AI Index 2018 Annual Report](http://cdn.aiindex.org/2018/AI%20Index%202018%20Annual%20Report.pdf)
 - [Overview of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/) Oct 2018
