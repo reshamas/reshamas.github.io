@@ -36,14 +36,16 @@ WiMLDS celebrated its 5th anniversary in December of 2018.  This meetup communit
 
 ## Map of WiMLDS Chapters
 
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/f38e" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+</p>
 
 ## Growth
 Twenty-five new chapters were founded in 2018, bringing the total number of WiMLDS chapters to 39.  Nearly 50% of the new chapters in 2018 were from Asia, South America and Africa.  The remaining 50% were in North America, Europe and Australia.
 
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/Q58e" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+</p>
 
 ## Chapters
 
@@ -79,6 +81,7 @@ These 6 countries have multiple chapters (more than one city in country with a W
 4.  Poland (2)
 5.  Nigeria (2)
 6.  Canada (2)
+
 <p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/JK9e" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
@@ -92,8 +95,9 @@ The 5 city chapters with the greatest membership size are:
 4.  Paris, France (1.9K)
 5.  Cary, North Carolina, USA (0.9K)
 
-
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/s38e" frameborder="0" style="border:0" allowfullscreen></iframe>
+</p>
 
 ### By Events Organized
 A total of **332 meetup events** have been organized by the various WiMLDS chapters in the past 5 years.  This barchart shows the number of events organized by the different chapters.  These 5 chapters have organized 69% of the meetup events since their founding:
@@ -104,10 +108,13 @@ A total of **332 meetup events** have been organized by the various WiMLDS chapt
 4.  Burlington, Vermont, USA (25)
 5.  Boulder, Colorado, USA (23)
 
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/nE9e" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+</p>
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/VE9e" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+</p>
+ 
 The below visualization is of number of past meetup events organized by meetup membership size.  
 
 <p style="color:orange"><b>Note:  put mouse over bubble to obtain chapter name.</b></p>
@@ -120,8 +127,9 @@ Here are some key observations:
 
 • Burlington, Vermont and Boulder, Colorado are organizing greater number of events, relative to their membership size.
 
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/N88e" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+</p>
 
 ## Inactive Chapters
 A chapter is considered inactive if they did not organize at least one event in 2018.  The following chapters are currently considered inactive:  
@@ -133,8 +141,9 @@ A chapter is considered inactive if they did not organize at least one event in 
 ## Data Table
 <p style="color:orange"><b>Note:  You can click on "Full Screen" icon on lower right to see enlarged image.  </b></p>
 
+<p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/yH9e" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+</p>
 
 ## Contact
 I can be reached at reshama@wimlds.org
