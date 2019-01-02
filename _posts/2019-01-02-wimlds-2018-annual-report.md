@@ -92,6 +92,8 @@ This barchart shows the number of events organized by the different chapters.  T
 4.  Burlington, Vermont (25)
 5.  Boulder, Colorado (23)
 
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/nE9e" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/VE9e" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 This visualization is of number of past meetup events organized by meetup membership size.  Here are some key observations:  
@@ -121,7 +123,7 @@ Note:  You can click on "Full Screen" icon on lower right to see enlarged image.
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/yH9e" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
-## Contact Us
+## Contact
 
 ### Website
 http://wimlds.org
