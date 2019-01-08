@@ -135,8 +135,9 @@ Here are some key observations:
 A chapter is considered inactive if they did not organize at least one event in 2018.  The following chapters are currently considered inactive:  
 1.  Detroit Metro, Michigan, USA
 2.  Corpus Christie, Texas, USA
-3.  Sao Paolo, Brazil
-4.  Kigali, Rwanda
+3.  Lagos, Nigeria
+4.  Sao Paolo, Brazil
+5.  Kigali, Rwanda
 
 ## Data Table
 <p style="color:orange"><b>Note:  You can click on "Full Screen" icon on lower right to see enlarged image.  </b></p>
