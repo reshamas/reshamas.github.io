@@ -49,14 +49,14 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 - (f):  this number represents PRs that were opened, but then closed by the successfull merge of another PR.  
 
 
-## Summary of Impact for 2018
+## Impact Summary for 2018
 A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint:  
 - 4 were merged at the sprint
 - 4 were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
 - Follow up was initiated with the contributors who had begun work on the remaining 12 open PRs.  Most contributors were non-responsive, and these additional PRs were handled by the sprint organizer (me) or other members of the WiMLDS meetup group.  
 
 
-## Summary of Impact for 2017
+## Impact Summary for 2017
 In 2017, <a style="color:blue"><b> **5** PRs were merged in </b> </a>.  Four PRs were merged at the sprint, and one was merged post-sprint.  The PR merged post-sprint was by [Sergul Aydore](https://twitter.com/sergulaydore).  After participating in this sprint in March of 2017, Sergul then went on to participate in the [August 2018 scikit-learn sprint](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) in Paris.  
 
 ## Scikit-learn Issues Resolved 
@@ -76,14 +76,12 @@ Special thanks to the following Reviewers for their speedy review, assistance an
 - Hanmin Qin 
 - Adrin Jalali
 
-
-
 Special thanks to these members of the NYC WiMLDS community for following up on "abandoned" or "stalled" PRs:
+- Melissa Ferrari
 
 
 ---
 ## References
 - [Interview with Andreas Mueller](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), 2017
-
 - [And Now, an Infuriating Statistic about Women and Coding](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/)
 - [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
