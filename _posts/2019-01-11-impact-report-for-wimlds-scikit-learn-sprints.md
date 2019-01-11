@@ -8,6 +8,10 @@
 ## Scikit-learn Background
 [Scikit-learn](https://github.com/scikit-learn/scikit-learn), the machine learning library for Python, was first released in early 2010.  To date, there is only [1 woman in the top 100 contributors](https://scikit-learn.org/stable/about.html) to this library.  To address this gender imbalance, Andreas Mueller, core contributor for the library, initiated organizing an open source sprint in New York City with the local chapter of Women in Machine Learning and Data Science.  The first sprint was held in March 2017 and the second one was held in September of 2018.  This report summarizes and shares the impact of the two events.
 
+## The Sprint Events
+Most attendees at these sprints were new to open source.  Andy identified issues that were labeled "easy" or "good first issue" prior to the event so participants could review and become familiar with them.  Prep work for the event included reviewing the [Contributing](https://scikit-learn.org/stable/developers/contributing.html) documentation.  
+
+
 ## Impact Report for WiMLDS Scikit-learn Sprints
 
 
@@ -20,21 +24,21 @@
 | Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml)   |[Andreas Mueller](https://twitter.com/amuellerml)          |
 | Organizer      | [Reshama Shaikh](https://twitter.com/reshamas)   | [Reshama Shaikh](https://twitter.com/reshamas)              |
 | Teaching Assistants                   | [Vighnesh Nandan Birodkar](https://www.linkedin.com/in/vighnesh-birodkar-71b7818/) / [Ritesh Bansal](https://www.linkedin.com/in/ritesh-bansal/) | [Theodora Hinkle](https://www.linkedin.com/in/theodora-hinkle-5b80a238/) / [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/) |
-| **PULL REQUESTS (PRs)**                                      |               |           |
-| PRs [MRG] at sprint (a)                  | 4                                                                                                                                                  | 4                                                                                                                                    |
-| PRs [MRG] post-sprint (w/o follow-up) (b)| 1                                                                                                                                                  | 4                                                                                                                                    |
-| PRs [MRG] post-sprint (w/follow-up) (c)   | 0                                                                                                                                                  | 5                                                                                                                                    |
+| **PULL REQUESTS (PRs)**                   |          |           |
+| PRs [MRG] at sprint (a)                   | 4        | 4         |
+| PRs [MRG] post-sprint (w/o follow-up) (b) | 1        | 4         | 
+| PRs [MRG] post-sprint (w/follow-up) (c)   | 0        | 5         |                                                                   
 | <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>5</b> </a> |<a style="color:red"><b>13</b> </a>|
-|                                      |      |         |                                                                       
-| PRs open  (e)                           | 4    | 7       |
-| PRs closed (by other PRs) (f)           | 10   | 12      |  
-|                                      |      |         |   
-| Attendees:  Initial Registrations    | 60   | 63      |                                                                                   
-| Attendees:  Participated             | ~ 30 | 35      | 
-| Attendee List                        | [2017](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/attendees/)   | [2018](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/)  |
-| Venue                                | Stack Exchange  | Stack Exchange    |
-| Event posting                         | [2017 meetup event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/) | [2018 meetup event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/) |
-| Blog                                  | [by Noemi Derzsy](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)  | [by Reshama Shaikh](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)  |
+|                                           |          |           |                                                                       
+| PRs open  (e)                             | 4        | 7         |
+| PRs closed (by other PRs) (f)             | 10       | 12        |  
+|                                           |          |           |   
+| Attendees:  Initial Registrations         | 60       | 63        |
+| Attendees:  Participated                  | ~ 30     | 35        | 
+| Attendee List                          | [2017](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/attendees/)     | [2018](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/)  |
+| Venue                                  | Stack Exchange  | Stack Exchange    |
+| Event posting                          | [2017 meetup event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/) | [2018 meetup event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/) |
+| Blog                                   | [by Noemi Derzsy](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)  | [by Reshama Shaikh](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)  |
 
 #### Notes
 - (a):  this represents the number of pull requests which were merged during the sprint day.
