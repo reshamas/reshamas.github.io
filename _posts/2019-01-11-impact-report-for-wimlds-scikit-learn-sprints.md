@@ -34,7 +34,7 @@
 | Attendees:  Initial Registrations    | 60   | 63      |                                                                                   
 | Attendees:  Participated             | ~ 30 | 35      | 
 | Venue                                | Stack Exchange  | Stack Exchange    |
-| Event posting                         | [2017 meetup event]() | [2018 meetup event]() |
+| Event posting                         | [2017 meetup event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/) | [2018 meetup event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/) |
 | Blog                                  | [by Noemi Derzsy](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)  | [by Reshama Shaikh](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)  |
 
 #### Notes
