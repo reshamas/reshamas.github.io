@@ -73,6 +73,7 @@ This is a list of issues that were resolved and PRs that were opened/closed/merg
 - **Duration**:  sprint was 6 hours (10am to 4pm); extend duration of sprint to 6pm for more time  
 - **Follow-up**:  follow-up began one month post-sprint which was too long after the event.  Sprint participants were contacted via event email, GitHub pinging, and individual email via meetup account and personal email, where available.  The majority of sprint participants were non-responsive to follow-up communication, and none of those contacted completed their PR.  
   - **Contributing documentation**:  As a result of this abeyance, the documentation was updated to include verbage for addressing [stalled PRs](https://github.com/scikit-learn/scikit-learn/pull/12894#pullrequestreview-190969817).  
+- **Goals:**  set a goal to complete all open PRs from the sprint within 30 to 60 days and issue a sprint impact report within 60 days.
 
 ## Acknowledgments
 Special thanks to the following Reviewers for their speedy review, assistance and patience:  
