@@ -48,7 +48,7 @@ LinkedIn: [narine](https://www.linkedin.com/in/narine-kokhlikyan-88916721/)
 Twitter: [@Nunushik](https://twitter.com/Nunushik)
 Reference: http://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perplexity.html
 
-<p
+<p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Check out this interview that <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> did with <a href="https://twitter.com/Nunushik?ref_src=twsrc%5Etfw">@Nunushik</a> from <a href="https://twitter.com/Rakuten_Intel?ref_src=twsrc%5Etfw">@Rakuten_Intel</a> on the mlconf blog. They cover time series + NLP + anomaly detection as well as hot topics like <a href="https://twitter.com/hashtag/diversity?src=hash&amp;ref_src=twsrc%5Etfw">#diversity</a> and Algorithm reliability. <a href="https://t.co/SwvEDVuzLP">https://t.co/SwvEDVuzLP</a></p>&mdash; MLconf (@MLconf) <a href="https://twitter.com/MLconf/status/1045044245789212673?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
