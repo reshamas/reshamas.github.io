@@ -34,6 +34,7 @@ A 2013 survey found that only 11 percent of open-source contributors were women.
 |                                      |      |         |   
 | Attendees:  Initial Registrations    | 60   | 63      |                                                                                   
 | Attendees:  Participated             | ~ 30 | 35      | 
+| Attendee List                        | [2017](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/attendees/)   | [2018](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/)  |
 | Venue                                | Stack Exchange  | Stack Exchange    |
 | Event posting                         | [2017 meetup event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/237123181/) | [2018 meetup event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/253593297/) |
 | Blog                                  | [by Noemi Derzsy](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)  | [by Reshama Shaikh](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)  |
@@ -53,6 +54,10 @@ A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result 
 
 ## Summary of Impact for 2017
 In 2017, <a style="color:blue"><b> **5** PRs were merged in </b> </a>.  Four PRs were merged at the sprint, and one was merged post-sprint.  The PR merged post-sprint was by [Sergul Aydore](https://twitter.com/sergulaydore).  After participating in this sprint in March of 2017, Sergul then went on to participate in the [August 2018 scikit-learn sprint](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) in Paris.  
+
+## Scikit-learn Issues Resolved
+Issues were marked "Easy" / "Beginner" prior to the sprint.  
+Here is a list of issues that were resolved and PRs that were merged in:
 
 ## Lessons Learned
 - follow-up, contributing documentation updated
