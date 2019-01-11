@@ -70,7 +70,7 @@ This is a list of issues that were resolved and PRs that were opened/closed/merg
 - **Create tracking spreadsheet during the event**:  this was created after the event, and having it available during the sprint would have saved time in identifying which PRs were opened and who the contributors were. 
 - **Label Issues**:  issues that were worked on during the sprint could be tagged as "sprint" and included "#wimlds" to find and track them
 - **Duration**:  sprint was 6 hours (10am to 4pm); extend duration of sprint to 6pm for more time  
-- **Follow-up**:  follow-up began one month post-sprint which was too long after the event.  Sprint participants were contacted via event email, GitHub pinging, and individual email via meetup account and personal email, where available.  The majority of sprint participants were non-responsive to follow-up communication. 
+- **Follow-up**:  follow-up began one month post-sprint which was too long after the event.  Sprint participants were contacted via event email, GitHub pinging, and individual email via meetup account and personal email, where available.  The majority of sprint participants were non-responsive to follow-up communication, and none of those contacted completed their PR.  
   - **Contributing documentation**:  As a result of this abeyance, the documentation was updated to include verbage for addressing [stalled PRs](https://github.com/scikit-learn/scikit-learn/pull/12894#pullrequestreview-190969817).  
 
 ## Acknowledgments
