@@ -6,7 +6,7 @@
 </p>
 
 ## Scikit-learn Background
-Scikit-learn, the machine learning library for Python, was first released in early 2010.  To date, there is only 1 woman in the top 100 contributors to this library.  To address this gender imbalance, Andreas Mueller, core contributor for the library, initiated organizing an open source sprint in New York City with the local chapter of Women in Machine Learning and Data Science.  The first sprint was held in March 2017 and the second one was held in September of 2018.  This report summarizes the two events, and it shares the impact of the two events.
+[Scikit-learn](https://github.com/scikit-learn/scikit-learn), the machine learning library for Python, was first released in early 2010.  To date, there is only [1 woman in the top 100 contributors](https://scikit-learn.org/stable/about.html) to this library.  To address this gender imbalance, Andreas Mueller, core contributor for the library, initiated organizing an open source sprint in New York City with the local chapter of Women in Machine Learning and Data Science.  The first sprint was held in March 2017 and the second one was held in September of 2018.  This report summarizes and shares the impact of the two events.
 
 ## Impact Report for WiMLDS Scikit-learn Sprints
 
