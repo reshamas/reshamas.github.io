@@ -63,15 +63,15 @@ In 2017, <a style="color:blue"><b> **5** PRs were merged in </b> </a>:
   - The PR merged post-sprint was by [Sergul Aydore](https://twitter.com/sergulaydore).  After participating in this sprint in March of 2017, Sergul then went on to participate in the [August 2018 scikit-learn sprint](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) in Paris.  
 
 ## Scikit-learn Issues Resolved 
-This is a list of issues that were resolved and PRs that were open/closed/merged in:
+This is a list of issues that were resolved and PRs that were opened/closed/merged in:
 - [Tracking Sheet of Pull Requests](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing)
 
 ## Lessons Learned
-- follow-up, 
-- create tracking spreadsheet during the event 
-- sprint was 6 hours (10am to 4pm).  
-- contributing documentation updated to include verbage for [stalled PRs](https://github.com/scikit-learn/scikit-learn/pull/12894#pullrequestreview-190969817).  
-
+- **Create tracking spreadsheet during the event**:  this was created after the event, and having it available during the sprint would have saved time in identifying which PRs were opened and who the contributors were. 
+- **Label Issues**:  issues that were worked on during the sprint could be tagged as "sprint" and included "#wimlds" to find and track them
+- **Duration**:  sprint was 6 hours (10am to 4pm); extend duration of sprint to 6pm for more time  
+- **Follow-up**:  follow-up began one month post-sprint which was too long after the event.  Sprint participants were contacted via event email, GitHub pinging, and individual email via meetup account and personal email, where available.  The majority of sprint participants were non-responsive to follow-up communication. 
+  - **Contributing documentation**:  As a result of this abeyance, the documentation was updated to include verbage for addressing [stalled PRs](https://github.com/scikit-learn/scikit-learn/pull/12894#pullrequestreview-190969817).  
 
 ## Acknowledgments
 Special thanks to the following Reviewers for their speedy review, assistance and patience:  
@@ -81,7 +81,8 @@ Special thanks to the following Reviewers for their speedy review, assistance an
 
 Special thanks to these members of the NYC WiMLDS community for following up on "abandoned" or "stalled" PRs:
 - Melissa Ferrari
-
+- ?
+- ?
 
 ---
 ## References
