@@ -27,7 +27,7 @@ A 2013 survey found that only 11 percent of open-source contributors were women.
 | PRs [MRG] at sprint (a)                  | 4                                                                                                                                                  | 4                                                                                                                                    |
 | PRs [MRG] post-sprint (w/o follow-up) (b)| 1                                                                                                                                                  | 4                                                                                                                                    |
 | PRs [MRG] post-sprint (w/follow-up) (c)   | 0                                                                                                                                                  | 5                                                                                                                                    |
-| **TOTAL PRs MERGED** (d)                |   **5** |   **13**   <a style="color:blue"><b>13</b> </a>     |
+| **TOTAL PRs MERGED** (d)                |   **5** |   **13**   <a style="color:purple"><b>13</b> </a>     |
 |                                      |      |         |                                                                       
 | PRs open  (e)                           | 4    | 7       |
 | PRs closed (by other PRs) (f)           | 10   | 12      |  
