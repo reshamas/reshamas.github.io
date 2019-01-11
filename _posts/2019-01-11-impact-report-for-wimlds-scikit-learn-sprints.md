@@ -46,7 +46,7 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 - (c)  these PRs were merged post-sprint, and which were followed up by the sprint organizer.  In 2017, no follow-up was performed.  
 - (d)  this represents the **total PRs that were merged in** which provides one dimension of the impact of the sprint.
 - (e)  this number represents the number of PRs from the sprint which are still open.
-- (f)  this number represents PRs that were opened, but then closed by the successfull merge of another PR.  
+- (f)  this number represents PRs that were opened, but then closed by the successful merge of another PR.  
 
 
 ## Impact Summary for 2018
