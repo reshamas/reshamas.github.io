@@ -7,6 +7,7 @@
 
 
 ## Intro
+A 2013 survey found that only 11 percent of open-source contributors were women. 
 
 
 
@@ -64,3 +65,4 @@ In 2017, <a style="color:blue"><b> **5** PRs were merged in </b> </a>.  Four PRs
 - [Interview with Andreas Mueller](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), 2017
 - [Tracking Sheet of PRs](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing)
 - [And Now, an Infuriating Statistic about Women and Coding](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/)
+- [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
