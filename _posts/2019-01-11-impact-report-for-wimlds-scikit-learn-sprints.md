@@ -50,7 +50,7 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 
 
 ## Summary of Impact for 2018
-A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint:
+A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint:  
 a)  4 were merged at the sprint
 b)  4 were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
 c)  Follow up was initiated with the contributors who had begun work on the remaining 12 open PRs.  Most contributors were non-responsive, and these additional PRs were handled by the sprint organizer (me) or other members of the WiMLDS meetup group.  
@@ -65,13 +65,17 @@ This is a list of issues that were resolved and PRs that were open/closed/merged
 
 ## Lessons Learned
 - follow-up, 
+- create tracking spreadsheet during the event 
+- sprint was 6 hours (10am to 4pm).  
 - contributing documentation updated to include verbage for [stalled PRs](https://github.com/scikit-learn/scikit-learn/pull/12894#pullrequestreview-190969817).  
 
 
 ## Acknowledgments
 Special thanks to the following Reviewers for their speedy review, assistance and patience:  
 - Joel Nothman
-- Qinmin 
+- Hanmin Qin 
+- Adrin Jalali
+
 
 
 Special thanks to these members of the NYC WiMLDS community for following up on "abandoned" or "stalled" PRs:
