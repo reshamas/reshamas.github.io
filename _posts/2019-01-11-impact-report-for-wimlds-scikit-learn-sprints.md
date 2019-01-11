@@ -9,7 +9,7 @@
 [Scikit-learn](https://github.com/scikit-learn/scikit-learn), the machine learning library for Python, was first released in early 2010.  To date, there is only [1 woman in the top 100 contributors](https://scikit-learn.org/stable/about.html) to this library.  To address this gender imbalance, Andreas Mueller, core contributor for the library, initiated organizing an open source sprint in New York City with the local chapter of Women in Machine Learning and Data Science.  The first sprint was held in March 2017 and the second one was held in September of 2018.  This report summarizes and shares the impact of the two events.
 
 ## The Sprint Events
-Most attendees at these sprints were new to open source.  Andy identified issues that were labeled "easy" or "good first issue" prior to the event so participants could review and become familiar with them.  Prep work for the event included reviewing the [Contributing](https://scikit-learn.org/stable/developers/contributing.html) documentation.  
+Most attendees at these sprints were new to open source.  Andy identified issues that were [labeled](https://github.com/scikit-learn/scikit-learn/labels) "easy" or "good first issue" prior to the event so participants could review and become familiar with them.  Prep work for the event included reviewing the [Contributing](https://scikit-learn.org/stable/developers/contributing.html) documentation.  
 
 
 ## Impact Report for WiMLDS Scikit-learn Sprints
@@ -50,23 +50,28 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 
 
 ## Summary of Impact for 2018
-A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint. 
+A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint:
+a)  4 were merged at the sprint
+b)  4 were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
+c)  Follow up was initiated with the contributors who had begun work on the remaining 12 open PRs.  Most contributors were non-responsive, and these additional PRs were handled by the sprint organizer (me) or other members of the WiMLDS meetup group.  
 
 
 ## Summary of Impact for 2017
 In 2017, <a style="color:blue"><b> **5** PRs were merged in </b> </a>.  Four PRs were merged at the sprint, and one was merged post-sprint.  The PR merged post-sprint was by [Sergul Aydore](https://twitter.com/sergulaydore).  After participating in this sprint in March of 2017, Sergul then went on to participate in the [August 2018 scikit-learn sprint](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) in Paris.  
 
-## Scikit-learn Issues Resolved
-Issues were marked "Easy" / "Beginner" prior to the sprint.  
-Here is a list of issues that were resolved and PRs that were merged in:
+## Scikit-learn Issues Resolved 
+This is a list of issues that were resolved and PRs that were open/closed/merged in:
 - [Tracking Sheet of Pull Requests](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing)
 
 ## Lessons Learned
-- follow-up, contributing documentation updated
+- follow-up, 
+- contributing documentation updated to include verbage for [stalled PRs](https://github.com/scikit-learn/scikit-learn/pull/12894#pullrequestreview-190969817).  
 
 
 ## Acknowledgments
-Special thanks to the following Reviewers for their speedy review, assistance and patience:
+Special thanks to the following Reviewers for their speedy review, assistance and patience:  
+- Joel Nothman
+- Qinmin 
 
 
 Special thanks to these members of the NYC WiMLDS community for following up on "abandoned" or "stalled" PRs:
