@@ -31,7 +31,7 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 | <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>5</b> </a> |<a style="color:red"><b>13</b> </a>|
 |                                           |          |           |                                                                       
 | PRs open  (e)                             | 4        | 7         |
-| PRs closed (by other PRs) (f)             | 10       | 12        |  
+| PRs closed (by merged PRs) (f)             | 10       | 12        |  
 |                                           |          |           |   
 | Attendees:  Initial Registrations         | 60       | 63        |
 | Attendees:  Participated                  | ~ 30     | 35        | 
