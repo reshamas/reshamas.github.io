@@ -63,3 +63,4 @@ In 2017, <a style="color:blue"><b> **5** PRs were merged in </b> </a>.  Four PRs
 ## References
 - [Interview with Andreas Mueller](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), 2017
 - [Tracking Sheet of PRs](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing)
+- [And Now, an Infuriating Statistic about Women and Coding](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/)
