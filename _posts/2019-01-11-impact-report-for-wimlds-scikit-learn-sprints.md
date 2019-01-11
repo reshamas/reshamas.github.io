@@ -58,6 +58,7 @@ In 2017, <a style="color:blue"><b> **5** PRs were merged in </b> </a>.  Four PRs
 - follow-up, contributing documentation updated
 
 
+## Acknowledgments
 
 
 ---
