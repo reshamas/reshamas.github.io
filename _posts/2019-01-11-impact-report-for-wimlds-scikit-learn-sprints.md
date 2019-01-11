@@ -49,20 +49,18 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 - (e)  this number represents the number of PRs from the sprint which are still open.
 - (f)  this number represents PRs that were opened, but then closed by the successful merge of another PR.  
 
-
-## Impact Summary for 2018
-A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint:  
-- 4 were merged at the sprint
-- 4 were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
-- Follow up was initiated with the contributors who had begun work on the remaining 12 open PRs.  Most contributors were non-responsive, and these additional PRs were handled by the sprint organizer (me) or other members of the WiMLDS meetup group.  
-
-
 ## Impact Summary for 2017
 In 2017, <a style="color:blue"><b> **5** PRs were merged in: </b> </a>  
 - 4 PRs were merged at the sprint
 - 1 PR was merged post-sprint without any follow-up
   - The PR merged post-sprint was by [Sergul Aydore](https://twitter.com/sergulaydore).  After participating in this sprint in March of 2017, Sergul then went on to participate in the [August 2018 scikit-learn sprint](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) in Paris.  
 - No follow-up of open PRs was conducted. 
+
+## Impact Summary for 2018
+A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint:  
+- 4 were merged at the sprint
+- 4 were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
+- Follow up was initiated with the contributors who had begun work on the remaining 12 open PRs.  Most contributors were non-responsive, and these additional PRs were handled by the sprint organizer (me) or other members of the WiMLDS meetup group.  
 
 ## Scikit-learn Issues and PRs
 This is a list of issues that were resolved and PRs that were opened/closed/merged in:
