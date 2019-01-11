@@ -51,9 +51,9 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 
 ## Summary of Impact for 2018
 A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint:  
-a)  4 were merged at the sprint
-b)  4 were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
-c)  Follow up was initiated with the contributors who had begun work on the remaining 12 open PRs.  Most contributors were non-responsive, and these additional PRs were handled by the sprint organizer (me) or other members of the WiMLDS meetup group.  
+- 4 were merged at the sprint
+- 4 were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
+- Follow up was initiated with the contributors who had begun work on the remaining 12 open PRs.  Most contributors were non-responsive, and these additional PRs were handled by the sprint organizer (me) or other members of the WiMLDS meetup group.  
 
 
 ## Summary of Impact for 2017
