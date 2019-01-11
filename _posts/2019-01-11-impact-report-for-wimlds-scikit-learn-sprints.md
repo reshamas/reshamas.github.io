@@ -57,7 +57,10 @@ A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result 
 
 
 ## Impact Summary for 2017
-In 2017, <a style="color:blue"><b> **5** PRs were merged in </b> </a>.  Four PRs were merged at the sprint, and one was merged post-sprint.  The PR merged post-sprint was by [Sergul Aydore](https://twitter.com/sergulaydore).  After participating in this sprint in March of 2017, Sergul then went on to participate in the [August 2018 scikit-learn sprint](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) in Paris.  
+In 2017, <a style="color:blue"><b> **5** PRs were merged in </b> </a>:  
+- 4 PRs were merged at the sprint
+- 1 PR was merged post-sprint
+- The PR merged post-sprint was by [Sergul Aydore](https://twitter.com/sergulaydore).  After participating in this sprint in March of 2017, Sergul then went on to participate in the [August 2018 scikit-learn sprint](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) in Paris.  
 
 ## Scikit-learn Issues Resolved 
 This is a list of issues that were resolved and PRs that were open/closed/merged in:
