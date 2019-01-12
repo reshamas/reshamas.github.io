@@ -32,13 +32,14 @@ comments: false
     - Blog:  [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/)
     - GitHub repo:  [kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg)
 
+## Git Workshops
+- [Intro to Git: workshop content](https://github.com/reshamas/git-intro-workshop)
+- [Getting Started with Git: video](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID])
 
 ## Workshops
-- [Intro to Git Workshop](https://github.com/reshamas/git-intro-workshop)
 - [PyGotham 2016](https://github.com/reshamas/pygotham-2016)
 - [Visual Studio Code Workshop](https://github.com/nyc-pyladies/2018-vsc-editor) Dec 2018
 
 ## Video Tutorials
-- [Getting Started with Git](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID])
 - [Create an Instance on AWS](https://www.youtube.com/watch?v=_dRXVp_kk7w&t=14s)
 
