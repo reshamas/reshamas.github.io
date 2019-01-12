@@ -59,9 +59,9 @@ In 2017, <a style="color:blue"><b> **5** PRs were merged in: </b> </a>
 
 ## Impact Summary for 2018
 A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint:  
-- 4 were merged at the sprint
-- 4 were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
-- Follow up was initiated with the contributors who had begun work on the remaining 12 open PRs.  Most contributors were non-responsive, and these additional PRs were handled by the sprint organizer (me) or other members of the WiMLDS meetup group.  
+- **4** were merged at the sprint
+- **4** were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
+- To date, **5** PRs were merged by the sprint organizer (me) or members of the WiMLDS community.  None of the initial sprint participants merged in a PR after follow-up.   
 
 ## Scikit-learn Issues and PRs
 This is a list of issues that were resolved and PRs that were opened/closed/merged in:
@@ -71,7 +71,7 @@ This is a list of issues that were resolved and PRs that were opened/closed/merg
 - **Create tracking spreadsheet during the event**:  this was created after the event, and having it available during the sprint would have saved time in identifying which PRs were opened and who the contributors were. 
 - **Label Issues**:  issues that were worked on during the sprint could be tagged as "sprint" and included "#wimlds" to find and track them
 - **Duration**:  sprint was 6 hours (10am to 4pm); extend duration of sprint to 6pm for more time  
-- **Follow-up**:  follow-up began one month post-sprint which was too long after the event.  Sprint participants were contacted via event email, GitHub pinging, and individual email via meetup account and personal email, where available.  The majority of sprint participants were non-responsive to follow-up communication, and none of those contacted completed their PR.  
+- **Follow-up**:  follow-up began one month post-sprint which was too long after the event.  Sprint participants were contacted via event email, GitHub pinging, and individual email via meetup account and personal email, where available.  The majority of sprint participants were non-responsive to follow-up communication, and none of those contacted completed their PR.   
   - **Contributing documentation**:  As a result of this abeyance, the documentation was updated to include verbage for addressing [stalled PRs](https://github.com/scikit-learn/scikit-learn/pull/12894#pullrequestreview-190969817).  
 - **Goals:**  set a goal to complete all open PRs from the sprint within 30 to 60 days and issue a sprint impact report within 60 days.
 
