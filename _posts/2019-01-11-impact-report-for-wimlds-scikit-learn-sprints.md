@@ -18,7 +18,7 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 |                                       | Sprint 2017   | Sprint 2018   |
 |---------------------------------------|---------------|---------------|
 | Report date                           | 11-Jan-2019   | 11-Jan-2019   |
-| Sprint event date                     | 04-Mar-2017   | 29-Sep-2018   |
+| Sprint date                           | 04-Mar-2017   | 29-Sep-2018   |
 | Location                              | New York, NY  | New York, NY  |
 | GitHub repository link                | [nyc-2017-scikit-sprint](https://github.com/WiMLDS/nyc-2017-scikit-sprint)| [nyc-2018-scikit-sprint](https://github.com/WiMLDS/nyc-2018-scikit-sprint)     |
 |                                       |               |           |
