@@ -51,8 +51,8 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 
 ## Impact Summary for 2017
 In 2017, <a style="color:blue"><b> **5** PRs were merged in: </b> </a>  
-- 4 PRs were merged at the sprint
-- 1 PR was merged post-sprint without any follow-up
+- **4** PRs were merged at the sprint
+- **1** PR was merged post-sprint without any follow-up
   - The PR merged post-sprint was by [Sergul Aydore](https://twitter.com/sergulaydore).  After attending this sprint, Sergul then went on to participate in the August 2018 [scikit-learn core sprint for advanced contributors](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) in Paris.  Sergul states:  
   >Participating in the March 2017 sprint helped me learn the basics and I was able to contribute to more complicated PRs in the August 2018 sprint. 
 - No follow-up of open PRs was conducted. 
