@@ -87,6 +87,9 @@ Special thanks to these members of the NYC WiMLDS community for following up on 
 - ?
 - ?
 
+## Contact
+I can be contacted via email: reshama@wimlds.org
+
 ---
 ## References
 - [Interview with Andreas Mueller](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), 2017
