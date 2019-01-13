@@ -81,9 +81,9 @@ This is a list of issues that were resolved and PRs that were opened/closed/merg
 
 ## Acknowledgments
 Special thanks to the following Reviewers for their speedy review, assistance and patience:  
-- Joel Nothman
-- Hanmin Qin 
-- Adrin Jalali
+- [Joel Nothman](https://www.linkedin.com/in/joel-nothman-03a6ab97/)
+- [Hanmin Qin](https://twitter.com/Hanmin_Qin)
+- [Adrin Jalali](https://www.linkedin.com/in/adrinjalali/)
 - ?
 
 Special thanks to these members of the NYC WiMLDS community for following up on "abandoned" or "stalled" PRs:
