@@ -58,7 +58,7 @@ In 2017, <a style="color:blue"><b> **5** PRs were merged in: </b> </a>
 - No follow-up of open PRs was conducted. 
 
 ## Impact Summary for 2018
-A total of <a style="color:blue"><b>13 PRs were merged </b> </a> in as a result of the 2018 sprint:  
+A total of <a style="color:blue"><b>14 PRs were merged </b> </a> in as a result of the 2018 sprint:  
 - **4** were merged at the sprint
 - **4** were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
 - To date, **6** PRs were merged by the sprint organizer (me) or members of the WiMLDS community.  None of the initial sprint participants merged in a PR after follow-up.   
