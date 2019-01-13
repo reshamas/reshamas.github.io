@@ -29,7 +29,7 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 | PRs [MRG] at sprint (a)                   | 4        | 4         |
 | PRs [MRG] post-sprint (w/o follow-up) (b) | 1        | 4         | 
 | PRs [MRG] post-sprint (w/follow-up) (c)   | 0        | 6         |                                                                   
-| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>5</b> </a> |<a style="color:red"><b>13</b> </a>|
+| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>5</b> </a> |<a style="color:red"><b>14</b> </a>|
 |                                           |          |           |                                                                       
 | PRs open  (e)                             | 4        | 6         |
 | PRs closed (by merged PRs) (f)             | 10       | 13        |  
