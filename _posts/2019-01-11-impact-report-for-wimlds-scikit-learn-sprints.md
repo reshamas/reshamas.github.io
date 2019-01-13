@@ -87,8 +87,8 @@ Special thanks to the following Reviewers for their speedy review, assistance an
 - ?
 
 Special thanks to these members of the NYC WiMLDS community for following up on "abandoned" or "stalled" PRs:
-- Melissa Ferrari
-- ?
+- [Melissa Ferrari](https://twitter.com/Ferrari3Melissa)
+- [Tashay Green](https://twitter.com/tashay_g)
 - ?
 
 ## Contact
