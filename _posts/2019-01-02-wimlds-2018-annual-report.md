@@ -148,8 +148,8 @@ A chapter is considered inactive if they did not organize at least one event in 
 
 ## Additional Notes
 - The Delhi, India chapter of WiMLDS uses these 2 forums for communication and events:
- - [Delhi WiMLDS Meetup Group](https://www.meetup.com/Delhi-Women-in-Machine-Learning-Data-Science/) (179 members, 5 events in 2018)
- - [Delhi FB page](https://www.facebook.com/delhiwimlds/) (1150 followers, 9 events listed for 2018)
+  - [Delhi WiMLDS Meetup Group](https://www.meetup.com/Delhi-Women-in-Machine-Learning-Data-Science/) (179 members, 5 events in 2018)
+  - [Delhi FB page](https://www.facebook.com/delhiwimlds/) (1150 followers, 9 events listed for 2018)
  
 ## Contact
 I can be reached at reshama@wimlds.org
