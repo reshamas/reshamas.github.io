@@ -131,6 +131,22 @@ Here are some key observations:
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/N88e" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
+### Events, by Year
+
+#### Number of Meetup Events By Year (all chapters combined)
+
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1ZynFvDe8RUSoPv0hlnUc4u7T3LjeGI63/page/WYZf" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+#### Number of Meetups Organized, by Chapter (>=3 events organized in 2018)
+
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1ZynFvDe8RUSoPv0hlnUc4u7T3LjeGI63/page/ASZf" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
+#### Table of Meetup Events in 2018, by Chapter
+
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1ZynFvDe8RUSoPv0hlnUc4u7T3LjeGI63/page/ly3f" frameborder="0" style="border:0" allowfullscreen></iframe>
+
+
 ## Inactive Chapters
 A chapter is considered inactive if they did not organize at least one event in 2018.  The following chapters are currently considered inactive:  
 1.  Detroit Metro, Michigan, USA
