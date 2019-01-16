@@ -32,11 +32,11 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 | **PULL REQUESTS (PRs)**                   |          |           |
 | PRs [MRG] at sprint (a)                   | 4        | 4         |
 | PRs [MRG] post-sprint (w/o follow-up) (b) | 1        | 4         | 
-| PRs [MRG] post-sprint (w/follow-up) (c)   | 0        | 6         |                                                                   
-| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>5</b> </a> |<a style="color:red"><b>14</b> </a>|
+| PRs [MRG] post-sprint (w/follow-up) (c)   | 0        | 7         |                                                                   
+| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>5</b> </a> |<a style="color:red"><b>15</b> </a>|
 |                                           |          |           |                                                                       
-| PRs open  (e)                             | 4        | 6         |
-| PRs closed (by merged PRs) (f)             | 10       | 13        |  
+| PRs open  (e)                             | 4        | 5         |
+| PRs closed (by merged PRs) (f)             | 10       | 14        |  
 |                                           |          |           |   
 | Attendees:  Initial Registrations         | 60       | 63        |
 | Attendees:  Participated                  | ~ 30     | 35        | 
@@ -62,10 +62,10 @@ In 2017, <a style="color:blue"><b> **5** PRs were merged in: </b> </a>
 - No follow-up of open PRs was conducted. 
 
 ## Impact Summary for 2018
-A total of <a style="color:blue"><b>14 PRs were merged </b> </a> in as a result of the 2018 sprint:  
+A total of <a style="color:blue"><b>15 PRs were merged </b> </a> in as a result of the 2018 sprint:  
 - **4** were merged at the sprint
 - **4** were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
-- To date, **6** PRs were merged by the sprint organizer (me) or members of the WiMLDS community.  None of the initial sprint participants merged in a PR after follow-up.   
+- To date, **7** PRs were merged by the sprint organizer (me) or members of the WiMLDS community.  None of the initial sprint participants merged in a PR after follow-up.   
 
 ## Scikit-learn Issues and PRs
 This is a list of issues that were resolved and PRs that were opened/closed/merged in:
