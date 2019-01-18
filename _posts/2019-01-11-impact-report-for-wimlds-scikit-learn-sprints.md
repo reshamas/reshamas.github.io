@@ -67,6 +67,18 @@ A total of <a style="color:blue"><b>15 PRs were merged </b> </a> in as a result 
 - **4** were updated and merged post-sprint by attendees who submitted of their own accord, without any follow-up.
 - To date, **7** PRs were merged by the sprint organizer (me) or members of the WiMLDS community.  None of the initial sprint participants merged in a PR after follow-up.   
 
+## Non-measureable Impact
+Aside from the number of PRs that were merged, there is non-quantifiable impact of the open source sprint. Some examples include:
+- learning to set up virtual environment
+- using Git (fork, clone, branch, fetching another's PR)
+- introduction to tests such as:  flake8 (linting, formatting), pytest, "continuous integration"
+- navigating through the codebase structure of scikit-learn
+- digging into functions, learning about errors
+- learning about unit tests
+- interacting with contributors on GitHub
+- networking
+- having fun
+
 ## Scikit-learn Issues and PRs
 This is a list of issues that were resolved and PRs that were opened/closed/merged in:
 - [Tracking Sheet of Pull Requests](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing)
