@@ -11,3 +11,4 @@ comments: false
 
 ## Community
 - [Neo4j Featured Community Member](https://neo4j.com/blog/this-week-in-neo4j-deep-feature-learning-for-graphs-decision-trees-customer-journey-analytics/), 2018
+- [Interview with Co-Founder and Researcher at Fast.ai: Dr. Rachel Thomas](https://hackernoon.com/interview-with-the-co-founder-and-researcher-at-fast-ai-dr-rachel-thomas-b00e1702a28a), 2018
