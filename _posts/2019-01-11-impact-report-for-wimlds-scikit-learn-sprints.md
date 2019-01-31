@@ -80,7 +80,7 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 - networking
 - having fun
 
-This sprints were held in New York city.  The 2018 event was advertised on [twitter](https://twitter.com/amuellerml/status/1037001088371752960).  Two sprint participants from Europe were visiting NYC that week, had learned of the event via twitter, and joined:  Sandra Mitrovic (Belgium) and Alice Martin (France).
+These sprints were held in New York city.  The 2018 event was advertised on [twitter](https://twitter.com/amuellerml/status/1037001088371752960).  Two sprint participants from Europe were visiting NYC that week, had learned of the event via twitter, and joined:  Sandra Mitrovic (Belgium) and Alice Martin (France).
 
 ## Scikit-learn Issues and PRs
 This is a list of issues that were resolved and PRs that were opened/closed/merged in:
