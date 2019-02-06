@@ -135,6 +135,7 @@ If there is not a local chapter, consider starting one and enlist the aid of oth
 | [Widening Natural Language Processing](http://www.winlp.org) | [@WiNLPWorkshop](https://twitter.com/winlpworkshop) |
 | [Women in Big Data](https://www.womeninbigdata.org) | [@DataWomen](https://twitter.com/DataWomen)   |
 | [Women in Computer Vision Workshop](https://wicvworkshop.github.io) | [@WiCVworkshop](https://twitter.com/WiCVworkshop) |
+| [Women in Linux](http://www.womeninlinux.com/) | [@WomenInLinux](https://twitter.com/WomenInLinux) |
 | [Women in Machine Learning & Data Science](http://wimlds.org) | [@wimlds](https://twitter.com/wimlds)   |
 | [Women in Tech Summit](https://womenintechsummit.net) | [@WomenTechSummit](https://twitter.com/WomenTechSummit)  |
 | [Women Who Code](https://www.womenwhocode.com) | [@WomenWhoCode](https://twitter.com/womenwhocode)   |
