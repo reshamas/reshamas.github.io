@@ -24,7 +24,8 @@ Most attendees at these sprints were new to open source.  Andy identified issues
 | Report date                           | 11-Jan-2019   | 11-Jan-2019   |
 | Sprint date                           | 04-Mar-2017   | 29-Sep-2018   |
 | Location                              | New York, NY  | New York, NY  |
-| GitHub repository link                | [nyc-2017-scikit-sprint](https://github.com/WiMLDS/nyc-2017-scikit-sprint)| [nyc-2018-scikit-sprint](https://github.com/WiMLDS/nyc-2018-scikit-sprint)     |
+| Open source library                   | [scikit-learn](https://github.com/scikit-learn/scikit-learn) | [scikit-learn](https://github.com/scikit-learn/scikit-learn)  |
+| Sprint repository link                | [nyc-2017-scikit-sprint](https://github.com/WiMLDS/nyc-2017-scikit-sprint)| [nyc-2018-scikit-sprint](https://github.com/WiMLDS/nyc-2018-scikit-sprint)     |
 |                                       |               |           |
 | Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml)   |[Andreas Mueller](https://twitter.com/amuellerml)          |
 | Organizer      | [Reshama Shaikh](https://twitter.com/reshamas)   | [Reshama Shaikh](https://twitter.com/reshamas)              |
