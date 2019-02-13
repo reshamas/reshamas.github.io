@@ -150,10 +150,9 @@ Here are some key observations:
 ## Inactive Chapters
 A chapter is considered inactive if they did not organize at least one event in 2018.  The following chapters are currently considered inactive:  
 1.  Detroit Metro, Michigan, USA
-2.  Corpus Christie, Texas, USA
-3.  Lagos, Nigeria
-4.  Sao Paolo, Brazil
-5.  Kigali, Rwanda
+2.  Lagos, Nigeria
+3.  Sao Paolo, Brazil
+4.  Kigali, Rwanda
 
 ## Data Table
 <p style="color:orange"><b>Note:  You can click on "Full Screen" icon on lower right to see enlarged image.  </b></p>
@@ -176,3 +175,9 @@ I can be reached at reshama@wimlds.org
 - [Overview of WiMLDS Chapters](https://reshamas.github.io/overview-of-wimlds-chapters/) Oct 2018
 - [Video](https://spark.adobe.com/video/4qLqIbJjt55PB) celebrating WiMLDS 5th Anniversary (10-Dec-2018)
 <iframe src="https://spark.adobe.com/video/4qLqIbJjt55PB/embed" width="600" height="450" frameborder="0" allowfullscreen></iframe>
+
+## Updates
+- 13-Feb-2019:  move Corpus Christie from "inactive" to "active".  The chapter did organize [two events](http://faculty.tamucc.edu/mrahnemoonfar/bina/outreach/) in 2018:
+    - IBM visits our Lab, March 2018
+    - Girls code camp: Women in Technology (WITS) Unmanned Ground Vehicles (UGVs), Summer 2018
+    
