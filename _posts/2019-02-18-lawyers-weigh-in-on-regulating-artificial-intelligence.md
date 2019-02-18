@@ -2,7 +2,7 @@
 
 
 <p float="left">
-  <img src="../assets/images/ai_law_fordham.jpg" width="50%" height="50%" style="border:0px;margin:0px">
+  <img src="../assets/images/ai_law_fordham.jpg" width="80%" height="80%" style="border:0px;margin:0px">
 </p>
 <p>
 </p>
