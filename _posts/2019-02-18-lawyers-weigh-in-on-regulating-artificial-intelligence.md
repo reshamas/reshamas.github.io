@@ -87,7 +87,7 @@ These are possible scenarios:
 2. Improve accuracy (add more data, better learning)
 3. Blacklist (exclude problematic tags)
 4. Scrub to neutral (break problematic associations)
-5. Representativeness (create a statistically representative distribution for trianing data)
+5. Representativeness (create a statistically representative distribution for training data)
 6. Equal representative (create equal representative of all groups)
 
 Barocas made two insightful points:  
@@ -123,6 +123,13 @@ Waldman is both a law professor and sociologist.  He presents the following para
 
 ## Summary
 
+
+<p float="left">
+  <img src="../assets/images/ai_regulation.jpeg" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
+<p>
+</p>
+ 
 
 ---
 
