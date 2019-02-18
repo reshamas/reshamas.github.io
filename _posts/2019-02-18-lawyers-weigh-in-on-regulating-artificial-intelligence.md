@@ -2,13 +2,13 @@
 
 
 <p float="left">
-  <img src="../assets/images/ai_law_fordham.jpg" width="80%" height="80%" style="border:0px;margin:0px">
+  <img src="../assets/images/ai_law_fordham.jpg" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 <p>
 </p>
  
 
-### Intro
+## Intro
 
 Artificial intelligence (AI) is all the talks these days, with its doom and gloom, profits and perils. Everyone uses it (smartphone, Google search and more).  Many are perturbed about it, thinking it is a runaway train.  In case you are wondering if AI will take your job, this site will let you know the probability of that:  [Will Robots Take My Job](https://willrobotstakemyjob.com/).
 
@@ -21,11 +21,11 @@ Fordham Law School in New York City held a symposium on February 15, 2015 entitl
 The event was recorded.  Full proceedings will be published in Fall 2019.  [I will update this article with the links when they are available.]
 
 
-### Key Takeaways
+## Key Takeaways
 
 Here are the key takeaways from the 8-hour day:
 
-#### Complexity
+### Complexity
 - Law policy is complex
 - AI is changing so rapidly
 - Law should resist being overly technical or detailed on policy (Example:  European regulation spans over 2000 pages long.)
@@ -33,18 +33,18 @@ Here are the key takeaways from the 8-hour day:
 - Determine whether AI is really different.   Is there such a thing as “AI Exceptionalism”  is AI different?
 - AI law can draw on privacy and tort law 
 
-#### Stakeholders
+### Stakeholders
 - We [attorneys] are thinking about it.  
 - Use existing laws and expand them for AI 
 - The “younger” generation will push policy forward
 
-#### AI Liability and Compensation
+### AI Liability and Compensation
 - Insurance is one way to deal with damage from AI; establish compulsory insurance pools
 - Admission that AI policies are likely to be implemented only when the loss of life due to AI occurs
 
 
 
-### History of Law and AI
+## History of Law and AI
 The first lawsuit involving AI is:  
 
 [Judge Sides with Inventors in Massive Intellectual Property Case Against Disney, Fox, Paramount and Others, Allowing Cases to Continue](https://www.hbsslaw.com/cases/disney-marvel-mova-contour/pressrelease/mova-contour-ip-theft-judge-sides-with-inventors-in-massive-intellectual-property-case-against-disney-fox-paramount-and-others-allowing-cases-to-continue)
@@ -61,7 +61,7 @@ One approach to resolving AI related litigation is to bridge an old law to a new
 
 
 
-#### Law Policy Is Complex
+## Law Policy Is Complex
 [Iria Giuffrida,](https://www.linkedin.com/in/iriagiuffrida/) discusses the complexity of AI is related to the “challenges of interaction.”  AI systems are powered by Internet of Things (IOT) which are talking to each other all the time, yet the traditional approach to robot-related laws has been siloed.
 
 Giuffrida also raises the following points:
