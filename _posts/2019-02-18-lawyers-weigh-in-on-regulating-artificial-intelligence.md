@@ -22,7 +22,7 @@ Within the data science community, discourse on algorithm ethics are common-plac
 
 Fortunately, attorneys are also contributing to the overall discussion in AI.
 
-Fordham Law School in New York City held a symposium on February 15, 2015 entitled The Fordham Law Review and the Neuroscience and Law Center present Rise of the Machines: [Artificial Intelligence, Robotics, and the Reprogramming of Law](https://go.activecalendar.com/FordhamUniversity/site/law/event/rise-of-the-machines-artificial-intelligence-robotics-and-the-reprogramming-of-law). The last time I was in one room with over 100 attorneys was February 2015 at [Algorithms & Accountability Conference: NYU School of Law](https://www.law.nyu.edu/centers/ili/AlgorithmsConference)).  Life in NYC has its privileges, because the event was only 2 express subway stops from my apartment and it was free and open to the public.  
+Fordham Law School in New York City held a symposium on February 15, 2015 entitled The Fordham Law Review and the Neuroscience and Law Center present Rise of the Machines: [Artificial Intelligence, Robotics, and the Reprogramming of Law](https://go.activecalendar.com/FordhamUniversity/site/law/event/rise-of-the-machines-artificial-intelligence-robotics-and-the-reprogramming-of-law). The last time I was in one room with over 100 attorneys was February 2015 at [Algorithms & Accountability Conference: NYU School of Law](https://www.law.nyu.edu/centers/ili/AlgorithmsConference)).  The event was free and open to the public.  
 
 The event was recorded.  Full proceedings will be published in Fall 2019.  [I will update this article with the links when they are available.]
 
@@ -120,7 +120,9 @@ These are possible scenarios:
 5. Representativeness (create a statistically representative distribution for trianing data)
 6. Equal representative (create equal representative of all groups)
 
-
+Barocas made two insightful points:  
+1.  Anti-discrimination laws in the US have generably been ineffective.
+2.  If a group of people is being excluded, ask this other question:  *Why aren't people in this group?* and examine those causes.  
 
 
 ## Transparency, Accountability and Governance
@@ -139,9 +141,15 @@ There are three possible approaches to develop safety critical systems:
   - Look at the process and what it leads to
   - Cons:  it is an immature discipline
 
-Felten says all of the proposed approaches above are weak.
+Felten says all of the proposed approaches above are weak.  He suggests designing a system that is analyzable and governable.  
 
+## Privacy Paradox
+Presented by [Ari Ezra Waldman](https://twitter.com/ariezrawaldman)
 
+Waldman is both a law professor and sociologist.  He presents the following paradox:  
+- If we think that algorithm decisions are legitimate, we will continue to let those algorithms be used.
+- But, what *makes us feel* that these decisions are legitimate?
+- Once humans are removed from decision making process, legitimacy in algorithms drops.  And yet, people generally feel more comfortable with algorithms.  
 
 ## Definitions
 A **cyber security policy** outlines the assets you need to protect, the threats to those assets and the rules and controls for protecting them and your business. The policyshould inform your employees and approved users of their responsibilities to protect the technology and information assets of your business.
@@ -150,8 +158,13 @@ A **cyber security policy** outlines the assets you need to protect, the threats
 A **tort** is an act or omission that gives rise to injury or harm to another and amounts to a civil wrong for which courts impose liability. In the context of torts, "injury" describes the invasion of any legal right, whereas "harm" describes a loss or detriment in fact that an individual suffers.1 
 [ref](https://www.law.cornell.edu/wex/tort)
 
+The **Privacy Paradox**
+The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior – A systematic literature review
+[ref](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
 
-
+**Biometric Information Privacy Law**
+The Biometric Information Privacy Act (BIPA) was passed by the Illinois General Assembly on October 3, 2008. BIPA guards against the unlawful collection and storing of biometric information
+[ref](https://en.wikipedia.org/wiki/Biometric_Information_Privacy_Act)
 
 ## References
 
@@ -167,4 +180,7 @@ A **tort** is an act or omission that gives rise to injury or harm to another an
 - [Facebook and YouTube should have learned from Microsoft's racist chatbot
 ](https://www.cnbc.com/2018/03/17/facebook-and-youtube-should-learn-from-microsoft-tay-racist-chatbot.html)
 
-- [Edward Felten (Princeton University) talk at NeurIPS 2018](https://www.facebook.com/nipsfoundation/videos/neurips-2018-test-of-time-award-invited-talk/271569366878864/), 
+- [Edward Felten (Princeton University) talk at NeurIPS 2018](https://www.facebook.com/nipsfoundation/videos/neurips-2018-test-of-time-award-invited-talk/271569366878864/), Dec 2018
+
+- [U.S. Senator Schatz Introduces Bill to Protect Consumers’ Information Online](https://www.kitv.com/story/39632564/state-senator-schatz-introduces-bill-to-protect-consumers-information-online), Dec 2018
+
