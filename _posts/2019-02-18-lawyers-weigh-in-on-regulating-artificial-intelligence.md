@@ -197,3 +197,4 @@ prohibits "unfair or deceptive acts or practices in or affecting commerce."
 
 - [Judge Orders Amazon to Turn over Alexa in Murder Case](https://techcrunch.com/2018/11/14/amazon-echo-recordings-judge-murder-case/)
 
+- [The Malicious Use of Artificial Intelligence](https://maliciousaireport.com), Feb 2017
