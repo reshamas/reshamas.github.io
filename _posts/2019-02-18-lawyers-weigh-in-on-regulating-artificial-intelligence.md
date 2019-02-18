@@ -119,9 +119,14 @@ Presented by [Ari Ezra Waldman](https://twitter.com/ariezrawaldman)
 Waldman is both a law professor and sociologist.  He presents the following paradox:  
 - If we think that algorithm decisions are legitimate, we will continue to let those algorithms be used.
 - But, what *makes us feel* that these decisions are legitimate?
-- Once humans are removed from decision making process, legitimacy in algorithms drops.  And yet, people generally feel more comfortable with algorithms.  
+- Once humans are removed from decision making process, legitimacy in algorithms drops.  And yet, people generally feel more comfortable with algorithms.
 
-## Definitions
+## Summary
+
+
+---
+
+## Definitions / Laws
 A **cyber security policy** outlines the assets you need to protect, the threats to those assets and the rules and controls for protecting them and your business. The policyshould inform your employees and approved users of their responsibilities to protect the technology and information assets of your business.
 [ref](https://www.business.gov.au/risk-management/cyber-security/creating-a-cyber-security-policy-for-your-business)
 
@@ -136,21 +141,21 @@ The privacy paradox – Investigating discrepancies between expressed privacy co
 >“Work made for hire” is a doctrine created by U.S. Copyright Law. Generally, the person who creates a work is considered its “author” and the automatic owner of copyright in that work. However, under the work made for hire doctrine, your employer or the company that has commissioned your work, not you, is considered the author and automatic copyright owner of your work.
 [ref](https://www.owe.com/resources/legalities/4-what-is-work-made-for-hire/)
 
-#### EU General Data Protection Regulation (GDPR) 
+### EU General Data Protection Regulation (GDPR) 
 a new set of rules designed to give EU citizens more control over their personal data
 [ref](https://eugdpr.org/)
 
 
-#### Biometric Information Privacy Law
+### Biometric Information Privacy Law
 The Biometric Information Privacy Act (BIPA) was passed by the Illinois General Assembly on October 3, 2008. BIPA guards against the unlawful collection and storing of biometric information
 [ref](https://en.wikipedia.org/wiki/Biometric_Information_Privacy_Act)
 
-#### Gramm-Leach-Bliley Act (GLBA)
+### Gramm-Leach-Bliley Act (GLBA)
 Protects the personal data of individuals
 [ref](https://www.epic.org/privacy/glba/)
 
 
-#### Unfair, Deceptive or Abusive Acts and Practices (UDAP)
+### Unfair, Deceptive or Abusive Acts and Practices (UDAP)
 prohibits "unfair or deceptive acts or practices in or affecting commerce." 
 [ref](https://www.aba.com/Compliance/Pages/compliance_UDAP.aspx#)
 
