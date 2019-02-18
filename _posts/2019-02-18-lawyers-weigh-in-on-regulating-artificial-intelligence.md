@@ -39,7 +39,7 @@ Here are the key takeaways and perspectives from attorneys regarding AI ethics a
   - Use existing laws and expand them for AI 
   - AI law can draw on privacy, tort and copyright law
 - Since people are more biased than AI, the best plan of action is to combine human input with AI
-- Interconnectedness:  AI is connected by various technologies:  software, sensors, developers, users and more. Many parties need to be involved in the ethnics and liability discusssions
+- Interconnectedness:  AI is connected by various technologies:  software, sensors, developers, users and more. Many parties need to be involved in the ethics and liability discusssions
 
 ### Stakeholders
 - Attorneys are thinking about it
@@ -48,9 +48,12 @@ Here are the key takeaways and perspectives from attorneys regarding AI ethics a
 - Admission by attorneys that the law has been slow to respond because many legal jobs can be replaced by AI automation 
 
 ### AI Liability and Compensation
+- <p style="color:red">Not all harm from robots and AI is predictable </p>
 - Not all harm from robots and AI is predictable
 - Insurance is one way to deal with damage from AI; establish compulsory insurance pools
 - Admission by attorneys that AI policies are likely to be implemented only when the loss of life due to AI occurs
+
+
 
 
 ## Law Policy Is Complex
