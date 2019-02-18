@@ -47,34 +47,12 @@ Here are the key takeaways from the 8-hour symposium:
 - The US government needs to invest more in cybersecurity over building a border wall as cybersecurity poses a greater threat to the country. 
 
 ### AI Liability and Compensation
+- Not all harm from robots and AI is predictable.  
 - Insurance is one way to deal with damage from AI; establish compulsory insurance pools.
 - Admission by attorneys that AI policies are likely to be implemented only when the loss of life due to AI occurs.
 
 
-## History of Law and AI
-The first lawsuit involving AI is:  
-
-[Judge Sides with Inventors in Massive Intellectual Property Case Against Disney, Fox, Paramount and Others, Allowing Cases to Continue](https://www.hbsslaw.com/cases/disney-marvel-mova-contour/pressrelease/mova-contour-ip-theft-judge-sides-with-inventors-in-massive-intellectual-property-case-against-disney-fox-paramount-and-others-allowing-cases-to-continue)
->The lawsuits, originally filed in 2017, state that defendants knowingly used Contour to make high-grossing movies including Guardians of the Galaxy, Avengers: Age of Ultron, Terminator Genisys, Deadpool, Beauty and the Beast, the Rise of the Tomb Raider videogame, and others, without authorization from Rearden LLC and Rearden Mova LLC, the plaintiffs in the action and inventors of the technology. 
-
-[Disney & Studios Can’t Dodge Claims Over Stolen Technology
-](https://www.courthousenews.com/disney-studios-cant-dodge-claims-over-stolen-technology/)
-
-WMFH (Work Made For Hire) [Law](https://www.owe.com/resources/legalities/4-what-is-work-made-for-hire/)
->“Work made for hire” is a doctrine created by U.S. Copyright Law. Generally, the person who creates a work is considered its “author” and the automatic owner of copyright in that work. However, under the work made for hire doctrine, your employer or the company that has commissioned your work, not you, is considered the author and automatic copyright owner of your work.
-
-One approach to resolving AI related litigation is to bridge an old law to a new one.
-
-
-
-
 ## Law Policy Is Complex
-[Iria Giuffrida,](https://www.linkedin.com/in/iriagiuffrida/) discusses the complexity of AI is related to the “challenges of interaction.”  AI systems are powered by Internet of Things (IOT) which are talking to each other all the time, yet the traditional approach to robot-related laws has been siloed.
-
-Giuffrida also raises the following points:
-- 
-
-
 [Huu Nguyen](https://www.linkedin.com/in/hiep256/), a computer scientist turned attorney states:
 We as programmers, lawyers, are **ALL RESPONSIBLE**.  Let’s figure out how to deal with it.
 - AI should be safe
@@ -91,15 +69,9 @@ Nguyen shares the example of a coffee maker with AI capability.  If the coffee m
 - Sensor maker
 
 Options:
-Test it  (has its own challenges with any number of possible scenarios, impossible to anticipate and test them all)
-Release the transcript that the AI product was learned from (maybe AI has first amendment rights? How about copyright for the company?)
+- Test it  (has its own challenges with any number of possible scenarios, impossible to anticipate and test them all)
+- Release the transcript that the AI product was learned from (maybe AI has first amendment rights? How about copyright for the company?)
 
-
-
-
-
-
-[Judge Orders Amazon to Turn over Alexa in Murder Case](https://techcrunch.com/2018/11/14/amazon-echo-recordings-judge-murder-case/)
 
 ## Dealing with Biases in Machine Learning
 Presented by [Solon Barocas](https://twitter.com/s010n), Professor of Information Science at Cornell University
@@ -161,6 +133,10 @@ The **Privacy Paradox**
 The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior – A systematic literature review
 [ref](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
 
+### Work Made For Hire (WMFH) 
+>“Work made for hire” is a doctrine created by U.S. Copyright Law. Generally, the person who creates a work is considered its “author” and the automatic owner of copyright in that work. However, under the work made for hire doctrine, your employer or the company that has commissioned your work, not you, is considered the author and automatic copyright owner of your work.
+[ref](https://www.owe.com/resources/legalities/4-what-is-work-made-for-hire/)
+
 #### EU General Data Protection Regulation (GDPR) 
 a new set of rules designed to give EU citizens more control over their personal data
 [ref](https://eugdpr.org/)
@@ -200,4 +176,6 @@ prohibits "unfair or deceptive acts or practices in or affecting commerce."
 ](https://www.cnbc.com/2018/03/17/facebook-and-youtube-should-learn-from-microsoft-tay-racist-chatbot.html), Mar 2018
 
 - [Algorithms & Accountability Conference: NYU School of Law](https://www.law.nyu.edu/centers/ili/AlgorithmsConference), Feb 2015
+
+- [Judge Orders Amazon to Turn over Alexa in Murder Case](https://techcrunch.com/2018/11/14/amazon-echo-recordings-judge-murder-case/)
 
