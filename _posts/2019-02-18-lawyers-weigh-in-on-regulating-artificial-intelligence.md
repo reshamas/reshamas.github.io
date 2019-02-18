@@ -46,6 +46,7 @@ Here are the key takeaways from the 8-hour symposium:
 ### Stakeholders
 - Attorneys are thinking about it.
 - The “younger” generation will push policy forward, along with their educators. 
+- The US government needs to invest more in cybersecurity over building a border wall as cybersecurity poses a greater threat to the country. 
 
 ### AI Liability and Compensation
 - Insurance is one way to deal with damage from AI; establish compulsory insurance pools.
