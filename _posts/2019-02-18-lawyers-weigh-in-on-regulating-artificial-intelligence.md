@@ -62,7 +62,7 @@ We as programmers, lawyers, are **ALL RESPONSIBLE**.  Let’s figure out how to 
 - AI should be ethical (but that varies, in USA and China)
 - We need Accountability, Controls and Oversight (that means we need people to oversee AI)
 - Law students [are the next generation] and they will deal with what is next.
-- Cyber policies (cover a business' liability for a data breach in which the firm's customers' personal information, such as Social Security or credit card numbers, is exposed or stolen by a hacker or other criminal who has gained access to the firm's electronic network.) exist, but no one is following them.  More engagement would be good. 
+- **Cyber policies** (cover a business' liability for a data breach in which the firm's customers' personal information, such as Social Security or credit card numbers, is exposed or stolen by a hacker or other criminal who has gained access to the firm's electronic network.) **exist, but no one is following them.**  More engagement would be good. 
 
 Nguyen shares the example of a coffee maker with AI capability.  If the coffee made by this machine is too hot and burns the person, who is liable?
 - User, who said “hot”
