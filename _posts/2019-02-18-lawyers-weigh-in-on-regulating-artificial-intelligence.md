@@ -43,6 +43,7 @@ Here are the key takeaways and perspectives from attorneys regarding AI ethics a
 - Attorneys are thinking about it.
 - The “younger” generation will push policy forward, along with their educators. 
 - The US government needs to invest more in cybersecurity over building a border wall as cybersecurity poses a greater threat to the country. 
+- Admission by attorneys that the law has been slow to respond because many legal jobs can be replaced by AI automation.  
 
 ### AI Liability and Compensation
 - Not all harm from robots and AI is predictable.  
