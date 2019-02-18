@@ -10,7 +10,7 @@
 
 ## Intro
 
-Artificial intelligence (AI) is all the talks these days, with its doom and gloom, profits and perils. Everyone uses it (smartphone, Google search and more).  Many are perturbed about it, thinking it is a runaway train.  In case you are wondering if AI will take your job, this site will let you know the probability of that:  [Will Robots Take My Job](https://willrobotstakemyjob.com/).
+Artificial intelligence (AI) is all the talks these days, with its doom and gloom, profits and perils. Everyone uses it (smartphone, Google search and more).  Many are perturbed about it, thinking it is a runaway train.  In case you are wondering if AI will take your job, this site will let you know the probability of that scenario:  [Will Robots Take My Job](https://willrobotstakemyjob.com/)
 
 >*Aside:*  for statisticians, the probability is 22%.
 
