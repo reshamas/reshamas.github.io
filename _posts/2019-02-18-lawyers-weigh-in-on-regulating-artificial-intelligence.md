@@ -4,6 +4,8 @@
 <p float="left">
   <img src="../assets/images/ai_law_fordham.jpg" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
+
+
 <p>
 </p>
  
@@ -127,6 +129,7 @@ Waldman is both a law professor and sociologist.  He presents the following para
 <p float="left">
   <img src="../assets/images/ai_regulation.jpg" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
+
 <p>
 </p>
  
