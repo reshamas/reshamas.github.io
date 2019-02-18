@@ -26,22 +26,21 @@ The event was recorded.  Full proceedings will be published in Fall 2019.  [I wi
 Here are the key takeaways from the 8-hour day:
 
 ### Complexity
-- Law policy is complex
-- AI is changing so rapidly
+- Law policy is complex.
+- AI is changing so rapidly.
 - Law should resist being overly technical or detailed on policy (Example:  European regulation spans over 2000 pages long.)
   - Example:  waiting for SCC to make decision on what blockchain is.  And then blockchain changes their technology to avoid the decision, reality of what is happening
-- Determine whether AI is really different.   Is there such a thing as “AI Exceptionalism”  is AI different?
-- AI law can draw on privacy and tort law 
+- Determine whether AI is really different.   Is there such a thing as “AI Exceptionalism”?  Or can we utilize existing laws?
+  - AI law can draw on privacy, tort and copyright law.
 
 ### Stakeholders
-- We [attorneys] are thinking about it.  
+- Attorneys are thinking about it.
 - Use existing laws and expand them for AI 
-- The “younger” generation will push policy forward
+- The “younger” generation will push policy forward, along with educators. 
 
 ### AI Liability and Compensation
-- Insurance is one way to deal with damage from AI; establish compulsory insurance pools
-- Admission that AI policies are likely to be implemented only when the loss of life due to AI occurs
-
+- Insurance is one way to deal with damage from AI; establish compulsory insurance pools.
+- Admission that AI policies are likely to be implemented only when the loss of life due to AI occurs.
 
 
 ## History of Law and AI
