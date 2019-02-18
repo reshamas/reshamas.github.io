@@ -30,27 +30,27 @@ Attorneys are a vital part of the AI discussion.  Fordham Law School in New York
 Here are the key takeaways and perspectives from attorneys regarding AI ethics and liability:
 
 ### Complexity
-- Law policy is complex.
-- AI is changing so rapidly.
+- Law policy is complex
+- AI is changing so rapidly
 - Law should resist being overly technical or detailed on policy 
   - Example:  European regulation spans over 2000 pages long.
-  - Example:  waiting for SCC to make decision on what blockchain is.  And then blockchain changes their technology to avoid the decision, reality of what is happening
+  - Example:  waiting for SCC to make decision on what blockchain is.  And then blockchain changes their technology to avoid the decision; this is the reality of what is happening
 - Determine whether AI is really different.   Is there such a thing as “AI Exceptionalism”?  Or can we utilize existing laws?
   - Use existing laws and expand them for AI 
-  - AI law can draw on privacy, tort and copyright law.
-- Since people are more biased than AI, the best plan of action is to combine human input with AI. 
-- Interconnectedness:  AI is connected by various technologies:  software, sensors, developers, users and more. Many parties need to be involved in the ethnics and liability discusssions.
+  - AI law can draw on privacy, tort and copyright law
+- Since people are more biased than AI, the best plan of action is to combine human input with AI
+- Interconnectedness:  AI is connected by various technologies:  software, sensors, developers, users and more. Many parties need to be involved in the ethnics and liability discusssions
 
 ### Stakeholders
-- Attorneys are thinking about it.
-- The “younger” generation will push policy forward, along with their educators. 
-- The US government needs to invest more in cybersecurity over building a border wall as cybersecurity poses a greater threat to the country. 
-- Admission by attorneys that the law has been slow to respond because many legal jobs can be replaced by AI automation.  
+- Attorneys are thinking about it
+- The “younger” generation will push policy forward, along with their educators
+- The US government needs to invest more in cybersecurity over building a border wall as cybersecurity poses a greater threat to the country
+- Admission by attorneys that the law has been slow to respond because many legal jobs can be replaced by AI automation 
 
 ### AI Liability and Compensation
-- Not all harm from robots and AI is predictable.  
-- Insurance is one way to deal with damage from AI; establish compulsory insurance pools.
-- Admission by attorneys that AI policies are likely to be implemented only when the loss of life due to AI occurs.
+- Not all harm from robots and AI is predictable
+- Insurance is one way to deal with damage from AI; establish compulsory insurance pools
+- Admission by attorneys that AI policies are likely to be implemented only when the loss of life due to AI occurs
 
 
 ## Law Policy Is Complex
