@@ -125,8 +125,10 @@ Waldman is both a law professor and sociologist.  He presents the following para
 - But, what *makes us feel* that these decisions are legitimate?
 - Once humans are removed from decision making process, legitimacy in algorithms drops.  And yet, people generally feel more comfortable with algorithms.
 
+Consumers are not well educated or informed on AI, and this contributes to the lack of policy advancement.
+
 ## Summary
-The AI ecosystem is complex.  Therefore, methods of addressing AI harm and liability are also complicated. Cross-border policies need to be considered because the scope of AI is world-wide.  
+The AI ecosystem is complex.  Therefore, methods of addressing AI harm and liability are also complicated. Cross-border policies need to be considered because the scope of AI is world-wide.  In summary, **everyone** is responsible for AI technology.  It is not clear when regulation will be developed.  The expectation is that significant changes in AI policy will be developed when loss of life occurs.  
 
 <p float="left">
   <img src="../assets/images/ai_regulation.jpg" width="99%" height="99%" style="border:0px;margin:0px">
