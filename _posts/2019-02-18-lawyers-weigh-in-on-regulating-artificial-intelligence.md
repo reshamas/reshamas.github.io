@@ -20,7 +20,7 @@ Within the data science community, discourse on algorithm ethics are common-plac
 - [Ilya Sutskever](https://twitter.com/ilyasut/status/1096875730225397760) twitter thread on resistance to transparency and reproducibility in AI
 - [Jeremy Howard](https://twitter.com/jeremyphoward/status/1097234160337412096) twitter thread analysis of the decision and debate
 
-Fortunately, attorneys are also contributing to the overall discussion in AI.
+Attorneys are a vital part of the AI discussion.  
 
 Fordham Law School in New York City held a symposium on February 15, 2015 entitled The Fordham Law Review and the Neuroscience and Law Center present Rise of the Machines: [Artificial Intelligence, Robotics, and the Reprogramming of Law](https://go.activecalendar.com/FordhamUniversity/site/law/event/rise-of-the-machines-artificial-intelligence-robotics-and-the-reprogramming-of-law). The last time I was in one room with over 100 attorneys was February 2015 at [Algorithms & Accountability Conference: NYU School of Law](https://www.law.nyu.edu/centers/ili/AlgorithmsConference)).  The event was free and open to the public.  
 
