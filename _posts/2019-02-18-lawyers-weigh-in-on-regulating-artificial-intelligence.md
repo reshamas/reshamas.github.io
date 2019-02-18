@@ -14,7 +14,7 @@ Artificial intelligence (AI) is all the talks these days, with its doom and gloo
 
 >*Aside:*  for statisticians, the probability is 22%.
 
-Within the data science community, discourse on algorithm ethics are common-place, and that should be reassuring.  The pace of research and progress is dizzying.  Just in the past week, the story broke that [OpenAI](https://openai.com/), a non-profit AI research company, chose to not release it natural language model, GPT-2, due to concerns about its potential misuse.  The public debate has been fierce:
+Within the data science community, discourse on algorithm ethics are common-place, and that should be reassuring.  The pace of research and progress is dizzying.  Just in the past week, the story broke that [OpenAI](https://openai.com/), a non-profit AI research company, decided against releasing its latest natural language model, GPT-2, due to concerns about its potential misuse.  The public debate has been fierce:
 - [OpenAI built a text generator so good, it’s considered too dangerous to release
 ](https://techcrunch.com/2019/02/17/openai-text-generator-dangerous/) Feb 2018
 - [Ilya Sutskever](https://twitter.com/ilyasut/status/1096875730225397760) twitter thread on resistance to transparency and reproducibility in AI
