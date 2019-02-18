@@ -81,7 +81,7 @@ Presented by [Solon Barocas](https://twitter.com/s010n), Professor of Informatio
 
 There are numerous examples of biases in algorithms used in machine learning which reinforce negative stereotypes.  Here are a few:
 - Latanya Sweeney study that found search ads showed repeated incidence of racial bias. ([Can computers be racist?]( https://vimeo.com/145335290))
-- Natural Language Processing (NLP) co-occurrence (man → doctor, woman - - > nurse)
+- Natural Language Processing (NLP) co-occurrence (assuming [man --> doctor], [woman --> nurse] even if that is not the case)
 - Accuracy for identifying gender: works less well for women and less well for dark skinned people
 - Offensive classifications: person in image mistakenly tagged as gorilla
 - Language translation:  assigning a baseline norm vs outlier; “ethnic food” vs “normal food”
@@ -103,14 +103,14 @@ Barocas made two insightful points:
 Presented by [Edward Felten](https://twitter.com/EdFelten), Professor of Computer Science and Public Affairs at Princeton University
 
 There are three possible approaches to develop safety critical systems:
-1. Transparency
+1. **Transparency**
   - Publish code, let experts look at and study code.  
   - Looking at or studying code is known as “static analysis” and has its practical limiations
-2. Provide Hands-on System Access to Auditors
+2. **Provide Hands-on System Access to Auditors**
   - Give auditors access to the system
   - Pros:  can be powerful for some purposes
   - Cons:  may not test all scenarios and it is weak for “fairness” property, is limited and inadequate
-3. Due diligence on engineering process
+3. **Due diligence on engineering process**
   - Consideration on how the system was designed and the methods used
   - Look at the process and what it leads to
   - Cons:  it is an immature discipline
@@ -126,7 +126,7 @@ Waldman is both a law professor and sociologist.  He presents the following para
 - Once humans are removed from decision making process, legitimacy in algorithms drops.  And yet, people generally feel more comfortable with algorithms.
 
 ## Summary
-
+The AI ecosystem is complex.  Therefore, methods of addressing AI harm and liability are also complicated. Cross-border policies need to be considered because the scope of AI is world-wide.  
 
 <p float="left">
   <img src="../assets/images/ai_regulation.jpg" width="99%" height="99%" style="border:0px;margin:0px">
