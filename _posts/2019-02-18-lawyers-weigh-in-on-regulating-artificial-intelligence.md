@@ -16,9 +16,7 @@ Artificial intelligence (AI) is all the talks these days, with its doom and gloo
 
 Within the data science community, discourse on algorithm ethics are common-place, and that is positive.  Fortunately, attorneys have also joined the discussion.
 
-Fordham Law School in New York City held a symposium on February 15, 2015 entitled [The Fordham Law Review and the Neuroscience and Law Center present
-Rise of the Machines: [Artificial Intelligence, Robotics, and the Reprogramming of Law]
-(https://go.activecalendar.com/FordhamUniversity/site/law/event/rise-of-the-machines-artificial-intelligence-robotics-and-the-reprogramming-of-law). I cannot remember the last time I was in one room with over 100 attorneys (well, actually it was February 2015 at [Algorithms & Accountability Conference: NYU School of Law](https://www.law.nyu.edu/centers/ili/AlgorithmsConference)).  Life in NYC has its privileges, because the event was only 2 express subway stops from my apartment and it was free and open to the public.  
+Fordham Law School in New York City held a symposium on February 15, 2015 entitled The Fordham Law Review and the Neuroscience and Law Center present Rise of the Machines: [Artificial Intelligence, Robotics, and the Reprogramming of Law(https://go.activecalendar.com/FordhamUniversity/site/law/event/rise-of-the-machines-artificial-intelligence-robotics-and-the-reprogramming-of-law). I cannot remember the last time I was in one room with over 100 attorneys (well, actually it was February 2015 at [Algorithms & Accountability Conference: NYU School of Law](https://www.law.nyu.edu/centers/ili/AlgorithmsConference)).  Life in NYC has its privileges, because the event was only 2 express subway stops from my apartment and it was free and open to the public.  
 
 The event was recorded.  Full proceedings will be published in Fall 2019.  [I will update this article with the links when they are available.]
 
