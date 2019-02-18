@@ -49,8 +49,7 @@ Here are the key takeaways and perspectives from attorneys regarding AI ethics a
 
 ### AI Liability and Compensation
 - <p style="color:red">Not all harm from robots and AI is predictable </p>
-- Not all harm from robots and AI is predictable
-- Insurance is one way to deal with damage from AI; establish compulsory insurance pools
+- <p style="color:red">Insurance </p> is one way to deal with damage from AI; establish compulsory insurance pools
 - Admission by attorneys that AI policies are likely to be implemented only when the loss of life due to AI occurs
 
 
