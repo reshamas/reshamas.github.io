@@ -10,11 +10,17 @@
 
 ## Intro
 
-Artificial intelligence (AI) is all the talks these days, with its doom and gloom, profits and perils. Everyone uses it (smartphone, Google search and more).  Many are perturbed about it, thinking it is a runaway train.  In case you are wondering if AI will take your job, this site will let you know the probability of that scenario:  [Will Robots Take My Job](https://willrobotstakemyjob.com/)
+Artificial intelligence (AI) is all the talks these days, with its doom and gloom, profits and perils. Everyone uses it (smartphone, Google search, GPS and more).  Many are perturbed about it, thinking it is a runaway train.  In case you are wondering if AI will take your job, this site will let you know the probability of that scenario:  [Will Robots Take My Job](https://willrobotstakemyjob.com/)
 
 >*Aside:*  for statisticians, the probability is 22%.
 
-Within the data science community, discourse on algorithm ethics are common-place, and that is positive.  Fortunately, attorneys are also contributing to the discussion.
+Within the data science community, discourse on algorithm ethics are common-place, and that should be reassuring.  And only in the past week, the story broke that [OpenAI](https://openai.com/), a non-profit AI research company, chose to not release it natural language model, GPT-2, due to concerns about its potential misuse.  The public debate has been fierce:
+- [OpenAI built a text generator so good, it’s considered too dangerous to release
+](https://techcrunch.com/2019/02/17/openai-text-generator-dangerous/) Feb 2018
+- [Ilya Sutskever](https://twitter.com/ilyasut/status/1096875730225397760) twitter thread on resistance to transparency and reproducibility in AI
+- [Jeremy Howard](https://twitter.com/jeremyphoward/status/1097234160337412096) twitter thread analysis of the decision and debate
+
+Fortunately, attorneys are also contributing to the overall discussion in AI.
 
 Fordham Law School in New York City held a symposium on February 15, 2015 entitled The Fordham Law Review and the Neuroscience and Law Center present Rise of the Machines: [Artificial Intelligence, Robotics, and the Reprogramming of Law](https://go.activecalendar.com/FordhamUniversity/site/law/event/rise-of-the-machines-artificial-intelligence-robotics-and-the-reprogramming-of-law). The last time I was in one room with over 100 attorneys was February 2015 at [Algorithms & Accountability Conference: NYU School of Law](https://www.law.nyu.edu/centers/ili/AlgorithmsConference)).  Life in NYC has its privileges, because the event was only 2 express subway stops from my apartment and it was free and open to the public.  
 
@@ -23,24 +29,27 @@ The event was recorded.  Full proceedings will be published in Fall 2019.  [I wi
 
 ## Key Takeaways
 
-Here are the key takeaways from the 8-hour day:
+Here are the key takeaways from the 8-hour symposium:
 
 ### Complexity
 - Law policy is complex.
 - AI is changing so rapidly.
-- Law should resist being overly technical or detailed on policy (Example:  European regulation spans over 2000 pages long.)
+- Law should resist being overly technical or detailed on policy 
+  - Example:  European regulation spans over 2000 pages long.
   - Example:  waiting for SCC to make decision on what blockchain is.  And then blockchain changes their technology to avoid the decision, reality of what is happening
 - Determine whether AI is really different.   Is there such a thing as “AI Exceptionalism”?  Or can we utilize existing laws?
+  - Use existing laws and expand them for AI 
   - AI law can draw on privacy, tort and copyright law.
+- Since people are more biased than AI, the best plan of action is to combine human input with AI. 
+- Interconnectedness:  AI is connected by various technologies:  software, sensors, developers, users and more. Many parties need to be involved in the ethnics and liability discusssions.
 
 ### Stakeholders
 - Attorneys are thinking about it.
-- Use existing laws and expand them for AI 
-- The “younger” generation will push policy forward, along with educators. 
+- The “younger” generation will push policy forward, along with their educators. 
 
 ### AI Liability and Compensation
 - Insurance is one way to deal with damage from AI; establish compulsory insurance pools.
-- Admission that AI policies are likely to be implemented only when the loss of life due to AI occurs.
+- Admission by attorneys that AI policies are likely to be implemented only when the loss of life due to AI occurs.
 
 
 ## History of Law and AI
@@ -146,8 +155,7 @@ A **tort** is an act or omission that gives rise to injury or harm to another an
 
 ## References
 
-- Open AI:  [OpenAI built a text generator so good, it’s considered too dangerous to release
-](https://techcrunch.com/2019/02/17/openai-text-generator-dangerous/) Feb 2018
+
 
 - [New York City’s Bold, Flawed Attempt to Make Algorithms Accountable](https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable) Dec 2017
 
