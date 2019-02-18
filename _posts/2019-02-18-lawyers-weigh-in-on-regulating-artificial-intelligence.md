@@ -169,18 +169,19 @@ The Biometric Information Privacy Act (BIPA) was passed by the Illinois General 
 ## References
 
 
-
-- [New York City’s Bold, Flawed Attempt to Make Algorithms Accountable](https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable) Dec 2017
-
-- [Weapons of Math Destruction](https://www.datacamp.com/community/podcast/weapons-math-destruction) podcast, Nov 2018
-
-- [Computer paints 'new Rembrandt' after old works analysis
-](https://www.bbc.com/news/technology-35977315)
-
-- [Facebook and YouTube should have learned from Microsoft's racist chatbot
-](https://www.cnbc.com/2018/03/17/facebook-and-youtube-should-learn-from-microsoft-tay-racist-chatbot.html)
+- [U.S. Senator Schatz Introduces Bill to Protect Consumers’ Information Online](https://www.kitv.com/story/39632564/state-senator-schatz-introduces-bill-to-protect-consumers-information-online), Dec 2018
 
 - [Edward Felten (Princeton University) talk at NeurIPS 2018](https://www.facebook.com/nipsfoundation/videos/neurips-2018-test-of-time-award-invited-talk/271569366878864/), Dec 2018
 
-- [U.S. Senator Schatz Introduces Bill to Protect Consumers’ Information Online](https://www.kitv.com/story/39632564/state-senator-schatz-introduces-bill-to-protect-consumers-information-online), Dec 2018
+- [Weapons of Math Destruction](https://www.datacamp.com/community/podcast/weapons-math-destruction) podcast, Nov 2018
+
+- [New York City’s Bold, Flawed Attempt to Make Algorithms Accountable](https://www.newyorker.com/tech/annals-of-technology/new-york-citys-bold-flawed-attempt-to-make-algorithms-accountable) Dec 2017
+
+- [Computer paints 'new Rembrandt' after old works analysis
+](https://www.bbc.com/news/technology-35977315), Apr 2016
+
+- [Facebook and YouTube should have learned from Microsoft's racist chatbot
+](https://www.cnbc.com/2018/03/17/facebook-and-youtube-should-learn-from-microsoft-tay-racist-chatbot.html), Mar 2018
+
+
 
