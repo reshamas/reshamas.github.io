@@ -162,16 +162,33 @@ The **Privacy Paradox**
 The privacy paradox – Investigating discrepancies between expressed privacy concerns and actual online behavior – A systematic literature review
 [ref](https://www.sciencedirect.com/science/article/pii/S0736585317302022)
 
-**Biometric Information Privacy Law**
+#### EU General Data Protection Regulation (GDPR) 
+a new set of rules designed to give EU citizens more control over their personal data
+[ref](https://eugdpr.org/)
+
+
+#### Biometric Information Privacy Law
 The Biometric Information Privacy Act (BIPA) was passed by the Illinois General Assembly on October 3, 2008. BIPA guards against the unlawful collection and storing of biometric information
 [ref](https://en.wikipedia.org/wiki/Biometric_Information_Privacy_Act)
 
+#### Gramm-Leach-Bliley Act (GLBA)
+Protects the personal data of individuals
+[ref](https://www.epic.org/privacy/glba/)
+
+
+#### Unfair, Deceptive or Abusive Acts and Practices (UDAP)
+prohibits "unfair or deceptive acts or practices in or affecting commerce." 
+[ref](https://www.aba.com/Compliance/Pages/compliance_UDAP.aspx#)
+
 ## References
 
+- [EU expert group wants your say on draft AI ethics guidelines](https://www.siliconrepublic.com/machines/ai-ethics-eu), Dec 2018
 
 - [U.S. Senator Schatz Introduces Bill to Protect Consumers’ Information Online](https://www.kitv.com/story/39632564/state-senator-schatz-introduces-bill-to-protect-consumers-information-online), Dec 2018
 
 - [Edward Felten (Princeton University) talk at NeurIPS 2018](https://www.facebook.com/nipsfoundation/videos/neurips-2018-test-of-time-award-invited-talk/271569366878864/), Dec 2018
+
+- Lail Brainard (Federal Reserve Board of Governors):  [What Are We Learning about Artificial Intelligence in Financial Services?](https://www.federalreserve.gov/newsevents/speech/brainard20181113a.htm), Nov 2018
 
 - [Weapons of Math Destruction](https://www.datacamp.com/community/podcast/weapons-math-destruction) podcast, Nov 2018
 
