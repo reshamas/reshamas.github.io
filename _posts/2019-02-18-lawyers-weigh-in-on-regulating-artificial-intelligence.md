@@ -12,7 +12,7 @@
 
 Artificial intelligence (AI) is all the talks these days, with its doom and gloom, profits and perils. Everyone uses it (smartphone, Google search and more).  Many are perturbed about it, thinking it is a runaway train.  In case you are wondering if AI will take your job, this site will let you know the probability of that:  [Will Robots Take My Job](https://willrobotstakemyjob.com/).
 
-*Aside:*  for statisticians, the probability is 22%.
+>*Aside:*  for statisticians, the probability is 22%.
 
 Within the data science community, discourse on algorithm ethics are common-place, and that is positive.  Fortunately, attorneys have also joined the discussion.
 
