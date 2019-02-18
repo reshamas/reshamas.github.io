@@ -21,20 +21,6 @@ Fordham Law School in New York City held a symposium on February 15, 2015 entitl
 The event was recorded.  Full proceedings will be published in Fall 2019.  [I will update this article with the links when they are available.]
 
 
-### 
-The first lawsuit involving AI is:  
-
-[Judge Sides with Inventors in Massive Intellectual Property Case Against Disney, Fox, Paramount and Others, Allowing Cases to Continue](https://www.hbsslaw.com/cases/disney-marvel-mova-contour/pressrelease/mova-contour-ip-theft-judge-sides-with-inventors-in-massive-intellectual-property-case-against-disney-fox-paramount-and-others-allowing-cases-to-continue)
->The lawsuits, originally filed in 2017, state that defendants knowingly used Contour to make high-grossing movies including Guardians of the Galaxy, Avengers: Age of Ultron, Terminator Genisys, Deadpool, Beauty and the Beast, the Rise of the Tomb Raider videogame, and others, without authorization from Rearden LLC and Rearden Mova LLC, the plaintiffs in the action and inventors of the technology. 
-
-[Disney & Studios Can’t Dodge Claims Over Stolen Technology
-](https://www.courthousenews.com/disney-studios-cant-dodge-claims-over-stolen-technology/)
-
-WMFH (Work Made For Hire) [Law](https://www.owe.com/resources/legalities/4-what-is-work-made-for-hire/)
->“Work made for hire” is a doctrine created by U.S. Copyright Law. Generally, the person who creates a work is considered its “author” and the automatic owner of copyright in that work. However, under the work made for hire doctrine, your employer or the company that has commissioned your work, not you, is considered the author and automatic copyright owner of your work.
-
-One approach to resolving AI related litigation is to bridge an old law to a new one.
-
 ### Key Takeaways
 
 Here are the key takeaways from the 8-hour day:
@@ -55,6 +41,22 @@ Here are the key takeaways from the 8-hour day:
 #### AI Liability and Compensation
 - Insurance is one way to deal with damage from AI; establish compulsory insurance pools
 - Admission that AI policies are likely to be implemented only when the loss of life due to AI occurs
+
+
+
+### History of Law and AI
+The first lawsuit involving AI is:  
+
+[Judge Sides with Inventors in Massive Intellectual Property Case Against Disney, Fox, Paramount and Others, Allowing Cases to Continue](https://www.hbsslaw.com/cases/disney-marvel-mova-contour/pressrelease/mova-contour-ip-theft-judge-sides-with-inventors-in-massive-intellectual-property-case-against-disney-fox-paramount-and-others-allowing-cases-to-continue)
+>The lawsuits, originally filed in 2017, state that defendants knowingly used Contour to make high-grossing movies including Guardians of the Galaxy, Avengers: Age of Ultron, Terminator Genisys, Deadpool, Beauty and the Beast, the Rise of the Tomb Raider videogame, and others, without authorization from Rearden LLC and Rearden Mova LLC, the plaintiffs in the action and inventors of the technology. 
+
+[Disney & Studios Can’t Dodge Claims Over Stolen Technology
+](https://www.courthousenews.com/disney-studios-cant-dodge-claims-over-stolen-technology/)
+
+WMFH (Work Made For Hire) [Law](https://www.owe.com/resources/legalities/4-what-is-work-made-for-hire/)
+>“Work made for hire” is a doctrine created by U.S. Copyright Law. Generally, the person who creates a work is considered its “author” and the automatic owner of copyright in that work. However, under the work made for hire doctrine, your employer or the company that has commissioned your work, not you, is considered the author and automatic copyright owner of your work.
+
+One approach to resolving AI related litigation is to bridge an old law to a new one.
 
 
 
