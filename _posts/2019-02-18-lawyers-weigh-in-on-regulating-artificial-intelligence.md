@@ -25,7 +25,7 @@ Within the data science community, discourse on algorithm ethics are common-plac
 Attorneys are a vital part of the AI discussion.  Fordham Law School in New York City held a symposium on February 15, 2018 entitled [Artificial Intelligence, Robotics, and the Reprogramming of Law](https://go.activecalendar.com/FordhamUniversity/site/law/event/rise-of-the-machines-artificial-intelligence-robotics-and-the-reprogramming-of-law). The event was free and open to the public.  The event was recorded, and full proceedings will be published in Fall 2019.   
 
 
-## Key Takeaways
+## Executive Summary
 
 Here are the key takeaways and perspectives from attorneys regarding AI ethics and liability:
 
