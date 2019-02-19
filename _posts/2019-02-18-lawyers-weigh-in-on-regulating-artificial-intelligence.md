@@ -62,7 +62,7 @@ We as programmers, lawyers, are **ALL RESPONSIBLE**.  Let’s figure out how to 
 - AI should be ethical (but that varies, in USA and China)
 - We need Accountability, Controls and Oversight (that means we need people to oversee AI)
 - Law students [are the next generation] and they will deal with what is next.
-- **Cyber policies** (cover a business' liability for a data breach in which the firm's customers' personal information, such as Social Security or credit card numbers, is exposed or stolen by a hacker or other criminal who has gained access to the firm's electronic network.) **exist, but no one is following them.**  More engagement would be good. 
+- **Cyber policies exist, but no one is following them.**  More engagement would be good. 
 
 Nguyen shares the example of a coffee maker with AI capability.  If the coffee made by this machine is too hot and burns the person, who is liable?
 - User, who said “hot”
@@ -141,7 +141,7 @@ The AI ecosystem is complex.  Therefore, methods of addressing AI harm and liabi
 ---
 
 ## Definitions / Laws
-A **cyber security policy** outlines the assets you need to protect, the threats to those assets and the rules and controls for protecting them and your business. The policyshould inform your employees and approved users of their responsibilities to protect the technology and information assets of your business.
+A **cyber security policy** (cover a business' liability for a data breach in which the firm's customers' personal information, such as Social Security or credit card numbers, is exposed or stolen by a hacker or other criminal who has gained access to the firm's electronic network) outlines the assets you need to protect, the threats to those assets and the rules and controls for protecting them and your business. The policyshould inform your employees and approved users of their responsibilities to protect the technology and information assets of your business.
 [ref](https://www.business.gov.au/risk-management/cyber-security/creating-a-cyber-security-policy-for-your-business)
 
 A **tort** is an act or omission that gives rise to injury or harm to another and amounts to a civil wrong for which courts impose liability. In the context of torts, "injury" describes the invasion of any legal right, whereas "harm" describes a loss or detriment in fact that an individual suffers.1 
