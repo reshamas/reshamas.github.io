@@ -56,7 +56,7 @@ Here are the key takeaways and perspectives from attorneys regarding AI ethics a
 
 
 ## Law Policy Is Complex
-[Huu Nguyen](https://www.linkedin.com/in/hiep256/), a computer scientist turned attorney states:
+[Huu Nguyen](https://www.linkedin.com/in/hiep256/), a computer scientist-turned-attorney states:
 We as programmers, lawyers, are **ALL RESPONSIBLE**.  Let’s figure out how to deal with it.
 - AI should be safe
 - AI should be ethical (but that varies, in USA and China)
@@ -77,7 +77,7 @@ Options:
 
 
 ## Dealing with Biases in Machine Learning
-Presented by [Solon Barocas](https://twitter.com/s010n), Professor of Information Science at Cornell University
+Presented by [Solon Barocas](https://twitter.com/s010n), Professor of Information Science at Cornell University.
 
 There are numerous examples of biases in algorithms used in machine learning which reinforce negative stereotypes.  Here are a few:
 - Latanya Sweeney study that found search ads showed repeated incidence of racial bias. ([Can computers be racist?]( https://vimeo.com/145335290))
@@ -86,7 +86,7 @@ There are numerous examples of biases in algorithms used in machine learning whi
 - Offensive classifications: person in image mistakenly tagged as gorilla
 - Language translation:  assigning a baseline norm vs outlier; “ethnic food” vs “normal food”
 
-These are possible scenarios:
+These are possible prescriptions to address the biases:
 1. Do nothing
 2. Improve accuracy (add more data, better learning)
 3. Blacklist (exclude problematic tags)
