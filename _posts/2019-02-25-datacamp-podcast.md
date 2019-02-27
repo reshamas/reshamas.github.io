@@ -1,14 +1,13 @@
 
-<p float="left">
+
   <a href="https://www.datacamp.com/community/podcast/women-in-data-science">
-  <img src="../assets/images/dataframed.jpg" width="99%" height="99%" style="border:0px;margin:0px">
+  <img src="../assets/images/dataframed.png" width="99%" height="99%" style="border:0px;margin:0px">
   </a>
+
+<p float="left">
 </p>
 
- 
 
-<p>
-</p>
  
 
 ## Intro
