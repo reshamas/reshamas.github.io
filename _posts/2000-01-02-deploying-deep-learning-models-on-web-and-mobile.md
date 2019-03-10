@@ -9,12 +9,10 @@ This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/
 
 ## Jump to:
 1. [Training the Classifier](#training-the-classifier)
-- repo: npatta01/[web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
     1. [Sample Heading](#sample-heading)
     
 2. [Deploying the **WEB** App](#deploying-the-web-app)
-- repo: [web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
-- web app: [food-img-classifier.herokuapp.com](https://food-img-classifier.herokuapp.com)
+
 
 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)
 - repo: [mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
@@ -22,13 +20,17 @@ This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/
  
 ## Training the Classifier
 ### Sample Heading
+
+- repo: npatta01/[web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
+
 xxx
 
 
 ---
 
 ## Deploying the Web App
-We are using this repository as a template: [web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
+- We are using this repository as a template: [web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
+- Our web app can be found here:  [food-img-classifier](https://food-img-classifier.herokuapp.com)
 
 [Heroku](https://www.heroku.com/) was utilized to deploy the web app.
 
