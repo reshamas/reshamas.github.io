@@ -7,8 +7,6 @@
 This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/nidhinpattaniyil/) and [Reshama Shaikh](https://reshamas.github.io).
 
 
-
-
 ## Jump to:
 1. [Training the Classifier](#training-the-classifier)
 - repo: npatta01/[web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
