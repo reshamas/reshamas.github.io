@@ -24,9 +24,12 @@ This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/
  
 ## Training the Classifier
 ### Sample Heading
-Take stock of your online presence. Check your privacy settings on Facebook or any other social media you use to make sure you've limited what's available publicly. While many online job applications now have places for twitter handles, don't include yours unless you use it mainly in a professional manner (e.g. tweeting about data science resources or pets. Pets are always appropriate). 
+xxx
 
 
+## Deploying the Webb App
+
+## Deploying the Mobile App
 <p>
 <img src="../assets/images/demo.gif" align="center"> 
 </p>
