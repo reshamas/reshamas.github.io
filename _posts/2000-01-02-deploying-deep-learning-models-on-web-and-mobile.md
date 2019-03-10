@@ -15,11 +15,11 @@ This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/
     1. [Sample Heading](#sample-heading)
     
 2. [Deploying the **WEB** App](#deploying-the-web-app)
-- repo: npatta01/[web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
+- repo: [web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
 - web app: [food-img-classifier.herokuapp.com](https://food-img-classifier.herokuapp.com)
 
 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)
-- repo: npattao01/[mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
+- repo: [mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
 
  
 ## Training the Classifier
