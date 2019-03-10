@@ -1,6 +1,6 @@
 
 <p>
-<img src="../assets/images/app_food_web.png" width="75%" height="75%" style="padding:1px;border:thin solid black; align="center"> 
+<img src="../assets/images/app_food_web.png" width="75%" height="75%" style="padding:1px;border:thin solid black;" align="center"> 
 </p>
 
 
