@@ -53,7 +53,9 @@ This output file, **`model.pth`** is the input to the Heroku app.
 
 ### Heroku Setup
 
-If you don't have a Heroku account, create one here: [www.heroku.com](https://www.heroku.com/).  Each line can be copied and submitted. **Reminder:** in your code, you will have updated your `APP_NAME` 
+If you don't have a Heroku account, create one here: [www.heroku.com](https://www.heroku.com/).  Each line can be copied and submitted.  
+
+**Reminder:** in your code, you will have updated your `APP_NAME` 
 
 ```
 wget -qO- https://cli-assets.heroku.com/install-ubuntu.sh | sh
@@ -74,7 +76,7 @@ Note:  After 15 minutes of inactivity, Heroku will suspend the app.  The next ti
  
 ### Our Flask Web Application
 - Our Flask web app is available here:  [**food-img-classifier.herokuapp.com**](https://food-img-classifier.herokuapp.com)
-- Give it a try!  Upload an image or add a UR
+- Give it a try!  Upload an image or add a URL.
 
 
 ---
