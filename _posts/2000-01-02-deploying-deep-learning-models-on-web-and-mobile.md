@@ -11,10 +11,10 @@ This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/
 Part 1. [Training the Classifier](#training-the-classifier)
     
 Part 2. [Deploying the **WEB** App](#deploying-the-web-app)  
-    a. [Input to Heroku App](#input-to-heroku-app)  
-    b. [File Updates to Make](#file-updates-to-make)  
-    c. [Heroku Setup](#heroku-setup)  
-    d. [Our Flask Web Application](#our-flask-web-application)  
+    1. [Input to Heroku App](#input-to-heroku-app)  
+    2. [File Updates to Make](#file-updates-to-make)  
+    3. [Heroku Setup](#heroku-setup)  
+    4. [Our Flask Web Application](#our-flask-web-application)  
 
 Part 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)
 - repo: [mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
