@@ -12,7 +12,8 @@ This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/
     1. [Sample Heading](#sample-heading)
     
 2. [Deploying the **WEB** App](#deploying-the-web-app)
-
+    a. [Input to Heroku App](#input-to-heroku-app)
+    b. [File Updates to Make](#file-updates-to-make)
 
 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)
 - repo: [mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
@@ -36,10 +37,10 @@ xxx
 
 ### Input to Heroku App
 
-This output file, **`model.pth`** is the input to the Heroku app.  
+This output file from the classifier algorithm, `model.pth` is the input to the Heroku app.  
 
 
-### File Changes
+### File Updates to Make
 :point_right: To run your own mobile app, you need only make the following adjustments:
 
 1.  In this file [src/config.yaml](https://github.com/npatta01/web-deep-learning-classifier/blob/2a30245d467b51705e51aa7a71658dd407dc49cf/src/config.yaml), updates these fields:
@@ -55,7 +56,7 @@ This output file, **`model.pth`** is the input to the Heroku app.
 
 ### Heroku Setup
 
-If you don't have a Heroku account, create one here: [www.heroku.com](https://www.heroku.com/).  Each line can be copied and submitted.  
+If you don't have a Heroku account, create one here: [www.heroku.com](https://www.heroku.com/).  Each line can be copied and submitted on the terminal.    
 
 **Reminder:** in your code, you will have updated your `APP_NAME` 
 
