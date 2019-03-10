@@ -1,6 +1,6 @@
 
 <p>
-<img src="../assets/images/chart.png" align="center"> 
+<img src="../assets/images/app_food_web.png" align="center"> 
 </p>
 
 
