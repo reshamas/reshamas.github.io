@@ -27,7 +27,8 @@ This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/
 xxx
 
 
-## Deploying the Webb App
+## Deploying the Web App
+xxx
 
 ## Deploying the Mobile App
 <p>
