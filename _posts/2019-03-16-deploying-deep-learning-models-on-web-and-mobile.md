@@ -193,7 +193,7 @@ This output file from the classifier algorithm, `model.pth` is the input to the 
 
 
 ### File Updates to Make
-:point_right: To run your own mobile app, you need only make the following adjustments:
+:point_right: To run your own web app, you need only make the following adjustments:
 
 1.  In this file [src/config.yaml](https://github.com/npatta01/web-deep-learning-classifier/blob/2a30245d467b51705e51aa7a71658dd407dc49cf/src/config.yaml), updates these fields:
 - `title`
@@ -240,6 +240,14 @@ Note:  After 15 minutes of inactivity, Heroku will suspend the app.  The next ti
 - repo: [mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
 
 The documentation for deploying a mobile app can be found in this folder, [docs](https://github.com/npatta01/mobile-deep-learning-classifier/tree/master/docs).  
+
+### File Updates to Make
+:point_right: To run your own **mobile** app, you need only make the following adjustments:    
+
+1.  In this file [config.js](https://github.com/npatta01/mobile-deep-learning-classifier/blob/03cc52c6ae2af67b93d20a3efd55210f1da83aed/config.js), updates these fields:
+- `AppConfig`
+- `description`
+
 
 <p>
 <img src="../assets/images/demo.gif" align="center"> 
