@@ -101,7 +101,13 @@ In our case, a learning rate of 0.01 works well
 ```python
 lr = 1e-2
 ```
-Next, we fit 8 epochs using our learning rate of 0.01, and we observe our error rate drop to 28.9%.  We did run more complex architectures.  However, because the data had 101 classes and for the purpose of this example and article, and GPU time and storage, we used a simple architecture of `resnet34`. 
+
+
+#### Other Architectures
+We did run more complex architectures.  However, because the data had 101 classes and for the purpose of this example and article, and GPU time and storage, we used a simple architecture of `resnet34`. 
+
+#### Back to training
+Next, we fit 8 epochs using our learning rate of 0.01, and we observe our error rate drop to 28.9%.  
 
 ```bash
 epoch	train_loss	valid_loss	error_rate
@@ -124,7 +130,7 @@ learn.recorder.plot(skip_end=10)
 ```
 
 #### More training
-We trained the data for 5 more epochs, which reduced our error rate from 28.9% to 28.1%.
+We trained the data for 5 more epochs, which reduced our error rate from **28.9%** to **28.1%**.
 
 ```python
 learn.fit_one_cycle(5, max_lr=slice(1e-8,1e-4))
