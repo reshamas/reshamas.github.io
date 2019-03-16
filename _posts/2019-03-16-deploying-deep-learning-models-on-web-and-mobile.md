@@ -193,7 +193,7 @@ This output file from the classifier algorithm, `model.pth` is the input to the 
 
 
 ### File Updates to Make
-:point_right: To run your own web app, you need only make the following adjustments:
+:point_right: To run your own **web** app, you need only make the following adjustments:
 
 1.  In this file [src/config.yaml](https://github.com/npatta01/web-deep-learning-classifier/blob/2a30245d467b51705e51aa7a71658dd407dc49cf/src/config.yaml), updates these fields:
 - `title`
