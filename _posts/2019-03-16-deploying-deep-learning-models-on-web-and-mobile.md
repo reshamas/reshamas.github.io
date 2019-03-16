@@ -33,8 +33,7 @@ Part 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)
 
  
 ## Training the Classifier
-The Jupyter notebook and code used to train the model are available in this GitHub repository:  
-npatta01/[web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
+The Jupyter notebook and code used to train the model are available in this GitHub repository:  s[web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
 
 The following were used for model **training** (see [requirements.txt](requirements.txt)):    
 - fastai:  version 1.0.42
@@ -107,7 +106,7 @@ lr = 1e-2
 We did run more complex architectures.  However, because the data had 101 classes and for the purpose of this example and article, and GPU time and storage, we used a simple architecture of `resnet34`. 
 
 #### Back to training
-Next, we fit 8 epochs using our learning rate of 0.01, and we observe our error rate drop to 28.9%.  
+Next, we fit 8 epochs using our learning rate of 0.01, and we observe our error rate drops to 28.9%.  
 
 ```bash
 epoch	train_loss	valid_loss	error_rate
