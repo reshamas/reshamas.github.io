@@ -29,7 +29,9 @@ Part 2. [Deploying the **WEB** App](#deploying-the-web-app)
     4. [Our Flask Web Application](#our-flask-web-application)  
 
 Part 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)
-
+    1. [File Updates to Make](#file-updates-to-make)  
+    2. [Our Apps](#our-apps)  
+    3. [Pricing Options](#pricing-options) 
 
  
 ## Training the Classifier
@@ -254,7 +256,7 @@ Check out our gif below to see our app in motion, or our 2-minute video on YouTu
 <p>
     </p>
 
-### Our Apps!
+### Our Apps
 
 **Video of mobile app**:  2-minute demo of [Food classifier using fastai](https://www.youtube.com/watch?reload=9&amp;v=7d2qFLeYvRc)
 
@@ -262,7 +264,7 @@ Check out our gif below to see our app in motion, or our 2-minute video on YouTu
 
 **Android Google Play app:** [Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
 
-### Costs (Pricing Options)
+### Pricing Options
 1.  Apple store:  $100 to publish the app
 2.  Android Google Play:  $30
 3.  Android using **Expo** app:  **Free*  
