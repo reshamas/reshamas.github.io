@@ -6,6 +6,9 @@
 
 This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/nidhinpattaniyil/) and [Reshama Shaikh](https://reshamas.github.io).
 
+This article details how to create a web and mobile app and is deep-learning-language agnostic.  Our example uses the fastai library, but a model weights file from **any deep learning library** can be used to create a web and mobile app using our methods.
+
+
 ## Summary
 
 The project covers:
