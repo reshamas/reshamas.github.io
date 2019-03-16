@@ -254,6 +254,15 @@ Check out our gif below to see our app in motion, or our 2-minute video on YouTu
 <p>
     </p>
 
+### Our Apps!
+
+**Video of mobile app**:  2-minute demo of [Food classifier using fastai](https://www.youtube.com/watch?reload=9&amp;v=7d2qFLeYvRc)
+
+**Apple store app:**  [Food Classifier](https://itunes.apple.com/us/app/food-classifier/id1445356461?mt=8)
+
+**Android Google Play app:** [Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
+
+
 <p>
 <img src="../assets/images/demo.gif" align="center"> 
 </p>
