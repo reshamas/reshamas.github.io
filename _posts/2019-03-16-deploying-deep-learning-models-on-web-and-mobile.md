@@ -246,6 +246,8 @@ The documentation for deploying a mobile app can be found in this folder, [docs]
 
 1.  In this file [config.js](https://github.com/npatta01/mobile-deep-learning-classifier/blob/03cc52c6ae2af67b93d20a3efd55210f1da83aed/config.js), updates these fields:
 - `AppConfig`
+    - update the `title`
+    - point `host` to the heroku app url
 - `description`
 
 
