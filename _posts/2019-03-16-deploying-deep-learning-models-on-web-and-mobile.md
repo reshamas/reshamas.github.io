@@ -267,10 +267,10 @@ Check out our gif below to see our app in motion, or our 2-minute video on YouTu
 ### Pricing Options
 1.  Apple store:  $100 to publish the app
 2.  Android Google Play:  $30
-3.  Android using **Expo** app:  **Free*  
-    a.  Develop app
-    b.  Download **Expo** on your Android phone
-    b.  Open **Expo** app and scan the app barcode, and give it a try!  (can share barcode with others)
+3.  Android using **Expo** app:  **Free**  
+    - Develop app
+    - Download **Expo** on your Android phone
+    - Open **Expo** app and scan the app barcode, and give it a try!  (can share barcode with others)
 
 
 <p>
