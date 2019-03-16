@@ -262,6 +262,14 @@ Check out our gif below to see our app in motion, or our 2-minute video on YouTu
 
 **Android Google Play app:** [Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
 
+### Costs (Pricing Options)
+1.  Apple store:  $100 to publish the app
+2.  Android Google Play:  $30
+3.  Android using **Expo** app:  **Free*  
+    a.  Develop app
+    b.  Download **Expo** on your Android phone
+    b.  Open **Expo** app and scan the app barcode, and give it a try!  (can share barcode with others)
+
 
 <p>
 <img src="../assets/images/demo.gif" align="center"> 
