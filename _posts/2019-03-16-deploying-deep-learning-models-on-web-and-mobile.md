@@ -241,6 +241,8 @@ Note:  After 15 minutes of inactivity, Heroku will suspend the app.  The next ti
 ## Deploying the Mobile App
 - repo: [mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
 
+The documentation for deploying a mobile app can be found in this folder, [docs](https://github.com/npatta01/mobile-deep-learning-classifier/tree/master/docs).  
+
 <p>
 <img src="../assets/images/demo.gif" align="center"> 
 </p>
