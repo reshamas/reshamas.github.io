@@ -177,7 +177,7 @@ The `model.pth` file may be too large to be included in the git commit.  There a
 2.  Store the model on GitHub releases.
 3.  Store the model on a bucket in the cloud.  
 
-We stored our final model data file under the "releases" area of the repository:  https://github.com/npatta01/web-deep-learning-classifier/releases
+We stored our final model data file under the "releases" area of the repository:  [web-deep-learning-classifier/releases](https://github.com/npatta01/web-deep-learning-classifier/releases)
 
 
 ---
