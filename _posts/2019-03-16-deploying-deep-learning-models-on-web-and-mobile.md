@@ -250,6 +250,7 @@ In this file [config.js](https://github.com/npatta01/mobile-deep-learning-classi
     - point `host` to the heroku app url  
 - `description`
 
+Check out our gif below to see our app in motion, or our 2-minute video on YouTube [Food classifier using fastai](https://www.youtube.com/watch?reload=9&v=7d2qFLeYvRc).
 <p>
     </p>
 
