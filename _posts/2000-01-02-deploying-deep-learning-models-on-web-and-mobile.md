@@ -16,7 +16,7 @@ The project covers:
 - deploying a web app using Heroku and Flask
 - deploying a mobile app
 
-Our web app is [**food-img-classifier.herokuapp.com**](https://food-img-classifier.herokuapp.com)
+Our Heroku web app is [**food-img-classifier**](https://food-img-classifier.herokuapp.com)
 
 
 ## Jump to:
