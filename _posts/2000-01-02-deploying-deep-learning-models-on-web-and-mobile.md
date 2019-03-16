@@ -6,6 +6,15 @@
 
 This article was co-authored by [Nidhin Pattaniyil](https://www.linkedin.com/in/nidhinpattaniyil/) and [Reshama Shaikh](https://reshamas.github.io).
 
+## Summary
+
+The project covers:
+- training a deep learning model for food images using fastai
+- deploying a web app using Heroku and Flask
+- deploying a mobile app
+
+Our web app is [**food-img-classifier.herokuapp.com**](https://food-img-classifier.herokuapp.com)
+
 
 ## Jump to:
 Part 1. [Training the Classifier](#training-the-classifier)
@@ -17,15 +26,19 @@ Part 2. [Deploying the **WEB** App](#deploying-the-web-app)
     4. [Our Flask Web Application](#our-flask-web-application)  
 
 Part 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)
-- repo: [mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
+
 
  
 ## Training the Classifier
-### Sample Heading
+The Jupyter notebook and code used to train the model are available in this GitHub repository:  
+npatta01/[web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
 
-- repo: npatta01/[web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
+The following were used for model **training** (see [requirements.txt](requirements.txt)):    
+- fastai:  version 1.0.42
+- PyTorch:  version  1.0.0
+- Python:  version 3.6
 
-xxx
+
 
 
 ---
@@ -34,7 +47,7 @@ xxx
 - We are using this repository as a template: [web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
 - Our web app can be found here:  [food-img-classifier](https://food-img-classifier.herokuapp.com)
 
-[Heroku](https://www.heroku.com/) was utilized to deploy the web app.
+[Heroku](https://www.heroku.com/) and Flask were utilized to deploy the web app.
 
 ### Input to Heroku App
 
@@ -87,6 +100,8 @@ Note:  After 15 minutes of inactivity, Heroku will suspend the app.  The next ti
 ---
 
 ## Deploying the Mobile App
+- repo: [mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
+
 <p>
 <img src="../assets/images/demo.gif" align="center"> 
 </p>
