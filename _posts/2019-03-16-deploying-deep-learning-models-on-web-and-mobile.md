@@ -28,7 +28,7 @@ Part 2. [Deploying the **WEB** App](#deploying-the-web-app)
     3. [Heroku Setup](#heroku-setup)  
     4. [Our Flask Web Application](#our-flask-web-application)  
 
-Part 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)
+Part 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)  
     1. [File Updates to Make](#file-updates-to-make)  
     2. [Our Apps](#our-apps)  
     3. [Pricing Options](#pricing-options) 
