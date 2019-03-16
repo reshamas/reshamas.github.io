@@ -245,9 +245,9 @@ The documentation for deploying a mobile app can be found in this folder, [docs]
 :point_right: To run your own **mobile** app, you need only make the following adjustments:    
 
 In this file [config.js](https://github.com/npatta01/mobile-deep-learning-classifier/blob/03cc52c6ae2af67b93d20a3efd55210f1da83aed/config.js), updates these fields:
-- `AppConfig`
-    - update the `title`
-    - point `host` to the heroku app url
+- `AppConfig`  
+    - update the `title`  
+    - point `host` to the heroku app url  
 - `description`
 
 <p>
