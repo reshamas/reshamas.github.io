@@ -203,8 +203,7 @@ This output file from the classifier algorithm, `model.pth` is the input to the 
 - `sampleImages`
 
 2.  In this file [docs/2_heroku_app.md](https://github.com/npatta01/web-deep-learning-classifier/blob/e9a41bc0a09fe98d44a168b1d64323dad2d074e0/docs/2_heroku_app.md), the following changes need to be made:  
-- Replace our app name with your app name:  `APP_NAME="food-img-classifier"`
-- Example:  if you classified birds, your app name could be `APP_NAME="bird-img-classifier"`
+- Replace our app name with your app name:  `APP_NAME="food-img-classifier"`.  As an example:  if you classified birds, your app name could be `APP_NAME="bird-img-classifier"`
 
 ### Heroku Setup
 
