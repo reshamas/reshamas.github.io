@@ -265,7 +265,7 @@ Check out our gif below to see our app in motion, or our 2-minute video on YouTu
 **Android Google Play app:** [Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
 
 ### Pricing Options
-1.  Apple store:  $100 to publish the app
+1.  Apple store:  $100  
 2.  Android Google Play:  $30
 3.  Android using **Expo** app:  **Free**  
     - Develop app
