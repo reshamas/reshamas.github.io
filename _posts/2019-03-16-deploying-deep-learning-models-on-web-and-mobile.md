@@ -16,8 +16,11 @@ The project covers:
 - deploying a web app using Heroku and Flask
 - deploying a mobile app
 
-Our Heroku web app is [**food-img-classifier**](https://food-img-classifier.herokuapp.com)
+Our Heroku **web** app is [**food-img-classifier**](https://food-img-classifier.herokuapp.com)
 
+Our **mobile** apps are available:  
+- iOS Apple store: [Food Classifier](https://itunes.apple.com/us/app/food-classifier/id1445356461?mt=8)
+- Android Google Play:[Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
 
 ## Jump to:
 Part 1. [Training the Classifier](#training-the-classifier)
@@ -35,7 +38,7 @@ Part 3. [Deploying the **MOBILE** App](#deploying-the-mobile-app)
 
  
 ## Training the Classifier
-The Jupyter notebook and code used to train the model are available in this GitHub repository:  s[web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
+The Jupyter notebook and code used to train the model are available in this GitHub repository:  [web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
 
 The following were used for model **training** (see [requirements.txt](requirements.txt)):    
 - fastai:  version 1.0.42
