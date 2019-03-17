@@ -20,7 +20,7 @@ Our Heroku **web** app is [**food-img-classifier**](https://food-img-classifier.
 
 Our **mobile** apps are available:  
 - iOS Apple store: [Food Classifier](https://itunes.apple.com/us/app/food-classifier/id1445356461?mt=8)
-- Android Google Play:[Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
+- Android Google Play: [Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
 
 ## Jump to:
 Part 1. [Training the Classifier](#training-the-classifier)
