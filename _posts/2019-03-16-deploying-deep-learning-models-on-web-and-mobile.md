@@ -20,7 +20,7 @@ Our **mobile** apps are available:
 - iOS Apple store: [Food Classifier](https://itunes.apple.com/us/app/food-classifier/id1445356461?mt=8)
 - Android Google Play: [Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
 
-## Reference Note
+## Citation Note
 If you do use our blog or GitHub repos to create your own web or mobile app, we would appreciate it if you would give our work attribution by sharing the below citation:  
 >Pattaniyil, Nidhin and Shaikh, Reshama, [Deploying Deep Learning Models On Web And Mobile](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/), 2019
 
