@@ -3,6 +3,17 @@
 <img src="../assets/images/app_food_web.png" width="85%" height="85%" style="padding:1px;border:thin solid black;" align="center"> 
 </p>
 
+<p float="left">
+    <img src="../assets/images/app_food_web.png" width="85%" height="85%" style="padding:1px;border:thin solid black;" align="center"> 
+  <img src="../assets/images/demo.gif"  width="300" height="220"/> 
+</p>
+
+<p>
+</p>
+
+
+
+## Introduction
 
 This project was completed by [Nidhin Pattaniyil](https://www.linkedin.com/in/nidhinpattaniyil/) and [Reshama Shaikh](https://reshamas.github.io).  This article details how to create a web and mobile app image classifier and is deep-learning-language agnostic.  Our example uses the fastai library, but a model weights file from **any deep learning library** can be used to create a web and mobile app using our methods.
 
@@ -19,6 +30,10 @@ Our Heroku **web** app is [**food-img-classifier**](https://food-img-classifier.
 Our **mobile** apps are available:  
 - iOS Apple store: [Food Classifier](https://itunes.apple.com/us/app/food-classifier/id1445356461?mt=8)
 - Android Google Play: [Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
+
+Our **GitHub repositories**:  
+- [web-deep-learning-classifier](https://github.com/npatta01/web-deep-learning-classifier) 
+- [mobile-deep-learning-classifier](https://github.com/npatta01/mobile-deep-learning-classifier)
 
 ## Citation Note
 If you do use our blog or GitHub repos to create your own web or mobile app, we would appreciate it if you would give our work attribution by sharing the below citation:  
