@@ -274,17 +274,13 @@ In this file [config.js](https://github.com/npatta01/mobile-deep-learning-classi
     - point `host` to the heroku app url  
 - `description`
 
-Check out our gif below to see our app in motion, or our 2-minute video on YouTube [Food classifier using fastai](https://www.youtube.com/watch?reload=9&v=7d2qFLeYvRc).
 <p>
-    </p>
+ </p>
 
 ### Our Apps
 
-**Video of mobile app**:  2-minute demo of [Food classifier using fastai](https://www.youtube.com/watch?reload=9&amp;v=7d2qFLeYvRc)
+**Video of mobile app**:  Watch our 2-minute video demo on YouTube of [Food classifier using fastai](https://www.youtube.com/watch?reload=9&amp;v=7d2qFLeYvRc)
 
-**Apple store app:**  [Food Classifier](https://itunes.apple.com/us/app/food-classifier/id1445356461?mt=8)
-
-**Android Google Play app:** [Food Classifier](https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier)
 
 ### Pricing Options
 1.  Apple store:  $100  
