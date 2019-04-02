@@ -5,7 +5,7 @@
 
 <p float="left">
     <img src="../assets/images/app_food_web.png" width="85%" height="85%" style="padding:1px;border:thin solid black;" align="center"> 
-  <img src="../assets/images/demo.gif"  width="300" height="220"/> 
+  <img src="../assets/images/demo.gif"  width="85%" height="85%"/> 
 </p>
 
 <p>
