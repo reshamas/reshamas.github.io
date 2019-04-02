@@ -294,7 +294,3 @@ Check out our gif below to see our app in motion, or our 2-minute video on YouTu
     - Download **Expo** on your Android phone
     - Open **Expo** app and scan the app barcode, and give it a try!  (can share barcode with others)
 
-
-<p>
-<img src="../assets/images/demo.gif" align="center"> 
-</p>
