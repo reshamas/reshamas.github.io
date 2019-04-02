@@ -4,8 +4,8 @@
 </p>
 
 <p float="left">
-  <img src="../assets/images/app_food_web.png" width="50%" height="50%" style="padding:1px;border:thin solid black;"> 
-  <img src="../assets/images/demo.gif"         width="50%" height="50%" style="padding:1px;border:thin solid black;"> 
+  <img src="../assets/images/app_food_web.png" width="45%" height="45%" style="padding:1px;border:thin solid black;"> 
+  <img src="../assets/images/demo.gif"         width="45%" height="45%" style="padding:1px;border:thin solid black;"> 
 </p>
 
 <p>
