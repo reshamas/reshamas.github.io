@@ -1,7 +1,7 @@
 
 <p float="left">
   <a href="https://food-img-classifier.herokuapp.com">
-  <img src="../assets/images/app_food_web2.png" width="55%" height="100%" style="padding:1px;border:thick solid black;" align="top"> 
+  <img src="../assets/images/app_food_web2.png" width="50%" height="100%" style="padding:1px;border:thick solid black;" align="top"> 
   </a>
   
   <a href="https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier">
