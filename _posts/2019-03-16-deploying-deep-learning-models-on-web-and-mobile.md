@@ -4,7 +4,9 @@
   <img src="../assets/images/app_food_web2.png" width="60%" height="100%" style="padding:1px;border:thick solid black;" align="top"> 
   </a>
   
+  <a href="https://play.google.com/store/apps/details?id=com.rsnp.foodclassifier">
   <img src="../assets/images/demo.gif"         width="45%" height="30%" style="padding:1px;border:thick solid black;"> 
+  </a>
 </p>
 
 <p>
