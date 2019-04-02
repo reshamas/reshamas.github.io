@@ -5,7 +5,7 @@
 
 <p float="left">
   <a href="https://food-img-classifier.herokuapp.com">
-  <img src="../assets/images/app_food_web2.png" width="75%" height="100%" style="padding:1px;border:thick solid black;" align="top"> 
+  <img src="../assets/images/app_food_web2.png" width="65%" height="100%" style="padding:1px;border:thick solid black;" align="top"> 
   </a>
   
   <img src="../assets/images/demo.gif"         width="45%" height="30%" style="padding:1px;border:thick solid black;"> 
