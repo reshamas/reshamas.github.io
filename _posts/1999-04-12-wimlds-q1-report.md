@@ -122,20 +122,22 @@ These city chapters with the greatest membership size are:
 
 
 ### By Events Organized
-A total of **332 meetup events** have been organized by the various WiMLDS chapters in the past 5 years.  This barchart shows the number of events organized by the different chapters.  These 5 chapters have organized 69% of the meetup events since their founding:
+A total of **418 meetup events** have been organized by the various WiMLDS chapters in the past 5+ years.  This barchart shows the number of events organized by the different chapters.  These 5 chapters have organized ~ 61% of the meetup events since their founding:
 
-1.  San Francisco Bay Area, California, USA (83)
-2.  New York, New York, USA (71)
-3.  Nairobi, Kenya (27)
-4.  Burlington, Vermont, USA (25)
-5.  Boulder, Colorado, USA (23)
+1.  San Francisco Bay Area, California, USA (97)
+2.  New York, New York, USA (74)
+3.  Nairobi, Kenya (30)
+4.  Burlington, Vermont, USA (29)
+5.  Boulder, Colorado, USA (26)
 
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/nE9e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="../assets/images/q1_events.png" />
 </p>
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/VE9e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="../assets/images/q1_events_pie.png" />
 </p>
+
+ 
  
 The below visualization is of number of past meetup events organized by meetup membership size.  
 
@@ -150,7 +152,7 @@ Here are some key observations:
 • Burlington, Vermont and Boulder, Colorado are organizing greater number of events, relative to their membership size.
 
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/N88e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="../assets/images/q1_events_members.png" />
 </p>
 
 ### Events, by Year
@@ -170,11 +172,19 @@ Here are some key observations:
 
 
 ## Inactive Chapters
-A chapter is considered inactive if they did not organize at least one event in 2018.  The following chapters are currently considered inactive:  
+A chapter is considered inactive if they did not organize at least one event in past 6 months.  The following chapters are currently considered inactive:  
 1.  Detroit Metro, Michigan, USA
-2.  Lagos, Nigeria
-3.  Sao Paolo, Brazil
-4.  Kigali, Rwanda
+2.  Corpus Christie, Texas, USA
+3.  Lagos, Nigeria
+4.  Abuja, Nigeria
+5.  Charlottesville, Virginia, USA
+6.  Chennai, India
+7.  Kigali, Rwanda
+(8.  Istanbul, Turkey)
+
+<p>
+<img src="../assets/images/q1_inactive.png" />
+</p>
 
 ## Data Table
 <p style="color:orange"><b>Note:  You can click on "Full Screen" icon on lower right to see enlarged image.  </b></p>
