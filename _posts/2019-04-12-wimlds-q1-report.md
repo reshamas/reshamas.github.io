@@ -242,6 +242,9 @@ The chapter organized [two events](http://faculty.tamucc.edu/mrahnemoonfar/bina/
 #### Turkey
 The two chapters in Turkey (Ankara and Istabul) are counted under the Europe numbers.
 
+## Acknowledgement
+Special thanks to [Prithvi Gandhi](https://www.linkedin.com/in/prithvi-gandhi/), a co-organizer for the WiMLDS NYC chapter, for updating statistics.  You can follow Prithvi on Twitter at [@prithnpixels](https://twitter.com/prithnpixels).
+
 ## Contact
 I can be reached at reshama@wimlds.org
  
