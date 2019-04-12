@@ -23,7 +23,7 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 | Data reference | [data source](https://docs.google.com/spreadsheets/d/1el7TG5566-3Zs9KUrlDqjS2_5Tvs4R-T9BVzyl_DBTA/edit?usp=sharing) / [visualization URL](https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e)  | [Q1 report](https://datastudio.google.com/open/1ND8Gg5YuD7FUrbjrbNuFBuP5tGQ3f-jw)
 | Website                                   | [wimlds.org](http://wimlds.org) |  [wimlds.org](http://wimlds.org)
 
-<p style="color:orange"><b>General note:  click on "full screen" icon on lower right to see enlarged images of visualizations in this article. </b></p>
+<p style="color:orange"><b>General note:  click on "full screen" icon on lower right to see enlarged images of visualizations in this article. WARNING:  it is slow to load to the browser. </b></p>
 
 
 ## Introduction to the WiMLDS Q1 Report
@@ -57,6 +57,9 @@ About 50% of WiMLDS members are in North America (USA and Canada).  Two-thirds o
 
 <p>
 <img src="../assets/images/q1_continents.png" />
+</p>
+<p>
+<img src="../assets/images/q1_cont_pie.png" />
 </p>
 
 <p>
@@ -102,22 +105,21 @@ These 6 countries have multiple chapters (more than one city in country with a W
 
 
 
-<p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/JK9e" frameborder="0" style="border:0" allowfullscreen></iframe>
-</p>
-
 ### By City Chapter
 
-The 5 city chapters with the greatest membership size are:  
-1.  San Francisco Bay Area, California, USA (4.6K)
-2.  New York, New York, USA (3.8K)
-3.  Nairobi, Kenya (2.0K)
-4.  Paris, France (1.9K)
-5.  Cary, North Carolina, USA (0.9K)
+These city chapters with the greatest membership size are:  
+1.  San Francisco Bay Area, California, USA (5.1K)
+2.  New York, New York, USA (4.2K)
+4.  Paris, France (2.3K)
+3.  Nairobi, Kenya (2.2K)
+4.  Delhi, India (1.2K)
+5.  Pune, India (1.2K)
 
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/s38e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="../assets/images/q1_chapters.png" />
 </p>
+
+
 
 ### By Events Organized
 A total of **332 meetup events** have been organized by the various WiMLDS chapters in the past 5 years.  This barchart shows the number of events organized by the different chapters.  These 5 chapters have organized 69% of the meetup events since their founding:
