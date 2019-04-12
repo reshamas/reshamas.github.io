@@ -1,6 +1,6 @@
 
 <p>
-<img src="../assets/images/map_12_2018.png" />
+<img src="../assets/images/q1_map.png" />
 </p>
 
 ## About
@@ -20,7 +20,7 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 | Number of members                         | 21,500            | 29,000
 | Total number of meetups organized to date | 332               | 418
 | Twitter followers: [@wimlds](https://twitter.com/wimlds) | 8700 |  9800       
-| Data reference | [data source](https://docs.google.com/spreadsheets/d/1el7TG5566-3Zs9KUrlDqjS2_5Tvs4R-T9BVzyl_DBTA/edit?usp=sharing) / [visualization URL](https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e)  |
+| Data reference | [data source](https://docs.google.com/spreadsheets/d/1el7TG5566-3Zs9KUrlDqjS2_5Tvs4R-T9BVzyl_DBTA/edit?usp=sharing) / [visualization URL](https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e)  | [Q1 report](https://datastudio.google.com/open/1ND8Gg5YuD7FUrbjrbNuFBuP5tGQ3f-jw)
 | Website                                   | [wimlds.org](http://wimlds.org) |  [wimlds.org](http://wimlds.org)
 
 <p style="color:orange"><b>General note:  click on "full screen" icon on lower right to see enlarged images of visualizations in this article. </b></p>
@@ -37,50 +37,70 @@ WiMLDS celebrated its 5th anniversary in December of 2018.  This meetup communit
 ## Map of WiMLDS Chapters
 
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/f38e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1ND8Gg5YuD7FUrbjrbNuFBuP5tGQ3f-jw/page/f38e" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
 ## Growth
-Twenty-five new chapters were founded in 2018, bringing the total number of WiMLDS chapters to 39.  Nearly 50% of the new chapters in 2018 were from Asia, South America and Africa.  The remaining 50% were in North America, Europe and Australia.
+Twenty-four new chapters were founded in Q1 2019, bringing the total number of WiMLDS chapters to 63. 
 
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/Q58e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="../assets/images/q1_chapter_growth.png" />
 </p>
+
+
 
 ## Chapters
 
 ### By Continent
 
-About 55% of WiMLDS members are in North America (USA and Canada).
+About 50% of WiMLDS members are in North America (USA and Canada).  Two-thirds of all members (67.8%) are in USA, Canada and Europe.  
 
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/068e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="../assets/images/q1_continents.png" />
 </p>
+
+<p>
+<img src="../assets/images/q1_cont_chapters.png" />
+</p>
+
+
 
 ### By Country
-The 5 countries with the greatest membership size are:  
+Five countries make up 80% of WiMLDS members.  Those with the greatest membership size are:  
 
-1.  USA (11.7K, 54.2%)
-2.  India (2.0K, 9.3%)
-3.  Kenya (2.0K, 9.1%)
-4.  France (1.9K, 9.0%)
-5.  Nigeria (1.1K, 5.2%)
+1.  USA (13.3K, 46.2%)
+2.  India (4.1K, 14.1%)
+4.  France (2.3K, 8.0%)
+3.  Kenya (2.2K, 7.5%)
+5.  Nigeria (1.2K, 4.2%)
 
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/C78e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="../assets/images/q1_country.png" />
 </p>
 
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/hC9e" frameborder="0" style="border:0" allowfullscreen></iframe>
+<img src="../assets/images/q1_country_top5.png" />
 </p>
+
+ 
 
 These 6 countries have multiple chapters (more than one city in country with a WiMLDS chapter):
 1.  USA (13)
 2.  India (6)
-3.  Bolivia (2)
+3.  **Canada (6)**
+4.  Turkey (2)
+4.  Bolivia (2)
+4.  Australia (2)
+4.  Spain (2)
+4.  Germany (2)
 4.  Poland (2)
-5.  Nigeria (2)
-6.  Canada (2)
+4.  Nigeria (2)
+
+<p>
+<img src="../assets/images/q1_countries_multiple_chapters.png" />
+</p>
+
+
 
 <p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/JK9e" frameborder="0" style="border:0" allowfullscreen></iframe>
