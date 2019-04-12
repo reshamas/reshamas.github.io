@@ -201,7 +201,7 @@ A chapter is considered inactive if they did not organize at least one event in 
 5.  Charlottesville, Virginia, USA
 6.  Chennai, India
 7.  Kigali, Rwanda
-(8.  Istanbul, Turkey)
+8.  Istanbul, Turkey (founded 21-Dec-2018)
 
 <p>
 <img src="../assets/images/q1_inactive.png" />
