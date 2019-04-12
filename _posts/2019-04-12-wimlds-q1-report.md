@@ -180,14 +180,21 @@ Here are some key observations:
 
 #### Number of Meetup Events By Year (all chapters combined)
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1ZynFvDe8RUSoPv0hlnUc4u7T3LjeGI63/page/WYZf" frameborder="0" style="border:0" allowfullscreen></iframe>
+<p>
+<img src="../assets/images/q1_events_by_year.png" />
+</p>
 
-#### Number of Meetups Organized, by Chapter (>=3 events organized in 2018)
+ 
 
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1ZynFvDe8RUSoPv0hlnUc4u7T3LjeGI63/page/ASZf" frameborder="0" style="border:0" allowfullscreen></iframe>
+#### Number of Meetups Organized, by Chapter (>=1 events organized in 2019)
+
+<p>
+<img src="../assets/images/q1_events_2019.png" />
+</p>
 
 
-#### Table of Meetup Events in 2018, by Chapter
+
+#### Table of Meetup Events, by Chapter
 
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1ZynFvDe8RUSoPv0hlnUc4u7T3LjeGI63/page/ly3f" frameborder="0" style="border:0" allowfullscreen></iframe>
 
@@ -216,9 +223,20 @@ A chapter is considered inactive if they did not organize at least one event in 
 </p>
 
 ## Additional Notes
+
+#### Delhi, India
 - The Delhi, India chapter of WiMLDS uses these 2 forums for communication and events:
-  - [Delhi WiMLDS Meetup Group](https://www.meetup.com/Delhi-Women-in-Machine-Learning-Data-Science/) (179 members, 5 events in 2018)
-  - [Delhi FB page](https://www.facebook.com/delhiwimlds/) (1150 followers, 9 events listed for 2018)
+  - [Delhi WiMLDS Meetup Group](https://www.meetup.com/Delhi-Women-in-Machine-Learning-Data-Science/) 
+     - 31-Dec-2018:  179 members, 5 events in 2018
+     - 12-Apr-2019:  314 members, 6 events in 2019
+  - [Delhi FB page](https://www.facebook.com/delhiwimlds/) 
+     - 31-Dec-2018:  1150 followers, 9 events listed for 2018
+     - 12-Apr-2019:  1315 followers, 4 events listed for 2019
+
+#### Corpus Christie, Texas, USA
+The chapter organized [two events](http://faculty.tamucc.edu/mrahnemoonfar/bina/outreach/) in 2018:
+    - IBM visits our Lab, March 2018
+    - Girls code camp: Women in Technology (WITS) Unmanned Ground Vehicles (UGVs), Summer 2018
  
 ## Contact
 I can be reached at reshama@wimlds.org
@@ -230,8 +248,6 @@ I can be reached at reshama@wimlds.org
 - [Video](https://spark.adobe.com/video/4qLqIbJjt55PB) celebrating WiMLDS 5th Anniversary (10-Dec-2018)
 <iframe src="https://spark.adobe.com/video/4qLqIbJjt55PB/embed" width="600" height="450" frameborder="0" allowfullscreen></iframe>
 
-## Updates
-- 13-Feb-2019:  move Corpus Christie from "inactive" to "active".  The chapter did organize [two events](http://faculty.tamucc.edu/mrahnemoonfar/bina/outreach/) in 2018:
-    - IBM visits our Lab, March 2018
-    - Girls code camp: Women in Technology (WITS) Unmanned Ground Vehicles (UGVs), Summer 2018
+ 
+
     
