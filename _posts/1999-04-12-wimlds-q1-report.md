@@ -119,7 +119,28 @@ These city chapters with the greatest membership size are:
 <img src="../assets/images/q1_chapters.png" />
 </p>
 
+### By Region
 
+
+<p>
+<img src="../assets/images/q1_africa.png" />
+</p>
+
+<p>
+<img src="../assets/images/q1_india.png" />
+</p>
+
+<p>
+<img src="../assets/images/q1_europe.png" />
+</p>
+
+<p>
+<img src="../assets/images/q1_europe_chapters.png" />
+</p>
+
+<p>
+<img src="../assets/images/q1_canada.png" />
+</p>
 
 ### By Events Organized
 A total of **418 meetup events** have been organized by the various WiMLDS chapters in the past 5+ years.  This barchart shows the number of events organized by the different chapters.  These 5 chapters have organized ~ 61% of the meetup events since their founding:
