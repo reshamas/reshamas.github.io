@@ -12,7 +12,7 @@ The mission of WiMLDS is to support and promote women and gender minorities who 
 
 | Dimension                                 | Stats             | Stats             |
 |-------------------------------------------|-------------------|-------------------|
-| Data for time period ending               | 31-Dec-2019       |  31-Mar-2019
+| Data for time period ending               | 31-Dec-2019       |  **31-Mar-2019**
 | Report published                          | 02-Jan-2019       |  12-Apr-2019
 | Number of continents represented          | 6                 |  6
 | Number of countries represented           | 18                |  27
@@ -158,7 +158,8 @@ A chapter is considered inactive if they did not organize at least one event in 
 <p style="color:orange"><b>Note:  You can click on "Full Screen" icon on lower right to see enlarged image.  </b></p>
 
 <p>
-<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1kB3wUBjUovKY_V81NldPy6zPD9E7U4M9/page/yH9e" frameborder="0" style="border:0" allowfullscreen></iframe>
+ 
+ <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1ND8Gg5YuD7FUrbjrbNuFBuP5tGQ3f-jw/page/yH9e" frameborder="0" style="border:0" allowfullscreen></iframe>
 </p>
 
 ## Additional Notes
