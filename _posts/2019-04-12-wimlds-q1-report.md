@@ -34,7 +34,9 @@ WiMLDS celebrated its 5th anniversary in December of 2018.  This meetup communit
 
 
 
-## Map of WiMLDS Chapters
+## (Interactive) Map of WiMLDS Chapters
+
+<p style="color:orange"><b>Note:  put mouse over bubble to obtain chapter name.</b></p>
 
 <p>
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/1ND8Gg5YuD7FUrbjrbNuFBuP5tGQ3f-jw/page/f38e" frameborder="0" style="border:0" allowfullscreen></iframe>
@@ -87,7 +89,7 @@ Five countries make up 80% of WiMLDS members.  Those with the greatest membershi
 
  
 
-These 6 countries have multiple chapters (more than one city in country with a WiMLDS chapter):
+These countries have multiple chapters (more than one city in country with a WiMLDS chapter):
 1.  USA (13)
 2.  India (6)
 3.  **Canada (6)**
@@ -107,7 +109,7 @@ These 6 countries have multiple chapters (more than one city in country with a W
 
 ### By City Chapter
 
-These city chapters with the greatest membership size are:  
+The city chapters with the greatest membership size are:  
 1.  San Francisco Bay Area, California, USA (5.1K)
 2.  New York, New York, USA (4.2K)
 4.  Paris, France (2.3K)
@@ -162,7 +164,6 @@ A total of **418 meetup events** have been organized by the various WiMLDS chapt
  
 The below visualization is of number of past meetup events organized by meetup membership size.  
 
-<p style="color:orange"><b>Note:  put mouse over bubble to obtain chapter name.</b></p>
 
 Here are some key observations:  
 
@@ -237,7 +238,10 @@ A chapter is considered inactive if they did not organize at least one event in 
 The chapter organized [two events](http://faculty.tamucc.edu/mrahnemoonfar/bina/outreach/) in 2018:
     - IBM visits our Lab, March 2018
     - Girls code camp: Women in Technology (WITS) Unmanned Ground Vehicles (UGVs), Summer 2018
- 
+
+#### Turkey
+The two chapters in Turkey (Ankara and Istabul) are counted under the Europe numbers.
+
 ## Contact
 I can be reached at reshama@wimlds.org
  
