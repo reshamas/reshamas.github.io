@@ -158,11 +158,14 @@ If you would like to participate in a scikit sprint, based on the history below,
 ### Listing of Scikit Sprints
 There is a list on the [scikit-learn wiki](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints). 
 
+-2019
+  - Paris:  [core sprint, for advanced contributors](https://scikit-learn.fondation-inria.fr/en/scikit-learn-sprint-in-paris/) (Feb)
 - 2018
   - WiMLDS:  [New York City](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint) (Sep)
   - SciPy:  [Austin](http://gael-varoquaux.info/programming/sprint-on-scikit-learn-in-paris-and-austin.html) (open sprint, for new contributors) (Jul)
   - Paris:  core sprint, for advanced contributors (Jul)
-  - Two Sigma:  [New York City](https://twitter.com/amuellerml/status/1007670849774784512) (Jun)
+  - Two Sigma:  [New York City](https://twitter.com/amuellerml/status/1007670849774784512) (Jun) 
+  - UC Berkeley:  [Berkeley](https://github.com/scikit-image/scikit-image/wiki/UC-Berkeley-(BIDS)-sprint,-May-28-Jun-2-2018)(May 28 to Jun 2)
 - 2017
   - [Paris](http://gael-varoquaux.info/programming/scikit-learn-paris-sprint-2017.html) (Jun)
   - WiMLDS: [New York City](https://github.com/WiMLDS/scikit-sprint-nyc-2017/blob/master/README.md) (Mar)
