@@ -158,7 +158,7 @@ If you would like to participate in a scikit sprint, based on the history below,
 ### Listing of Scikit Sprints
 There is a list on the [scikit-learn wiki](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints). 
 
--2019  
+- 2019  
   - Paris:  [core sprint, for advanced contributors](https://scikit-learn.fondation-inria.fr/en/scikit-learn-sprint-in-paris/) (Feb)
 - 2018
   - WiMLDS:  [New York City](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint) (Sep)
