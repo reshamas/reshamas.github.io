@@ -4,7 +4,6 @@
 </p>
 
 
-# Reflecting on Two Years on the NumFOCUS DISC Committee
 
 I served on the DISC Committee for a 2-year term from Spring 2017 to Spring 2019.  This is my story.  
 
