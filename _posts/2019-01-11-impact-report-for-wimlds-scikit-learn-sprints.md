@@ -116,3 +116,8 @@ I can be contacted via email: reshama@wimlds.org
 - [Interview with Andreas Mueller](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), 2017
 - [And Now, an Infuriating Statistic about Women and Coding](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/)
 - [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
+
+---
+## Addendum
+- This blog was published on 23-Feb-2019:  [Planning a beginner open source sprint day for data scientists](https://medium.com/@ethompso28/planning-a-beginner-open-source-sprint-day-for-data-scientists-163b6aa7087f).  Emily Thompson learned of this Sprint Impact Report, and organized her own open source sprint.   [added 26-Apr-2019]
+
