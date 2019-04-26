@@ -41,7 +41,7 @@ Initial projects included:
 ### 2017 DISC Unconference
 
 <p>
-<img src="../assets/images/disc_esther.jpg" width="99%" height="99%" />
+<img src="../assets/images/esther.png" width="99%" height="99%" />
 </p>
 
 This 2-day unconference was held on November 29-30 at the Microsoft Conference Center in New York City.  
