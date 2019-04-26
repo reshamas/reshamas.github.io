@@ -4,7 +4,7 @@
 </p>
 
 
-I served on the DISC Committee for a 2-year term from Spring 2017 to Spring 2019.  In this article I reflects on the past two years and what I have learned.  
+I served on the DISC Committee for a 2-year term from Spring 2017 to Spring 2019.  In this article I reflect on the past two years and all that I have learned.  
 
 
 
