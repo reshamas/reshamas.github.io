@@ -106,18 +106,10 @@ Nominations open for new chairs to serve a 2-year term from [2019 to 2021](https
 
 ## Takeaways
 
-Reflecting back to the time when I first applied to join the DISC Committee, I am overwhelmed at the breadth of knowledge with which I am leaving.  I had thought that improving diversity meant counting the number of people from URGs at community events and increasing that number by telling people in my network to attend.  I now know that there is a deeper grassroots movement which requires awareness and improving attendee experience and creating an environment that is welcoming and safe in a number of dimensions to increase diversity.  This is achievable with the DISCOVER Cookbook and Code of Conduct.  
+Reflecting back to the time when I first applied to join the DISC Committee, I am overwhelmed at the breadth of knowledge with which I am leaving.  I had thought that improving diversity meant counting the number of people from URGs at community events and increasing that number by telling people in my network to attend.  I now know that there is a deeper grassroots movement which requires awareness and improving attendee experience and creating an environment that is welcoming and safe in a number of dimensions to increase diversity.  This is achievable with the DISCOVER Cookbook and Code of Conduct.  I also realized that cultivating social change required work at a granular level. 
 
-Participating in DISC did not seem like extra, separate work because all that I learned I was able to transfer knowledge to my other communities and projects.  I have successfully reached out to a number of conferences asking them to implement a Code of Conduct prior to promoting their events to my meetup community. I learned more about open source and the current contributors and funding challenges.  
+Participating in DISC did not seem like extra, separate work because all that I learned I was able to transfer knowledge to my other communities and projects.  I have successfully reached out to a number of conferences asking them to implement a Code of Conduct prior to promoting their events to my meetup community. I am much better informed about open source and the current contributors and funding challenges.  
 
-
-
-## Who I Met
- 
-PyData photos on google drive:
-https://drive.google.com/open?id=1CpJmpX2bpjc9ee2CY2A8xLJzTKQCP1_h
-
-- my photos on iPhone
 
 ## What's Next?
 
