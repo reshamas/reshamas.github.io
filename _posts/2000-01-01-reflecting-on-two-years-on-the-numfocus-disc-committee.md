@@ -48,7 +48,7 @@ Initial projects included:
 This 2-day unconference was held on November 29-30 at the Microsoft Conference Center in New York City.  
 
 The Unconference Organizing Committee:
-- [Gina Helfritch](https://www.linkedin.com/in/ginahelfrich/)
+- [Gina Helfrich](https://www.linkedin.com/in/ginahelfrich/)
 - [Reshama Shaikh](https://www.linkedin.com/in/reshamas/)
 - [Julia Meinwald](https://www.linkedin.com/in/julia-meinwald-20287272/)
 
