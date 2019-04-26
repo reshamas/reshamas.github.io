@@ -1,6 +1,6 @@
 
 <p>
-<img src="../assets/images/stem_women.png" width="99%" height="99%" />
+<img src="../assets/images/ .png" width="99%" height="99%" />
 </p>
 
 
