@@ -22,6 +22,11 @@ Since this is an organization that supports open source, it is only fitting that
 
 I first learned of the DISC Committee in the NumFOCUS [December 2016 newsletter](https://us9.campaign-archive.com/?u=c4bde6125a526b0fe180fdc3d&id=55cf91b886&e=50142b780f).  I applied, joined the [DISC mailing list](https://groups.google.com/a/numfocus.org/forum/#!forum/disc/join), and the committee officially kicked off in March 2017.  
 
+<p>
+<img src="../assets/images/disc_annonce.png" width="99%" height="99%" />
+</p>
+
+
 
 ## DISC Projects
 
@@ -111,5 +116,7 @@ I plan on remaining on the mailing list so I can keep up to date on all the upco
 ## In Summary
 I am featured as a community profile in the NumFOCUS Annual Report where I share my history and experience with NumFOCUS, as well as how others can get involved and support the organization.  
 
-photo on NumFOCUS community profile
 
+<p>
+<img src="../assets/images/disc_rs.png" width="99%" height="99%" />
+</p>
