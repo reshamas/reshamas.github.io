@@ -4,7 +4,8 @@
 </p>
 
 
-I served on the DISC Committee for a 2-year term from Spring 2017 to Spring 2019.  This is my story.  
+I served on the DISC Committee for a 2-year term from Spring 2017 to Spring 2019.  In this article I reflects on the past two years and what I have learned.  
+
 
 
 ## What is DISC?
