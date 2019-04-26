@@ -1,6 +1,6 @@
 
 <p>
-<img src="../assets/images/disc_silly.jpg" width="99%" height="99%" />
+<img src="../assets/images/disc_silly.png" width="99%" height="99%" />
 </p>
 
 
