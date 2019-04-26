@@ -86,7 +86,9 @@ Nominations were open for new committee members to serve from [2018 to 2010](htt
 
 ### Summer 2018
 
-We spent the summer meetings researching and developing a Code of Conduct (CoC).  I learned so much during the entire process and was able to take that knowledge to the two meetup groups for which I am an organizer:  [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) (WiMLDS) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+We spent the summer meetings researching and revising the Code of Conduct (CoC).  The [revised CoC](https://numfocus.org/blog/updates-to-the-numfocus-code-of-conduct) was reviewed, approved and published in September 2018.  
+
+I learned so much during the entire process and was able to take that knowledge to the two meetup groups for which I am an organizer:  [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) (WiMLDS) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 NumFOCUS [2018 Board of Elections](https://numfocus.org/blog/numfocus-to-hold-2018-elections-for-board-of-directors) were announced in July and [results were published](https://numfocus.org/blog/2018-numfocus-board-selection-results) in early September 2018.  DISC committee members, as supporter of NumFOCUS, were eligible to vote.
 
