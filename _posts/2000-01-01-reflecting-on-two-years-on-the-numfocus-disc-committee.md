@@ -80,27 +80,27 @@ Unconference participants wrote [blogs](https://numfocus.org/blog/directory-incr
 
 Through what I had learned at the DISC Unconference, I was inspired to write [Managing Our Code of Conduct](https://reshamas.github.io/managing-our-code-of-conduct/). 
 
-#### Spring 2018
+### Spring 2018
 
 Nominations were open for new committee members to serve from [2018 to 2010](https://numfocus.org/blog/disc-committee-seeks-nominations-for-2018-2020-members).  The terms were staggered so that every 2 years there were not brand new committee members.  We created the application, reviewed and selected incoming members.  
 
-#### Summer 2018
+### Summer 2018
 
 We spent the summer meetings researching and developing a Code of Conduct (CoC).  I learned so much during the entire process and was able to take that knowledge to the two meetup groups for which I am an organizer:  [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) (WiMLDS) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 NumFOCUS [2018 Board of Elections](https://numfocus.org/blog/numfocus-to-hold-2018-elections-for-board-of-directors) were announced in July and [results were published](https://numfocus.org/blog/2018-numfocus-board-selection-results) in early September 2018.  DISC committee members, as supporter of NumFOCUS, were eligible to vote.
 
-#### Fall 2018
+### Fall 2018
 
 I was so inspired by the creation and potential impact of the NumFOCUS CoC that, as a side project, I researched STEM organizations and their communities that could also be served by a CoC.  The article is [Code of Conduct for NeurIPS and Other STEM Organizations](https://reshamas.github.io/code-of-conduct-for-nips-and-other-stem-associations/).
 
 Through my meetup group, WiMLDS, I had organized two open source sprints (in 2017 and 2018).  My related articles are [Highlights from the 2018 WiMLDS Scikit-learn Open Source Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/) and [Impact Report for WiMLDS Scikit-learn Sprints](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/).  Through my experience with NumFOCUS, I was able to improve my sprint events as well as provide guidance to others who were organizing their own open source sprints.  
 
-#### Winter 2018
+### Winter 2018
 
 In addition to the projects, DISC members as well as members of the general community who subscribe to the mailing list often post articles or topics of discussion.  DISC members also share NumFOCUS projects and announcements with our network such as Google Summer of Code, Julia Computing Call for Proposals and many more.  
 
-#### Spring 2019
+### Spring 2019
 
 Nominations open for new chairs to serve a 2-year term from [2019 to 2021](https://docs.google.com/document/d/13OnU0yBDlqHMJg4MGQYg4NgN5j125KFPSgPAkzolmRQ/edit?usp=sharing).
 
