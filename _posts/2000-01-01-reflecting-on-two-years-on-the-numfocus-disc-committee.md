@@ -43,7 +43,7 @@ Initial projects included:
 
 <p float="left">
   <img src="../assets/images/esther.png" width="300" height="220"/>
-  <img src="../assets/images/disc_whiteboard.jpg.png"  width="300" height="220"/> 
+  <img src="../assets/images/disc_whiteboard.jpg"  width="300" height="220"/> 
 </p>
 
  
@@ -70,8 +70,8 @@ About 45 participants from United States, Europe and South America joined.  The 
 I contributed to the **open source** and **communicating feedback** sub-committees. 
 
 <p float="left">
-  <img src="../assets/images/disc_notes.png" width="300" height="220"/>
-  <img src="../assets/images/disc_working.png"  width="300" height="220"/> 
+  <img src="../assets/images/disc_notes.jpg" width="300" height="220"/>
+  <img src="../assets/images/disc_working.jpg"  width="300" height="220"/> 
 </p>
 
  
