@@ -41,9 +41,12 @@ Initial projects included:
 
 ### 2017 DISC Unconference
 
-<p>
-<img src="../assets/images/esther.png" width="70%" height="70%" />
+<p float="left">
+  <img src="../assets/images/esther.png" width="300" height="220"/>
+  <img src="../assets/images/disc_whiteboard.jpg.png"  width="300" height="220"/> 
 </p>
+
+ 
 
 This 2-day unconference was held on November 29-30 at the Microsoft Conference Center in New York City.  
 
@@ -66,11 +69,12 @@ About 45 participants from United States, Europe and South America joined.  The 
 
 I contributed to the **open source** and **communicating feedback** sub-committees. 
 
-
-
-<p>
-<img src="../assets/images/disc_whiteboard.jpg" width="80%" height="80%" />
+<p float="left">
+  <img src="../assets/images/disc_notes.png" width="300" height="220"/>
+  <img src="../assets/images/disc_working.png"  width="300" height="220"/> 
 </p>
+
+ 
 
 There is a [twitter list](https://twitter.com/NumFOCUS/lists/disc-unconference-2017/members) of some of the participants in the DISC Unconference, many of whom are affiliated with Software Carpentry organization.  
 
