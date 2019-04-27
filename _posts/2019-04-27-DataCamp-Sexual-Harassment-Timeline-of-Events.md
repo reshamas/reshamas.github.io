@@ -29,5 +29,5 @@
 | 2019-04-24    | >>[DataCamp: I am deeply sorry](https://www.datacamp.com/community/blog/apology) (CEO issues public apology)
 | 2019-04-24    | >>[DataCamp: An Important Update from the Board of Directors](https://www.datacamp.com/community/blog/board-update)
 | 2019-04-25    | Business Insider: [CEO of DC Takes Indefinite Leave](https://www.businessinsider.com/datacamp-ceo-jonathan-cornelissen-leave-sexual-misconduct-allegation-2019-4)
-| 2019-04-25    | [PyCon: donates $9K DC sponsorship to NWLC](https://pycon.blogspot.com/2019/04/an-update-regarding-pycon-2019-sponsor.html)| 2019-04-23    | DataCamp employee publicly states opinion [tweet](https://twitter.com/hugobowne/status/1120733436346605568)
+| 2019-04-25    | [PyCon: donates $9K DC sponsorship to NWLC](https://pycon.blogspot.com/2019/04/an-update-regarding-pycon-2019-sponsor.html)
 | 2019-04-26    | David Robinson: DataCamp employee publicly states opinion [tweet](https://twitter.com/drob/status/1121850986694414337)
