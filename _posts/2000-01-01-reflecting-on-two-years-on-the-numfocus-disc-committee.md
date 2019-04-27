@@ -42,7 +42,7 @@ Initial projects included:
 ### 2017 DISC Unconference
 
 <p float="left">
-  <img src="../assets/images/esther.png" width="300" height="220"/>
+  <img src="../assets/images/esther.png" width="300" height="300"/>
   <img src="../assets/images/disc_whiteboard.jpg"  width="300" height="220"/> 
 </p>
 
