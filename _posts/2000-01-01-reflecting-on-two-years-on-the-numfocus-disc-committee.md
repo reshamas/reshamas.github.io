@@ -126,7 +126,7 @@ I plan on remaining on the mailing list so I can keep up to date on all the upco
 
 
 ## In Summary
-I am featured as a community profile in the NumFOCUS Annual Report where I share my history and experience with NumFOCUS, as well as how others can get involved and support the organization.  
+I am featured as a community profile in the NumFOCUS [2018 Annual Report](https://numfocus.org/blog/numfocus-releases-2018-annual-report) (pages 4 and 23) where I share my history and experience with NumFOCUS, as well as how others can get involved and support the organization.  
 
 
 <p>
