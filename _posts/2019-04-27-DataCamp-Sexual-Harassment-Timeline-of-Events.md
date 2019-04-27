@@ -1,9 +1,7 @@
 
-## DataCamp Sexual Harassment: Timeline of Events
-
 | Date          | Event              |
 |---------------|--------------------|
-| Oct 2017     | incident occurred  |
+| Oct 2017      | incident occurred  |
 |               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
 | 2019-04-03    | 100 DataCamp instructors send letter to DC | 
