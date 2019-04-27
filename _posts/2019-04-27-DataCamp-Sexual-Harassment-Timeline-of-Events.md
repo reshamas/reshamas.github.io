@@ -5,7 +5,6 @@
 |---------------|--------------------|
 | Oct 2017     | incident occurred  |
 |               |                    |
-|               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
 | 2019-04-03    | 100 DataCamp instructors send letter to DC | 
 | 2019-04-04    | >>[DataCamp: A note to our community](https://www.datacamp.com/community/blog/note-to-our-community) (issues first public statement on incident)
