@@ -3,9 +3,12 @@
 |---------------|--------------------|
 | Oct 2017      | incident occurred  |
 |               |                    |
-| July 2017     | discussion with DC began | 
+| Feb 2018      | target leaves DC   |
+|               |                    |
+| July 2018     | discussion with DC began | 
 |               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
+|               |                    |
 | 2019-04-03    | 100+ (of 200) DataCamp instructors send letter to DC | 
 | 2019-04-04    | >>[DataCamp: A note to our community](https://www.datacamp.com/community/blog/note-to-our-community) (issues first public statement on incident)
 | 2019-04-05    | [Kara Woo: makes public statement](https://twitter.com/kara_woo/status/1114229065509003264)
