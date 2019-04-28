@@ -4,7 +4,7 @@
 | Oct 2017      | incident occurred  |
 |               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
-| 2019-04-03    | 100 DataCamp instructors send letter to DC | 
+| 2019-04-03    | 100+ DataCamp instructors send letter to DC | 
 | 2019-04-04    | >>[DataCamp: A note to our community](https://www.datacamp.com/community/blog/note-to-our-community) (issues first public statement on incident)
 | 2019-04-05    | [Kara Woo: makes public statement](https://twitter.com/kara_woo/status/1114229065509003264)
 | 2019-04-05    | [Jeremy Howard: fastai removes DC from their site](https://twitter.com/jeremyphoward/status/1114177335354253312)
@@ -18,7 +18,7 @@
 | 2019-04-15    | [Dhavide Aruliah: A note to our community on building trust](https://dhavide.github.io/a-note-to-our-commuity-on-building-trust.html)
 | 2019-04-15    | [Greg Wilson: An Exchange with DataCamp](http://third-bit.com/2019/04/15/an-exchange-with-datacamp.html)
 | 2019-04-16    | [Julia Silge: Writing a Letter to DC](https://juliasilge.com/blog/datacamp-misconduct/)
-| 2019-04-17    | DataCamp removes nonidex tag
+| 2019-04-17    | DataCamp removes nonindex tag
 | 2019-04-19    | [Data Carpentries removes DC mentions from website](https://carpentries.org/blog/2019/04/datacamp-response/)
 | 2019-04-22    | Motherboard: [DC Teachers Boycott Their Own Classes Following Sexual Misconduct by Executive](https://motherboard.vice.com/en_us/article/597p7z/datacamp-teachers-boycott-their-own-classes-following-sexual-misconduct-by-executive)
 | 2019-04-22    | Business Insider: [CEO made 'uninvited physical contact'](https://www.businessinsider.com/datacamp-ceo-made-uninvited-physical-contact-with-employee-sources-say-2019-4)
