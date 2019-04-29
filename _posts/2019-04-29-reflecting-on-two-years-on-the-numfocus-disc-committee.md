@@ -10,7 +10,7 @@ I served on the DISC Committee for a 2-year term from Spring 2017 to Spring 2019
 
 ## What is DISC?
 
-[NumFOCUS](https://numfocus.org) is a 501(c)(3) based in Austin, Texas, and it supports open source software known as *projects*.  Some of those widely used open source projects include numpy, pandas, matplotlib, Jupyter, Stan and Julia. There is also a vibrant international [community of PyData meetup groups](https://www.meetup.com/pro/pydata/) with **120K members in 138 groups in 52 countries**.  They host meetup events as well as annual conferences in [various cities](https://pydata.org/events/).  
+[NumFOCUS](https://numfocus.org) is a 501(c)(3) based in Austin, Texas, and it supports open source software known as *projects*.  Some of the widely used open source projects include numpy, pandas, matplotlib, Jupyter, Stan and Julia. There is also a vibrant international [community of PyData meetup groups](https://www.meetup.com/pro/pydata/) with **120K members in 138 groups in 52 countries**.  They host meetup events as well as annual conferences in [various cities](https://pydata.org/events/).  
 
 The NumFOCUS [2018 Annual Report](https://numfocus.org/blog/numfocus-releases-2018-annual-report) was released April 2019.
 
@@ -50,7 +50,7 @@ Initial projects included:
 
 This 2-day unconference was held on November 29-30 at the Microsoft Conference Center in New York City.  
 
-The Unconference Organizing Committee:
+The DISC Unconference Organizing Committee:
 - [Gina Helfrich](https://www.linkedin.com/in/ginahelfrich/)
 - [Reshama Shaikh](https://www.linkedin.com/in/reshamas/)
 - [Julia Meinwald](https://www.linkedin.com/in/julia-meinwald-20287272/)
