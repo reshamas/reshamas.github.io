@@ -17,8 +17,8 @@
 | 2019-04-05    | [Greg Wilson: The Worst Behavior](http://third-bit.com/2019/04/05/the-worst-behavior.html)
 | 2019-04-08    | [R-Ladies Global's disapproval of DC](https://blog.rladies.org/post/statement-about-datacamp/)
 | 2019-04-09    | Jacqueline Nolis disapproves of R-Ladies statement:  [tweet](https://twitter.com/skyetetra/status/1115758640676270081)
-| 2019-04-12    | [Noam Ross: Don't Take My Course](https://noamross.github.io/datacamp-sexual-assault/)
 | 2019-04-11    | [R-Ladies updates statement](https://twitter.com/RLadiesGlobal/status/1116217993753759744) after [discussion](https://twitter.com/skyetetra/status/1115463262726807552) 
+| 2019-04-12    | [Noam Ross: Don't Take My Course](https://noamross.github.io/datacamp-sexual-assault/)
 | 2019-04-12    | [Bob Rudis: How To Hide Your Content From Search Engines](https://rud.is/b/2019/04/12/a-note-to-our-community-on-how-to-hide-your-content-from-search-engines/)
 | 2019-04-14    | [Steph Locke: SatRdays](https://satrdays.org/blog/2019/04/14/datacamp-sponsorship/) (drops DC as sponsor) |
 | 2019-04-15    | [RStudio severs relationship with DC](https://twitter.com/rstudio/status/1117889763711696896) 
