@@ -1,11 +1,12 @@
 
 | Date          | Event              |
 |---------------|--------------------|
+| Sep 2017      | KW begins at DC    |
 | Oct 2017      | incident occurred  |
 |               |                    |
-| Feb 2018      | target leaves DC   |
+| Feb 2018      | KW leaves DC       |
 |               |                    |
-| July 2018     | discussion with DC began | 
+| July 2018     | discussion with DC begins | 
 |               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
 |               |                    |
