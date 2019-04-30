@@ -7,6 +7,12 @@
 I served on the DISC Committee for a 2-year term from Spring 2017 to Spring 2019.  In this article I reflect on the past two years and all that I have learned.  
 
 
+## Takeaways
+
+Reflecting back to the time when I first applied to join the DISC Committee, I am overwhelmed at the breadth of knowledge with which I am leaving.  I had thought that improving diversity meant counting the number of people from URGs at community events and increasing that number by telling people in my network to attend.  I now know that there is a deeper grassroots movement which requires awareness and improving attendee experience and creating an environment that is welcoming and safe in a number of dimensions to increase diversity.  This is achievable with the DISCOVER Cookbook and Code of Conduct.  I also realized that cultivating social change required work at a granular level. 
+
+Participating in DISC did not seem like extra, separate work because all that I learned I was able to transfer knowledge to my other communities and projects.  I have successfully reached out to a number of conferences asking them to implement a Code of Conduct prior to promoting their events to my meetup community. I am much better informed about open source and the current contributors and funding challenges.  
+
 
 ## What is DISC?
 
@@ -17,6 +23,8 @@ The NumFOCUS [2018 Annual Report](https://numfocus.org/blog/numfocus-releases-20
 DISC is the [Diversity & Inclusion in Scientific Computing](https://numfocus.org/programs/diversity-inclusion) committee of NumFOCUS whose mission is to increase diversity in open source.   
 
 Since this is an organization that supports open source, it is only fitting that DISC Committee [meeting minutes](https://wiki.numfocus.org/DISC_Committee_Meeting_Minutes) are all publicly available. 
+
+
 
 ## How I Learned of DISC
 
@@ -113,11 +121,6 @@ In addition to the projects, DISC members as well as members of the general comm
 
 Nominations open for new chairs to serve a 2-year term from [2019 to 2021](https://docs.google.com/document/d/13OnU0yBDlqHMJg4MGQYg4NgN5j125KFPSgPAkzolmRQ/edit?usp=sharing).
 
-## Takeaways
-
-Reflecting back to the time when I first applied to join the DISC Committee, I am overwhelmed at the breadth of knowledge with which I am leaving.  I had thought that improving diversity meant counting the number of people from URGs at community events and increasing that number by telling people in my network to attend.  I now know that there is a deeper grassroots movement which requires awareness and improving attendee experience and creating an environment that is welcoming and safe in a number of dimensions to increase diversity.  This is achievable with the DISCOVER Cookbook and Code of Conduct.  I also realized that cultivating social change required work at a granular level. 
-
-Participating in DISC did not seem like extra, separate work because all that I learned I was able to transfer knowledge to my other communities and projects.  I have successfully reached out to a number of conferences asking them to implement a Code of Conduct prior to promoting their events to my meetup community. I am much better informed about open source and the current contributors and funding challenges.  
 
 
 ## What's Next?
