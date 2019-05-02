@@ -5,6 +5,10 @@ tags:
 comments: false
 ---
 
+## Talks
+- O'Reilly NYC Artificial Intelligence Conference: [Better Together Diversity Luncheon](https://youtu.be/1mxJ-j38gcU) (video) (Apr 2019)
+- DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
+
 ## Press
 - [When It Comes To Senior Leadership, Women Are Still Few And Far Between](https://disruptionhub.com/senior-leadership-more-women-needed/), D/SRUPTION (Mar 2019)
 - [Machine Learning: Mind The Gender Gap](https://disruptionhub.com/machine-learning-mind-the-gender-gap), D/SRUPTION (Jan 2019)
