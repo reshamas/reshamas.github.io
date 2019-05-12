@@ -5,10 +5,10 @@ tags:
 comments: false
 ---
 
-All of my MLConf interviews are available [here](https://mlconf.com/author/reshama-shaikh/).  
+All of my MLConf interviews are available [here]https://mlconf.com/blog/author/reshama-shaikh/).   
 
 ## Jerry Talton
-My interview with [Jerry Talton](https://mlconf.com/interview-with-jerry-talton-director-of-data-machine-learning-carta/) of [Carta](https://carta.com).   
+My interview with [Jerry Talton](https://mlconf.com/blog/interview-with-jerry-talton-director-of-data-machine-learning-carta/) of [Carta](https://carta.com).   
 
 <p>
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Had tons of fun chatting with <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> about my new role <a href="https://twitter.com/cartainc?ref_src=twsrc%5Etfw">@cartainc</a>, and my upcoming <a href="https://twitter.com/MLconf?ref_src=twsrc%5Etfw">@MLconf</a> talk on <a href="https://twitter.com/hashtag/Equity?src=hash&amp;ref_src=twsrc%5Etfw">#Equity</a>, <a href="https://twitter.com/hashtag/Inequity?src=hash&amp;ref_src=twsrc%5Etfw">#Inequity</a>, and <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a>. <a href="https://t.co/ChVMOt4RZj">https://t.co/ChVMOt4RZj</a></p>&mdash; Jerry Talton (@jerrytalton) <a href="https://twitter.com/jerrytalton/status/1058468369337405440?ref_src=twsrc%5Etfw">November 2, 2018</a></blockquote>
@@ -16,7 +16,7 @@ My interview with [Jerry Talton](https://mlconf.com/interview-with-jerry-talton-
 </p>
 
 ## Humayun Irshad
-My interview with [Humayun Irshad](https://mlconf.com/interview-with-humayun-irshad-leveraging-street-view-imagery-and-deep-learning-models-to-build-parking-augmented-maps/) of [Figure Eight](https://www.figure-eight.com).  One of the exciting projects that Humayun works on is using deep learning to find parking spots in San Francisco.
+My interview with [Humayun Irshad](https://mlconf.com/blog/interview-with-humayun-irshad-leveraging-street-view-imagery-and-deep-learning-models-to-build-parking-augmented-maps/) of [Figure Eight](https://www.figure-eight.com).  One of the exciting projects that Humayun works on is using deep learning to find parking spots in San Francisco.
 
 <p>
   <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Our Program Committee Member, <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> recently interviewed <a href="https://twitter.com/FigureEightInc?ref_src=twsrc%5Etfw">@FigureEightInc</a> &#39;s <a href="https://twitter.com/HumayunIrshad?ref_src=twsrc%5Etfw">@HumayunIrshad</a> on his work using <a href="https://twitter.com/hashtag/deeplearning?src=hash&amp;ref_src=twsrc%5Etfw">#deeplearning</a> to find parking. A must in SF! Check it out here:<a href="https://t.co/hYqDSXhA2T">https://t.co/hYqDSXhA2T</a></p>&mdash; MLconf (@MLconf) <a href="https://twitter.com/MLconf/status/1058092046727045120?ref_src=twsrc%5Etfw">November 1, 2018</a></blockquote>
@@ -24,14 +24,14 @@ My interview with [Humayun Irshad](https://mlconf.com/interview-with-humayun-irs
 </p>
 
 ## Abhineet Gupta
-My interview with [Abhineet Gupta](https://mlconf.com/interview-with-abhineet-gupta-resilience-engineering-lead-at-one-concern-by-reshama-shaikh-program-committee-member/) of [One Concern](https://www.oneconcern.com).  Abhineet works on **fascinating applications of ML** such as:
+My interview with [Abhineet Gupta](https://mlconf.com/blog/interview-with-abhineet-gupta-resilience-engineering-lead-at-one-concern-by-reshama-shaikh-program-committee-member/) of [One Concern](https://www.oneconcern.com).  Abhineet works on **fascinating applications of ML** such as:
 - creating specific metrics for measuring how access to critical resources is impacted in disasters and to identify those communities that are most at risk before, during and after disasters.
 - contributing to development of Seismic product to estimate near real time impacts in an earthquake
 - creating evaluation metrics for machine learning models and set up the simulation pipeline to generate earthquakes for preparedness trainings and mitigation policy design
 
 
 ## Cassie Kozyrkov
-My [interview with Cassie Kozyrkov](https://mlconf.com/interview-with-cassie-kozyrkov-chief-decision-scientist-at-google-by-reshama-shaikh-program-committee-member/), Chief Decision Scientist at Google.  Many topics are covered:  data science, statistics, education, leadership, inclusivity, comprehensive list of favorite resources and so much more!
+My [interview with Cassie Kozyrkov](https://mlconf.com/blog/interview-with-cassie-kozyrkov-chief-decision-scientist-at-google-by-reshama-shaikh-program-committee-member/), Chief Decision Scientist at Google.  Many topics are covered:  data science, statistics, education, leadership, inclusivity, comprehensive list of favorite resources and so much more!
 
 LinkedIn: [cassie](https://www.linkedin.com/in/cassie-kozyrkov-9531919/)  
 Twitter: [@quaesita](https://twitter.com/quaesita)
@@ -42,7 +42,7 @@ Twitter: [@quaesita](https://twitter.com/quaesita)
 </p>
 
 ## Narine Kokhlikyan
-My [interview with Narine Kokhlikyan](https://mlconf.com/interview-with-narine-kokhlikyan-machine-learning-engineer-at-slice-technologies-inc-by-reshama-shaikh-program-committee-member/).  Many topics are covered:  time series + NLP + anomaly detection as well as hot topics like diversity and algorithm reliability.
+My [interview with Narine Kokhlikyan](https://mlconf.com/blog/interview-with-narine-kokhlikyan-machine-learning-engineer-at-slice-technologies-inc-by-reshama-shaikh-program-committee-member/).  Many topics are covered:  time series + NLP + anomaly detection as well as hot topics like diversity and algorithm reliability.
 
 LinkedIn: [narine](https://www.linkedin.com/in/narine-kokhlikyan-88916721/)
 Twitter: [@Nunushik](https://twitter.com/Nunushik)
@@ -55,7 +55,7 @@ Reference: http://scikit-learn.org/stable/auto_examples/manifold/plot_t_sne_perp
 
 
 ## Kavita Reddy
-My [interview with Kavita Reddy](https://mlconf.com/interview-with-kavita-reddy-data-science-manager-at-second-measure-by-reshama-shaikh-program-committee-member/), Data Science Manager at Second Measure on working with billions of bank and credit card transactions.  It is posted on MLConf's website. 
+My [interview with Kavita Reddy](https://mlconf.com/blog/interview-with-kavita-reddy-data-science-manager-at-second-measure-by-reshama-shaikh-program-committee-member/), Data Science Manager at Second Measure on working with billions of bank and credit card transactions.  It is posted on MLConf's website. 
 
 LinkedIn:  [K Reddy](https://www.linkedin.com/in/kavita-reddy-725b3827/)
 
@@ -66,7 +66,7 @@ LinkedIn:  [K Reddy](https://www.linkedin.com/in/kavita-reddy-725b3827/)
 
 
 ## Leslie N. Smith
-My [interview with Leslie N. Smith](https://mlconf.com/interview-with-leslie-n-smith-phd-senior-research-scientist-at-the-us-naval-research-laboratory-by-reshama-shaikh-program-committee-member/) is posted on MLConf website.
+My [interview with Leslie N. Smith](https://mlconf.com/blog/interview-with-leslie-n-smith-phd-senior-research-scientist-at-the-us-naval-research-laboratory-by-reshama-shaikh-program-committee-member/) is posted on MLConf website.
 
 Leslie N. Smith, is a Senior Research Scientist at the US Naval Research Laboratory.  His research is in optimizing hyperparameters in deep learning.  
 
@@ -80,12 +80,12 @@ GitHub:  [lnsmith54](https://github.com/lnsmith54)
 </p>
 
 ## Erik Schlicht
-My [interview with Erik Schlicht](https://mlconf.com/interview-erik-schlicht-founder-computational-cognition-group-c2-g-llc-reshama-shaikh/), who is the founder of the Computational Cognition Group, LLC.   It is posted on MLConf's website. 
+My [interview with Erik Schlicht](https://mlconf.com/blog/interview-erik-schlicht-founder-computational-cognition-group-c2-g-llc-reshama-shaikh/), who is the founder of the Computational Cognition Group, LLC.   It is posted on MLConf's website. 
 
 Website:  http://schlicht.org/
   
 ## Andreas Mueller
-My [interview with Andreas Mueller](https://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), who is the core contributor to the Python Scikit-learn library, was conducted right before our first [WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint) to involve more women in open source contribution.  It is posted on MLConf's website.  
+My [interview with Andreas Mueller](https://mlconf.com/blog/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), who is the core contributor to the Python Scikit-learn library, was conducted right before our first [WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint) to involve more women in open source contribution.  It is posted on MLConf's website.  
 
 Twitter:  [@amuellerml](https://twitter.com/amuellerml)  
 GitHub:  [amueller](https://github.com/amueller)
