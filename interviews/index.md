@@ -5,7 +5,7 @@ tags:
 comments: false
 ---
 
-All of my MLConf interviews are available [here]https://mlconf.com/blog/author/reshama-shaikh/).   
+All of my MLConf interviews are available [here](https://mlconf.com/blog/author/reshama-shaikh/).   
 
 ## Jerry Talton
 My interview with [Jerry Talton](https://mlconf.com/blog/interview-with-jerry-talton-director-of-data-machine-learning-carta/) of [Carta](https://carta.com).   
