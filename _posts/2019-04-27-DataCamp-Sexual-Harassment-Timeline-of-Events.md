@@ -4,12 +4,16 @@
 | Sep 2017      | KW begins at DC    |
 | Oct 2017      | incident occurred  |
 |               |                    |
+| Jan 2018      | KW resigns; reports incident to DC | 
 | Feb 2018      | KW leaves DC       |
+| Mar 2018      | KW receives update from DC |
 |               |                    |
 | July 2018     | discussion with DC begins | 
 |               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
 |               |                    |
+| 2019-02-27    | Instructor Community call with DC |
+|               |      |
 | 2019-04-03    | 100+ (of 200) DataCamp instructors send letter to DC | 
 | 2019-04-04    | >>[DataCamp: A note to our community](https://www.datacamp.com/community/blog/note-to-our-community) (issues first public statement on incident)
 | 2019-04-05    | [Kara Woo: makes public statement](https://twitter.com/kara_woo/status/1114229065509003264)
@@ -38,3 +42,5 @@
 | 2019-04-25    | [PyCon: donates $9K DC sponsorship to NWLC](https://pycon.blogspot.com/2019/04/an-update-regarding-pycon-2019-sponsor.html) |
 | 2019-04-25    | PacktPub [story](https://hub.packtpub.com/datacamp-reckons-in-metoo-movement-ceo-steps-down-from-his-role-indefinitely/) |
 | 2019-04-26    | David Robinson: DC employee publicly states opinion [tweet](https://twitter.com/drob/status/1121850986694414337) |
+|               |          |
+| 2019-05-13    | Buzzfeed article [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup)
