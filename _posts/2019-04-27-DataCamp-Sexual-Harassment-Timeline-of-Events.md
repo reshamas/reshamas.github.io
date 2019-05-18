@@ -10,7 +10,7 @@
 | Feb 2018      | KW leaves DC       |
 | Mar 2018      | KW receives update from DC venture capitalist who conducted investigation (**independent** investigation not conducted) |
 | May 2018      | DC hires [Chief People Officer](https://www.linkedin.com/in/julianehorton/) 
-| June 2018     | DC fires Greg Wilson and Dhavide Aruliah |
+| 2018-06-15    | DC fires Greg Wilson and Dhavide Aruliah |
 | July 2018     | discussion with DC begins | 
 |               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
