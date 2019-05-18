@@ -4,6 +4,7 @@
 | Sep 2017      | KW begins at DC    |
 | Oct 2017      | incident occurred  |
 |               |                    |
+| 2019-01-11    | DataCamp: [2018 in Review](https://medium.com/datacamp/2018-in-review-9ea13961999a) (DC reports 99 employees; has no HR department) |
 | Jan 2018      | KW resigns; reports incident to DC | 
 | Feb 2018      | KW leaves DC       |
 | Mar 2018      | KW receives update from DC |
