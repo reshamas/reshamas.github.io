@@ -4,7 +4,7 @@
 | Sep 2017      | KW begins at DC    |
 | Oct 2017      | incident occurred  |
 |               |                    |
-| Jan 2018      | KW resigns; reports incident to manager (DC has 99 employees; has no HR department)  | 
+| Jan 2018      | KW resigns; reports incident to manager (DC has no HR department)  | 
 | Feb 2018      | KW leaves DC       |
 | Mar 2018      | KW receives update from DC |
 |               |                    |
@@ -13,7 +13,7 @@
 |               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
 |               |                    |
-| 2019-01-11    | DataCamp: [2018 in Review](https://medium.com/datacamp/2018-in-review-9ea13961999a)  |
+| 2019-01-11    | DataCamp: [2018 in Review](https://medium.com/datacamp/2018-in-review-9ea13961999a) (reports having 99 employees) |
 | 2019-02-27    | Instructor Community call with DC |
 |               |      |
 | 2019-04-03    | 100+ (of 200) DataCamp instructors send letter to DC | 
