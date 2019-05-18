@@ -4,7 +4,7 @@
 | Sep 2017      | KW begins at DC    |
 | Oct 2017      | incident occurred  |
 |               |                    |
-| Jan 2018      | KW resigns; reports incident to DC (DC has 99 employees; has no HR department)  | 
+| Jan 2018      | KW resigns; reports incident to manager (DC has 99 employees; has no HR department)  | 
 |               |
 | 2019-01-11    | DataCamp: [2018 in Review](https://medium.com/datacamp/2018-in-review-9ea13961999a) (DC hired Chief People Officer, was it [?May 2018](https://www.linkedin.com/in/julianehorton/)   |
 | Feb 2018      | KW leaves DC       |
