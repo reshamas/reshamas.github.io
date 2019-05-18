@@ -40,7 +40,7 @@
 | 2019-04-24    | ComputerWorld: [DC CEO steps down indefinitely in wake of 'inappropriate behavior'](https://www.computerworld.com/article/3390739/datacamp-ceo-steps-down-indefinitely-in-wake-of-inappropriate-behavior.html)
 | 2019-04-25    | Business Insider: [CEO of DC Takes Indefinite Leave](https://www.businessinsider.com/datacamp-ceo-jonathan-cornelissen-leave-sexual-misconduct-allegation-2019-4)
 | 2019-04-25    | [PyCon: donates $9K DC sponsorship to NWLC](https://pycon.blogspot.com/2019/04/an-update-regarding-pycon-2019-sponsor.html) |
-| 2019-04-25    | PacktPub [story](https://hub.packtpub.com/datacamp-reckons-in-metoo-movement-ceo-steps-down-from-his-role-indefinitely/) |
+| 2019-04-25    | Packt: [DataCamp reckons with its #MeToo movement; CEO steps down from his role indefinitely](https://hub.packtpub.com/datacamp-reckons-in-metoo-movement-ceo-steps-down-from-his-role-indefinitely/) |
 | 2019-04-26    | David Robinson: DC employee publicly states opinion [tweet](https://twitter.com/drob/status/1121850986694414337) |
 |               |          |
 | 2019-05-13    | Buzzfeed: [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup)
