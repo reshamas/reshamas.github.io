@@ -8,7 +8,7 @@
 |               |                    |
 | Jan 2018      | KW resigns; reports incident to manager (DC has no HR department)  | 
 | Feb 2018      | KW leaves DC       |
-| Mar 2018      | KW receives update from DC venture capitalist who conducted investigation (an *independent* investigation was not conducted) |
+| Mar 2018      | KW receives update from DC venture capitalist who conducted investigation (an **independent** investigation was **not conducted**) |
 |               |                    |
 | May 2018      | DC hires [Chief People Officer](https://www.linkedin.com/in/julianehorton/) 
 | July 2018     | discussion with DC begins | 
