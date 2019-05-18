@@ -8,7 +8,7 @@
 | Feb 2018      | KW leaves DC       |
 | Mar 2018      | KW receives update from DC |
 |               |                    |
-| May 2018      | DC hires [Chief People Officer](https://www.linkedin.com/in/julianehorton/) ) 
+| May 2018      | DC hires [Chief People Officer](https://www.linkedin.com/in/julianehorton/) 
 | July 2018     | discussion with DC begins | 
 |               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
