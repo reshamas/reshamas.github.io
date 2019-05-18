@@ -43,4 +43,4 @@
 | 2019-04-25    | PacktPub [story](https://hub.packtpub.com/datacamp-reckons-in-metoo-movement-ceo-steps-down-from-his-role-indefinitely/) |
 | 2019-04-26    | David Robinson: DC employee publicly states opinion [tweet](https://twitter.com/drob/status/1121850986694414337) |
 |               |          |
-| 2019-05-13    | Buzzfeed article [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup)
+| 2019-05-13    | Buzzfeed: [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup)
