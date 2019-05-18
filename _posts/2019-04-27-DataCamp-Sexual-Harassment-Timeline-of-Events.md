@@ -5,15 +5,15 @@
 | Oct 2017      | incident occurred  |
 |               |                    |
 | Jan 2018      | KW resigns; reports incident to manager (DC has 99 employees; has no HR department)  | 
-|               |
-| 2019-01-11    | DataCamp: [2018 in Review](https://medium.com/datacamp/2018-in-review-9ea13961999a) (DC hired Chief People Officer, [?May 2018](https://www.linkedin.com/in/julianehorton/) )  |
 | Feb 2018      | KW leaves DC       |
 | Mar 2018      | KW receives update from DC |
 |               |                    |
+| May 2018      | DC hires [Chief People Officer](https://www.linkedin.com/in/julianehorton/) ) 
 | July 2018     | discussion with DC begins | 
 |               |                    |
 | Fall 2018     | collective negotiating by the instructor community begins 
 |               |                    |
+| 2019-01-11    | DataCamp: [2018 in Review](https://medium.com/datacamp/2018-in-review-9ea13961999a)  |
 | 2019-02-27    | Instructor Community call with DC |
 |               |      |
 | 2019-04-03    | 100+ (of 200) DataCamp instructors send letter to DC | 
