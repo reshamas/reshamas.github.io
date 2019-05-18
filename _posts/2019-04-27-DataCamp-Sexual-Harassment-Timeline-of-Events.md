@@ -1,6 +1,8 @@
 
 | Date          | Event              |
 |---------------|--------------------|
+| Jul 2013      | DC founded in Belgium |
+|               |                    |
 | Sep 2017      | KW begins at DC    |
 | Oct 2017      | incident occurred  |
 |               |                    |
