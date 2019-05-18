@@ -42,5 +42,8 @@
 | 2019-04-25    | PyCon: [donates $9K DC sponsorship to NWLC](https://pycon.blogspot.com/2019/04/an-update-regarding-pycon-2019-sponsor.html) |
 | 2019-04-25    | Packt: [DataCamp reckons with its #MeToo movement; CEO steps down from his role indefinitely](https://hub.packtpub.com/datacamp-reckons-in-metoo-movement-ceo-steps-down-from-his-role-indefinitely/) |
 | 2019-04-26    | DC employee David Robinson publicly states opinion: [tweet](https://twitter.com/drob/status/1121850986694414337) |
+| 2019-05-02    | Anaconda: [Response to DataCamp’s CEO and Board of Directors](https://www.anaconda.com/anaconda-response-to-datacamps-ceo-and-board-of-directors)
+| 2019-05-04    | Jeremy Howard:  [tweet on Anaconda](https://twitter.com/jeremyphoward/status/1124762826784927745)
+| 2019-05-06    | Anaconda: [updated statement](https://www.anaconda.com/updated-statement-about-our-relationship-with-datacamp/)
 |               |          |
 | 2019-05-13    | Buzzfeed: [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup)
