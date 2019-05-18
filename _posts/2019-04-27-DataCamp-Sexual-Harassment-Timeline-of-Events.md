@@ -30,7 +30,7 @@
 | 2019-04-15    | [Greg Wilson: An Exchange with DataCamp](http://third-bit.com/2019/04/15/an-exchange-with-datacamp.html)
 | 2019-04-16    | [Julia Silge: Writing a Letter to DC](https://juliasilge.com/blog/datacamp-misconduct/)
 | 2019-04-17    | DataCamp removes no-index tag
-| 2019-04-17    | UniverSmartphone: [R community blasts DataCamp response to exec’s ‘inappropriate behavior’[](https://www.universmartphone.com/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior)
+| 2019-04-17    | UniverSmartphone: [R community blasts DataCamp response to exec’s ‘inappropriate behavior’](https://www.universmartphone.com/r-community-blasts-datacamp-response-to-execs-inappropriate-behavior)
 | 2019-04-19    | Data Carpentries: [removes DC mentions from website](https://carpentries.org/blog/2019/04/datacamp-response/)
 | 2019-04-22    | Motherboard: [DC Teachers Boycott Their Own Classes Following Sexual Misconduct by Executive](https://motherboard.vice.com/en_us/article/597p7z/datacamp-teachers-boycott-their-own-classes-following-sexual-misconduct-by-executive)
 | 2019-04-22    | Business Insider: [CEO made 'uninvited physical contact'](https://www.businessinsider.com/datacamp-ceo-made-uninvited-physical-contact-with-employee-sources-say-2019-4)
