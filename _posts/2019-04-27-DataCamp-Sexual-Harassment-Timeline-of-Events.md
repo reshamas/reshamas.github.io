@@ -8,7 +8,7 @@
 |               |                    |
 | Jan 2018      | KW resigns; reports incident to manager (DC has no HR department)  | 
 | Feb 2018      | KW leaves DC       |
-| Mar 2018      | KW receives update from DC |
+| Mar 2018      | KW receives update from DC venture capitalist who conducted investigation (an *independent* investigation was not conducted) |
 |               |                    |
 | May 2018      | DC hires [Chief People Officer](https://www.linkedin.com/in/julianehorton/) 
 | July 2018     | discussion with DC begins | 
@@ -18,7 +18,7 @@
 | 2019-01-11    | DataCamp: [2018 in Review](https://medium.com/datacamp/2018-in-review-9ea13961999a) (reports having 99 employees) |
 | 2019-02-27    | Instructor Community call with DC |
 |               |      |
-| 2019-04-03    | 100+ (of 200) DataCamp instructors send letter to DC | 
+| 2019-04-03    | 100+ (of 200) DataCamp instructors [send letter to DC](https://assets.documentcloud.org/documents/6000766/Letter-to-DataCamp.pdf) | 
 | 2019-04-04    | **[DataCamp: A note to our community](https://www.datacamp.com/community/blog/note-to-our-community) (issues first public statement on incident)**
 | 2019-04-05    | [Kara Woo: makes public statement](https://twitter.com/kara_woo/status/1114229065509003264)
 | 2019-04-05    | [Jeremy Howard: fastai removes DC from their site](https://twitter.com/jeremyphoward/status/1114177335354253312)
