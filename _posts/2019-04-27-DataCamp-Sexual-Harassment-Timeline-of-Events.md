@@ -24,6 +24,7 @@
 | 2019-04-05    | [Jeremy Howard: fastai removes DC from their site](https://twitter.com/jeremyphoward/status/1114177335354253312)
 | 2019-04-05    | [Greg Wilson: The Worst Behavior](http://third-bit.com/2019/04/05/the-worst-behavior.html)
 | 2019-04-08    | R-Ladies Global's disapproval of DC:  [tweet](https://twitter.com/RLadiesGlobal/status/1115288858369961985); the original statement is not available
+| 2019-04-08    | Heather Nolis:  [On DataCamp](https://medium.com/@heathernolis/on-datacamp-aafd82f94e60)
 | 2019-04-09    | Jacqueline Nolis disapproves of R-Ladies statement:  [tweet](https://twitter.com/skyetetra/status/1115758640676270081)
 | 2019-04-11    | [R-Ladies updates statement](https://twitter.com/RLadiesGlobal/status/1116217993753759744) after [discussion](https://twitter.com/skyetetra/status/1115463262726807552); [tweet](https://twitter.com/RLadiesGlobal/status/1116217993753759744) 
 | 2019-04-12    | [Noam Ross: Don't Take My Course](https://noamross.github.io/datacamp-sexual-assault/)
