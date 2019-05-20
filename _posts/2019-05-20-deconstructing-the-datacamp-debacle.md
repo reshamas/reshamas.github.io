@@ -139,10 +139,10 @@ DataCamp’s homepage shows [3 white men](https://www.datacamp.com/about).  It w
 
 Companies can cease justifying the lack of women at the higher ranks with the “pipeline problem” excuse.  The current employees can be trained and mentored.  Some company has to do it. 
 
-Women and URGs can be supported in these ways::
-**Listen to them, let them speak**
-Advocate for them, highlight their work, amplify their voices
-Mentor and sponsor them
+Women and URGs can be supported in these ways:  
+- **Listen to them, let them speak**
+- Advocate for them, highlight their work, amplify their voices
+- Mentor and sponsor them
 
 Recognize that business and mentoring happens outside of the office such as lunch or golf and that employees who are excluded from these social events are at a disadvantage at work.
 
@@ -276,6 +276,9 @@ It *is possible* for **any/combo/all of the following** to co-exist:
 It is sad that this incident happened.  It is commendable that a community collaborated to bring the incident into the public light.
 
 Ironically, it is also sad that many people in the very communities created to increase underrepresentation do not feel comfortable to express their opinion and have opted to not participate in the discussion out of fear of being verbally attacked.  These unspoken opinions  would be of tremendous value to achieving a resolution, preventing further incidents and ameliorating current organization situations that are unsatisfactory.
+
+One community member shares:  
+>That [bias] was the most frustrating thing for me and the whole twitter rampage... it just is not a space to have a reasonable conversation and we all lose if we cannot have a reasonable conversation. 
 
 
 ## References
