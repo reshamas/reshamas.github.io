@@ -16,7 +16,7 @@ There has been substantial public opinion regarding the latest tech #MeToo scand
 
 ### Definitions
 
-Language is critical to understanding and impartially representing the entities involved.  Here are some definition used in the article:  
+Language is critical to understanding and impartially representing the entities involved.  Here are some definitions used in the article:  
 - **Target**: “Target” is the preferred term over the word “victim” by the R-Ladies community to reference the woman who experienced and suffered through this incident.
 - **Offender**: Tech company CEO who sexually harassed the target
  
