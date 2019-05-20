@@ -1,4 +1,4 @@
-# Part 1: Background
+
 
 Disclaimer  
 **The views in this article are my own and do not represent those of any organization with which I am affiliated.**
@@ -8,6 +8,7 @@ There are a few goals for writing this article:
 - Creating a genuinely welcoming and supporting work environment, one that truly embodies diversity and inclusion
 - Encouraging and supporting two-sided discourse in the community
 
+# Part 1: Background
 
 ## Intro
 
