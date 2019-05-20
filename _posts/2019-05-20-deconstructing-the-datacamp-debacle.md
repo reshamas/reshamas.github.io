@@ -55,7 +55,7 @@ The DC statement elucidated some details of the incident.  There was clarificati
 ### DataCamp’s Value and Liability
 
 <p >
-<img border="0" alt="quotea" src="../assets/images/dc_quote1.png" width="100" height="100" align="right">
+<img border="0" alt="quotea" src="../assets/images/dc_quote1.png" width="600" height="250" align="right">
 </p>
 
 
