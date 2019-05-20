@@ -54,7 +54,7 @@ The DC statement elucidated some details of the incident.  There was clarificati
 
 ### DataCamp’s Value and Liability
 
-<p style="color:purple">
+<p style="color:BD3012">
 Like many tech organizations, DataCamp has brought value to the data science community as well as disappointment, agony, outrage, anger, regret, bitterness, frustration and confusion.
 </p>
 
