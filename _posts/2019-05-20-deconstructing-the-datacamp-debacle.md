@@ -1,7 +1,7 @@
 # Part 1: Background
 
-*Disclaimer*  
-The views in this article are my own and do not represent those of any organization with which I am affiliated.
+Disclaimer  
+**The views in this article are my own and do not represent those of any organization with which I am affiliated.**
 
 There are a few goals for writing this article:
 - Providing recommendations to companies on preventing sexual harassment and effectively managing sexual harassment reports
