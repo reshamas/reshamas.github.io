@@ -57,7 +57,7 @@ Like many tech organizations, DataCamp has brought value to the data science com
 
 DC has an office in New York City and for those of us here, we see and interact with DC employees in person regularly at meetups, conferences and other events.  
 
-For people who hold incrementally differing thoughts on the spectrum of views, the DataCamp case has also created division and tension in the community that holds the values of education, inclusivity, community and open source near and dear to their hearts.
+For people who hold incrementally differing thoughts on the spectrum of views, the DataCamp case has also created division and tension in the community which holds the values of education, inclusivity, community and open source near and dear to their hearts.
 
 ---
 
