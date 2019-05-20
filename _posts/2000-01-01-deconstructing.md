@@ -1,4 +1,4 @@
-# Deconstructing the DataCamp Debacle - Part 1 - Background
+# Part 1: Background
 
 *Disclaimer*  
 The views in this article are my own and do not represent those of any organization with which I am affiliated.
@@ -11,21 +11,19 @@ There are a few goals for writing this article:
 
 ## Intro
 
-There has been substantial public opinion regarding the latest tech #MeToo scandal which was revealed publicly on April 4, 2019 and what is known as the “DataCamp sexual harassment case.”  Some of those articles are listed in this [timeline of events](https://reshamas.github.io/DataCamp-Sexual-Harassment-Timeline-of-Events/).  There are three statements issued publicly by DataCamp including an apology by the “offender.”  Most recently, the “target” shared her story in a May 13, 2019 [Buzzfeed investigative report](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup).  
+There has been substantial public opinion regarding the latest tech #MeToo scandal which was revealed publicly on April 4, 2019 and what is known as the “DataCamp sexual harassment case.”  Some of those articles are listed in this [DataCamp Timeline of Events](https://reshamas.github.io/DataCamp-Sexual-Harassment-Timeline-of-Events/).  There are three statements issued publicly by DataCamp including an apology by the “offender.”  Most recently, the “target” shared her story in a May 13, 2019 [Buzzfeed investigative report](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup).  
 
 ### Definitions
 
-Language is critical to understanding and impartially representing the entities involved.  Here are some definition used in the article:
-
-**Target**: “Target” is the preferred term over the word “victim” by the R-Ladies community to reference the woman who experienced and suffered through this incident.
-**Offender**: Tech company CEO who sexually harassed the target
-**Instructor insider community**:  community of instructors who negotiated with DC and wrote April 3, 2019 letter to DC 
-**General community**:  general public, including but not limited to the data science, R, Python and open source communities
+Language is critical to understanding and impartially representing the entities involved.  Here are some definition used in the article:  
+- **Target**: “Target” is the preferred term over the word “victim” by the R-Ladies community to reference the woman who experienced and suffered through this incident.
+- **Offender**: Tech company CEO who sexually harassed the target
+ 
 
 
 ## Background
 
-I could not recall when I first heard of DataCamp (DC).  So I searched my inbox and found that it was May 2015 when a speaker for my meetup group [Women in Machine Learning & Data Science (WiMLDS)](wimlds.org) had recommended the free [Intro to R](https://www.datacamp.com/courses/free-introduction-to-r) course for our attendees in preparation for a workshop I was organizing.  About two years later, in March 2017, our meetup group had shared a 1-month free DC discount with our community.  In June 2017, by way of recommendation from an R-Ladies member, I had an appointment to meet with DC’s Head of Content to discuss doing some work for DC.  But, there was a [major subway derailment] (https://www.nytimes.com/2017/06/27/nyregion/subway-train-derails-in-manhattan.html) in NYC that day which hindered my plans and our meeting was canceled.  What followed was the typical busyness of New Yorkers, extended summer vacation schedules and emails sliding deeper into the electronic pit of our inboxes.  Thus, the meeting never did get rescheduled.  
+I could not recall when I first heard of DataCamp (DC).  So I searched my inbox and found that it was May 2015 when a speaker for my meetup group [Women in Machine Learning & Data Science (WiMLDS)](wimlds.org) had recommended the free [Intro to R](https://www.datacamp.com/courses/free-introduction-to-r) course for our attendees in preparation for a workshop I was organizing.  About two years later, in March 2017, our meetup group had shared a 1-month free DC discount with our community.  In June 2017, by way of recommendation from an R-Ladies member, I had an appointment to meet with DC’s Head of Content to discuss doing some work for DC.  But, there was a [major subway derailment](https://www.nytimes.com/2017/06/27/nyregion/subway-train-derails-in-manhattan.html) in NYC that day which hindered my plans and our meeting was canceled.  What followed was the typical busyness of New Yorkers, extended summer vacation schedules and emails sliding deeper into the electronic pit of our inboxes.  Thus, the meeting never did get rescheduled.  
 
 Over the next year, DC was proactively recruiting instructors and their focus on increasing diversity impressed me.  One of my friends was also creating a course for them. So, in August of 2018, I submitted an application to create a course for DC.  I first created an extensive outline of my course for which I invested 40+ hours.  The next step was recording a screencast.  After investing significant time into designing and recording the initial screencast (40+ hours), I was asked to resubmit with revisions.  All that I learned about my course topic which I was preparing was unregrettable, and yet I decided to abandon the course.  Time was a commodity, there were other commitments and risk that I could invest another 40+ hours without a course approval or any compensation.  Successfully working with DC proved once again to be elusive.  
 
@@ -39,7 +37,7 @@ During my 2018 winter holiday season visit to New Jersey, I once again sat with 
 
 ### Podcast
 
-In January 2018, I was invited to be on a panel discussion to celebrate the launch of the [DataFramed podcast](https://www.meetup.com/PyDataNYC/events/246701729/).  There were 2 men and 2 women on the panel, and it was moderated by Hugo Bowne-Anderson.  At the event, David Robinson announced he was leaving Stack Overflow and would be joining DataCamp as Chief Data Scientist.  I had met David through his sister Emily Robinson, with whom I had crossed paths and interacted in the classroom at a data science bootcamp during the summer of 2016 and where David had been a guest speaker  David had been very supportive of my meetup group, WiMLDS.  He had hosted my meetup group at Stack Exchange on a Saturday on 3 separate weekend occasions (January to March 2017), arriving earlier in the morning than us organizers to set up and staying later to finish up ([Smart Cities Hack](https://www.meetup.com/NYC-WiMLDS/events/237711666/), [scikit sprint](https://www.meetup.com/NYC-WiMLDS/events/237123181/), [neural networks](https://www.meetup.com/NYC-WiMLDS/events/235881587/)).  There is a dearth of availability of weekend meetup space, and so David hosting our group had been immensely valuable and his support of women in data science was genuine and preceded his work at DataCamp.  Additionally he is an ally for women in data science; one example is his recommending me to be a panelist that day.  It was an appreciable opportunity, one that apported me and my meetup group positive visibility.  As well, the questions under discussion at the panel that day gave momentum to blogs that I would write later that year.  
+In January 2018, I was invited to be on a panel discussion to celebrate the launch of the [DataFramed podcast](https://www.meetup.com/PyDataNYC/events/246701729/).  There were 2 men and 2 women on the panel, and it was moderated by Hugo Bowne-Anderson.  At the event, David Robinson announced he was leaving Stack Overflow and would be joining DataCamp as Chief Data Scientist.  I had met David through his sister Emily Robinson, with whom I had crossed paths and interacted in the classroom at a data science bootcamp during the summer of 2016 and where David had been a guest speaker  David had been very supportive of my meetup group, WiMLDS.  He had hosted my meetup group at Stack Exchange on a Saturday on 3 separate weekend occasions (January to March 2017), arriving earlier in the morning than us organizers to set up and staying later to finish up ([Smart Cities Hack](https://www.meetup.com/NYC-WiMLDS/events/237711666/), [scikit sprint](https://www.meetup.com/NYC-WiMLDS/events/237123181/), [neural networks workshop](https://www.meetup.com/NYC-WiMLDS/events/235881587/)).  There is a dearth of availability of weekend meetup space, and so David hosting our group had been immensely valuable and his support of women in data science was genuine and preceded his work at DataCamp.  Additionally he is an ally for women in data science; one example is his recommending me to be a panelist that day.  It was an appreciable opportunity, one that apported me and my meetup group positive visibility.  As well, the questions under discussion at the panel that day gave momentum to blogs that I would write later that year.  
 
 In mid-November 2018, Hugo reached out to me to discuss being interviewed on DataFramed.  We had a prep call which ended in a passing question about why the R community was more inclusive than Python. I spent the long Thanksgiving weekend researching that topic and wrote an article on my [Python / R inclusivity](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/).  The podcast was recorded in mid-December, right before the holiday season and released in late February 2019, [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science).  As a result of the global reach of that podcast, WiMLDS increased the [number of chapters](https://www.meetup.com/topics/wimlds/all/) by 50% in less than 2 months, from 39 to 60+.  WiMLDS was flooded with email inquiries from around the world on how to connect with the community of women in data science and machine learning.  
 
@@ -60,13 +58,15 @@ DC has an office in New York City and for those of us here, we see and interact 
 
 For people who hold incrementally differing thoughts on the spectrum of views, the DC case has also created division and tension in the community that holds the values of education, inclusivity, community and open source near and dear to their hearts.
 
-# Deconstructing the DataCamp Debacle - Part 2 - Genuine Commitment 
+---
+
+# Part 2: Genuine Commitment 
 
 ## Start-ups Can Start With Diversity & Inclusivity for Future Success
 
 There is much that DataCamp *could have done* differently.  This section focuses on what DataCamp and other companies can do moving forward to transform their environment, that is to create a professional, diverse, inclusive and ethical environment.
 
-### Genuine Commitment
+## Genuine Commitment
 
 People know when a company is “reacting” to a situation, “excusing behavior”, and working on damage control rather than “proactively” doing the gritty work of creating the environment that is needed.  A true commitment means being transparent, courageous and making the difficult decisions over the advise of biased decision-makers:
 - executive team / management (exponentially more powerful than rank-and-file staff)
@@ -79,7 +79,7 @@ It is commonplace to see companies conduct “independent investigations” and 
 
  **Without the genuine commitment, implementing all of the recommendations following this paragraph *will not lead* to a diverse or inclusive work culture because the current organizational structures are not designed with any reliable checks and balances.** When the commitment to diversity and inclusion is genuine, the desired culture is created and only then can the harassment situations be prevented and lead to work environments where employees thrive.
 
-### Freada Kapor Kline: Venture Capitalist + Sexual Harassment Researcher
+## Freada Kapor Kline: Venture Capitalist + Sexual Harassment Researcher
 
 [Freada Kapor Kline](https://www.linkedin.com/in/dr-freada-kapor-klein-487a719/) is the Founder of [Kapor Center / Leveling the Playing Field in Tech](https://www.kaporcenter.org/) and founding team member of [Project Include](https://projectinclude.org).  Her degree is in social policy with a focus on employment policy.  She wrote her Ph.D. dissertation on sexual harassment, and it contained 20,000 research subjects, equally divided between the two genders.  She co-founded the **first group on sexual harassment** in the US in 1976 in Cambridge, Massachusetts.
 
@@ -100,7 +100,7 @@ The names and photos of the people on the Advisory Board and Board of Directors 
 
 DataCamp website’s [About the Company](https://www.datacamp.com/about) does not provide any of that information. 
 
-#### Leadership
+### Leadership
 
 Do not tolerate toxic leaders.  Do not tolerate toxic employees.  
 
@@ -117,24 +117,24 @@ Kline states:
 
 >The discussion should be about who is missing from the team, not about what to do.  
 
-#### Venture Capitalists
+### Venture Capitalists
 
 Venture capitalists can have a profound effect on diversity and inclusion by requiring their portfolio companies to commit to set and achieve diversity targets.  VC’s should not be considered an independent party for sexual harassment or discrimination incidents.   
 
-##### Get a Chief Diversity Officer
+### Get a Chief Diversity Officer
 
 Chief diversity officers, sometimes known as CDOs, are responsible for cultivating work or learning environments that encourage and support diversity.  To be clear, it is not the job of the CDO to create an inclusive environment.  It is every employee’s responsibility to contribute to that.  
 
 Kline:
 >The CDO isn't the one that is supposed to do all the work.
 
-#### The Faces of the Company
+### The Faces of the Company
 
 Consider what photos and impressions are on the walls at work as well as on the company website and other marketing material.  
 
 DataCamp’s homepage shows [3 white men](https://www.datacamp.com/about).  It was founded by 3 white men, so it is an accurate reflection of what the founders believe represents the company.  However, if the company wants to continue doing business in the heterogenous American society as well as other countries, their vision needs to include women and people of color.  
 
-#### Supporting, Training and Mentoring
+### Supporting, Training and Mentoring
 
 Companies can cease justifying the lack of women at the higher ranks with the “pipeline problem” excuse.  The current employees can be trained and mentored.  Some company has to do it. 
 
@@ -151,7 +151,7 @@ Kline
 >Figure out how you will make the next 5 women and people of color in your organization CEOs and executives.
 
 
-#### Hiring with an Intersectional Lens
+### Hiring with an Intersectional Lens
 
 Build a team that reflects your customer base:  Latin, Asian, Black, disabled, age groups.  Intersectional diversity include various dimensions of diversity:  gender, race, disability, sexual orientation and more.  
 
@@ -164,18 +164,18 @@ Publicly report diversity metrics and share achievements, challenges and setback
 Kline:
 >Use an Intersectional Lens for diversity.  
 
-#### Tie Compensation and Bonus to an Inclusivity Dimension
+### Tie Compensation and Bonus to an Inclusivity Dimension
 
 Tie bonuses and raises to an inclusivity dimension based on employee annual review.
 
 Kline:
 >Intent doesn't matter.  Impact does.
 
-#### Pay Equity Transparency
+### Pay Equity Transparency
 
 While exact pay does not need to be publicly shared, salary band widths are possible to share.  Publicly state that pay equity is a priority and practice for the company, and then actually do it.  
 
-#### Full-time Human Resources
+### Full-time Human Resources
 
 Start-ups prioritize technology, swag and retreats, but not Human Resources.  HR is essential for all businesses, including start-ups.  It is as necessary as a bathroom, the phone and internet access.  For smaller companies, they are able to access HR experts via an outsourcing company such [Xenium HR](http://www.xeniumhr.com/).  Any venture capitalists and investors should require that, regardless of the size of the company.
 
@@ -210,31 +210,21 @@ Project Include has recommendations and resources on the following sub-topics:
 
 [Debating the Big HR Issues with Angela Perkins](http://xeniumhr.libsyn.com/debating-the-big-hr-issues-with-angela-perkins)
 
-<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/9722111/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/4b4949/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
-
 [Tech is “flunking” the diversity test, says activist and venture capitalist Freada Kapor Klein](
 https://www.vox.com/podcasts/2019/4/22/18485702/freada-kapor-klein-venture-capital-diversity-flunking-teddy-schleifer-decode-podcast-interview)
 
-<p>
-<iframe frameBorder="no" height="482" scrolling="no" src="https://playlist.megaphone.fm/?e=VMP7795444043&light=true"
-width="100%"></iframe>
-</p>
+[How tech can fix its diversity problem: The Code 2018 panel](https://soundcloud.com/recode-decode/how-tech-can-fix-its-diversity)
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/455905089&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+---
 
-
-[How tech can fix its diversity problem: The Code 2018 panel]
-(https://soundcloud.com/recode-decode/how-tech-can-fix-its-diversity)
-Deconstructing the DataCamp Debacle - Part 3 - Public Discourse 
-
-Part 3  [Public Discourse]
+# Part 3: Public Discourse 
 
 As demonstrated by the organizations that have boycotted DataCamp (fastai, R-Ladies, SatRDays, RStudio, Data Carpentries and PSF (Python Software Foundation), the data science community values diversity and inclusivity.  
 
 What has been surprising is the conversation on social media platforms have been labeled strictly dichotomous as acceptable/supporter or not acceptable and which has shut down any dialogue for differing viewpoints.  
 
 
-### R-Ladies Global
+## R-Ladies Global
 
 R-Ladies community was the driving force in bringing this incident to light.  After DC issued their first public statement on April 4, 2019, R-Ladies Global issued a statement on their disapproval of DC.  That initial statement was issued on [08-Apr-2019](https://twitter.com/RLadiesGlobal/status/1115288858369961985) and then revised on [11-Apr-2019](https://twitter.com/RLadiesGlobal/status/1116217993753759744).  
 
@@ -264,7 +254,7 @@ The *revised* statement is available:  [R-Ladies Global's disapproval of DataCam
 >Thanks for your suggestion, @skyetetra's remarks were part of our reasons for clarifying a few things (thanks @skyetetra!). However, we prefer having a readable best version at any moment hence our not marking changes.
 
 
-### Missing Discourse
+## Missing Discourse
 
 I have spoke to dozens of people in the data science community who disapprove of [DC’s handling](https://www.datacamp.com/community/blog/note-to-our-community) as well as the community pressure to respond with a specific viewpoint.  One example, *but not limited to*, is the [R community](https://blog.rladies.org/post/statement-about-datacamp/) statement.  Many in the general data science community also were tentative until further information was available.  People have privately confided that they have felt pressure to issue statements from affiliated organizations which they do not feel comfortable supporting.  
 
