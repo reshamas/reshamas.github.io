@@ -69,7 +69,7 @@ There is much that DataCamp *could have done* differently.  This section focuses
 
 ## Genuine Commitment
 
-People know when a company is “reacting” to a situation, “excusing behavior”, and working on damage control rather than “proactively” doing the gritty work of creating the environment that is needed.  A true commitment means being transparent, courageous and making the difficult decisions over the advise of biased decision-makers:
+People know when a company is “reacting” to a situation, “excusing behavior”, and working on damage control rather than “proactively” doing the gritty work of creating the environment that is needed.  A true commitment means being transparent, courageous and making the difficult decisions over the advisement of biased decision-makers:
 - executive team / management (exponentially more powerful than rank-and-file staff)
 - investors (profit is priority)
 - lawyers (what is legal is not always ethical)
