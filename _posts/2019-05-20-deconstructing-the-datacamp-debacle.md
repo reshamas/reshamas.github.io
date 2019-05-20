@@ -239,14 +239,13 @@ The statement was revised after this discussion on twitter:
 
 >Addendum: to be specific, I wish that R-Ladies had:
 
->>1) been specific in who was making the statement and not make it on behalf of the whole organization.
+>1) been specific in who was making the statement and not make it on behalf of the whole organization.
 
->>If it was meant to represent all members, the group should be renamed because it’s not a group solely about being an R Lady who uses R and Also Agrees with a Few People who are at the Top
+>If it was meant to represent all members, the group should be renamed because it’s not a group solely about being an R Lady who uses R and Also Agrees with a Few People who are at the Top
 
->>2) have a position that specifically addresses both the many underprivileged women who depend on the tool. Suggesting some other far less feature-full tools as good enough isn’t fair to those women
+>2) have a position that specifically addresses both the many underprivileged women who depend on the tool. Suggesting some other far less feature-full tools as good enough isn’t fair to those women
 
->>3) have a position that addresses the women working at DataCamp. These women have careers that rely on the work they are doing to succeed, and not explicitly weighing their needs seems like an unfair treatment of women.
-
+>3) have a position that addresses the women working at DataCamp. These women have careers that rely on the work they are doing to succeed, and not explicitly weighing their needs seems like an unfair treatment of women.
 
 The *revised* statement is available:  [R-Ladies Global's disapproval of DataCamp
 ](https://blog.rladies.org/post/statement-about-datacamp/)  
@@ -256,7 +255,9 @@ The *revised* statement is available:  [R-Ladies Global's disapproval of DataCam
 
 ## Missing Discourse
 
-I have spoke to dozens of people in the data science community who disapprove of [DC’s handling](https://www.datacamp.com/community/blog/note-to-our-community) as well as the community pressure to respond with a specific viewpoint.  One example, *but not limited to*, is the [R community](https://blog.rladies.org/post/statement-about-datacamp/) statement.  Many in the general data science community also were tentative until further information was available.  People have privately confided that they have felt pressure to issue statements from affiliated organizations which they do not feel comfortable supporting.  
+I have spoke to dozens of people in the data science community who disapprove of [DC’s handling](https://www.datacamp.com/community/blog/note-to-our-community) as well as the community pressure to respond with a specific viewpoint.  One example, *but not limited to*, is the [R-Ladies Global](https://blog.rladies.org/post/statement-about-datacamp/) statement.  Many in the general data science community also were tentative until further information was available.  
+
+People have privately confided that they have felt pressure to issue statements from affiliated organizations which they do not feel comfortable supporting.  
 
 But, their voices are largely absent in the public discourse. 
 
