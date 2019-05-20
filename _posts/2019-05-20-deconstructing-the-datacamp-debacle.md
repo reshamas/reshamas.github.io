@@ -267,17 +267,17 @@ I have spoke to dozens of people in the data science community who disapprove of
 
 But, their voices are largely absent in the public discourse. 
 
-It *is possible* for **any/combo/all of the following** to co-exist:
-Compassion for the woman who experienced the sexual harassment
-Disapproval of DataCamp’s handling of the incident
-To hold DataCamp responsible *and* not want to destroy the company
-Want and demand change at DataCamp (and other companies) for the better so an incident like this does not occur again
-Compassion for the employees of DataCamp, most of whom are not included in executive team discussions or influential
-Understanding that not all DataCamp employees were aware of full details of the incident
-Right of DataCamp employees to choose their place of employment
-To hold DataCamp responsible, disapprove of its handling of sexual harassment incidence *and* continue use of the product
-Referring to the incident as “sexual harassment” / “uninvited physical contact” / “inappropriate behavior” / “sexual misconduct” over “sexual assault” *and still disapproving* of it. 
-...many other combinations and options
+It *is possible* for **any/combo/all of the following** to co-exist:  
+- Compassion for the woman who experienced the sexual harassment
+- Disapproval of DataCamp’s handling of the incident
+- To hold DataCamp responsible *and* not want to destroy the company
+- Want and demand change at DataCamp (and other companies) for the better so an incident like this does not occur again
+- Compassion for the employees of DataCamp, most of whom are not included in executive team discussions or influential
+- Understanding that not all DataCamp employees were aware of full details of the incident
+- Right of DataCamp employees to choose their place of employment
+- To hold DataCamp responsible, disapprove of its handling of sexual harassment incidence *and* continue use of the product
+- Referring to the incident as “sexual harassment” / “uninvited physical contact” / “inappropriate behavior” / “sexual misconduct” over “sexual assault” *and still disapproving* of it. 
+- ...many other combinations and options
 
 It is sad that this incident happened.  It is commendable that a community collaborated to bring the incident into the public light.
 
