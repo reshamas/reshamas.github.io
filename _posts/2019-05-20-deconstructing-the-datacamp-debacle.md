@@ -37,7 +37,7 @@ During my 2018 winter holiday season visit to New Jersey, I once again sat with 
 
 ### Podcast
 
-In January 2018, I was invited to be on a panel discussion to celebrate the launch of the [DataFramed podcast](https://www.meetup.com/PyDataNYC/events/246701729/).  There were 2 men and 2 women on the panel, and it was moderated by Hugo Bowne-Anderson.  At the event, David Robinson announced he was leaving Stack Overflow and would be joining DataCamp as Chief Data Scientist.  I had met David through his sister Emily Robinson, with whom I had crossed paths and interacted in the classroom at a data science bootcamp during the summer of 2016 and where David had been a guest speaker  David had been very supportive of my meetup group, WiMLDS.  He had hosted my meetup group at Stack Exchange on a Saturday on 3 separate weekend occasions (January to March 2017), arriving earlier in the morning than us organizers to set up and staying later to finish up ([Smart Cities Hack](https://www.meetup.com/NYC-WiMLDS/events/237711666/), [scikit sprint](https://www.meetup.com/NYC-WiMLDS/events/237123181/), [neural networks workshop](https://www.meetup.com/NYC-WiMLDS/events/235881587/)).  There is a dearth of availability of weekend meetup space, and so David hosting our group had been immensely valuable and his support of women in data science was genuine and preceded his work at DataCamp.  Additionally he is an ally for women in data science; one example is his recommending me to be a panelist that day.  It was an appreciable opportunity, one that apported me and my meetup group positive visibility.  As well, the questions under discussion at the panel that day gave momentum to blogs that I would write later that year.  
+In January 2018, I was invited to be on a panel discussion to celebrate the launch of the [DataFramed podcast](https://www.meetup.com/PyDataNYC/events/246701729/).  There were 2 men and 2 women on the panel, and it was moderated by Hugo Bowne-Anderson.  At the event, David Robinson announced he was leaving Stack Overflow and would be joining DataCamp as Chief Data Scientist.  I had met David through his sister Emily Robinson, with whom I had crossed paths and interacted in the classroom at a data science bootcamp during the summer of 2016 and where David had been a guest speaker.  David had been very supportive of my meetup group, WiMLDS.  He had hosted my meetup group at Stack Exchange on a Saturday on 3 separate weekend occasions (January to March 2017), arriving earlier in the morning than us organizers to set up and staying later to finish up ([Smart Cities Hack](https://www.meetup.com/NYC-WiMLDS/events/237711666/), [scikit sprint](https://www.meetup.com/NYC-WiMLDS/events/237123181/), [neural networks workshop](https://www.meetup.com/NYC-WiMLDS/events/235881587/)).  There is a dearth of availability of weekend meetup space, and so David hosting our group had been immensely valuable and his support of women in data science was genuine and preceded his work at DataCamp.  Additionally he is an ally for women in data science; one example is his recommending me to be a panelist that day.  It was an appreciable opportunity, one that apported me and my meetup group positive visibility.  As well, the questions under discussion at the panel that day gave momentum to blogs that I would write later that year.  
 
 In mid-November 2018, Hugo reached out to me to discuss being interviewed on DataFramed.  We had a prep call which ended in a passing question about why the R community was more inclusive than Python. I spent the long Thanksgiving weekend researching that topic and wrote an article on my [Python / R inclusivity](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/).  The podcast was recorded in mid-December, right before the holiday season and released in late February 2019, [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science).  As a result of the global reach of that podcast, WiMLDS increased the [number of chapters](https://www.meetup.com/topics/wimlds/all/) by 50% in less than 2 months, from 39 to 60+.  WiMLDS was flooded with email inquiries from around the world on how to connect with the community of women in data science and machine learning.  
 
@@ -56,7 +56,7 @@ Like many tech organizations, DataCamp has brought value to the data science com
 
 DC has an office in New York City and for those of us here, we see and interact with DC employees in person regularly at meetups, conferences and other events.  
 
-For people who hold incrementally differing thoughts on the spectrum of views, the DC case has also created division and tension in the community that holds the values of education, inclusivity, community and open source near and dear to their hearts.
+For people who hold incrementally differing thoughts on the spectrum of views, the DataCamp case has also created division and tension in the community that holds the values of education, inclusivity, community and open source near and dear to their hearts.
 
 ---
 
@@ -79,7 +79,7 @@ It is commonplace to see companies conduct “independent investigations” and 
 
  **Without the genuine commitment, implementing all of the recommendations following this paragraph *will not lead* to a diverse or inclusive work culture because the current organizational structures are not designed with any reliable checks and balances.** When the commitment to diversity and inclusion is genuine, the desired culture is created and only then can the harassment situations be prevented and lead to work environments where employees thrive.
 
-## Freada Kapor Kline: Venture Capitalist + Sexual Harassment Researcher
+### Freada Kapor Kline: Venture Capitalist + Sexual Harassment Researcher
 
 [Freada Kapor Kline](https://www.linkedin.com/in/dr-freada-kapor-klein-487a719/) is the Founder of [Kapor Center / Leveling the Playing Field in Tech](https://www.kaporcenter.org/) and founding team member of [Project Include](https://projectinclude.org).  Her degree is in social policy with a focus on employment policy.  She wrote her Ph.D. dissertation on sexual harassment, and it contained 20,000 research subjects, equally divided between the two genders.  She co-founded the **first group on sexual harassment** in the US in 1976 in Cambridge, Massachusetts.
 
@@ -203,18 +203,6 @@ Project Include has recommendations and resources on the following sub-topics:
 - [Measuring Progress](https://projectinclude.org/measuring_progress)
 - [Leading as VCs, educators, and employees](https://projectinclude.org/leading_as_vcs)
 
-## References
-
-[How “Good Intent” Undermines Diversity and Inclusion
- ](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/)
-
-[Debating the Big HR Issues with Angela Perkins](http://xeniumhr.libsyn.com/debating-the-big-hr-issues-with-angela-perkins)
-
-[Tech is “flunking” the diversity test, says activist and venture capitalist Freada Kapor Klein](
-https://www.vox.com/podcasts/2019/4/22/18485702/freada-kapor-klein-venture-capital-diversity-flunking-teddy-schleifer-decode-podcast-interview)
-
-[How tech can fix its diversity problem: The Code 2018 panel](https://soundcloud.com/recode-decode/how-tech-can-fix-its-diversity)
-
 ---
 
 # Part 3: Public Discourse 
@@ -242,21 +230,25 @@ The statement was revised after this discussion on twitter:
 
 >I’m conflicted about how to best handle interacting with DataCamp, but I don’t agree with the R-Ladies stance that you should go as far as removing DataCamp stickers from your laptop.
 
->>This R-Ladies stance been especially difficult for me as a gay trans woman who was so excited to become a part of the R-Ladies community as part of my transition. Literally one of the first things I did post announcing was joining the slack. Seeing this statement hurts so much!
+>This R-Ladies stance been especially difficult for me as a gay trans woman who was so excited to become a part of the R-Ladies community as part of my transition. Literally one of the first things I did post announcing was joining the slack. Seeing this statement hurts so much!
 
 >It makes me feel that because I don’t agree with the statement that was make by an unknown set of people representing the whole group, I am not welcome in it. That’s so hard for me because of how much I’ve felt I’ve done to join it and the friends I’ve made in it.
 
 >In closing, I want to emphasize that while I don’t condone how DataCamp has handled this or think sexual harassment should be tolerated, I wished R-Ladies, with such influence and responsibility, would take a more nuanced view and consider the for breath of women affected by it.
 
 >Addendum: to be specific, I wish that R-Ladies had:
-1) been specific in who was making the statement and not make it on behalf of the whole organization.
->If it was meant to represent all members, the group should be renamed because it’s not a group solely about being an R Lady who uses R and Also Agrees with a Few People who are at the Top
->2) have a position that specifically addresses both the many underprivileged women who depend on the tool. Suggesting some other far less feature-full tools as good enough isn’t fair to those women
->3) have a position that addresses the women working at DataCamp. These women have careers that rely on the work they are doing to succeed, and not explicitly weighing their needs seems like an unfair treatment of women.
+
+>>1) been specific in who was making the statement and not make it on behalf of the whole organization.
+
+>>If it was meant to represent all members, the group should be renamed because it’s not a group solely about being an R Lady who uses R and Also Agrees with a Few People who are at the Top
+
+>>2) have a position that specifically addresses both the many underprivileged women who depend on the tool. Suggesting some other far less feature-full tools as good enough isn’t fair to those women
+
+>>3) have a position that addresses the women working at DataCamp. These women have careers that rely on the work they are doing to succeed, and not explicitly weighing their needs seems like an unfair treatment of women.
 
 
 The *revised* statement is available:  [R-Ladies Global's disapproval of DataCamp
-](https://blog.rladies.org/post/statement-about-datacamp/).  
+](https://blog.rladies.org/post/statement-about-datacamp/)  
 
 >Thanks for your suggestion, @skyetetra's remarks were part of our reasons for clarifying a few things (thanks @skyetetra!). However, we prefer having a readable best version at any moment hence our not marking changes.
 
@@ -287,3 +279,13 @@ Ironically, it is also sad that many people in the very communities created to i
 ## References
 
 [DataCamp Sexual Harassment Timeline of Events](https://reshamas.github.io/DataCamp-Sexual-Harassment-Timeline-of-Events/)
+
+[How “Good Intent” Undermines Diversity and Inclusion
+ ](https://thebias.com/2017/09/26/how-good-intent-undermines-diversity-and-inclusion/)
+
+[Debating the Big HR Issues with Angela Perkins](http://xeniumhr.libsyn.com/debating-the-big-hr-issues-with-angela-perkins)
+
+[Tech is “flunking” the diversity test, says activist and venture capitalist Freada Kapor Klein](
+https://www.vox.com/podcasts/2019/4/22/18485702/freada-kapor-klein-venture-capital-diversity-flunking-teddy-schleifer-decode-podcast-interview)
+
+[How tech can fix its diversity problem: The Code 2018 panel](https://soundcloud.com/recode-decode/how-tech-can-fix-its-diversity)
