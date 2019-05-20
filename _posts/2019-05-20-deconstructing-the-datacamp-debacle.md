@@ -54,7 +54,7 @@ The DC statement elucidated some details of the incident.  There was clarificati
 
 ### DataCamp’s Value and Liability
 
-<p style="color:teal">
+<p style="color:blue">
 Like many tech organizations, DataCamp has brought value to the data science community as well as disappointment, agony, outrage, anger, regret, bitterness, frustration and confusion.
 </p>
 
@@ -84,7 +84,8 @@ People know when a company is “reacting” to a situation, “excusing behavio
 
 It is commonplace to see companies conduct “independent investigations” and then disregard the findings and recommendations.  Each of these parties have a sliced and nuanced approach which disregards ethics and long-term, unquantifiable consequences of toxic work environments.  
 
- **Without the genuine commitment, implementing all of the recommendations following this paragraph *will not lead* to a diverse or inclusive work culture because the current organizational structures are not designed with any reliable checks and balances.** When the commitment to diversity and inclusion is genuine, the desired culture is created and only then can the harassment situations be prevented and lead to work environments where employees and businesses can thrive.
+<p style="color:blue">
+ Without the genuine commitment, implementing all of the recommendations following this paragraph *will not lead* to a diverse or inclusive work culture because the current organizational structures are not designed with any reliable checks and balances.** </p> When the commitment to diversity and inclusion is genuine, the desired culture is created and *only then* can the harassment situations be prevented and lead to work environments where employees and businesses can thrive.
 
 ### Freada Kapor Kline: Venture Capitalist + Sexual Harassment Researcher
 
@@ -146,7 +147,7 @@ DataCamp’s homepage shows [3 white men](https://www.datacamp.com/about).  It w
 Companies can cease justifying the lack of women at the higher ranks with the “pipeline problem” excuse.  The current employees can be trained and mentored.  Some company has to do it. 
 
 Women and URGs can be supported in these ways:  
-- **Listen to them, let them speak**
+- <p style="color:blue">Listen to them, let them speak </p>
 - Advocate for them, highlight their work, amplify their voices
 - Mentor and sponsor them
 
@@ -216,8 +217,9 @@ Project Include has recommendations and resources on the following sub-topics:
 
 As demonstrated by the organizations that have boycotted DataCamp (fastai, R-Ladies, SatRDays, RStudio, Data Carpentries and PSF (Python Software Foundation), the data science community values diversity and inclusivity.  
 
-What has been surprising is the conversation on social media platforms have been labeled strictly dichotomous as acceptable/supporter or not acceptable and which has shut down any dialogue for differing viewpoints.  
-
+<p style="color:blue">
+What has been surprising is the conversation on social media platforms have received a strictly binary label as acceptable/supporter or not acceptable and which has shut down any dialogue for differing viewpoints.  
+</p>
 
 ## R-Ladies Global
 
@@ -281,7 +283,9 @@ It *is possible* for **any/combo/all of the following** to co-exist:
 
 It is sad that this incident happened.  It is commendable that a community collaborated to bring the incident into the public light.
 
+<p style="color:blue">
 Ironically, it is also sad that many people in the very communities created to increase underrepresentation do not feel comfortable to express their opinion and have opted to not participate in the discussion out of fear of being verbally attacked.  These unspoken opinions  would be of tremendous value to achieving a resolution, preventing further incidents and ameliorating current organization situations that are unsatisfactory.
+</p>
 
 One community member shares:  
 >That [bias] was the most frustrating thing for me and the whole twitter rampage... it just is not a space to have a reasonable conversation and we all lose if we cannot have a reasonable conversation. 
