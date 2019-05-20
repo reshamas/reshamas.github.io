@@ -6,7 +6,7 @@ Disclaimer
 There are a few goals for writing this article:
 - Providing recommendations to companies on preventing sexual harassment and effectively managing sexual harassment reports
 - Creating a genuinely welcoming and supporting work environment, one that truly embodies diversity and inclusion
-- Encouraging and supporting two-sided discourse in the community
+- Encouraging and supporting discourse in the community
 
 # Part 1: Background
 
