@@ -1,14 +1,12 @@
-Deconstructing the DataCamp Debacle - Part 1 - Background
+# Deconstructing the DataCamp Debacle - Part 1 - Background
 
-Part 1
-
-*Disclaimer*
+*Disclaimer*  
 The views in this article are my own and do not represent those of any organization with which I am affiliated.
 
 There are a few goals for writing this article:
-= Providing recommendations to companies on preventing sexual harassment and effectively managing sexual harassment reports
-= Creating a genuinely welcoming and supporting work environment, one that truly embodies diversity and inclusion
-= Encouraging and supporting two-sided discourse in the community
+- Providing recommendations to companies on preventing sexual harassment and effectively managing sexual harassment reports
+- Creating a genuinely welcoming and supporting work environment, one that truly embodies diversity and inclusion
+- Encouraging and supporting two-sided discourse in the community
 
 
 ## Intro
@@ -62,12 +60,7 @@ DC has an office in New York City and for those of us here, we see and interact 
 
 For people who hold incrementally differing thoughts on the spectrum of views, the DC case has also created division and tension in the community that holds the values of education, inclusivity, community and open source near and dear to their hearts.
 
-
-
-Deconstructing the DataCamp Debacle - Part 2 - Genuine Commitment 
-
-Part 2  [what DC can do]
-
+# Deconstructing the DataCamp Debacle - Part 2 - Genuine Commitment 
 
 ## Start-ups Can Start With Diversity & Inclusivity for Future Success
 
@@ -76,11 +69,11 @@ There is much that DataCamp *could have done* differently.  This section focuses
 ### Genuine Commitment
 
 People know when a company is “reacting” to a situation, “excusing behavior”, and working on damage control rather than “proactively” doing the gritty work of creating the environment that is needed.  A true commitment means being transparent, courageous and making the difficult decisions over the advise of biased decision-makers:
-= executive team / management (exponentially more powerful than rank-and-file staff)
-= investors (profit is priority)
-= lawyers (what is legal is not always ethical)
-= human resources (imperative to protect the company/management over the employee)
-= public relations dire need to protect the public image (“looking good”)
+- executive team / management (exponentially more powerful than rank-and-file staff)
+- investors (profit is priority)
+- lawyers (what is legal is not always ethical)
+- human resources (imperative to protect the company/management over the employee)
+- public relations dire need to protect the public image (“looking good”)
 
 It is commonplace to see companies conduct “independent investigations” and then disregard the findings and recommendations.  Each of these parties have a sliced and nuanced approach which disregards ethics and long-term, unquantifiable consequences of toxic work environments.  
 
@@ -195,20 +188,20 @@ To reiterate, It is possible to implement some or all of these initiatives and s
 ### More on Project Include
 
 Project Include has recommendations and resources on the following sub-topics:
-= [Defining Culture](https://projectinclude.org/defining_culture)
-= [Implementing Culture](https://projectinclude.org/implementing_culture)
-= [Guide to Writing a Code of Conduct](https://projectinclude.org/writing_cocs)
-= [Employee Lifecycle](https://projectinclude.org/employee_lifecycle)
-= [Hiring](https://projectinclude.org/hiring)
-= [Onboarding](https://projectinclude.org/onboarding)
-= [Compensating Fairly](https://projectinclude.org/compensating_fairly)
-= [Providing Feedback](https://projectinclude.org/providing_feedback)
-= [Training](https://projectinclude.org/training)
-= [Training Managers](https://projectinclude.org/training_managers)
-= [Investing in Sponsorships](https://projectinclude.org/investing_in_sponsorships)
-= [Resolving Conflicts](https://projectinclude.org/resolving_conflicts)
-= [Measuring Progress](https://projectinclude.org/measuring_progress)
-= [Leading as VCs, educators, and employees](https://projectinclude.org/leading_as_vcs)
+- [Defining Culture](https://projectinclude.org/defining_culture)
+- [Implementing Culture](https://projectinclude.org/implementing_culture)
+- [Guide to Writing a Code of Conduct](https://projectinclude.org/writing_cocs)
+- [Employee Lifecycle](https://projectinclude.org/employee_lifecycle)
+- [Hiring](https://projectinclude.org/hiring)
+- [Onboarding](https://projectinclude.org/onboarding)
+- [Compensating Fairly](https://projectinclude.org/compensating_fairly)
+- [Providing Feedback](https://projectinclude.org/providing_feedback)
+- [Training](https://projectinclude.org/training)
+- [Training Managers](https://projectinclude.org/training_managers)
+- [Investing in Sponsorships](https://projectinclude.org/investing_in_sponsorships)
+- [Resolving Conflicts](https://projectinclude.org/resolving_conflicts)
+- [Measuring Progress](https://projectinclude.org/measuring_progress)
+- [Leading as VCs, educators, and employees](https://projectinclude.org/leading_as_vcs)
 
 ## References
 
@@ -297,24 +290,3 @@ Ironically, it is also sad that many people in the very communities created to i
 ## References
 
 [DataCamp Sexual Harassment Timeline of Events](https://reshamas.github.io/DataCamp-Sexual-Harassment-Timeline-of-Events/)
-
-Tweet: 
-An essay:  Deconstructing the DataCamp Debacle:
-• History / Background
-• What DataCamp can do moving forward
-• Welcoming public discourse
-
-Quotes:
-
-Like many tech organizations, DataCamp has brought value to the data science community as well as disappointment, agony, outrage, anger, regret, bitterness, frustration and confusion.
-
-For people who hold incrementally differing thoughts on the spectrum of views, the DataCamp case has also created division and tension in the community that holds the values of education, inclusivity, community and open source near and dear to their hearts.
-
----
-
- **Without the genuine commitment, implementing all of the recommendations [suggested to improve the culture] *will not lead* to a diverse or inclusive work culture because the current organizational structures are not designed with any reliable checks and balances.** When the commitment to diversity and inclusion is genuine, the desired culture is created and only then can the harassment situations be prevented and lead to work environments where employees thrive.
-
----
-
-
-Ironically, it is also sad that many people in the very communities created to increase underrepresentation do not feel comfortable to express their opinion and have opted to not participate in the discussion out of fear of being verbally attacked.  These unspoken opinions  would be of tremendous value to achieving a resolution, preventing further incidences and ameliorating current organization situations that are unsatisfactory.
