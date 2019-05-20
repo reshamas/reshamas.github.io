@@ -285,7 +285,7 @@ It *is possible* for **any/combo/all of the following** to co-exist:
 It is sad that this incident happened.  It is commendable that a community collaborated to bring the incident into the public light.
 
 <p style="color:blue">
-Ironically, it is also sad that many people in the very communities created to increase underrepresentation do not feel comfortable to express their opinion and have opted to not participate in the discussion out of fear of being verbally attacked.  These unspoken opinions  would be of tremendous value to achieving a resolution, preventing further incidents and ameliorating current organization situations that are unsatisfactory.
+Ironically, it is also sad that many people in the very communities created to increase inclusivity and underrepresentation do not feel comfortable expressing their opinion and have opted to not participate in the discussion out of fear of being verbally attacked.  These unspoken opinions  would be of tremendous value to achieving a resolution, preventing further incidents and ameliorating current organization situations that are unsatisfactory.
 </p>
 
 One community member shares:  
