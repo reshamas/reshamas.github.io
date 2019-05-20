@@ -1,5 +1,6 @@
 
 
+
 Disclaimer  
 *The views in this article are my own and do not represent those of any organization with which I am affiliated.*
 
@@ -53,11 +54,16 @@ The DC statement elucidated some details of the incident.  There was clarificati
 
 ### DataCamp’s Value and Liability
 
+<p style="color:orange">
 Like many tech organizations, DataCamp has brought value to the data science community as well as disappointment, agony, outrage, anger, regret, bitterness, frustration and confusion.
+</p>
+
 
 DC has an office in New York City and for those of us here, we see and interact with DC employees in person regularly at meetups, conferences and other events.  
 
+<p style="color:orange">
 For people who hold incrementally differing thoughts on the spectrum of views, the DataCamp case has also created division and tension in the community which holds the values of education, inclusivity, community and open source near and dear to their hearts.
+</p>
 
 ---
 
