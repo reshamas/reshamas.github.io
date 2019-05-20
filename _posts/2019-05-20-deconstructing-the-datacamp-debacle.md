@@ -237,11 +237,17 @@ The statement was revised after this discussion on twitter:
 
 
 >Putting out statements on behalf of a group of 10,000 women that suggest they represent the span viewpoints of the women in the group is disingenuous, and it puts people in the group who don’t agree with the statement in an uncomfortable place.
+
 >I think the DataCamp product is a great resource for aspiring data scientists who can’t take transitional routes—especially women. Also, some of the best data scientists I know work at DataCamp, including multiple women and many allies.
+
 >I’m conflicted about how to best handle interacting with DataCamp, but I don’t agree with the R-Ladies stance that you should go as far as removing DataCamp stickers from your laptop.
->This R-Ladies stance been especially difficult for me as a gay trans woman who was so excited to become a part of the R-Ladies community as part of my transition. Literally one of the first things I did post announcing was joining the slack. Seeing this statement hurts so much!
+
+>>This R-Ladies stance been especially difficult for me as a gay trans woman who was so excited to become a part of the R-Ladies community as part of my transition. Literally one of the first things I did post announcing was joining the slack. Seeing this statement hurts so much!
+
 >It makes me feel that because I don’t agree with the statement that was make by an unknown set of people representing the whole group, I am not welcome in it. That’s so hard for me because of how much I’ve felt I’ve done to join it and the friends I’ve made in it.
+
 >In closing, I want to emphasize that while I don’t condone how DataCamp has handled this or think sexual harassment should be tolerated, I wished R-Ladies, with such influence and responsibility, would take a more nuanced view and consider the for breath of women affected by it.
+
 >Addendum: to be specific, I wish that R-Ladies had:
 1) been specific in who was making the statement and not make it on behalf of the whole organization.
 >If it was meant to represent all members, the group should be renamed because it’s not a group solely about being an R Lady who uses R and Also Agrees with a Few People who are at the Top
@@ -250,7 +256,8 @@ The statement was revised after this discussion on twitter:
 
 
 The *revised* statement is available:  [R-Ladies Global's disapproval of DataCamp
-](https://blog.rladies.org/post/statement-about-datacamp/).
+](https://blog.rladies.org/post/statement-about-datacamp/).  
+
 >Thanks for your suggestion, @skyetetra's remarks were part of our reasons for clarifying a few things (thanks @skyetetra!). However, we prefer having a readable best version at any moment hence our not marking changes.
 
 
