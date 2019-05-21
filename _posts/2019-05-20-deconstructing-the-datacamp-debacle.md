@@ -83,7 +83,7 @@ People know when a company is “reacting” to a situation, “excusing behavio
 - human resources (imperative to protect the company/management over the employee)
 - public relations dire need to protect the public image (“looking good”)
 
-It is commonplace to see companies conduct “independent investigations” and then disregard the findings and recommendations.  Each of these parties have a sliced and nuanced approach which disregards ethics and long-term, unquantifiable consequences of toxic work environments.  
+It is commonplace to see companies conduct “independent investigations” and then disregard the findings and recommendations.  Each of these parties has a sliced and nuanced approach which disregards ethics and long-term, unquantifiable consequences of toxic work environments.  
 
 <p style="color:blue">
  Without the genuine commitment, implementing all of the recommendations following this paragraph *will not lead* to a diverse or inclusive work culture because the current organizational structures are not designed with any reliable checks and balances. </p> When the commitment to diversity and inclusion is genuine, the desired culture is created and *only then* can the harassment situations be prevented and lead to work environments where employees and businesses can thrive.
