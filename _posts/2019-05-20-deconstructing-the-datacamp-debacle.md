@@ -256,10 +256,13 @@ The statement was revised after this discussion on twitter:
 
 >3) have a position that addresses the women working at DataCamp. These women have careers that rely on the work they are doing to succeed, and not explicitly weighing their needs seems like an unfair treatment of women.
 
+R-Ladies reconsidered their position:
+
+>Thanks for your suggestion, @skyetetra's remarks were part of our reasons for clarifying a few things (thanks @skyetetra!). However, we prefer having a readable best version at any moment hence our not marking changes.
+
 The *revised* statement is available:  [R-Ladies Global's disapproval of DataCamp
 ](https://blog.rladies.org/post/statement-about-datacamp/)  
 
->Thanks for your suggestion, @skyetetra's remarks were part of our reasons for clarifying a few things (thanks @skyetetra!). However, we prefer having a readable best version at any moment hence our not marking changes.
 
 
 ## Missing Discourse
