@@ -26,7 +26,7 @@ This table shows the statistics of women in tech and other sub-groups.
 ## Open Source Background
 
 A 2013 study found that only **11%** of open source contributors were women. A 2016 gender-inferred analysis examining the top 100 contributors for various programming languages found that just **2%** of contributors to Python libraries on GitHub were women.  For Scikit-learn, the machine learning library for Python, there is only **1** woman in the top 100 contributors to this library.
-To address this gender imbalance for the scikit-learn library, Andreas Mueller, core contributor, initiated organizing an open source sprint in New York City with the local chapter of WiMLDS. The first sprint was held in March 2017 and the second one was held in September of 2018. There is a report summarizes the impact of the two events:  [Impact Report for WiMLDS Scikit Sprint](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/) 
+To address this gender imbalance for the scikit-learn library, Andreas Mueller, core contributor, initiated organizing the first open source sprint in New York City with the local chapter of WiMLDS in early 2017. The first sprint was held in March 2017 and the second one was held in September of 2018. There is a report summarizes the impact of the two events:  [Impact Report for WiMLDS Scikit Sprint](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/) 
 
 
 ## 2019 Open Source Sprints
