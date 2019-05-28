@@ -18,7 +18,7 @@ The mission of WiMLDS is  to support and promote women and gender minorities who
 This table shows the statistics of women in tech and other sub-groups.  
 
 <p>
-<img src="../assets/images/women_stats.png" width="80%" height="80%" />
+<img src="../assets/images/women_stats.png" width="70%" height="70%" />
 </p>
 
 
