@@ -17,7 +17,7 @@ The mission of WiMLDS is  to support and promote women and gender minorities who
 
 
 <p>
-<img src="../assets/images/women_stats.png" width="99%" height="99%" />
+<img src="../assets/images/women_stats.png" width="80%" height="80%" />
 </p>
 
 
