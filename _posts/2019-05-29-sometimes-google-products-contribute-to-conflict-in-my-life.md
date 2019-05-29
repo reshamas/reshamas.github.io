@@ -14,7 +14,7 @@ Below is my wishlist for Google product updates.
 
 ## Gmail:  Starring messages
 
-In my opinion, it is easier to manage cooking a Thanksgiving dinner for 12 than managing all my  email inboxes, and I do not cook very often.  On solution I have implemented is to use one email address strictly for person-to-person communication.  That means the account excludes any newsletters, marketing, forum updates and such.  I anticipated that this would help me track emails.  Gmail has the option of “starring” emails so they are in the top section of my inbox.  And oftentimes my list of starred messages is lengthy, and the list continues to the second or third pages.  
+In my opinion, it is easier to manage cooking a Thanksgiving dinner for 12 than managing all my  email inboxes, and I do not cook very often.  One solution I have implemented is to use one email address strictly for person-to-person communication.  That means the account excludes any newsletters, marketing, forum updates and such.  I anticipated that this would help me track emails.  Gmail has the option of “starring” emails so they are in the top section of my inbox.  And oftentimes my list of starred messages is lengthy, and the list continues to the second or third pages.  
 
 :point_right: **Problem:**  When someone replies to a message that I have starred, that message is not elevated to the top, according to the most recent date.  The “star” is not promoted to the most recent message, so oftentimes I miss it, especially if it is not on the first page of starred messages.
 
