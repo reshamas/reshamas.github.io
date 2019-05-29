@@ -97,13 +97,13 @@ If there are any fixes that will be helpful for me to know, I can be reached at 
 
 ## References
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/GoogleAI?ref_src=twsrc%5Etfw">@GoogleAI</a> <a href="https://twitter.com/gmail?ref_src=twsrc%5Etfw">@gmail</a> <br>Please adjust your spam filters so that emails for health coverage, from <a href="https://twitter.com/NYStateofHealth?ref_src=twsrc%5Etfw">@NYStateofHealth</a> do not go to spam.  It is open enrollment time, and these emails are way too important.  <a href="https://twitter.com/hashtag/HealthExchange?src=hash&amp;ref_src=twsrc%5Etfw">#HealthExchange</a> <a href="https://twitter.com/hashtag/ACA?src=hash&amp;ref_src=twsrc%5Etfw">#ACA</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1069268018746789888?ref_src=twsrc%5Etfw">December 2, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello <a href="https://twitter.com/gmail?ref_src=twsrc%5Etfw">@gmail</a> (It&#39;s me again)<br>Another suggestion:<br>- 💗 the reminders &amp; nudges on emails<br>- can you offer same functionality for DRAFT emails?<br><br>It looks like many people write draft emails that we don&#39;t send out... and then we wonder why the recipient hasn&#39;t responded! 🙃</p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1113844074186977281?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello <a href="https://twitter.com/gmail?ref_src=twsrc%5Etfw">@gmail</a><br>• How is it that when I &quot;add a contact&quot;, it will add their name and Google+ profile, BUT NOT their email address to my contact list?  <br>• And, the country defaults to &quot;USA&quot;, even tho their Google profile has their location<br>You *could* do some testing<a href="https://twitter.com/karaswisher?ref_src=twsrc%5Etfw">@karaswisher</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1104420521792421888?ref_src=twsrc%5Etfw">March 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/GoogleAI?ref_src=twsrc%5Etfw">@GoogleAI</a> <a href="https://twitter.com/gmail?ref_src=twsrc%5Etfw">@gmail</a> <br>Please adjust your spam filters so that emails for health coverage, from <a href="https://twitter.com/NYStateofHealth?ref_src=twsrc%5Etfw">@NYStateofHealth</a> do not go to spam.  It is open enrollment time, and these emails are way too important.  <a href="https://twitter.com/hashtag/HealthExchange?src=hash&amp;ref_src=twsrc%5Etfw">#HealthExchange</a> <a href="https://twitter.com/hashtag/ACA?src=hash&amp;ref_src=twsrc%5Etfw">#ACA</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1069268018746789888?ref_src=twsrc%5Etfw">December 2, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
