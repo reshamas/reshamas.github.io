@@ -13,7 +13,7 @@ There are a few goals for writing this article:
 
 ## Intro
 
-There has been substantial public opinion regarding the latest tech #MeToo scandal which was revealed publicly on April 4, 2019 and what is known as the “DataCamp sexual harassment case.”  Some of those articles are listed in this [DataCamp Timeline of Events](https://reshamas.github.io/DataCamp-Sexual-Harassment-Timeline-of-Events/).  There are three statements issued publicly by DataCamp including an apology by the “offender.”  Most recently, the “target” shared her story in a May 13, 2019 [Buzzfeed investigative report](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup).  
+There has been substantial public opinion regarding the latest tech #MeToo scandal which was revealed publicly on April 4, 2019 and what is known as the “DataCamp sexual harassment case.”  Some of those articles are listed in this [**DataCamp Sexual Harassment Timeline of Events**](https://reshamas.github.io/DataCamp-Sexual-Harassment-Timeline-of-Events/).  There are three statements issued publicly by DataCamp including an apology by the “offender.”  Most recently, the “target” shared her story in a May 13, 2019 [Buzzfeed investigative report](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup).  
 
 ### Definitions
 
