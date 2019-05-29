@@ -267,7 +267,7 @@ The *revised* statement is available:  [R-Ladies Global's disapproval of DataCam
 
 ## Missing Discourse
 
-I have spoke to dozens of people in the data science community who disapprove of [DC’s handling](https://www.datacamp.com/community/blog/note-to-our-community) as well as the community pressure to respond with a specific viewpoint.  One example, *but not limited to*, is the [R-Ladies Global](https://blog.rladies.org/post/statement-about-datacamp/) statement.  Many in the general data science community also were tentative until further information was available.  
+I have spoken to dozens of people in the data science community who disapprove of [DC’s handling](https://www.datacamp.com/community/blog/note-to-our-community) as well as the community pressure to respond with a specific viewpoint.  One example, *but not limited to*, is the [R-Ladies Global](https://blog.rladies.org/post/statement-about-datacamp/) statement.  Many in the general data science community also were tentative until further information was available.  
 
 People have privately confided that they have felt pressure to issue statements from affiliated organizations which they do not feel comfortable supporting.  
 
