@@ -15,7 +15,7 @@ In my opinion, it is easier to manage cooking a Thanksgiving dinner for 12 than 
 :point_right: **Problem:**  When someone replies to a message that I have starred, that message is not elevated to the top, according to the most recent date.  The “star” is not promoted to the most recent message, so oftentimes I miss it, especially if it is not on the first page of starred messages.
 
 It is commonplace to see email responses begin with this sentence, and justifiably so, even for the most self-proclaimed organized person:  
->Sorry, I missed this message earlier.  
+>Sorry, I missed your email.   
 
 ## Gmail: Formatting
 
