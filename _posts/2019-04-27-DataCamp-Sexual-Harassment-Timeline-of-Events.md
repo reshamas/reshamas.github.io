@@ -50,7 +50,6 @@
 | 2019-05-02    | Anaconda: [Response to DataCamp’s CEO and Board of Directors](https://www.anaconda.com/anaconda-response-to-datacamps-ceo-and-board-of-directors)
 | 2019-05-04    | Jeremy Howard:  [tweet on Anaconda](https://twitter.com/jeremyphoward/status/1124762826784927745)
 | 2019-05-06    | Anaconda: [updated statement](https://www.anaconda.com/updated-statement-about-our-relationship-with-datacamp/)
-|               |          |
 | 2019-05-13    | Buzzfeed: [A Multimillion-Dollar Startup Hid A Sexual Harassment Incident By Its CEO — Then A Community of Outsiders Dragged It Into the Light](https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup)
 | 2019-05-20    | [Deconstructing the DataCamp Debacle](https://reshamas.github.io/deconstructing-the-datacamp-debacle/)
 | 2019-05-29    | DataCamp:  [An Update on Our Progress](https://www.datacamp.com/community/blog/an-update-on-our-progress)
