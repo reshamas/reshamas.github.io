@@ -1,6 +1,6 @@
-<p>
+ 
 <img src="../assets/images/gmail_email.png" />
-</p>
+ 
 
 Disclaimer  
 *The views in this article are my own and do not represent those of any organization with which I am affiliated.*
