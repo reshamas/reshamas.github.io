@@ -8,37 +8,31 @@ Sometimes technology creates conflict in my relationships.  And because the use 
 
 Below is my wishlist for Google product updates.
 
-## Gmail
-
-### Starring messages
+## Gmail:  Starring messages
 
 In my opinion, it is easier to manage cooking a Thanksgiving dinner for 12 than managing all my  email inboxes, and I do not cook very often.  On solution I have implemented is to use one email address strictly for person-to-person communication.  That means the account excludes any newsletters, marketing, forum updates and such.  I anticipated that this would help me track emails.  Gmail has the option of “starring” emails so they are in the top section of my inbox.  And oftentimes my list of starred messages is lengthy, and the list continues to the second or third pages.  
 
-**Problem:**  When someone replies to a message that I have starred, that message is not elevated to the top, according to the most recent date.  The “star” is not promoted to the most recent message, so oftentimes I miss it, especially if it is not on the first page of starred messages.
+:point_right: **Problem:**  When someone replies to a message that I have starred, that message is not elevated to the top, according to the most recent date.  The “star” is not promoted to the most recent message, so oftentimes I miss it, especially if it is not on the first page of starred messages.
 
 It is commonplace to see email responses begin with this sentence, and justifiably so, even for the most self-proclaimed organized person:  
 >Sorry, I missed this message earlier.  
 
-### Formatting
+## Gmail: Formatting
 
 Sometimes Gmail WYSIWYG is **not** WYSIWYG.  (WYSIWYG = what you see is what you get). Users often copy text from other emails and documents.  
 
-**Problem:**  While the text looks all right in the draft email, once it has been sent, it can often change color and size and look messy and unprofessional.  I have on multiple occasions been berated for my messy gmail text which leads to unnecessary stress between collaborators. 
+:point_right: **Problem:**  While the text looks all right in the draft email, once it has been sent, it can often change color and size and look messy and unprofessional.  I have on multiple occasions been berated for my messy gmail text which leads to unnecessary stress between collaborators. 
 
 
 
 
-## Calendar
-
-### Counter counter present date
+## Calendar:  Counter counter present date
 
 On a calendar invite, if there are 3 people listed as attendees, it is possible for one person to counter-propose a time.  When that happens, only the event owner is notified. 
 
-**Problem:**  The person who counters with a different time is not informed by gmail that the counter proposal only goes to the creator of the event.  So, they assume everyone knows they have proposed a new time.  This results in a communication gap and ensuing conflict.
+:point_right: **Problem:**  The person who counters with a different time is not informed by gmail that the counter proposal only goes to the creator of the event.  So, they assume everyone knows they have proposed a new time.  This results in a communication gap and ensuing conflict.
 
-## Forms
-
-### Notifications are reserved for form owners
+## Forms:  Notifications are reserved for form owners
 
 When a Google Forms is created, there is one owner.  Other “collaborators” can be added which means they have edit access.  *But*, only the owner can receive **email notifications** that someone has completed the form. 
 
@@ -48,18 +42,16 @@ To be fair, there are add-on applications that could extend that functionality. 
 
 It would be reassuring to know there was some functionality available by default which would also maintain privacy of a user’s google files.  
 
-### Email notifications are not turned on as a default
+## Forms: Email notifications are not turned on as a default
 
 I have on several occasions forgotten to “turn on notifications” for forms.  That has resulted in latency of processing requests. At the minimum, it would be helpful to have a reminder pop up:  *Would you like to turn on email notifications?*
 
 
-## Keep
-
-### Labels on notes are not shareable
+## Keep:  Labels on notes are not shareable
 
 Keep is a note-taking application.  I recently collaborated on a project with two others where we were setting up our [scikit open source sprint](http://wimlds.org/event/opensourcesprints/) website which consisted of five separate events.  I excitedly labeled the tasks, each with its own city so they could be easily separable.  It is not immediately known to users that labels are non-transferable. 
 
-**Problem:**  A new volunteer joined to help with the website updates and lamented on how confused she was, *even though* I had labeled the notes, written in tasklists, etc.  After unnecessary frustration on both sides, we finally got on a google hangout, and after sharing screens, discovered she could not view the notes by labels.  Hence, her frustration was understandable.  
+:point_right: **Problem:**  A new volunteer joined to help with the website updates and lamented on how confused she was, *even though* I had labeled the notes, written in tasklists, etc.  After unnecessary frustration on both sides, we finally got on a google hangout, and after sharing screens, discovered she could not view the notes by labels.  Hence, her frustration was understandable.  
 
 The lack of folders or functionality to easily separate notes by sharing labels results in confusion.  It’s basically like throwing a bunch of papers in a box.  
 
@@ -68,7 +60,7 @@ The lack of folders or functionality to easily separate notes by sharing labels 
 
 Google [emojis are so unattractive](https://www.fastcompany.com/90203712/googles-blob-emojis-are-back-a-year-after-they-were-redesigned) that I do not use them very often.
 
-**Problem:** Recipients of emails receive a less personal message than on other social media communication platforms.  This likely also causes undue stress in relationships.  
+:point_right: **Problem:** Recipients of emails receive a less personal message than on other social media communication platforms.  This likely also causes undue stress in relationships.  
 
 ## Hangouts
 
