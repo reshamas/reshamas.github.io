@@ -68,7 +68,7 @@ There are an overwhelming number of ways people can communicate with others elec
 
 I use gmail daily, but not Hangouts. So, periodically I discover that some people prefer using Hangouts and have sent me messages that are weeks old, but I had not received any notifications of such.   Even though I tell a regular project collaborator to email me for faster response, he prefers communicating via Hangouts and it can often be weeks before I see his message. 
 
-**Problem:**  Avenues for communicating are plentiful, and reminders that messages have not been read would be useful, else there is lack of communication. 
+:point_right: **Problem:**  Avenues for communicating are plentiful, and reminders that messages have not been read would be useful, else there is lack of communication. 
 
 ## Contacts
 I had previously complained that when saving a contact from gmail, the contact’s email address was not actually saved. It looks like that has been fixed.
@@ -103,12 +103,11 @@ If there are any fixes that will be helpful for me to know, I can be reached at 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello <a href="https://twitter.com/gmail?ref_src=twsrc%5Etfw">@gmail</a> (It&#39;s me again)<br>Another suggestion:<br>- 💗 the reminders &amp; nudges on emails<br>- can you offer same functionality for DRAFT emails?<br><br>It looks like many people write draft emails that we don&#39;t send out... and then we wonder why the recipient hasn&#39;t responded! 🙃</p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1113844074186977281?ref_src=twsrc%5Etfw">April 4, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Hello <a href="https://twitter.com/gmail?ref_src=twsrc%5Etfw">@gmail</a><br>• How is it that when I &quot;add a contact&quot;, it will add their name and Google+ profile, BUT NOT their email address to my contact list?  <br>• And, the country defaults to &quot;USA&quot;, even tho their Google profile has their location<br>You *could* do some testing<a href="https://twitter.com/karaswisher?ref_src=twsrc%5Etfw">@karaswisher</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1104420521792421888?ref_src=twsrc%5Etfw">March 9, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-https://twitter.com/reshamas/status/1115345695769337856
+- [Slack hopes its AI will keep you from hating Slack](https://twitter.com/reshamas/status/1115345695769337856)
 
-https://twitter.com/reshamas/status/1113844074186977281
-
-https://twitter.com/reshamas/status/1104420521792421888
 
 
