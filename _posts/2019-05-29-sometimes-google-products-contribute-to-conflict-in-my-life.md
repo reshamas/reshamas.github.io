@@ -30,7 +30,7 @@ Sometimes Gmail WYSIWYG is **not** WYSIWYG.  (WYSIWYG = what you see is what you
 
 
 
-## Calendar:  Counter counter present date
+## Calendar:  Counter present date
 
 On a calendar invite, if there are 3 people listed as attendees, it is possible for one person to counter-propose a time.  When that happens, only the event owner is notified. 
 
