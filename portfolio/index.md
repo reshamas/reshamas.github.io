@@ -16,13 +16,20 @@ comments: false
 * Data Visualization Made Simple:  Insights into Becoming Visual (by Kristen Sosulski, NYU Professor), 2018
     - [Exploring the openings and closings of NYC schools (case study in Chapter 8)](https://books.google.com/books?id=cM5wDwAAQBAJ&pg=PT208&lpg=PT208&dq=reshama+shaikh&source=bl&ots=UkRLpWvqLn&sig=9weW5DeMyFEs93ToLRQyIxWb1_0&hl=en&sa=X&ved=2ahUKEwjVttPC6IneAhWNm-AKHURqA0c4HhDoATABegQICBAB#v=onepage&q=reshama%20shaikh&f=false)
 
+## Deep Learning
+* [Deploying Deep Learning Models on Web and Mobile](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
+* [Fastai Week 2: Classifying African And Asian Elephants](https://reshamas.github.io/fastai-week-2-classifying-african-and-asian-elephants/)
+* [Fastai Week 1: Classifying Camels Horses And Elephants](https://reshamas.github.io/fastai-week-1-classifying-camels-horses-and-elephants/)
 
 ## Open Source Contribution
 * created documentation:  [fastai deep learning repo](https://github.com/reshamas/fastai_deeplearn_part1)
+* organizing [2019 WiMLDS scikit-learn open source sprints](http://wimlds.org/event/opensourcesprints/) in:
+    - Nairobi, Kenya
+    - New York, New York
+    - San Francisco, California
 * organized 2017 & 2018 scikit sprint w/[@amueller](https://github.com/amueller)
     * created scikit-sprint open source repo for public use:  [nyc-2018-scikit-sprint](https://github.com/WiMLDS/nyc-2018-scikit-sprint) 
 * contributions to Python libraries
-    * fastai:  [added x and y labels to 'find learning rate' plot #999](https://github.com/fastai/fastai/pull/999)
     * scikit-learn: [check if algorithm is appropriate for classifier #12486](https://github.com/scikit-learn/scikit-learn/pull/12486)
 
 
