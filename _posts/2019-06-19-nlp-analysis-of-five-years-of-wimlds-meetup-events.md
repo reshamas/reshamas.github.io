@@ -4,7 +4,7 @@
 
 ## Abstract:  NLP Findings of WiMLDS Meetup Events
 
-These are some **distinct / popular** topics for WiMLDS meetup events:
+Forty three WiMLDS chapters have organized 439 events over the past 5 1/2 years.  These are some **distinct / popular** topics for WiMLDS meetup events:
 - deep learning
 - San Francisco Bay Area Code & Coffee; not surprising since they host weekly events
 - networking, [anomaly] detection
@@ -23,9 +23,9 @@ These are some **distinct / popular** topics for WiMLDS meetup events:
 
 ## Introduction
 
-Do you ever lie awake in bed wondering what kind of events WiMLDS chapters around the world are organizing?  If you said “yes”, there is a good chance you are one of 120+ WiMLDS organizers around the world.  As an NYC chapter organizer for the past 4 years, I am intimately familiar with the types of events we organize locally.  As a member of the 5-person [Global WiMLDS Leadership Team](http://wimlds.org/the-leadership/), I was curious for some time to learn what sort of events WiMLDS chapters were organizing around the world.  
+Do you ever lie awake in bed wondering what kind of events WiMLDS chapters around the world are organizing?  If you said “yes”, there is a good chance you are one of 120+ WiMLDS organizers in 30 countries around the world.  As an NYC chapter organizer for the past 4 years, I am intimately familiar with the types of events we organize locally.  As a member of the 5-person [Global WiMLDS Leadership Team](http://wimlds.org/the-leadership/), I was curious for some time to learn what sort of events other WiMLDS chapters were organizing globally. 
 
-The number of events organized, over 400, were too many to  sift through manually.   I typically recruit volunteers to help with website or graphics task to support WiMLDS.  But for this task, my data science skills came in handy, and I conducted a topic analysis using natural language processing (NLP) to answer the question that was keeping me awake at night!
+The number of events organized were too many to sift through manually.   I typically recruit volunteers to help with website or graphics task to support WiMLDS.  But for this task, my data science skills came in handy, and I conducted a topic analysis using natural language processing (NLP) to answer the question that had been keeping me awake at night!
 
 ## About WiMLDS
 
@@ -34,6 +34,7 @@ Women in Machine Learning and Data Science ([WiMLDS](http://wimlds.org)) is a no
 The mission of WiMLDS is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.  The [2019 Q1 Report](https://reshamas.github.io/wimlds-2019-q1-report/) was released April 2019. 
 
 ### Statistics as of June 2019
+
 WiMLDS currently has **68 chapters** in **30 countries** with [**34000+ members**](https://www.meetup.com/topics/wimlds/all/).
 
 ## Events Overview
