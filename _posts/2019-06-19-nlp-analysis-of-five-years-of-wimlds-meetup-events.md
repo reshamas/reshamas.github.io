@@ -5,18 +5,18 @@
 ## Abstract:  NLP Findings of WiMLDS Meetup Events
 
 Forty three WiMLDS chapters have organized 439 events over the past 5 1/2 years.  These are some **distinct / popular** topics for WiMLDS meetup events:
-- deep learning
+- Deep learning
 - San Francisco Bay Area Code & Coffee; not surprising since they host weekly events
-- networking, [anomaly] detection
-- machine learning, WiDS conference events
-- data science
-- deep learning, PyTorch, introductory
-- kickoff events, lightning talks, meet and greet; not surprising since we have had almost 40 new chapters open in the past year.  
+- Networking, [anomaly] detection
+- Machine learning, WiDS conference events
+- Data science
+- Deep learning, PyTorch, introductory
+- Kickoff events, lightning talks, meet and greet; not surprising since we have had almost 40 new chapters open in the past year.  
 - Python, TensorFlow, diversity events
-- workshops are popular, as well as social events with happy hours
-- fairness, bias, algorithmic events; CFP proposal events
-- demo, hackathons
-- scikit-learn open source sprints
+- Workshops are popular, as well as social events with happy hours
+- Fairness, bias, algorithmic events; CFP proposal events
+- Demo, hackathons
+- Scikit-learn open source sprints
 
 ---
 
