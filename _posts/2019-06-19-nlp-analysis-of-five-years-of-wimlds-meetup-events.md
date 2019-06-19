@@ -2,7 +2,7 @@
 <img src="../assets/images/nlp_cloud.png" width="110%" height="110%" />
 </p>
 
-## Abstract:  NLP Findings of WiMLDS Meetup Events
+## Abstract
 
 Forty three WiMLDS chapters have organized 439 events over the past 5 1/2 years.  These are some **distinct / popular** topics for WiMLDS meetup events:
 - Deep learning
