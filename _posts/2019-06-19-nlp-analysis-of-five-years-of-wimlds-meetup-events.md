@@ -1,5 +1,5 @@
 <p>
-<img src="../assets/images/nlp_cloud.png" width="99%" height="99%" />
+<img src="../assets/images/nlp_cloud.png" width="110%" height="110%" />
 </p>
 
 ## Abstract:  NLP Findings of WiMLDS Meetup Events
