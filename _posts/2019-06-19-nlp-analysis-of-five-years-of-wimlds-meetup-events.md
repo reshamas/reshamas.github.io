@@ -47,11 +47,7 @@ Data was collected from December 2013 to May 2019, and it included **439 meetup 
 <img src="../assets/images/q1_events_by_year.png" />
 </p>
 
-### Number of Meetups Organized, by Chapter (>=1 events organized in 2019)
-
-<p>
-<img src="../assets/images/q1_events_2019.png" />
-</p>
+ 
 
 ## Events Analysis
 
