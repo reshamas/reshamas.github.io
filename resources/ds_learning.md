@@ -33,3 +33,4 @@ comments: false
 
 ## Deep Learning
 * [fastai MOOC notes](https://github.com/reshamas/fastai_deeplearn_part1)
+* [Mithi Sevilla created a stellar collection of deep learning tutorial videos and coding exercises.](https://twitter.com/_brohrer_/status/1141290780654473216)
