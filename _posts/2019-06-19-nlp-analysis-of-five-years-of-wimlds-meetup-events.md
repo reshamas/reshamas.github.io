@@ -1,5 +1,5 @@
 <p>
-<img src="../assets/images/nlp_cloud.png" width="110%" height="110%" />
+<img src="../assets/images/nlp_cloud.png" width="100%" height="100%" />
 </p>
 
 ## Abstract
@@ -28,7 +28,7 @@ Do you ever lie awake in bed wondering what kind of events WiMLDS chapters aroun
 As a member of the 5-person [Global WiMLDS Leadership Team](http://wimlds.org/the-leadership/), I was curious for some time to learn what sort of events other WiMLDS chapters were organizing globally. 
 
 <p>
-<img src="../assets/images/wimlds_global.png" width="110%" height="110%" />
+<img src="../assets/images/wimlds_global.png" width="100%" height="100%" />
 </p>
 
 The number of events organized were too many to sift through manually.   I typically recruit volunteers to help with website or graphics task to support WiMLDS.  But for this task, my data science skills came in handy, and I conducted a topic analysis using natural language processing (NLP) to answer the question that had been keeping me awake at night!
