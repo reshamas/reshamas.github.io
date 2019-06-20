@@ -23,7 +23,13 @@ Forty three WiMLDS chapters have organized 439 events over the past 5 1/2 years.
 
 ## Introduction
 
-Do you ever lie awake in bed wondering what kind of events WiMLDS chapters around the world are organizing? (I do!)  If you said “yes”, there is a good chance you are one of 120+ WiMLDS organizers in 30 countries around the world.  As an NYC chapter organizer for the past 4 years, I am intimately familiar with the types of events we organize locally.  As a member of the 5-person [Global WiMLDS Leadership Team](http://wimlds.org/the-leadership/), I was curious for some time to learn what sort of events other WiMLDS chapters were organizing globally. 
+Do you ever lie awake in bed wondering what kind of events WiMLDS chapters around the world are organizing? (I do!)  If you said “yes”, there is a good chance you are one of 120+ WiMLDS organizers in 30 countries around the world.  As an NYC chapter organizer for the past 4 years, I am intimately familiar with the types of events we organize locally.  
+
+As a member of the 5-person [Global WiMLDS Leadership Team](http://wimlds.org/the-leadership/), I was curious for some time to learn what sort of events other WiMLDS chapters were organizing globally. 
+
+<p>
+<img src="../assets/images/wimlds_global.png" width="110%" height="110%" />
+</p>
 
 The number of events organized were too many to sift through manually.   I typically recruit volunteers to help with website or graphics task to support WiMLDS.  But for this task, my data science skills came in handy, and I conducted a topic analysis using natural language processing (NLP) to answer the question that had been keeping me awake at night!
 
