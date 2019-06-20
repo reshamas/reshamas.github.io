@@ -138,7 +138,7 @@ pprint(lda_model.print_topics())
 
 ```
 
-As an example, the LDA model gives **12 topics** with the accompanying weight of the keywords that are dominant in that topic.
+As an example, the LDA model gives **12 topics** with the accompanying weight of the keywords that are dominant in that topic.  However, the model weights are not as easy to interpret as visualizations.  
 
 ```bash
 [(0,
@@ -192,6 +192,8 @@ As an example, the LDA model gives **12 topics** with the accompanying weight of
 
 ```
 
+This graphic shows the pyLDAvis package’s [interactive] chart (interactive in Jupyter Notebook session) including how the 12 topics are clustered.  In this visualization, Topic 1 is selected which also displays the top relevant terms for that topic, as an example.  
+
 <p>
 <img src="../assets/images/nlp_topics.png" width="99%" height="99%" />
 </p>
@@ -200,13 +202,7 @@ As an example, the LDA model gives **12 topics** with the accompanying weight of
 
 
 ### Visualizing the Model
-
-
-
-
-
-
-
+The weight of the keywords in each topic is relevant and easier to interpret in these visualizations versus the weights in a written equation.  
 
 <p>
 <img src="../assets/images/nlp_wt1.png" width="99%" height="99%" />
@@ -243,6 +239,9 @@ These are some **distinct and popular** topics for WiMLDS meetup events:
 
 
 
+### Dominant Topic and Topic Weightage
+These two visualizations show the number of documents by Dominant Topic and then also by Topic Weightage.  It is consistent with the words and size that appear in the word cloud.  This is another way of viewing the data.  
+
 <p>
 <img src="../assets/images/nlp_dominant.png" width="99%" height="99%" />
 </p>
@@ -267,6 +266,6 @@ The titles of the meetup events contain limited information.  For more detailed 
 
 
 ## Acknowledgements
-= Prithvi Gandhi:  for extracting the data from the Meetup API
+- Prithvi Gandhi:  for extracting the data from the Meetup API
 
 
