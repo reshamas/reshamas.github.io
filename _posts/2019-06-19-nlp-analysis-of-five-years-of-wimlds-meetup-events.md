@@ -250,7 +250,7 @@ These two visualizations show the number of documents by Dominant Topic and then
 <img src="../assets/images/nlp_weight.png" width="99%" height="99%" />
 </p>
 
- ## t-SNE Clustering Chart
+## t-SNE Clustering Chart
 
 t-SNE was used to visualize the clusters of documents.   The 12 clusters appear to be well separated.  
 
