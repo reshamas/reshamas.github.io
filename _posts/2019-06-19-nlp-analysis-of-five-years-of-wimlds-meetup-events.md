@@ -80,8 +80,6 @@ Here is a example of some event titles.  The event titles had at most 9 words wi
 </p>
 
 
-
-
 ```bash
 ['Big Data: From Chaos to Intelligence',
  'Machine Learning: A Focus on Supervised and Unsupervised Learning',
@@ -107,10 +105,12 @@ Here is a example of some event titles.  The event titles had at most 9 words wi
  'Machine Learning Unplugged',
  'AI AMA Wednesday with Abi',
  'Machine Learning Quest',
- 'MLCC Study Jam, New Delhi in collaboration with WiMLDS',
+ 'MLCC Study Jam, New Delhi in collaboration with WiMLDS'
 ```
 
- ### Topic Analysis
+
+### Topic Analysis
+
 Latent Dirichlet Allocation(LDA) algorithm was used for topic modeling.  I ran different models, varying the number of topics.  The best coherence score (measure of topic model) was achieved when the number of topics was set about 10 to 15, and I focused on 12 topics.  The Jupyter notebook for this analysis is available on GitHub:  [1_wimlds_events_nlp.](https://github.com/reshamas/ds_projects/blob/master/wimlds_nlp/1_wimlds_events_nlp.ipynb)
 
 
