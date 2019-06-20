@@ -37,20 +37,14 @@ The number of events organized were too many to sift through manually.   I typic
 
 Women in Machine Learning and Data Science ([WiMLDS](http://wimlds.org)) is a non-profit 501 (c)(3) corporation with headquarters in New York, New York.  It was founded in 2013.
 
-The mission of WiMLDS is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.  The [2019 Q1 Report](https://reshamas.github.io/wimlds-2019-q1-report/) was released April 2019. 
-
-### Statistics as of June 2019
-
-WiMLDS currently has **68 chapters** in **30 countries** with [**34000+ members**](https://www.meetup.com/topics/wimlds/all/).
+The mission of WiMLDS is to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.  The [2019 Q1 Report](https://reshamas.github.io/wimlds-2019-q1-report/) was released April 2019.  As of June 2019, WiMLDS has **68 chapters** in **30 countries** with [**34000+ members**](https://www.meetup.com/topics/wimlds/all/).
 
 ## Events Overview
 
-Data was collected from December 2013 to May 2019, and it included **439 meetup event titles** hosted by **43 different chapters**.   
-
-### Number of Meetup Events By Year (all chapters combined)
+Data was collected from December 2013 through May 2019, and it included **439 meetup event titles** hosted by **43 different chapters**.   This graph shows the number of events organized by year.
 
 <p>
-<img src="../assets/images/q1_events_by_year.png" />
+<img src="../assets/images/wimlds_events.png" />
 </p>
 
  
