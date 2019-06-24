@@ -23,7 +23,7 @@ Here is a list of my favorite data science resources.  If you would like to see 
 * [Python 2 to Python 3 Reference Guide](python2python3.pdf)
 * SQL tutorials
 
-## [Machine Learning]
+## Machine Learning
 * Jeremy Howard: [Machine Learning 1](http://course18.fast.ai/ml)
 * Bloomberg: [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
 * Andreas Mueller:  [Applied Machine Learning course](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), Columbia University, all videos and slides are avalable
