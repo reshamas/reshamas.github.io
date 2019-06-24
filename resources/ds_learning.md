@@ -28,8 +28,10 @@ comments: false
 - [Vertabelo Academy](https://academy.vertabelo.com/#courses_list_section) (paid online courses)
 
 ## Machine Learning
-- [Andreas Mueller's Applied Machine Learning course](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), Columbia University, all videos and slides are avalable
-- [How to Learn Machine Learning](https://dhanus.github.io/blog/learn-machine-learning/), Deborah Hanus
+* Jeremy Howard: [Machine Learning 1](http://course18.fast.ai/ml)
+* Bloomberg: [Foundations of Machine Learning](https://bloomberg.github.io/foml/#home)
+* Andreas Mueller:  [Applied Machine Learning course](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), Columbia University, all videos and slides are avalable
+
 
 ## Deep Learning
 * [fastai MOOC notes](https://github.com/reshamas/fastai_deeplearn_part1)
