@@ -74,14 +74,14 @@ Mentorship is not something that was in the vocabulary back in the 90's. Looking
 
 I was continuously searching for a supporting manager, just as the elusive, non-existent "Fountain of Youth", there was an endless search for "Involved and Supportive Manager."
 
-Traditionally, corporate America assigns managerial and leadership positions to those who have advanced degrees (preferably Ph.D.’s) and/or have attended top tier schools.  Rarely are they assessed on their management, leadership or communication expertise.  And yet, it is these skills that make a formidable and impactful leader.  Companies do not consider allocating these positions to managers who have the requisite "people skills."  There are a couple of ways that companies can address this paucity of skills:
+Traditionally, corporate America assigns managerial and leadership positions to those who have advanced degrees (preferably Ph.D.’s) and/or have attended top tier schools.  Rarely are they assessed on their management, leadership or communication expertise.  And yet, it is these skills that make a formidable and impactful leader.  Companies do not consider allocating these positions to managers who have the requisite "people skills."  There are a few ways that companies can address this paucity of skills:
 1. Train managers --> not easy
 2. Hire technical managers with good people managing and support skillset --> not easy
 3. Create a position for managers to actually manage, that is non-technical.  Have 2 managers that can fulfill needs for technical and career support and advising.
 
 Given the high cost of turnover, consider that this may actually be a cost-benefit to the company in retaining employees.
 
-### Actionable Advice for Those Seeking Mentors
+## Actionable Advice for Those Seeking Mentors
 There are a plethora of articles out there about why mentorship is important, but a dearth of resources that delve deeper into successfully obtaining a mentor.  Until you find an official mentor, here is some advice.
 
 **Look broadly for a mentor.**  It may seems like someone who is highly visible is a good person to ask, but imagine how busy they are.  Ask someone who is more available.
@@ -107,7 +107,7 @@ A potential and effective "mentor" will evaluate a request with the following cr
 
 Offer something of value in return.  Ask what you can do first before making a request.
 
-**Manage your expectations:**  You will still have to do the hard work.  Give up the idea of "Prince Charming."
+**Manage your expectations:**  You will still have to do the hard work.  Give up the idea of a "Prince Charming" who will step in, solve all problems and offer the perfect career opportunity.  It is a fantasy, not reality.  
 
 ## My Story on Mentorship
 To share, I have never asked anyone to be my mentor.  I have no official mentor.  And yet, I feel abundandance with the resources available to me.  
@@ -118,7 +118,7 @@ This is my advice:
 
 You do not have to have a formal relationship with someone for them to be a mentor.  They can be people you see (on tv, at conferences, YouTube) or read.  
 
-I have not yet met or spoken to Jeremy Howard.  Yet, I observed how he involved the community in contributing to fastai open source by his video lectures.  Last fall, when I was feeling overwhelmed with the WiMLDS meetup group as all 3 of my co-organizers were on maternity leave, it occurred to me that I could reach out to the WiMLDS community to get assistance for the events.  I learned from Jeremy without every meeting him or speaking with him.
+I have not yet met or spoken to [Jeremy Howard](https://twitter.com/jeremyphoward).  Yet, I observed how he involved the community in contributing to fastai open source by his video lectures.  Last fall, when I was feeling overwhelmed with the WiMLDS meetup group as all 3 of my co-organizers were on maternity leave, it occurred to me that I could reach out to the WiMLDS community to get assistance for the events.  I learned from Jeremy without every meeting him or speaking with him.
 
 ### Something to be Learned from Negative Role Models
 
@@ -127,7 +127,7 @@ If you see behavior by someone which is not appealing, that is also educational.
 One of my previous supervisors exhibited these traits:
 - Lack of communication
 - Treating people unfairly, playing favorites
-- Being unavailable.  On the rare occasions I saw her at work, she began every conversation with “I am so busy, I am so overwhelmed at work….” That does not invite discussion.
+- Being unavailable.  On the rare occasions I saw her at work, she began every conversation with “I am so busy, I am so overwhelmed at work….” That does not invite any fruitful discussion.
 
 With my meetup co-organziers, whom I have been mentoring for the past year, I have adopted the following behavior:
 - Communicate regularly
@@ -184,13 +184,14 @@ Research what areas the person works in and see if there is something in common 
 
 ### Open Sourcing Mentorship?
 
-There has been discussion in data science community organizations about offering mentorship programs.  However, all of these organizations are operated primarily by volunteers who are already spread quite thin.  They include meetup organizers, conference organizers, open source contributors, educators and more.  It is recognized that there is a demand in the data science community for mentorship.  But, the problem with open source is that it is not really free.  They are products and services that are primarily created and maintained by volunteers.  There is a challenge in obtaining funding by corporations and donations by users.  So, if a Mentorship Program is offered, for free, someone is dedicating hours of their personal time for that.  
+There has been discussion in data science community organizations about offering mentorship programs.  However, all of these organizations are operated primarily by volunteers who are already overworked and in high demand.  They include meetup organizers, conference organizers, open source contributors, educators and more.  It is recognized that there is a demand in the data science community for mentorship.  But, the problem with open source is that it is not really free.  They are products and services that are primarily created and maintained by volunteers.  There is a challenge in obtaining funding by corporations and donations by users.  So, if a Mentorship Program is offered, for free, someone is dedicating hours of their personal time for that.  
 
 Conferences such as PyData, PyCon and others are primarily organized by volunteers.  If they were orgaized by a commercial organization, the registration prices would be exhorbitant and inaccessible to the majority of attendees.  
 
 Personally, I think that offering mentoring services by the data science community is unsustainable.
 
 ### Get Involved in the Community / Volunteer
+People can interact with experienced people by becoming more involved in the data science communities:  
 - help at meetups
 - review conference proposals
 - volunteer at conferences
@@ -198,16 +199,16 @@ Personally, I think that offering mentoring services by the data science communi
 - contribute constructively to social media discussions in data science
 
 ## My Mentees
-As an organizer for two meetup groups in the bustling of city of New York, I can use all the help I can get.  For the past year, I have been mentoring 3 women.  The bonus for me is that I am able to obtain desperately needed to help to effectively run these meetup groups.  For the 3 women, they receive mentorship from me on communicating with companies, arranging events, dealing with last minute crises, strategically planning for the future and more.
+As an organizer for two meetup groups in the bustling of city of New York, I can use all the help I can get.  For the past year, I have been mentoring 3 women.  The bonus for me is that I am able to obtain desperately needed help to effectively run these meetup groups.  For the 3 women, they receive mentorship from me on communicating with companies, arranging events, dealing with last minute crises, strategically planning for the future and more.
 
 I have asked all 3 of them to add new volunteers to our committees and mentor them through the process so that there is a good pipeline of organizers so the community can benefit from regular meetup events.  It has been a mutually beneficial relationship. 
 
----
+ 
 ## Contact
 
 I encourage people to email me with questions: reshama@wimlds.org.  While I do not promise a response to every email, I do read them all and write blogs for the questions I receive over time.
 
----
+ 
 ## Coach
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jonathan Rosenberg quotes Bill Campbell: <br>A coach can <br>- see the things you can’t <br>- hear the things you can’t<br>-SO you can be the person you want to be. <a href="https://twitter.com/hashtag/LeadershipDevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#LeadershipDevelopment</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1118194936992751616?ref_src=twsrc%5Etfw">April 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -261,7 +262,7 @@ Becky Davis gives some blunt advice on mentorship in her article, [Unable To Fin
 - Don't give the victim story.
 - Don't quit.
 
-### Barron Hall on [Mentoriship](https://dollarbillionaire.com/mentor/)
+#### Barron Hall on [Mentorship](https://dollarbillionaire.com/mentor/)
 
 >Mentoring in a structured program is tough if the mentees don't take an active role by showing initiative and striving to grow.
 
