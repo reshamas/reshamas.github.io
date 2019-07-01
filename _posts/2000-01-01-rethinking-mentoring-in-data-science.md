@@ -49,11 +49,11 @@ The good news is that depending on the support needed, the last two roles, caree
 
 
 ## Avenues to Obtain Mentorship
-These seem to be the 3 main avenues for obtaining mentorship:  
+These seem to be a few main avenues for obtaining mentorship:  
 1. Work, formal programs
 2. Work, informal connection
 3. School
-4. Outside of work
+4. Outside of work; community
 
 Large companies have structured, established programs.  For people who are seeking mentors, it is a good idea to work at a larger company.  
 
