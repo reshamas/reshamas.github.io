@@ -71,11 +71,12 @@ Mentorship is not something that was in the vocabulary back in the 90's. Looking
 
 I was continuously searching for a supporting manager, just as the elusive, non-existent "Fountain of Youth", there was an endless search for "Involved and Supportive Manager."
 
-Traditionally, corporate America assigns managerial and leadership positions to those who have advanced degrees (preferably Ph.D.’s), have attended top tier schools.  Rarely are they assessed on their management, leadership or communication expertise.  And yet, it is these skills that make a formidable leader.  Companies do not consider allocating these positions to managers who have the requisite "people skills."  There are a couple of ways that companies can address this dearth of skills:
-1. Train managers / hire technical managers with good people managing and support skillset --> not easy
+Traditionally, corporate America assigns managerial and leadership positions to those who have advanced degrees (preferably Ph.D.’s) and/or have attended top tier schools.  Rarely are they assessed on their management, leadership or communication expertise.  And yet, it is these skills that make a formidable and impactful leader.  Companies do not consider allocating these positions to managers who have the requisite "people skills."  There are a couple of ways that companies can address this paucity of skills:
+1. Train managers --> not easy
+2. Hire technical managers with good people managing and support skillset --> not easy
 3. Create a position for managers to actually manage, that is non-technical.  Have 2 managers that can fulfill needs for technical and career support and advising.
 
-Given the high cost of turnover, consider that this may actually be a cost-benefit.
+Given the high cost of turnover, consider that this may actually be a cost-benefit to the company in retaining employees.
 
 ### Actionable Advice for Those Seeking Mentors
 There are a plethora of articles out there about why mentorship is important, but a dearth of resources that delve deeper into successfully obtaining a mentor.  Until you find an official mentor, here is some advice.
