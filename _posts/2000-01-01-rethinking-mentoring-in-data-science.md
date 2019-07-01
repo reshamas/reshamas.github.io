@@ -107,7 +107,7 @@ Offer something of value in return.  Ask what you can do first before making a r
 **Manage your expectations:**  You will still have to do the hard work.  Give up the idea of "Prince Charming."
 
 ## My Story on Mentorship
-To share, I have never asked anyone to be my mentor.  I have no official mentor.  And yet, I feel abundandance in the resources available to me.  
+To share, I have never asked anyone to be my mentor.  I have no official mentor.  And yet, I feel abundandance with the resources available to me.  
 
 This is my advice:
 
