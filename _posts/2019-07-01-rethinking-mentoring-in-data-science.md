@@ -142,7 +142,7 @@ With my meetup co-organziers, whom I have been mentoring for the past year, I ha
 
 A mentor does not have to be in data science.  One of my key confidants is a college friend who works in government, hundreds of miles away from me, doing non-quantitative work.  I often share workplace dilemnas with her via phone calls and her perspectives are insightful and useful.  
 
-Just as in transfer learning, we can transfer knowledge from one machine learning task to another application, we can do the same in mentoring.
+Just as in transfer learning where we transfer knowledge from one machine learning task to another application, we can do the same with mentoring expertise.
 
 ### Think All Genders
 
