@@ -215,41 +215,36 @@ I encourage people to email me with questions: reshama@wimlds.org.  While I do n
 
 ## Tweets:  Mentorship Leads
 
-Vicki Boykis, [Data Science is Different Now](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
+#### Vicki Boykis, [Data Science is Different Now](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
 >After fumbling on my own for a very long time, I’ve now been established in “data science” for the past 6 years, and, to serve as the mentor that I didn’t have, I’ve been answering emails and having coffee meetings with people looking for advice to get into data science.
 
-Lana Garmire, Call for Mentors
+#### Lana Garmire, Call for Mentors
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tweeps, I am looking for female academic mentors, who are: mothers + exceptionally successful senior faculty/scientists + heavy admin duties + advocate for women in STEM . Could you nominate someone? :)</p>&mdash; Lana Garmire (@GarmireGroup) <a href="https://twitter.com/GarmireGroup/status/1060385329260171265?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Emily Robinson, The Importance of Sponsorship
+#### Emily Robinson, The Importance of Sponsorship
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve previously written about the importance of sponsorship, which is talked about a lot less often than mentorship, on my blog: <a href="https://t.co/pdc4FItg3Q">https://t.co/pdc4FItg3Q</a>. <br><br>And Lara has a great post on how to be a sponsor even when you’re not a manager: <a href="https://t.co/kcmU6543xS">https://t.co/kcmU6543xS</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1024755169383342090?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
+#### Lara Hogan
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great example of sponsorship: <a href="https://twitter.com/lara_hogan?ref_src=twsrc%5Etfw">@lara_hogan</a> wrote her first book after meeting an o’reilly editor at a conf. Editor didn’t just mentor her through the proposal process, she went to bat to help Lara get the contract. And now Lara’s written three books 🙌<a href="https://t.co/OzRPY6t2Z1">https://t.co/OzRPY6t2Z1</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1024736373645950977?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## Tweets:  by busy people
+## Perspectives of Busy People
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6458278206884638720" height="713" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-
-Understanding Why Mentors Are Not Available
-
-Jeremy Howard, in [fastai Lesson 10](https://course18.fast.ai/lessonsml1/lesson10.html)
+#### Jeremy Howard, in [fastai Lesson 10](https://course18.fast.ai/lessonsml1/lesson10.html)
 >You've got to be a bit careful, right? Because sometimes I get messages from random people saying "I've got lots of good ideas, can we have coffee?" I don't want to... you know, I can have coffee in my office anytime, thank you. But it's very different to say, hey, I took your ideas and I wrote a paper and I did a bunch of experiments and I figured out how your code works. They added documentation to it. Should we submit this to a conference? You see what I mean? There is nothing to stop you doing amazing work and if you do amazing work that helps someone else, like in this case, ok, I'm happy that we have a paper. I don't particularly care about papers. But, I think it's cool that these ideas now have this rigorous study. Let me show you what he did.
 
-Cassie Kozyrkov
+#### Cassie Kozyrkov
 >If you're thinking about asking a stranger to #mentor you, it's a bit like asking a stranger to marry you.
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6458278206884638720" height="713" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-Lisa Martinez of Google
+#### Lisa Martinez of Google
 >If you’re in the room, add value.
 
-Bethany Crystal
+#### Bethany Crystal
 >Like any meaningful relationship, mentorships are long-term, and loaded with mutual respect and benefits on both sides. They take time to cultivate and nurture.
 
-Becky Davis
+#### Becky Davis
 Becky Davis gives some blunt advice on mentorship in her article, [Unable To Find The Right Mentor? Maybe You're The Problem
 ](https://www.forbes.com/sites/forbescoachescouncil/2016/10/11/unable-to-find-the-right-mentor-maybe-youre-the-problem/#7020420e3462)
 
@@ -266,10 +261,7 @@ Becky Davis gives some blunt advice on mentorship in her article, [Unable To Fin
 - Don't give the victim story.
 - Don't quit.
 
-Ref:  https://dollarbillionaire.com/mentor/
-
-
-Challenges to a successful mentorship (survey responses)
+### Barron Hall on [Mentoriship](https://dollarbillionaire.com/mentor/)
 
 >Mentoring in a structured program is tough if the mentees don't take an active role by showing initiative and striving to grow.
 
@@ -279,9 +271,7 @@ Challenges to a successful mentorship (survey responses)
 
 >I had another mentor before, but both of us did not really know what to do. The first session was great but then we were not able to maintain a contact, because I did not have specific aims for that particular interaction. Also, many people are ok with being mentors, but have no clue how to do it.
 
-
-
-Sheryl Sandberg Lean In | Chapter 5:“Are You My Mentor?”
+#### Sheryl Sandberg Lean In | Chapter 5:“Are You My Mentor?”
 
 >I realized that searching for a mentor has become the professional equivalent of waiting for Prince Charming
 
@@ -293,12 +283,16 @@ Sheryl Sandberg Lean In | Chapter 5:“Are You My Mentor?”
 
 >Peers can also mentor and sponsor one another.
 
+#### Laurie Winkless on "free consulting services"
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi salaried people. Please don&#39;t get annoyed when a self-employed person sends you their rates in response to your invite to a 3.5 hour meeting where you want to &#39;share ideas&#39;. That&#39;s called consulting, and if I do it for free, I can&#39;t pay my rent. <a href="https://twitter.com/hashtag/freelancelife?src=hash&amp;ref_src=twsrc%5Etfw">#freelancelife</a></p>&mdash; Laurie Winkless (@laurie_winkless) <a href="https://twitter.com/laurie_winkless/status/1023700573399314432?ref_src=twsrc%5Etfw">July 29, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+#### Reshama Shaikh on "Mentoring Time Investment"
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We need to move away from this idea of “free mentoring”. It’s valuable time, especially for women who are already active in the community. <br>If people want mentoring, aka coaching, we should begin a conversation on compensation. <a href="https://t.co/ny8Q72CLPc">https://t.co/ny8Q72CLPc</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1060920991185059840?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Frankly, your description sounds like someone who wouldn’t or shouldn’t want to also take on the community service of mentoring a stranger. Sounds like a full plate to me.</p>&mdash; Mollie Manier (@maniermk) <a href="https://twitter.com/maniermk/status/1060522256130928641?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+#### Mollie Maniere on Mentoring Overload
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I agree, I already do approximately a hundred times more mentoring than I received from senior women.</p>&mdash; Anne Carpenter (@DrAnneCarpenter) <a href="https://twitter.com/DrAnneCarpenter/status/1061030140656918528?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
