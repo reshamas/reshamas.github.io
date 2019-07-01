@@ -197,6 +197,10 @@ Personally, I think that offering mentoring services by the data science communi
 - ask busy people what they need help with and offer to do those tasks
 - contribute constructively to social media discussions in data science
 
+## My Mentees
+As an organizer for two meetup groups in the bustling of city of New York, I can use all the help I can get.  For the past year, I have been mentoring 3 women.  The bonus for me is that I am able to obtain desperately needed to help to effectively run these meetup groups.  For the 3 women, they receive mentorship from me on communicating with companies, arranging events, dealing with last minute crises, strategically planning for the future and more.
+
+I have asked all 3 of them to add new volunteers to our committees and mentor them through the process so that there is a good pipeline of organizers so the community can benefit from regular meetup events.  It has been a mutually beneficial relationship. 
 
 ---
 ## Contact
