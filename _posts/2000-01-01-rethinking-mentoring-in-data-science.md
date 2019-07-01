@@ -169,15 +169,15 @@ That is available to all of us without requesting a coffee meeting.
 
 ### Embrace (Negative) Feedback
 
-While it can be instinctive to receive negative feedback, recognize that it can also be a powerful form of mentorship.  We do not have to agree with all feedback, but we can give it a chance.
+While it can be instinctive to be defensive with negative feedback, recognize that it can also be a powerful form of mentorship.  We do not have to agree with all feedback, but we can consider it and give it some space.
 
 ### Put Some Effort Into It
-People reach out on LI, twitter, because it’s so easy:
+People reach out via email, LinkedIn, Twitter and Slack because it’s so easy:
 - low effort
 - low risk
 - thus, low return
 
-Research what areas the person works in and see if there is something in common.  
+Research what areas the person works in and see if there is something in common where a reciprocal relationship can be established.  
 
 ### Open Sourcing Mentorship?
 
