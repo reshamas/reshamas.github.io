@@ -7,7 +7,7 @@
 
 I am an organizer for two New York city meetup groups:  [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
-I attended college in the 90’s and mentorship is not something that was discussed at the time.  In recent years, I *have heard* the discussion “find a mentor, you need a mentor to advance your career.”  
+I attended college in the 90’s and mentorship is not something that was discussed at the time.  In recent years, I *have heard* the conversation of “find a mentor, you need a mentor to advance your career.”  
 
 In early 2018, when I first began writing and when my [fastai_deep_learning](https://github.com/reshamas/fastai_deeplearn_part1) GitHub repository of documentation received increased traffic, I received numerous requests from readers around the world to be their mentor.  These requests encouraged me to think more closely about mentorship and the general expectations in the data science community.
 
@@ -17,7 +17,7 @@ I held certain beliefs about asking for mentorship, but thought I would ask arou
 
 ## Definitions
 
-This research elucidated that there are various understandings of what a “mentor” and the roles can be categorized primarily in four ways which are Mentor, Sponsor, Career Coach and Therapist.
+This research elucidated that there are various understandings of what a “mentor” is and the roles can be categorized primarily in four ways which are Mentor, Sponsor, Career Coach and Therapist.
 
 ### Mentor
 - Provides advice, support and guidance
