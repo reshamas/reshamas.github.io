@@ -59,6 +59,9 @@ Large companies have structured, established programs.  For people who are seeki
 
 Also, when choosing a job, choose a boss over the company because your direct supervisor and your relationship with your manager has the greatest influence over the direction of your career.  
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6499438382450507777" height="404" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
 ## What is the best way to find a mentor?
 This is advice from others:
 - Ask someone you know
@@ -195,96 +198,16 @@ Personally, I think that offering mentoring services by the data science communi
 - contribute constructively to social media discussions in data science
 
 
-## My Mentees
-
-
-
-
-
- 
-
-
-
-
-
-Do you seek mentorship and how do you successfully accomplish that?
-
-I stick with SMART requests.  For example, if I create a slide presentation or write an application statement or CFP, I reach out to friends, acquaintances and individuals I have connected with at network events and ask if they can review it and provide feedback.
-
-I am pretty straight with my requests.  Often I receive requests from people (with whom over a year has passed without any communication) where the first email begins with:
-
-
->I was just thinking about you the other day.  How are you?  It’s been a long time.  What’s new?
-
-Then I respond, and they ask for something.  I really recommend being straight with people. 
-
->It’s been a long time since we have been in touch.  I have been up to xxx and wanted to ask you for yyy.
-
-Be straight, be brief and to the point . 
-
-
-Need commitment by mentor/mentee pair
-
-Do you mentor?
-
-Yes, new meetup co-organizers
-
-
-
 ---
 ## Contact
 
 I encourage people to email me with questions: reshama@wimlds.org.  While I do not promise a response to every email, I do read them all and write blogs for the questions I receive over time.
 
-## References
-
-[5 Ways to Get Better at Asking for Help](https://hbr.org/2014/12/5-ways-to-get-better-at-asking-for-help), HBR
-
-[What Does Sponsorship Look Like?](https://larahogan.me/blog/what-sponsorship-looks-like/), Lara Hogan
-
-[Want a mentor? Stop asking for one.](https://hackernoon.com/want-a-mentor-stop-asking-for-one-cc4b12d8287a), Bethany Crystal
-
-[Unable To Find The Right Mentor? Maybe You're The Problem
-](https://www.forbes.com/sites/forbescoachescouncil/2016/10/11/unable-to-find-the-right-mentor-maybe-youre-the-problem/#7020420e3462), Becky Davis
-
-[The Art of Mentoring](https://statgirlblog.wordpress.com/2018/08/28/the-art-of-mentoring/)
-
-[The Importance of Sponsorship](http://hookedondata.org/The-Importance-of-Sponsorship/), Emily Robinson
-
-[Building Your Data Science Network: Reaching Out
-](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/)
-
-
-[Men Are Afraid to Mentor Women. Here’s What We Can Do About It.
-](https://www.linkedin.com/pulse/men-afraid-mentor-women-heres-what-we-can-do-adam-grant/), Adam Grant
-
-[Give and Take](https://www.youtube.com/watch?v=-egUK2zaZlo) Adam Grant on YouTube
-
-Lean In, Chapter 6: Will you be my mentor?, Sheryl Sandberg
-
-[Why Men Still Get More Promotions Than Women](hbr.org/2010/09/why-men-still-get-more-promotions-than-women), HBR
-
-[What Mentors Wish Their Mentees Knew](https://hbr.org/2017/11/what-mentors-wish-their-mentees-knew), HBR
-
-[Data Science is Different Now](http://veekaybee.github.io/2019/02/13/data-science-is-different/), Vicki Boykis
-
 ---
-
-
-
-<p style="color:orange"><b>Note:  4 of the top 5 are English-speaking countries.</b></p>
-
 ## Coach
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jonathan Rosenberg quotes Bill Campbell: <br>A coach can <br>- see the things you can’t <br>- hear the things you can’t<br>-SO you can be the person you want to be. <a href="https://twitter.com/hashtag/LeadershipDevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#LeadershipDevelopment</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1118194936992751616?ref_src=twsrc%5Etfw">April 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6458278206884638720" height="713" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6499438382450507777" height="404" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-## Tweets:  Getting Mentorship / Sponsorship
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great example of sponsorship: <a href="https://twitter.com/lara_hogan?ref_src=twsrc%5Etfw">@lara_hogan</a> wrote her first book after meeting an o’reilly editor at a conf. Editor didn’t just mentor her through the proposal process, she went to bat to help Lara get the contract. And now Lara’s written three books 🙌<a href="https://t.co/OzRPY6t2Z1">https://t.co/OzRPY6t2Z1</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1024736373645950977?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## Tweets:  Mentorship Leads
 
@@ -297,7 +220,15 @@ Lana Garmire, Call for Mentors
 Emily Robinson, The Importance of Sponsorship
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve previously written about the importance of sponsorship, which is talked about a lot less often than mentorship, on my blog: <a href="https://t.co/pdc4FItg3Q">https://t.co/pdc4FItg3Q</a>. <br><br>And Lara has a great post on how to be a sponsor even when you’re not a manager: <a href="https://t.co/kcmU6543xS">https://t.co/kcmU6543xS</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1024755169383342090?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Great example of sponsorship: <a href="https://twitter.com/lara_hogan?ref_src=twsrc%5Etfw">@lara_hogan</a> wrote her first book after meeting an o’reilly editor at a conf. Editor didn’t just mentor her through the proposal process, she went to bat to help Lara get the contract. And now Lara’s written three books 🙌<a href="https://t.co/OzRPY6t2Z1">https://t.co/OzRPY6t2Z1</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1024736373645950977?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 ## Tweets:  by busy people
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6458278206884638720" height="713" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
 Understanding Why Mentors Are Not Available
 
 Jeremy Howard, in [fastai Lesson 10](https://course18.fast.ai/lessonsml1/lesson10.html)
@@ -366,3 +297,41 @@ Sheryl Sandberg Lean In | Chapter 5:“Are You My Mentor?”
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Frankly, your description sounds like someone who wouldn’t or shouldn’t want to also take on the community service of mentoring a stranger. Sounds like a full plate to me.</p>&mdash; Mollie Manier (@maniermk) <a href="https://twitter.com/maniermk/status/1060522256130928641?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I agree, I already do approximately a hundred times more mentoring than I received from senior women.</p>&mdash; Anne Carpenter (@DrAnneCarpenter) <a href="https://twitter.com/DrAnneCarpenter/status/1061030140656918528?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+---
+
+## References
+
+[5 Ways to Get Better at Asking for Help](https://hbr.org/2014/12/5-ways-to-get-better-at-asking-for-help), HBR
+
+[What Does Sponsorship Look Like?](https://larahogan.me/blog/what-sponsorship-looks-like/), Lara Hogan
+
+[Want a mentor? Stop asking for one.](https://hackernoon.com/want-a-mentor-stop-asking-for-one-cc4b12d8287a), Bethany Crystal
+
+[Unable To Find The Right Mentor? Maybe You're The Problem
+](https://www.forbes.com/sites/forbescoachescouncil/2016/10/11/unable-to-find-the-right-mentor-maybe-youre-the-problem/#7020420e3462), Becky Davis
+
+[The Art of Mentoring](https://statgirlblog.wordpress.com/2018/08/28/the-art-of-mentoring/)
+
+[The Importance of Sponsorship](http://hookedondata.org/The-Importance-of-Sponsorship/), Emily Robinson
+
+[Building Your Data Science Network: Reaching Out
+](https://robinsones.github.io/Building-Your-Data-Science-Network-Reaching-Out/)
+
+
+[Men Are Afraid to Mentor Women. Here’s What We Can Do About It.
+](https://www.linkedin.com/pulse/men-afraid-mentor-women-heres-what-we-can-do-adam-grant/), Adam Grant
+
+[Give and Take](https://www.youtube.com/watch?v=-egUK2zaZlo) Adam Grant on YouTube
+
+Lean In, Chapter 6: Will you be my mentor?, Sheryl Sandberg
+
+[Why Men Still Get More Promotions Than Women](hbr.org/2010/09/why-men-still-get-more-promotions-than-women), HBR
+
+[What Mentors Wish Their Mentees Knew](https://hbr.org/2017/11/what-mentors-wish-their-mentees-knew), HBR
+
+[Data Science is Different Now](http://veekaybee.github.io/2019/02/13/data-science-is-different/), Vicki Boykis
+
+ 
