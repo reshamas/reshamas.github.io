@@ -67,9 +67,9 @@ This is advice from others:
 
 ## Understanding the Demand for Mentorship
 
-Mentorship is not something that was in the vocabulary back in the 90's. Looking back at the numerous companies where I worked, I was fortunate that at times, particularly earlier in my career, I had inspiring managers or colleagues who were knowledgeable, patient and generous with their time.  But, for the majority of organizations, my managers were generally unavailable and uncommunicative.  I think that could be due to a large part of being in the field of statistics.  
+Mentorship is not something that was in the vocabulary back in the 90's. Looking back at the numerous companies where I worked, I was fortunate that at times, particularly earlier in my career, I had inspiring managers or colleagues who were knowledgeable, patient and generous with their time.  But, for the majority of organizations, my managers were generally unavailable and uncommunicative.  I think that could be due in large part to being in the field of statistics.  
 
-I was continuously searching for a supporting manager, almost like the "Fountain of Youth", there was an endless search for "Fountain of Involved Manager."
+I was continuously searching for a supporting manager, just as the elusive, non-existent "Fountain of Youth", there was an endless search for "Involved and Supportive Manager."
 
 Traditionally, corporate America assigns managerial and leadership positions to those who have advanced degrees (preferably Ph.D.’s), have attended top tier schools.  Rarely are they assessed on their management, leadership or communication expertise.  And yet, it is these skills that make a formidable leader.  Companies do not consider allocating these positions to managers who have the requisite "people skills."  There are a couple of ways that companies can address this dearth of skills:
 1. Train managers / hire technical managers with good people managing and support skillset --> not easy
