@@ -130,10 +130,11 @@ One of my previous supervisors exhibited these traits:
 - Being unavailable.  On the rare occasions I saw her at work, she began every conversation with “I am so busy, I am so overwhelmed at work….” That does not invite any fruitful discussion.
 
 With my meetup co-organziers, whom I have been mentoring for the past year, I have adopted the following behavior:
+- Be available and invite questions and discussion
 - Communicate regularly
 - Communicate when I am away and unavailable by either emailing or blocking out my time away on a shared calendar
-- Checking in regularly and asking:
->Asking:  “How are things going?  What is working well, what is not, and what can I help with?”
+- Check in regularly and ask:
+>How are things going?  What is working well, what is not, and what can I help with?”
 - Offer constructive feedback
 - Explain decisions, the rationale, possible outcomes.
 
