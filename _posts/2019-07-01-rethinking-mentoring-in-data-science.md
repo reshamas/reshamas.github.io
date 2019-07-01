@@ -122,7 +122,7 @@ I have not yet met or spoken to [Jeremy Howard](https://twitter.com/jeremyphowar
 
 ### Something to be Learned from Negative Role Models
 
-If you see behavior by someone which is not appealing, that is also educational.  We cannot control the behavior of others.  But, we can observe it and learn not to behave that way.  
+If you see behavior by someone which is not appealing, that is also educational.  We cannot control the behavior of others.  *But*, we can observe it and learn not to behave that way.  
 
 One of my previous supervisors exhibited these traits:
 - Lack of communication
