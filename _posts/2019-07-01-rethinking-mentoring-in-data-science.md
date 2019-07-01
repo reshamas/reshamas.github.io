@@ -149,7 +149,7 @@ Just as in transfer learning where we transfer knowledge from one machine learni
 Men, women and gender minorities all offer uniquely valuable perspectives and a diversity of opinions.
 
 ### Think All Interaction
-Anytime I interact with someone and I learn something, anything, from them, that is mentorship.  And the reverse holds as well.
+Anytime I interact with someone and I learn something, anything, from them, that is mentorship.  And the reverse holds true as well.
 
 ### Read and Read More
 
