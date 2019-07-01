@@ -116,7 +116,7 @@ This is my advice:
 
 ### Think Differently About Who a Mentor Could Be
 
-You do not have to have a formal relationship with someone for them to be a mentor.  They can be people you see (on tv, at conferences, YouTube) or read.  
+You do not have to have a formal relationship with someone for them to be a mentor.  They can be people you see (on tv, at conferences, YouTube) or people whose work you read.  
 
 I have not yet met or spoken to [Jeremy Howard](https://twitter.com/jeremyphoward).  Yet, I observed how he involved the community in contributing to fastai open source by his video lectures.  Last fall, when I was feeling overwhelmed with the WiMLDS meetup group as all 3 of my co-organizers were on maternity leave, it occurred to me that I could reach out to the WiMLDS community to get assistance for the events.  I learned from Jeremy without every meeting him or speaking with him.
 
