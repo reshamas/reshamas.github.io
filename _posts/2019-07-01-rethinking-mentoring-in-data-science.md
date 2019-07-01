@@ -189,7 +189,7 @@ There has been discussion in data science community organizations about offering
 
 Conferences such as PyData, PyCon and others are primarily organized by volunteers.  If they were orgaized by a commercial organization, the registration prices would be exhorbitant and inaccessible to the majority of attendees.  
 
-Personally, I think that offering mentoring services by the data science community is unsustainable.
+Personally, I think that offering mentoring services by the data science community would be unsustainable.
 
 ### Get Involved in the Community / Volunteer
 People can interact with experienced people by becoming more involved in the data science communities:  
