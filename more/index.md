@@ -5,7 +5,35 @@ tags:
 comments: false
 ---
 
-## Talks
+## Videos / Talks
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dRXVp_kk7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rQUym4rbD_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7d2qFLeYvRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1mxJ-j38gcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-cS5FQ_Sb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dRXVp_kk7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+
 - O'Reilly NYC Artificial Intelligence Conference: [Better Together Diversity Luncheon](https://youtu.be/1mxJ-j38gcU) (video) (Apr 2019)
 - DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
 
