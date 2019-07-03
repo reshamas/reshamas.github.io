@@ -210,12 +210,12 @@ I have asked all 3 of them to add new volunteers to our committees and mentor th
 I encourage people to email me with questions: reshama@wimlds.org.  While I do not promise a response to every email, I do read them all and write blogs for the questions I receive over time.
 
  
-## Coach
+## Coaching
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jonathan Rosenberg quotes Bill Campbell: <br>A coach can <br>- see the things you can’t <br>- hear the things you can’t<br>-SO you can be the person you want to be. <a href="https://twitter.com/hashtag/LeadershipDevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#LeadershipDevelopment</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1118194936992751616?ref_src=twsrc%5Etfw">April 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## Tweets:  Mentorship Leads
+## Mentorship Leads
 
 #### Vicki Boykis, [Data Science is Different Now](http://veekaybee.github.io/2019/02/13/data-science-is-different/)
 >After fumbling on my own for a very long time, I’ve now been established in “data science” for the past 6 years, and, to serve as the mentor that I didn’t have, I’ve been answering emails and having coffee meetings with people looking for advice to get into data science.
