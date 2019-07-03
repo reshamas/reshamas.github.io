@@ -7,35 +7,38 @@ comments: false
 
 ## Videos / Talks
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dRXVp_kk7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+ 
+### DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQUym4rbD_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+### Mobile Food Classifier using fastai deep learning library
+
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7d2qFLeYvRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1mxJ-j38gcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
+### Git Workshop (given at Memorial Sloan Kettering)
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q-cS5FQ_Sb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
+
+### Better Together Diversity Networking Luncheon
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1mxJ-j38gcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+### Creating an Instance on AWS
+
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_dRXVp_kk7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-
-
-- O'Reilly NYC Artificial Intelligence Conference: [Better Together Diversity Luncheon](https://youtu.be/1mxJ-j38gcU) (video) (Apr 2019)
-- DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
 
 ## Press
 - [When It Comes To Senior Leadership, Women Are Still Few And Far Between](https://disruptionhub.com/senior-leadership-more-women-needed/), D/SRUPTION (Mar 2019)
