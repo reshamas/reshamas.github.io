@@ -202,10 +202,10 @@ People can interact with experienced people by becoming more involved in the dat
 
 ## My Mentees
 As an organizer for two meetup groups in the bustling city of New York, I can use all the help I can get.  For the past year, I have mentored 4 women:  
-- [Melissa Ferrari](https://twitter.com/Ferrari3Melissa)
-- [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
-- [Prithvi Gandhi](https://twitter.com/prithnpixels)
-- [Antonia Blair](https://twitter.com/AntoniaBlairArt)
+- [Melissa Ferrari](https://twitter.com/Ferrari3Melissa), NYC PyLadies
+- [Noemi Derzsy](https://twitter.com/NoemiDerzsy), NYC WiMLDS
+- [Prithvi Gandhi](https://twitter.com/prithnpixels), NYC WiMLDS & NYC PyLadies
+- [Antonia Blair](https://twitter.com/AntoniaBlairArt), NYC WiMLDS
 
 The bonus for me is that I am able to obtain desperately needed help to effectively run these meetup groups.  For the 4 women, they receive mentorship from me on communicating with companies, organizing events, dealing with last minute crises, strategically planning for the future and more.
 
