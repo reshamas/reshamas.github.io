@@ -84,30 +84,37 @@ Given the high cost of turnover, consider that this may actually be a cost-benef
 ## Actionable Advice for Those Seeking Mentors
 There are a plethora of articles out there about why mentorship is important, but a dearth of resources that delve deeper into successfully obtaining a mentor.  Until you find an official mentor, here is some advice.
 
-**Look broadly for a mentor.**  It may seems like someone who is highly visible is a good person to ask, but imagine how busy they are.  Ask someone who is more available.
+### Look broadly for a mentor
+It may seems like someone who is highly visible is a good person to ask, but imagine how busy they are.  Ask someone who is more available.
 
-**Test the waters.**  Some people are interested in mentoring, and others are on the verge of burnout.  Find the right person.  
+### Test the waters
+Some people are interested in mentoring, and others are on the verge of burnout.  Find the right person.  
 
-**Make SMART requests.** [SMART requests](https://hbr.org/2014/12/5-ways-to-get-better-at-asking-for-help) are:  
+ ### Make SMART requests
+ [SMART requests](https://hbr.org/2014/12/5-ways-to-get-better-at-asking-for-help) are:  
 - **S**pecific
 - **M**eaningful (why you need it)
 - **A**ction-oriented (ask for something to be done)
 - **R**eal (authentic, not made up)
 - **T**ime-bound (when you need it)
 
-**Asking questions:**  Do not ask questions that are easily found via a Google search.
+### Asking questions
+Do not ask questions that are easily found via a Google search.
 
 A potential and effective "mentor" will evaluate a request with the following criteria (from Adam Grant):
 >Can I offer something of unique value to this person that will take me 5 minutes or less?” [low cost / high benefit ---> win / win]
 
-**Be open to feedback and advice.** Do not ask for assistance and then ignore the recommendations that are offered.
+### Be open to feedback and advice
+Do not ask for assistance and then ignore the recommendations that are offered.
 
-**Reciprocity**  Just like any relationship, the ones that work best are two-way.  Find out what the need is on the other side and offer that.
+### Reciprocity
+Just like any relationship, the ones that work best are two-way.  Find out what the need is on the other side and offer that.
 >Remember that [reciprocity](https://hbr.org/2014/12/5-ways-to-get-better-at-asking-for-help) is a two-way street. Giving and taking are essential for individual success and positive cultures.
 
 Offer something of value in return.  Ask what you can do first before making a request.
 
-**Manage your expectations:**  You will still have to do the hard work.  Give up the idea of a "Prince Charming" who will step in, solve all problems and offer the perfect career opportunity.  It is a fantasy, not reality.  
+### Manage your expectations
+You will still have to do the hard work.  Give up the idea of a "Prince Charming" who will step in, solve all problems and offer the perfect career opportunity.  It is a fantasy, not reality.  
 
 
 ## My Story on Mentorship
@@ -205,7 +212,7 @@ As an organizer for two meetup groups in the bustling city of New York, I can us
 - [Melissa Ferrari](https://twitter.com/Ferrari3Melissa), NYC PyLadies
 - [Noemi Derzsy](https://twitter.com/NoemiDerzsy), NYC WiMLDS
 - [Prithvi Gandhi](https://twitter.com/prithnpixels), NYC WiMLDS & NYC PyLadies
-- [Antonia Blair](https://twitter.com/AntoniaBlairArt), NYC WiMLDS
+- [Antonia Blair](https://twitter.com/AntoniaBlairArt), NYC PyLadies
 
 The bonus for me is that I am able to obtain desperately needed help to effectively run these meetup groups.  For the 4 women, they receive mentorship from me on communicating with companies, organizing events, dealing with last minute crises, strategically planning for the future and more.
 
