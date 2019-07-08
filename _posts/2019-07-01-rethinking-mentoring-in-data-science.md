@@ -70,9 +70,9 @@ This is advice from others:
 
 ## Understanding the Demand for Mentorship
 
-Looking back at the numerous companies where I worked, I was fortunate that at times, particularly earlier in my career, I had inspiring managers or colleagues who were knowledgeable, patient and generous with their time.  But, for the majority of organizations, my managers were generally unavailable and uncommunicative.  I think that could be due in large part to being in the field of statistics.  
+Looking back at the numerous companies where I worked, I was fortunate that at times, particularly earlier in my career, I had inspiring managers or colleagues who were knowledgeable, patient and generous with their time.  But, for the majority of organizations, my managers were generally unavailable, uncommunicative and indifferent about offering opportunities or encouraging career growth.  I think it is almost expected that one should leave the company for better opportunities.  I think that could be due in large part to being in the field of statistics.  
 
-I was continuously searching for a supportive manager, just as the elusive, non-existent "Fountain of Youth", there was an endless search for "Involved and Supportive Manager."
+I was continuously searching for a supportive manager, just as the elusive, non-existent "Fountain of Youth", there was an endless search for "Involved and Supportive Manager."  The desire to progress in one's career is perfectly natural, even a positive signal.  And yet, so many workplaces do not have that process built into their management structure.
 
 Traditionally, corporate America assigns managerial and leadership positions to those who have advanced degrees (preferably Ph.D.’s) and/or have attended top tier schools.  Rarely are they assessed on their management, leadership or communication expertise.  And yet, it is these skills that make a formidable and impactful leader.  Companies do not consider allocating these positions to managers who have the requisite "people skills."  There are a few ways that companies can address this paucity of skills:
 1. Train managers --> not easy
@@ -95,7 +95,7 @@ There are a plethora of articles out there about why mentorship is important, bu
 - **R**eal (authentic, not made up)
 - **T**ime-bound (when you need it)
 
-Do not ask questions that are easily found via a Google search.
+**Asking questions:**  Do not ask questions that are easily found via a Google search.
 
 A potential and effective "mentor" will evaluate a request with the following criteria (from Adam Grant):
 >Can I offer something of unique value to this person that will take me 5 minutes or less?” [low cost / high benefit ---> win / win]
@@ -108,6 +108,7 @@ A potential and effective "mentor" will evaluate a request with the following cr
 Offer something of value in return.  Ask what you can do first before making a request.
 
 **Manage your expectations:**  You will still have to do the hard work.  Give up the idea of a "Prince Charming" who will step in, solve all problems and offer the perfect career opportunity.  It is a fantasy, not reality.  
+
 
 ## My Story on Mentorship
 To share, I have never asked anyone to be my mentor.  I have no official mentor.  And yet, I feel abundandance with the resources available to me.  
