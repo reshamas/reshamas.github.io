@@ -200,9 +200,15 @@ People can interact with experienced people by becoming more involved in the dat
 - contribute constructively to social media discussions in data science
 
 ## My Mentees
-As an organizer for two meetup groups in the bustling city of New York, I can use all the help I can get.  For the past year, I have been mentoring 3 women.  The bonus for me is that I am able to obtain desperately needed help to effectively run these meetup groups.  For the 3 women, they receive mentorship from me on communicating with companies, arranging events, dealing with last minute crises, strategically planning for the future and more.
+As an organizer for two meetup groups in the bustling city of New York, I can use all the help I can get.  For the past year, I have mentored 4 women:  
+- [Melissa Ferrari](https://twitter.com/Ferrari3Melissa)
+- [Noemi Derzsy](https://twitter.com/NoemiDerzsy)
+- [Prithvi Gandhi](https://twitter.com/prithnpixels)
+- [Antonia Blair](https://twitter.com/AntoniaBlairArt)
 
-I have asked all 3 of them to add new volunteers to our committees and mentor them through the process so that there is a good pipeline of organizers so the community can benefit from regular meetup events.  It has been a mutually beneficial relationship. 
+The bonus for me is that I am able to obtain desperately needed help to effectively run these meetup groups.  For the 4 women, they receive mentorship from me on communicating with companies, organizing events, dealing with last minute crises, strategically planning for the future and more.
+
+I have asked all of them to add new volunteers to our committees and mentor them through the process so that there is a good pipeline of organizers so the community can benefit from regular meetup events.  It has been a mutually beneficial relationship. 
 
  
 ## Contact
@@ -223,6 +229,8 @@ I encourage people to email me with questions: reshama@wimlds.org.  While I do n
 #### Lana Garmire, Call for Mentors
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Tweeps, I am looking for female academic mentors, who are: mothers + exceptionally successful senior faculty/scientists + heavy admin duties + advocate for women in STEM . Could you nominate someone? :)</p>&mdash; Lana Garmire (@GarmireGroup) <a href="https://twitter.com/GarmireGroup/status/1060385329260171265?ref_src=twsrc%5Etfw">November 8, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## On the Topic of Sponsorship
+
 #### Emily Robinson, The Importance of Sponsorship
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’ve previously written about the importance of sponsorship, which is talked about a lot less often than mentorship, on my blog: <a href="https://t.co/pdc4FItg3Q">https://t.co/pdc4FItg3Q</a>. <br><br>And Lara has a great post on how to be a sponsor even when you’re not a manager: <a href="https://t.co/kcmU6543xS">https://t.co/kcmU6543xS</a></p>&mdash; Emily Robinson (@robinson_es) <a href="https://twitter.com/robinson_es/status/1024755169383342090?ref_src=twsrc%5Etfw">August 1, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -236,7 +244,7 @@ I encourage people to email me with questions: reshama@wimlds.org.  While I do n
 >You've got to be a bit careful, right? Because sometimes I get messages from random people saying "I've got lots of good ideas, can we have coffee?" I don't want to... you know, I can have coffee in my office anytime, thank you. But it's very different to say, hey, I took your ideas and I wrote a paper and I did a bunch of experiments and I figured out how your code works. They added documentation to it. Should we submit this to a conference? You see what I mean? There is nothing to stop you doing amazing work and if you do amazing work that helps someone else, like in this case, ok, I'm happy that we have a paper. I don't particularly care about papers. But, I think it's cool that these ideas now have this rigorous study. Let me show you what he did.
 
 ### Cassie Kozyrkov
->If you're thinking about asking a stranger to #mentor you, it's a bit like asking a stranger to marry you.
+>If you're thinking about asking a stranger to mentor you, it's a bit like asking a stranger to marry you.
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6458278206884638720" height="713" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
@@ -246,7 +254,7 @@ I encourage people to email me with questions: reshama@wimlds.org.  While I do n
 ### Bethany Crystal
 >Like any meaningful relationship, mentorships are long-term, and loaded with mutual respect and benefits on both sides. They take time to cultivate and nurture.
 
-### Becky Davis
+### Tough Love from Becky Davis
 Becky Davis gives some blunt advice on mentorship in her article, [Unable To Find The Right Mentor? Maybe You're The Problem
 ](https://www.forbes.com/sites/forbescoachescouncil/2016/10/11/unable-to-find-the-right-mentor-maybe-youre-the-problem/#7020420e3462)
 
