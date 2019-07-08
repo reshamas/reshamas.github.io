@@ -70,7 +70,7 @@ This is advice from others:
 
 ## Understanding the Demand for Mentorship
 
-Mentorship is not something that was in the vocabulary back in the 90's. Looking back at the numerous companies where I worked, I was fortunate that at times, particularly earlier in my career, I had inspiring managers or colleagues who were knowledgeable, patient and generous with their time.  But, for the majority of organizations, my managers were generally unavailable and uncommunicative.  I think that could be due in large part to being in the field of statistics.  
+Looking back at the numerous companies where I worked, I was fortunate that at times, particularly earlier in my career, I had inspiring managers or colleagues who were knowledgeable, patient and generous with their time.  But, for the majority of organizations, my managers were generally unavailable and uncommunicative.  I think that could be due in large part to being in the field of statistics.  
 
 I was continuously searching for a supportive manager, just as the elusive, non-existent "Fountain of Youth", there was an endless search for "Involved and Supportive Manager."
 
