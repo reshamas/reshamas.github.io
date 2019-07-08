@@ -90,8 +90,8 @@ It may seems like someone who is highly visible is a good person to ask, but ima
 ### Test the waters
 Some people are interested in mentoring, and others are on the verge of burnout.  Find the right person.  
 
- ### Make SMART requests
- [SMART requests](https://hbr.org/2014/12/5-ways-to-get-better-at-asking-for-help) are:  
+### Make SMART requests
+[SMART requests](https://hbr.org/2014/12/5-ways-to-get-better-at-asking-for-help) are:  
 - **S**pecific
 - **M**eaningful (why you need it)
 - **A**ction-oriented (ask for something to be done)
