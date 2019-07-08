@@ -90,6 +90,10 @@ It may seems like someone who is highly visible is a good person to ask, but ima
 ### Test the waters
 Some people are interested in mentoring, and others are on the verge of burnout.  Find the right person.  
 
+### Time is a Commodity
+Time is an irreplaceable commodity.  Valuing other people's time is an effective way to earn respect.
+
+
 ### Make SMART requests
 [SMART requests](https://hbr.org/2014/12/5-ways-to-get-better-at-asking-for-help) are:  
 - **S**pecific
