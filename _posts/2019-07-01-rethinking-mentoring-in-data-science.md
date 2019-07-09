@@ -279,10 +279,10 @@ Becky Davis gives some blunt advice on mentorship in her article, [Unable To Fin
 #### Don’t do these
 - Don’t use the word “mentor”
 - Don’t ask a stranger
-- Don't ask to pick their brain over coffee.
-- Don't ask for their blueprint, roadmap or strategies to success.
-- Don't give the victim story.
-- Don't quit.
+- Don't ask to pick their brain over coffee
+- Don't ask for their blueprint, roadmap or strategies to success
+- Don't give the victim story
+- Don't quit
 
 ### Barron Hall on [Mentorship](https://dollarbillionaire.com/mentor/)
 
