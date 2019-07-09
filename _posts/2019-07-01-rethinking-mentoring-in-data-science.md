@@ -200,7 +200,7 @@ Research what areas the person works in and see if there is something in common 
 
 There has been discussion in data science community organizations about offering mentorship programs.  However, all of these organizations are operated primarily by volunteers who are already overworked and in high demand.  They include meetup organizers, conference organizers, open source contributors, educators and more.  It is recognized that there is a demand in the data science community for mentorship.  But, the problem with open source is that it is not really free.  They are products and services that are primarily created and maintained by volunteers.  There is a challenge in obtaining funding by corporations and donations by users.  So, if a Mentorship Program is offered, for free, someone is dedicating hours of their personal time for that.  
 
-Conferences such as PyData, PyCon and others are primarily organized by volunteers.  If they were orgaized by a commercial organization, the registration prices would be exhorbitant and inaccessible to the majority of attendees.  
+Conferences (such as PyData, PyCon, NeurIPS, ICML, SciPy and others) are primarily organized by volunteers.  If they were organized by a commercial organization, the registration prices would be exhorbitant and inaccessible to the majority of attendees.  
 
 Personally, I think that offering mentoring services by the data science community would be unsustainable.
 
