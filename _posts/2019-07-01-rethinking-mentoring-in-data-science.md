@@ -7,13 +7,13 @@
 
 I am an organizer for two New York city meetup groups:  [NYC Women in Machine Learning & Data Science](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
-I attended college in the 90’s and mentorship is not something that was discussed at the time.  In recent years, I *have heard* the conversation of “find a mentor, you need a mentor to advance your career.”  
+I attended college in the 90’s and mentorship is not something that was discussed at the time.  In recent years, I have heard the conversation of “find a mentor, you need a mentor to advance your career.”  
 
 In early 2018, when I first began writing and when my [fastai_deep_learning](https://github.com/reshamas/fastai_deeplearn_part1) GitHub repository of documentation received increased traffic, I received numerous requests from readers around the world to be their mentor.  These requests encouraged me to think more closely about mentorship and the general expectations in the data science community.
 
 ## Survey on Mentoring
 
-I held certain beliefs about asking for mentorship, but thought I would ask around and see what others thought prior to writing a blog.  In early 2019, I investigated this further by interviewing colleagues and conducting a [survey on mentoring](https://forms.gle/QpFFBd5tfMpvfwtN9).  The survey was distributed on Slack, Twitter and Linked and 50 people responded.  70% of respondents did not have a mentor, 55% had never been a mentor and 90% wanted to obtain a mentor.  **The demand for mentors is high; the supply is low.**  
+I held certain beliefs about asking for mentorship, but thought I would ask around and see what others thought prior to writing a blog.  In early 2019, I investigated this further by interviewing colleagues and conducting a [survey on mentoring](https://forms.gle/QpFFBd5tfMpvfwtN9).  The survey was distributed on Slack, Twitter and LinkedIn and 50 people responded.  70% of respondents did not have a mentor, 55% had never been a mentor and 90% wanted to obtain a mentor.  **The demand for mentors is high; the supply is low.**  
 
 ## Definitions
 
