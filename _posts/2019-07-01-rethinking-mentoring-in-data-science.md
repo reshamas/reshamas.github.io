@@ -48,9 +48,9 @@ This research elucidated that there are various understandings of what a “ment
 - Helps patients/clients make decisions and clarify feelings in order to solve problems
 - Provides support and guidance
 
-The good news is that depending on the support needed, the last two roles, career coaches and therapists, are people who can be hired and are accessible.  
+The good news is that depending on the support needed, the last few roles, tutors, career coaches and therapists, are people who can be hired and are accessible.  
 
-For technical tutoring [CodementorX](https://www.codementor.io/data-science-experts) provides technical tutoring on a variety of programming languages.  Even though the word "mentor" is in its name, it is more accurately paid technical tutoring. 
+[CodementorX](https://www.codementor.io/data-science-experts) provides technical tutoring on a variety of programming languages.  Even though the word "mentor" is in its name, it is more accurately paid technical tutoring. 
 
 ## Avenues to Obtain Mentorship
 These seem to be a few main avenues for obtaining mentorship:  
