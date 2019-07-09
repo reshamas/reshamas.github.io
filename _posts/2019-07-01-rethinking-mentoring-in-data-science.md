@@ -17,7 +17,7 @@ I held certain beliefs about asking for mentorship, but thought I would ask arou
 
 ## Definitions
 
-This research elucidated that there are various understandings of what a “mentor” is and the roles can be categorized primarily in four ways which are Mentor, Sponsor, Tutor, Career Coach and Therapist.
+This research elucidated that there are various understandings of what a “mentor” is and the roles can be categorized primarily in five ways which are Mentor, Sponsor, Tutor, Career Coach and Therapist.
 
 ### Mentor
 - Provides advice, support and guidance
@@ -27,15 +27,15 @@ This research elucidated that there are various understandings of what a “ment
 - Helps to find solutions
 - Shares different perspectives
 
-### Tutor
-- specific, technical expertise
-
 ### Sponsor
 - Generally someone more senior and established in the field
 - Opens up new opportunities for people
 - Provides a connection to a valuable network of people and resources; provides introductions
 - Advocates for them at work or other professional situations
 - Provides opportunity for advancement to the next level
+
+### Tutor
+- specific, technical expertise (programming languages, algorithms, software engineering)
 
 ### Job / Career Coach
 - Develops skills related to public speaking and networking effectively
