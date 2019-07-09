@@ -17,7 +17,7 @@ I held certain beliefs about asking for mentorship, but thought I would ask arou
 
 ## Definitions
 
-This research elucidated that there are various understandings of what a “mentor” is and the roles can be categorized primarily in four ways which are Mentor, Sponsor, Career Coach and Therapist.
+This research elucidated that there are various understandings of what a “mentor” is and the roles can be categorized primarily in four ways which are Mentor, Sponsor, Tutor, Career Coach and Therapist.
 
 ### Mentor
 - Provides advice, support and guidance
@@ -26,6 +26,9 @@ This research elucidated that there are various understandings of what a “ment
 - Shares technical resources and expertise
 - Helps to find solutions
 - Shares different perspectives
+
+### Tutor
+- specific, technical expertise
 
 ### Sponsor
 - Generally someone more senior and established in the field
@@ -47,6 +50,7 @@ This research elucidated that there are various understandings of what a “ment
 
 The good news is that depending on the support needed, the last two roles, career coaches and therapists, are people who can be hired and are accessible.  
 
+For technical tutoring [CodementorX](https://www.codementor.io/data-science-experts) provides technical tutoring on a variety of programming languages.  Even though the word "mentor" is in its name, it is more accurately paid technical tutoring. 
 
 ## Avenues to Obtain Mentorship
 These seem to be a few main avenues for obtaining mentorship:  
