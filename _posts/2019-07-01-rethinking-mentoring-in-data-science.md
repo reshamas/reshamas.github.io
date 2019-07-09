@@ -322,6 +322,9 @@ Becky Davis gives some blunt advice on mentorship in her article, [Unable To Fin
 
 ---
 
+## Acknowledgements
+Thank you to [Erin Coffey](https://www.linkedin.com/in/erin-coffey-7883524/) and [Marci Fenichel](https://www.linkedin.com/in/marci-fenichel-b3296283/), fellow NYU Stern MBAs, for sharing their personal experiences with mentoring. 
+
 ## References
 
 [5 Ways to Get Better at Asking for Help](https://hbr.org/2014/12/5-ways-to-get-better-at-asking-for-help), HBR
