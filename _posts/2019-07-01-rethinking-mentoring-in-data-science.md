@@ -294,7 +294,7 @@ Becky Davis gives some blunt advice on mentorship in her article, [Unable To Fin
 
 >I had another mentor before, but both of us did not really know what to do. The first session was great but then we were not able to maintain a contact, because I did not have specific aims for that particular interaction. Also, many people are ok with being mentors, but have no clue how to do it.
 
-### Sheryl Sandberg Lean In | Chapter 5:“Are You My Mentor?”
+### Sheryl Sandberg Lean In | Chapter 5: “Are You My Mentor?”
 
 >I realized that searching for a mentor has become the professional equivalent of waiting for Prince Charming
 
