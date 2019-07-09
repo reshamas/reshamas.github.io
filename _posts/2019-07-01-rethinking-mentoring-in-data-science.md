@@ -91,7 +91,7 @@ It may seems like someone who is highly visible is a good person to ask, but ima
 Some people are interested in mentoring, and others are on the verge of burnout.  Find the right person.  
 
 ### Time is a Commodity
-Time is an irreplaceable commodity.  Valuing other people's time is an effective way to earn respect.
+Time is an irreplaceable commodity.  Valuing other people's time is an effective way to give and earn respect.
 
 
 ### Make SMART requests
