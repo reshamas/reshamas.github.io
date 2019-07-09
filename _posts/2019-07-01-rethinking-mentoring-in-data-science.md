@@ -226,7 +226,7 @@ I have asked all of them to add new volunteers to our committees and mentor them
  
 ## Contact
 
-I encourage people to email me with questions: reshama@wimlds.org.  While I do not promise a response to every email, I do read them all and write blogs for the questions I receive over time.
+I encourage people to email me with questions: reshama at wimlds dot org.  While I do not promise a response to every email, I do read them all and write blogs for the questions I receive over time.
 
  
 ## Coaching
