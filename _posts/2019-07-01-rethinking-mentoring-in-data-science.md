@@ -124,6 +124,9 @@ Offer something of value in return.  Ask what you can do first before making a r
 ### Manage your expectations
 You will still have to do the hard work.  Give up the idea of a "Prince Charming" who will step in, solve all problems and offer the perfect career opportunity.  It is a fantasy, not reality.  
 
+#### Adam Grant
+>Role models seem out of reach if you only see them at their peak. To make them relatable, rewind the clock. What looked like natural talent is revealed as hard-earned skill.
+>Study the trials and tribulations that tested—and shaped—their character.
 
 ## My Story on Mentorship
 To share, I have never asked anyone to be my mentor.  I have no official mentor.  And yet, I feel abundandance with the resources available to me.  
