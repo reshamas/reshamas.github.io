@@ -41,6 +41,7 @@ comments: false
 
 
 ## Press
+- [Q&A: Reshama Shaikh, Data Scientist](https://disruptionhub.com/qa-reshama-shaikh-data-scientist)
 - [When It Comes To Senior Leadership, Women Are Still Few And Far Between](https://disruptionhub.com/senior-leadership-more-women-needed/), D/SRUPTION (Mar 2019)
 - [Machine Learning: Mind The Gender Gap](https://disruptionhub.com/machine-learning-mind-the-gender-gap), D/SRUPTION (Jan 2019)
 - [Top AI conference NIPS won't change its name amid growing protest over 'bad taste' acronym](https://www.theregister.co.uk/2018/10/29/nips_ai_conference/), The Register (Oct 2018)
