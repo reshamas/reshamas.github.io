@@ -221,7 +221,7 @@ People can interact with experienced people by becoming more involved in the dat
 
 ## My Mentees
 As an organizer for two meetup groups in the bustling city of New York, I can use all the help I can get.  For the past year, I have mentored 4 women:  
-- [Melissa Ferrari](https://twitter.com/Ferrari3Melissa_), NYC PyLadies
+- [Melissa Ferrari](https://twitter.com/FerrariMelissa_), NYC PyLadies
 - [Noemi Derzsy](https://twitter.com/NoemiDerzsy), NYC WiMLDS
 - [Prithvi Gandhi](https://twitter.com/prithnpixels), NYC WiMLDS & NYC PyLadies
 - [Antonia Blair](https://twitter.com/AntoniaBlairArt), NYC PyLadies
