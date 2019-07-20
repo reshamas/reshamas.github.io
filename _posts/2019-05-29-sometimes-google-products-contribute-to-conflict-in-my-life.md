@@ -96,7 +96,10 @@ Here are some tips for formatting that I recently discovered.
 
 
 ## Contact
-If there are any fixes that will be helpful for me to know, I can be reached at reshama@wimlds.org.  
+If there are any fixes that will be helpful for me to know, I can be reached at reshama at wimlds dot org.  
+
+## My Wish List
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sometimes Google Products Contribute To Conflict In My Life<a href="https://twitter.com/gmail?ref_src=twsrc%5Etfw">@gmail</a> <a href="https://twitter.com/GoogleAI?ref_src=twsrc%5Etfw">@GoogleAI</a> <a href="https://twitter.com/Google?ref_src=twsrc%5Etfw">@Google</a> <a href="https://twitter.com/hashtag/UserExperience?src=hash&amp;ref_src=twsrc%5Etfw">#UserExperience</a> <a href="https://twitter.com/hashtag/technology?src=hash&amp;ref_src=twsrc%5Etfw">#technology</a> <a href="https://t.co/y2LOgeDZoq">https://t.co/y2LOgeDZoq</a> <a href="https://t.co/4Ad7PMrJO1">pic.twitter.com/4Ad7PMrJO1</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1133777026509418496?ref_src=twsrc%5Etfw">May 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 ## References
