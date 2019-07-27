@@ -25,7 +25,7 @@ comments: false
 - Katherine Chen (Uber)
 - Emily Pitler(Google)
 - Esperanza Aguilera (Kx)
-- Sarah Bird(Microsoft)
+- Sarah Bird (Microsoft)
  
 <p> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-T1XlHqvuYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
