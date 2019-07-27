@@ -20,14 +20,25 @@ comments: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7d2qFLeYvRc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-### Git Workshop (given at Memorial Sloan Kettering)
+### Women in AI Panel Discussion at AI NEXTCon NYC (July 24, 2019)
+- Reshama Shaikh (WiMLDS) Moderator
+- Katherine Chen (Uber)
+- Emily Pitler(Google)
+- Esperanza Aguilera (Kx)
+- Sarah Bird(Microsoft)
+ 
+<p> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-T1XlHqvuYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+### Git Workshop (given at Memorial Sloan Kettering, November 8, 2019)
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q-cS5FQ_Sb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
 
-### Better Together Diversity Networking Luncheon
+### Better Together Diversity Networking Luncheon (April 17, 2019)
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1mxJ-j38gcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
