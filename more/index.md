@@ -14,6 +14,13 @@ comments: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQUym4rbD_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+### Better Together Diversity Networking Luncheon (April 17, 2019)
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1mxJ-j38gcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+## AI
 
 ### Women in AI Panel Discussion at AI NEXTCon NYC (July 24, 2019)
 - Reshama Shaikh (WiMLDS) Moderator
@@ -35,7 +42,7 @@ comments: false
 </p>
 
 
-## Video Tutorials
+## Tutorials
 
 ### Git Workshop (given at Memorial Sloan Kettering, November 8, 2019)
 <p>
@@ -48,13 +55,9 @@ comments: false
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_dRXVp_kk7w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-## Diversity
 
-### Better Together Diversity Networking Luncheon (April 17, 2019)
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1mxJ-j38gcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
 
 
 
