@@ -67,3 +67,5 @@ Here is a list of my favorite data science resources.  If you would like to see 
 
 ## Women in Data Science / ML
 * twitter list of 1400+ [Women in DS](https://twitter.com/BecomingDataSci/lists/women-in-data-science)
+
+## [List of scikit-learn Sprints](scikit_learn_sprints.md)
