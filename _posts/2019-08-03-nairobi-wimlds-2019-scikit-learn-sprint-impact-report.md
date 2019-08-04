@@ -126,7 +126,7 @@ Mariam Haji, Nairobi WiMLDS organizer, created a Sprint Feedback Form.  Of the a
 - almost all respondents learned of the sprint via Meetup platform
 - all respondents indicated they would continue to contribute to scikit-learn
 
-These were the respondents favorite parts of the sprint:
+These were the respondents **favorite** parts of the sprint:
 
 <p float="left">
   <img src="../assets/images/n_feedback_favorite.png" width="99%" height="99%" style="border:0px;margin:0px">
@@ -135,7 +135,7 @@ These were the respondents favorite parts of the sprint:
  
 
 
-These are areas for improvement:  
+These are areas for **improvement**:  
 <p float="left">
   <img src="../assets/images/n_feedback_improve.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
@@ -152,7 +152,7 @@ Quote from Adrin Jalali:
 
 >I’d say it was a very successful sprint, specially since quite a few of the contributors we had there, are still contributing and opening new PRs even afterwards. To me, that’s what a sprint for new contributors is for, to enable them and break all the barriers they feel having in front of them, and have them motivated enough that they continue contributing afterwards.
 
-- would have been nice to have more contributors
+
 
 >found a minor issue in the documentation, and fixed it and submitted a corresponding PR, while sharing my screen. Immediately after that it felt like the room now knows much better what they’re doing. I would have one of those ready next time, and have kind of a hands on tutorial on contributing, git, and GitHub instead.
 
@@ -160,16 +160,17 @@ Quote from Adrin Jalali:
 
 >Another point is that it was a weekend, and most core developers were either sleeping or not at their PCs. Being the sole person trying to review the PRs as they come and at the same time to answer the questions on-site, is almost not manageable. I’d try to coordinate with at least one other core developer to be online during the sprint, before the sprint this time.
 
-excitement:  dinner planning 2020 sprint
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is last night&#39;s (Friday) pre-sprint dinner kick-off meeting. <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> core contributor <a href="https://twitter.com/adrinjalali?ref_src=twsrc%5Etfw">@adrinjalali</a> flew from Berlin to Nairobi to run this sprint. 👍🏽<br><br>The crew started planning the <a href="https://twitter.com/WiMLDS_Nairobi?ref_src=twsrc%5Etfw">@WiMLDS_Nairobi</a> 2020 sprint already! 😁<a href="https://twitter.com/adrinjalali?ref_src=twsrc%5Etfw">@adrinjalali</a> brought stickers too!<a href="https://twitter.com/NumFOCUS?ref_src=twsrc%5Etfw">@NumFOCUS</a> <a href="https://t.co/Z9I5dRmwVM">pic.twitter.com/Z9I5dRmwVM</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1142412889149583361?ref_src=twsrc%5Etfw">June 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## An International Collaboration
 There were four of us who were involved in organizing the sprint, across three different countries.  
 
 <p float="left">
-  <img src="../assets/images/nairobi_team.jpg" width="70%" height="70%" style="border:0px;margin:0px">
+  <img src="../assets/images/nairobi_team.jpeg" width="70%" height="70%" style="border:0px;margin:0px">
 </p>
 
+
+## Lessons Learned
+- would have been nice to have more contributors
 
 
 ## Future Plans
@@ -178,6 +179,11 @@ request to join remotely
 
 Using OS to record screen & voice
 
+## Planning for 2020
+This dinner is from the Friday night kick-off meeting, prior to the Saturday sprint.  People were excitedly discussing plans for the 2020 sprint! 
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is last night&#39;s (Friday) pre-sprint dinner kick-off meeting. <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> core contributor <a href="https://twitter.com/adrinjalali?ref_src=twsrc%5Etfw">@adrinjalali</a> flew from Berlin to Nairobi to run this sprint. 👍🏽<br><br>The crew started planning the <a href="https://twitter.com/WiMLDS_Nairobi?ref_src=twsrc%5Etfw">@WiMLDS_Nairobi</a> 2020 sprint already! 😁<a href="https://twitter.com/adrinjalali?ref_src=twsrc%5Etfw">@adrinjalali</a> brought stickers too!<a href="https://twitter.com/NumFOCUS?ref_src=twsrc%5Etfw">@NumFOCUS</a> <a href="https://t.co/Z9I5dRmwVM">pic.twitter.com/Z9I5dRmwVM</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1142412889149583361?ref_src=twsrc%5Etfw">June 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 
 ## Sprint Expenses
