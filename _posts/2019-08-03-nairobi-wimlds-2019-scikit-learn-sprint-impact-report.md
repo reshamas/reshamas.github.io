@@ -205,6 +205,11 @@ Special thanks to the following reviewers for their speedy review, assistance an
 - [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/)
 - [Joel Nothman](https://www.linkedin.com/in/joel-nothman-03a6ab97/)
 
+## Sponsors
+
+<p float="left">
+  <img src="../assets/images/nairobi_sponsors.png" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
 
 ---
 ## References
