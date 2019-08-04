@@ -157,14 +157,13 @@ Adrin Jalali shares:
 
 
 ## Lessons Learned
-- **Need another core contributor at sprint:** this would be very helpful as in New York City we often have 2 or 3 contributors.  Travel costs restrict the participation of more contributors. 
+- **Need another core contributor at sprint:** this would be very helpful as in New York City we often have 2 or 3 contributors.  Travel costs restrict the participation of more contributors
 - **Need one or more core contributors:**  to review PRs remotely during the sprint
-would have been nice to have more contributors
-- **Improve `sklearn` documentation:** for setting up environments.  
->There were people who were still trying to setup their environment and get the package to compile still at the end of the day, and that to me is a strong hint that something could be improved.
 - **Introduce an easy fix:** at start of sprint
 - **Create a tutorial:** for Contributing, Git, and GitHub 
-- **Set up virtual environments prior to sprint day:** because wifi was slow and delayed some attendees being able to effectively participate in sprint.  
+- **Set up virtual environments prior to sprint day:** because wifi was slow and delayed some attendees being able to effectively participate in sprint
+- **Improve `sklearn` documentation:** for setting up environments  
+>There were people who were still trying to setup their environment and get the package to compile still at the end of the day, and that to me is a strong hint that something could be improved.
 
 
 
