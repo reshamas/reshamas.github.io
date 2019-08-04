@@ -165,7 +165,7 @@ Quote from Adrin Jalali:
 There were four of us who were involved in organizing the sprint, across three different countries.  
 
 <p float="left">
-  <img src="../assets/images/nairobi_team.jpeg" width="70%" height="70%" style="border:0px;margin:0px">
+  <img src="../assets/images/nairobi_team.jpeg" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
 
@@ -174,10 +174,12 @@ There were four of us who were involved in organizing the sprint, across three d
 
 
 ## Future Plans
-request to join remotely
+- **Remote participation:** There were numerous requests to join remotely.  Our plan is to have Andreas Mueller record the first couple of hours of the Auugust 2019 sprint and share the recording.
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">software to record voice + screen:<br>OBS (Open Broadcaster Software): <a href="https://t.co/pCPuTyPmeL">https://t.co/pCPuTyPmeL</a><br><br>• Free and <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> software for video recording &amp; live streaming<br>• Download and start streaming quickly and easily on Windows, Mac or Linux<br><br>via <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> <a href="https://t.co/GWKMmCzGSq">pic.twitter.com/GWKMmCzGSq</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1156646503391408128?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 
-Using OS to record screen & voice
 
 ## Planning for 2020
 This dinner is from the Friday night kick-off meeting, prior to the Saturday sprint.  People were excitedly discussing plans for the 2020 sprint! 
@@ -216,7 +218,7 @@ Special thanks to the following reviewers for their speedy review, assistance an
 
 ---
 ## Addendum
- 
+- [no addendums or updates at the time of publication] 
 
 
 <p float="left">
