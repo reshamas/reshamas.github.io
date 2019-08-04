@@ -11,6 +11,7 @@ This report focuses on the impact of the sprint.  More background information is
 - [Sprint Preparation](http://wimlds.org/sprint-prep/)
 - [Impact Report for 2017-2018 NYC WiMLDS scikit-learn Sprints](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
 - [Interview with Andreas Mueller](http://mlconf.com/blog/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
+- [List of Scikit-learn Sprints](https://reshamas.github.io/resources/scikit_learn_sprints/)
 
 ## Sprint Participants' Background
 
