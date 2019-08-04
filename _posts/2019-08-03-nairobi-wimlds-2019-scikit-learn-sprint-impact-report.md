@@ -34,7 +34,10 @@ About 40 people attended the sprint.  The group was evenly split by gender: 50% 
 | Facilitator    | [Adrin Jalali](https://twitter.com/adrinjalali)  |      
 | Organizer(s)   | [Reshama Shaikh](https://twitter.com/reshamas) / [Mariam Haji](https://twitter.com/MamuAhmed) / [Andreas Mueller](https://twitter.com/amuellerml)      |
 | Teaching Assistants                   | [Cate Gitau](https://twitter.com/categitau_) / [Ben Mainye](https://www.linkedin.com/in/bensonmainye/) / [Muoki Caleb](https://www.linkedin.com/in/muokicaleb/) / [Isaac Mutie](https://www.linkedin.com/in/isaac-mutie-113833147/)|
-| Sponsoring venue                      | [iHub](https://twitter.com/iHub)           |   
+| Sponsor:  venue                      | [iHub](https://twitter.com/iHub)           |   
+| Sponsor:  food                       | [Microsoft 4Afrika](https://twitter.com/4Afrika)           |   
+| Sponsor:  books                      | [O'Reilly Media](https://twitter.com/OReillyMedia)           |   
+
 |                                           |          |          
 | [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |    
 | PRs [MRG] at sprint (a)                   | 2        |    
