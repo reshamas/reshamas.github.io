@@ -28,7 +28,7 @@ About 40 people attended the sprint.  The group was evenly split by gender: 50% 
 | Sprint date                           | 22-Jun-2019    |   
 | Location                              | Nairobi, Kenya |   
 | Open source library                   | [scikit-learn](https://github.com/scikit-learn/scikit-learn) |  
-| Sprint repository link                | [nairobi-2019-scikit-sprint](https://github.com/WiMLDS/nairobi-2019-scikit-sprint)| |
+| GitHub repository link                | [nairobi-2019-scikit-sprint](https://github.com/WiMLDS/nairobi-2019-scikit-sprint)| |
 | List of Issues                        | [project list](https://github.com/WiMLDS/nairobi-2019-scikit-sprint/projects/1)  |
 |                                       |               |          
 | Facilitator    | [Adrin Jalali](https://twitter.com/adrinjalali)  |      
