@@ -17,7 +17,7 @@ This report focuses on the impact of the Nairobi WiMLDS scikit-learn sprint.  Mo
 
 Most attendees at these sprints were new to open source.  The scikit-learn facilitator, [Adrin Jalali](https://www.linkedin.com/in/adrinjalali/), identified issues that were [labeled](https://github.com/scikit-learn/scikit-learn/labels) "easy" or "good first issue" prior to the event so participants could review and become familiar with them.  Prep work for the event included reviewing the [Contributing](https://scikit-learn.org/stable/developers/contributing.html) documentation.  
 
-About 40 people attended the sprint.  The group was evenly split: 50% women and 50% men.
+About 40 people attended the sprint.  The group was evenly split by gender: 50% women and 50% men.
 
 
 ## Impact Report for WiMLDS Scikit-learn Sprint
