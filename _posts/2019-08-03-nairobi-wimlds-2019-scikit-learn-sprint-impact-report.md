@@ -90,7 +90,7 @@ Microsoft 4Afrika has been supportive of Nairobi WiMLDS and scikit-learn and wou
 Adrin Jalali is a core contributor to the scikit-learn library, and is based in Berlin, Germany.  Because there are no core contributors nearby Nairobi or in Africa at all, it was necessary for someone to travel to Nairobi to facilitate the sprint.  The flight was about 11 hours.  
 
 ## An International Collaboration
-There were four of us who were involved in organizing the sprint, across three different countries.  It required lots of email communication, prompt replies and many video calls to ensure the event ran smmothly.  It required a dedicated team of organizers which we were fortunate to have in order to execute a successful event so far away, geographically speaking.  
+There were four of us who were involved in organizing the sprint, across three different countries (New York, NY, USA / Berlin, Germany / Nairobi, Kenya).  It required lots of email communication, prompt replies and many video calls to ensure the event ran smoothly.  It required a dedicated team of organizers which we were fortunate to have in order to execute a successful event so far away.  
 
 <p float="left">
   <img src="../assets/images/nairobi_team.jpeg" width="99%" height="99%" style="border:0px;margin:0px">
