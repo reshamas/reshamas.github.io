@@ -216,7 +216,7 @@ Special thanks to the following reviewers for their speedy review, assistance an
 
 <p float="left">
   <img src="../assets/images/blue_logo_full.png" width="50%" height="50%" style="border:0px;margin:0px">
-  <img src="../assets/images/scikit-learn-logo.png"  width="280" height="200"/> 
+  <img src="../assets/images/scikit-learn-logo.png"  width="260" height="180"/> 
 </p>
 <p>
 </p>
