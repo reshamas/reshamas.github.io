@@ -150,22 +150,14 @@ Here is additional feedback:
 </p>
 
 
-Quote from Adrin Jalali:
+Adrin Jalali shares:
 >It’s so gratifying to see the joy in people’s face when they open their first PR and receive feedback from the core developers. I always love to see their faces when they start touching the files of the package, which they’ve used till then as a user. I still remember the feeling of sending a patch for an open source project for the first time (before git was invented), and when I see those same feelings in new contributors faces, it pushes all the exhaustion out of my being.
 
 >I’d say it was a very successful sprint, specially since quite a few of the contributors we had there, are still contributing and opening new PRs even afterwards. To me, that’s what a sprint for new contributors is for, to enable them and break all the barriers they feel having in front of them, and have them motivated enough that they continue contributing afterwards.
 
 
-
->found a minor issue in the documentation, and fixed it and submitted a corresponding PR, while sharing my screen. Immediately after that it felt like the room now knows much better what they’re doing. I would have one of those ready next time, and have kind of a hands on tutorial on contributing, git, and GitHub instead.
-
->Another thing which I think we should improve in `sklearn` documentation, is the guide for people to setup their environments. There were people who were still trying to setup their environment and get the package to compile still at the end of the day, and that to me is a strong hint that something could be improved.
-
->Another point is that it was a weekend, and most core developers were either sleeping or not at their PCs. Being the sole person trying to review the PRs as they come and at the same time to answer the questions on-site, is almost not manageable. I’d try to coordinate with at least one other core developer to be online during the sprint, before the sprint this time.
-
-
 ## An International Collaboration
-There were four of us who were involved in organizing the sprint, across three different countries.  
+There were four of us who were involved in organizing the sprint, across three different countries.  It required lots of email communication, prompt replies and many video calls to ensure the event ran smmothly.  It required a dedicated team of organizers which we were fortunate to have to have a successful event so far away, geographically speaking.  
 
 <p float="left">
   <img src="../assets/images/nairobi_team.jpeg" width="99%" height="99%" style="border:0px;margin:0px">
@@ -173,11 +165,18 @@ There were four of us who were involved in organizing the sprint, across three d
 
 
 ## Lessons Learned
-- would have been nice to have more contributors
+- **Need another core contributor at sprint:** this would be very helpful as in New York City we often have 2 or 3 contributors.  Travel costs restrict the participation of more contributors. 
+- **Need one or more core contributors:**  to review PRs remotely during the sprint
+would have been nice to have more contributors
+- **Improve `sklearn` documentation:** for setting up environments.  
+>There were people who were still trying to setup their environment and get the package to compile still at the end of the day, and that to me is a strong hint that something could be improved.
+- **Introduce an easy fix:** at start of sprint
+- **Create a tutorial:** for Contributing, Git, and GitHub 
+
 
 
 ## Future Plans
-- **Remote participation:** There were numerous requests to join remotely.  Our plan is to have Andreas Mueller record the first couple of hours of the Auugust 2019 sprint and share the recording.
+- **Remote participation:** There were numerous requests to join remotely.  Our plan is to have Andreas Mueller record the first couple of hours of the August 2019 sprint and share the recording.
 <p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">software to record voice + screen:<br>OBS (Open Broadcaster Software): <a href="https://t.co/pCPuTyPmeL">https://t.co/pCPuTyPmeL</a><br><br>• Free and <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> software for video recording &amp; live streaming<br>• Download and start streaming quickly and easily on Windows, Mac or Linux<br><br>via <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> <a href="https://t.co/GWKMmCzGSq">pic.twitter.com/GWKMmCzGSq</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1156646503391408128?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
