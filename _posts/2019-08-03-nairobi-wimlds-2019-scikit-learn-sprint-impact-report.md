@@ -193,7 +193,7 @@ This dinner is from the Friday night kick-off meeting, prior to the Saturday spr
 
 ## Sprint Expenses
 
-The total cost of the sprint was approximately $3500 USD.  It includes the cost of food which was covered by Microsoft 4Afrika.  Otehr costs included shipping the books from the USA to Nairobi and travel for the contributor from Europe to Nairobi.  
+The total cost of the sprint was approximately $3500 USD.  It includes the cost of food which was covered by Microsoft 4Afrika.  Other costs included shipping the books from the USA to Nairobi and travel for the contributor from Europe to Nairobi.  
 
 This cost does not include space which was provided by iHub and 2 dozen copies of books which were provided by O'Reilly Media.  
 
