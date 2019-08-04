@@ -168,7 +168,7 @@ excitement:  dinner planning 2020 sprint
 There were four of us who were involved in organizing the sprint, across three different countries.  
 
 <p float="left">
-  <img src="../assets/images/nairobi_team.jpg" width="99%" height="99%" style="border:0px;margin:0px">
+  <img src="../assets/images/nairobi_team.jpg" width="70%" height="70%" style="border:0px;margin:0px">
 </p>
 
 
@@ -216,7 +216,7 @@ Special thanks to the following reviewers for their speedy review, assistance an
 
 <p float="left">
   <img src="../assets/images/blue_logo_full.png" width="50%" height="50%" style="border:0px;margin:0px">
-  <img src="../assets/images/scikit-learn-logo.png"  width="300" height="220"/> 
+  <img src="../assets/images/scikit-learn-logo.png"  width="280" height="200"/> 
 </p>
 <p>
 </p>
