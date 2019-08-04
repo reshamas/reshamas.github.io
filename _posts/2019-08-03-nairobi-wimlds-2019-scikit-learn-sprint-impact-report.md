@@ -1,5 +1,3 @@
-# Nairobi WiMLDS 2019 Scikit-learn Sprint Impact Report
-
 <p float="left">
   <img src="../assets/images/nairobi_group.jpg" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
