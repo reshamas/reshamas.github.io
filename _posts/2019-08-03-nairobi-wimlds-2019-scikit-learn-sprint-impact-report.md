@@ -5,7 +5,7 @@
 
 ## Sprint Background
 
-This report focuses on the impact of the Nairobi WiMLDS scikit-learn sprint.  More background information is available in the following articles:
+This report focuses on the summary, impact and lessons learned of the Nairobi WiMLDS scikit-learn sprint.  More background information is available in the following articles:
 - [About the WiMLDS scikit-learn sprints](https://reshamas.github.io/the-wimlds-scikit-learn-open-source-sprints)
 - [WiMLDS Open Source Sprint Events](http://wimlds.org/opensourcesprints-2/) (website)
 - [Sprint Preparation](http://wimlds.org/sprint-prep/)
