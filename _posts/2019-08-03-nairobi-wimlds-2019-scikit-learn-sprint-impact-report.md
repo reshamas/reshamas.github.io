@@ -61,7 +61,7 @@ About 40 people attended the sprint.  The group was evenly split by gender: 50% 
 |                                       |               | 
 | Blog 1: by Mariam Haji                 | [Highlights From The 2019 Nairobi Wimlds Scikit Sprint](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215) | 
 | Blog 2: by Adrin Jalali                | [scikit-learn sprint at Nairobi, Kenya](https://adrin.info/scikit-learn-sprint-at-nairobi-kenya.html) | 
-| Blog 3: by Reshama Shaikh              | [Why Not Nairobi?] () | 
+| Blog 3: by Reshama Shaikh              | [Why Not Nairobi?] () (coming soon!) | 
 | Twitter Moment                         | [WiMLDS Nairobi 2019 Scikit-Learn Sprint](https://twitter.com/i/moments/1142418211914309632)
 
 #### Notes
@@ -77,22 +77,34 @@ About 40 people attended the sprint.  The group was evenly split by gender: 50% 
 A total of <a style="color:blue"><b> **19** PRs were merged in: </b> </a>  
 - **2** PRs were merged at the sprint
 - **15** PR was merged post-sprint without any follow-up
-- **2** Prs were merged in *with* follow-up 
+- **2** PRs were merged *with* follow-up 
 
 All outstanding PRs from the sprint were merged in after 5 weeks, well before the 60 day suggested deadline. 
 
-One attendee drove 8 hours from [xxx] just to attend the sprint.  
+One attendee traveled 8 hours just to attend the sprint.  
 
 Microsoft 4Afrika has been supportive of Nairobi WiMLDS and scikit-learn and would like to continue supporting the sprint events in the future.  
 
 
-
 ## Contributor Travel 
-Adrin Jalali is a core contributor to the scikit-learn library, and is based in Berlin, Germany.  Because there are no core contributors nearby Nairobi or in Africa at all, it was necessary for someone to travel to Nairobi to facilitate the sprint.
+Adrin Jalali is a core contributor to the scikit-learn library, and is based in Berlin, Germany.  Because there are no core contributors nearby Nairobi or in Africa at all, it was necessary for someone to travel to Nairobi to facilitate the sprint.  The flight was about 11 hours.  
+
+## An International Collaboration
+There were four of us who were involved in organizing the sprint, across three different countries.  It required lots of email communication, prompt replies and many video calls to ensure the event ran smmothly.  It required a dedicated team of organizers which we were fortunate to have to have a successful event so far away, geographically speaking.  
+
+<p float="left">
+  <img src="../assets/images/nairobi_team.jpeg" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
+
+## The Nairobi Sprint 
+I had a video call with Mariam Haji (Nairobi organizer) to discuss how the sprint went the Monday after the Saturday event.  She shared that the attendees **loved** the event and wanted to have regular sprints.  She also shared that the attendees stayed until the very end, at 6pm on Saturday.  The attendees had a great time, as well as the organizers and contributor.
+
+<p float="left">
+  <img src="../assets/images/nairobi_volunteers.jpg" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
 
 
-
-## Non-measureable Impact
+## Non-measurable Impact
 Aside from the number of PRs that were merged, there is non-quantifiable impact of the open source sprint. Some examples include:
 - learning to set up virtual environment
 - using Git (fork, clone, branch, fetching another's PR)
@@ -108,17 +120,6 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 
 
 
-## The Nairobi Sprint 
-I had a video call with Mariam Haji (Nairobi organizer) to discuss how the sprint went the Monday after the Saturday event.  She shared that the attendees **loved** the event and wanted to have regular sprints.  She also shared that the attendees stayed until the very end, at 6pm on Saturday.  The attendees had a great time, as well as the organizers and contributor.
-
-<p float="left">
-  <img src="../assets/images/nairobi_volunteers.jpg" width="99%" height="99%" style="border:0px;margin:0px">
-</p>
-
-## Lessons Learned
-- **prep session due to slow wifi**
-- **possibly have a 2 day sprint**  challenges with work and church on Sunday
-- **Conda setup**
 
 
 
@@ -135,7 +136,6 @@ These were the respondents **favorite** parts of the sprint:
   <img src="../assets/images/n_feedback_favorite.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
- 
 
 
 These are areas for **improvement**:  
@@ -156,14 +156,6 @@ Adrin Jalali shares:
 >I’d say it was a very successful sprint, specially since quite a few of the contributors we had there, are still contributing and opening new PRs even afterwards. To me, that’s what a sprint for new contributors is for, to enable them and break all the barriers they feel having in front of them, and have them motivated enough that they continue contributing afterwards.
 
 
-## An International Collaboration
-There were four of us who were involved in organizing the sprint, across three different countries.  It required lots of email communication, prompt replies and many video calls to ensure the event ran smmothly.  It required a dedicated team of organizers which we were fortunate to have to have a successful event so far away, geographically speaking.  
-
-<p float="left">
-  <img src="../assets/images/nairobi_team.jpeg" width="99%" height="99%" style="border:0px;margin:0px">
-</p>
-
-
 ## Lessons Learned
 - **Need another core contributor at sprint:** this would be very helpful as in New York City we often have 2 or 3 contributors.  Travel costs restrict the participation of more contributors. 
 - **Need one or more core contributors:**  to review PRs remotely during the sprint
@@ -172,10 +164,13 @@ would have been nice to have more contributors
 >There were people who were still trying to setup their environment and get the package to compile still at the end of the day, and that to me is a strong hint that something could be improved.
 - **Introduce an easy fix:** at start of sprint
 - **Create a tutorial:** for Contributing, Git, and GitHub 
+- **Set up virtual environments prior to sprint day:** because wifi was slow and delayed some attendees being able to effectively participate in sprint.  
+
 
 
 
 ## Future Plans
+- **2 day event:** Because the contributor has traveled far and PRs take some time to work through, it is worth considering having a 2 day sprint. 
 - **Remote participation:** There were numerous requests to join remotely.  Our plan is to have Andreas Mueller record the first couple of hours of the August 2019 sprint and share the recording.
 <p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">software to record voice + screen:<br>OBS (Open Broadcaster Software): <a href="https://t.co/pCPuTyPmeL">https://t.co/pCPuTyPmeL</a><br><br>• Free and <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> software for video recording &amp; live streaming<br>• Download and start streaming quickly and easily on Windows, Mac or Linux<br><br>via <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> <a href="https://t.co/GWKMmCzGSq">pic.twitter.com/GWKMmCzGSq</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1156646503391408128?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
