@@ -15,9 +15,12 @@ This report focuses on the summary, impact and lessons learned of the Nairobi Wi
 
 ## Sprint Participants' Background
 
+To ensure that attendees had some knowledge of Python and scikit-learn, a brief application form was used.  Attendees did not have to be experienced Git users, but some experience was helpful.  
+
 Most attendees at these sprints were new to open source.  The scikit-learn facilitator, [Adrin Jalali](https://www.linkedin.com/in/adrinjalali/), identified issues that were [labeled](https://github.com/scikit-learn/scikit-learn/labels) "easy" or "good first issue" prior to the event so participants could review and become familiar with them.  Prep work for the event included reviewing the [Contributing](https://scikit-learn.org/stable/developers/contributing.html) documentation.  
 
 About 40 people attended the sprint.  The group was evenly split by gender: 50% women and 50% men.
+
 
 
 ## Impact Report for WiMLDS Scikit-learn Sprint
@@ -171,6 +174,7 @@ Adrin Jalali shares:
 ## Future Plans
 - **2 day event:** Because the contributor has traveled far and PRs take some time to work through, it is worth considering having a 2 day sprint. 
 - **Remote participation:** There were numerous requests to join remotely.  Our plan is to have Andreas Mueller record the first couple of hours of the August 2019 sprint and share the recording.
+- **Hold pre-sprint evening workshop:** one week prior so participants can set up their virtual environments and save time during the sprint day.
 <p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">software to record voice + screen:<br>OBS (Open Broadcaster Software): <a href="https://t.co/pCPuTyPmeL">https://t.co/pCPuTyPmeL</a><br><br>• Free and <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> software for video recording &amp; live streaming<br>• Download and start streaming quickly and easily on Windows, Mac or Linux<br><br>via <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> <a href="https://t.co/GWKMmCzGSq">pic.twitter.com/GWKMmCzGSq</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1156646503391408128?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
