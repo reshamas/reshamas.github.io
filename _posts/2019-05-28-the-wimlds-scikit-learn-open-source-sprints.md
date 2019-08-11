@@ -13,6 +13,12 @@ The mission of WiMLDS is  to support and promote women and gender minorities who
 * Used by these may other repositories on GitHub:  55000+
 * Users:  hundreds of thousands
 
+## [History of Scikit-Learn](http://scikit-learn.org/stable/about.html) Python Library
+
+This project was started in 2007 as a Google Summer of Code project by [David Cournapeau](https://twitter.com/cournape). Later that year, [Matthieu Brucher](https://www.linkedin.com/in/matthieubrucher/) started work on this project as part of his thesis.
+
+In 2010 [Fabian Pedregosa](https://twitter.com/fpedregosa), [Gael Varoquaux](https://twitter.com/GaelVaroquaux), [Alexandre Gramfort](https://twitter.com/agramfort) and [Vincent Michel](https://www.linkedin.com/in/vincent-michel-79526427/) of [INRIA](https://www.inria.fr/en) took leadership of the project and made the first public release, February the 1st 2010. Since then, several releases have appeared following a ~3 month cycle, and a thriving international community has been leading the development.
+
 ## Background Statistics
 
 This table shows the statistics of women in tech and other sub-groups.  
