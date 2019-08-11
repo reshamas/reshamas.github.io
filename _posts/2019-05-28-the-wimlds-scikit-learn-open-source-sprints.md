@@ -53,4 +53,4 @@ Nairobi, Kenya is the 4th largest meetup chapter with 2000+ members, and that is
 
 ## About Reshama Shaikh
 
-Reshama Shaikh is a Board Member of WiMLDS and Big Apple Py.  Both these organizations support and promote women in the Python community and open source.  She has organized the 2017 and 2018 sprints, and is the main point of contact for organizing the 3 sprints in 2019.  Her email:  reshama@wimlds.org
+Reshama Shaikh is a Board Member of WiMLDS and Big Apple Py.  Both these organizations support and promote women in the Python community and open source.  She has organized the 2017 and 2018 sprints, and is the main point of contact for organizing the three sprints in 2019.  Her email:  reshama at wimlds dot org
