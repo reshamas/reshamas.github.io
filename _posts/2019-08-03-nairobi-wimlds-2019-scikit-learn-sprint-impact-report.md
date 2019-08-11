@@ -9,6 +9,7 @@ This report focuses on the summary, impact and lessons learned of the Nairobi Wi
 - [About the WiMLDS scikit-learn sprints](https://reshamas.github.io/the-wimlds-scikit-learn-open-source-sprints)
 - [WiMLDS Open Source Sprint Events](http://wimlds.org/opensourcesprints-2/) (website)
 - [Sprint Preparation](http://wimlds.org/sprint-prep/)
+- [Highlights from the 2018 WiMLDS NYC Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
 - [Impact Report for 2017-2018 NYC WiMLDS scikit-learn Sprints](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
 - [Interview with Andreas Mueller](http://mlconf.com/blog/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/)
 - [List of Scikit-learn Sprints](https://reshamas.github.io/resources/scikit_learn_sprints/)
