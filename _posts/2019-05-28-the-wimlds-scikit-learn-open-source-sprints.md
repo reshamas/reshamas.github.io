@@ -3,7 +3,7 @@
 
 Women in Machine Learning and Data Science ([WiMLDS](http://wimlds.org)) is a non-profit 501(c)(3) based in New York, New York.  
 
-The mission of WiMLDS is  to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.  WiMLDS currently has **66 chapters** in **29 countries** with [**32000+ members**](https://www.meetup.com/topics/wimlds/all/).  The [2019 Q1 Report](https://reshamas.github.io/wimlds-2019-q1-report/) was released on April 1, 2019.   
+The mission of WiMLDS is  to support and promote women and gender minorities who are practicing, studying or are interested in the fields of machine learning and data science.  WiMLDS currently has **72 chapters** in **31 countries** with [**37000+ members**](https://www.meetup.com/topics/wimlds/all/) (statistics updated 11-Aug-2019).  The [2019 Q1 Report](https://reshamas.github.io/wimlds-2019-q1-report/) was released on April 1, 2019.   
 
 ## About Scikit-learn
 
