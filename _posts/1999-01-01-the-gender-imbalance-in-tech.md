@@ -42,7 +42,18 @@ The above visualization was inspired by a table that I had presented to a compan
 - [Women Now Outnumber Men in Law Schools](https://www.bestlawyers.com/article/women-now-outnumber-men-in-law-school/2029)
   - 2018:  51.3% women enrolled in law school
   - Source:  ABA (American Bar Association)
-
+- [Women in Tech](https://www.evia.events/info-women-in-technology)
+  - 2015:  25%  ( [NCWIT](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf))
+  - 2016-2017 (?):  20%  (Source:  Evia)
+- [AI is the Future But Where are the Women?](https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance/)
+  - 2017:  12% women
+  - Source:  Wired worked with Montreal startup Element AI
+  - category is ML (machine learning) and AI (artificial intelligence)
+- Open Source
+  - 2017:  5% (Source:  [GitHub](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/))
+  - Source:  [Is Open Source Open to Women?](https://www.toptal.com/open-source/is-open-source-open-to-women)
+  
+  
 
 ## Contact
 My email is reshama at wimlds dot org.
