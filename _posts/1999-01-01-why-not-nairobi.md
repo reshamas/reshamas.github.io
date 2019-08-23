@@ -6,7 +6,7 @@
 
 ## Nairobi Sprint Background
 
-This article focuses on the planning and realization of the Nairobi WiMLDS scikit-learn open source sprint in June 2019.  The **[Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)** was released in early August 2019.  
+This article focuses on the planning and realization of the inaugural Nairobi WiMLDS scikit-learn open source sprint in June 2019.  The **[Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)** was released in early August 2019.  
 
 More background information is available in the following articles:
 - [About the WiMLDS scikit-learn sprints](https://reshamas.github.io/the-wimlds-scikit-learn-open-source-sprints) (includes background on WiMLDS and scikit-learn)
@@ -39,11 +39,16 @@ This is a visual representation of the data in the table.
 
 Scikit-learn has a remarkable history of [open source sprints](https://reshamas.github.io/resources/scikit_learn_sprints/).  Prior to June 2019, of the over 30 sprints organized to contribute and advance the library, not one single sprint had been held outside of the USA and Western Europe.  
 
-This is the first time a scikit-learn sprint was held outside of Europe and the North & South Americas.  
+This is the first time a scikit-learn sprint was held outside of Europe and North America.  Scikit-learn is used around the world, 
+and so it would be beneficial to the Python and open source community to make the sprints accessible.  
 
+## WiMLDS and Scikit-learn Sprints 
+In early 2019, after publishing the [Impact Report for 2017-2018 NYC WiMLDS scikit-learn Sprints](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/), I began to plan for 2019.  Andreas and I had met, and settled on late August for the 3rd Annual NYC WiMLDS sprint.  
 
-
-
+In 2018, the Bay Area WiMLDS organizer had inquired on Twitter about having a sprint in San Francisco, and so the seed was set:  
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;d love to host a scikit-learn sprint in the Bay Area!</p>&mdash; WiMLDS Bay Area (@WiMLDS_BayArea) <a href="https://twitter.com/WiMLDS_BayArea/status/1030615104511860736?ref_src=twsrc%5Etfw">August 18, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 
 
