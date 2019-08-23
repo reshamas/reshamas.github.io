@@ -11,7 +11,7 @@ The above visualization was inspired by a table that I had presented to a compan
 ## Data Table
 
 <p>
-<img src="../assets/images/women_stats2.png" width="65%" height="65%" />
+<img src="../assets/images/women_stats2.png" width="90%" height="90%" />
 </p>
 
 
