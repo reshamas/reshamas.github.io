@@ -69,12 +69,12 @@ Some organizations collect and share data by gender.  The collecting and sharing
 - [Women in Tech](https://www.evia.events/info-women-in-technology)
   - 2015:  **25% women**  ( [NCWIT](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf))
   - 2016-2017 (?):  **20% women**  (Source:  Evia)
-- [AI is the Future But Where are the Women?](https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance/)
+- Artificial Intelligence (AI) / Machine Learning (ML)
   - 2017:  **12% women**
   - Source:  Wired worked with Montreal startup Element AI
-  - category is ML (machine learning) and AI (artificial intelligence)
+  - Source:   [AI is the Future But Where are the Women?](https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance/)
 - Open Source
-  - 2013:  **11% women** (Source [And Now, an Infuriating Statistic about Women and Coding](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/) )
+  - 2013:  **11% women** (Source:  [And Now, an Infuriating Statistic about Women and Coding](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/) )
   - 2017:  **5% women** (Source:  [GitHub](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/))
   - Source:  [Is Open Source Open to Women?](https://www.toptal.com/open-source/is-open-source-open-to-women)
   
