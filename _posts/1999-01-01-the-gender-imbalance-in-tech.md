@@ -1,16 +1,22 @@
 # The Gender Imbalance in Tech
 
 <p>
-<img src="../assets/images/gender_imbalance.png" width="100%" height="100%" />
+<img src="../assets/images/gender_imbalance2.png" width="100%" height="100%" />
 </p>
 
 ## Background
 
 The above visualization was inspired by a table that I had presented to a company to obtain sponsorship for supporting open source sprints for scikit-learn for the Women in Machine Learning & Data Science meetup chapters in May 2019.  I was unsucessful in obtaining that sponsorship, and considered that a visualization may convey the message more poignantly than numbers in a table.  
 
+## Data Table
+
 <p>
-<img src="../assets/images/women_stats.png" width="50%" height="50%" />
+<img src="../assets/images/women_stats2.png" width="65%" height="65%" />
 </p>
+
+
+
+
 
 ## Data Collection, Availability and Sharing
 Some organizations collect and share data by gender.  The collecting and sharing of key demographic data indicates a commitment to understanding and improving diversity.  It is unsurprising that there is greater data transparency with organizations that have more balanced gender breakdown.  Examples include:  American Statistical Association, American Medical Association and American Bar Association. 
