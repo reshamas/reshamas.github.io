@@ -94,7 +94,10 @@ Some organizations collect and share data by gender.  The collecting and sharing
 - Scikit-learn (machine learning library of Python)
   - 2017:  **1% women**  (Source:  [Interview with Andreas Mueller](https://mlconf.com/blog/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/))
   - 2019:  **1 or 19 active contributors = 5%** (Source: [Current Core Contributors to Scikit-learn](https://scikit-learn.org/stable/about.html#people))
-  
+
+## Tools
+Data was entered into a spreadsheet and the graphic was created using Google spreadsheet.
+
 ## Update
 The below visualization and tweet were posted on 11-Aug-2019 to obtain feedback for an upcoming blog on the Nairobi sprint.  This article was written due to requests by vieweres to provide sources for the data as well as updating some numbers from the intial presentation.  
 <p>
