@@ -14,7 +14,7 @@ The above visualization was inspired by a table that I had presented to a compan
 
 ## References
 
-- [Ratio of Male/Female births, 1983 to 2008, in the United States](https://www.infoplease.com/us/births/births-sex-and-sex-ratio]
+- [Ratio of Male/Female births, 1983 to 2008, in the United States](https://www.infoplease.com/us/births/births-sex-and-sex-ratio)
   - for year 2008: ratio is 1.05 for Male/Female
   - Source:  Infoplease
 - [Population Distribution by Gender in the United States](https://www.kff.org/other/state-indicator/distribution-by-gender/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D)
