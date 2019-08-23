@@ -26,7 +26,12 @@ The above visualization was inspired by a table that I had presented to a compan
   - for year 2018: 46.9% 
     - >In 2018, there were 75,978,000 women aged 16 and over in the labor force, representing 46.9% of the total labor force
     - Source:  [Catalyst](https://www.catalyst.org/research/women-in-the-workforce-united-states/) and BLS (Bureau of Labor Statistics)
-- [Completion Rates for College]
+- [Completion Rates for College](https://www.catalyst.org/research/women-in-the-workforce-united-states/)
+  - for year 2017:  women earned 57.3% of bachelor's degrees
+    - Source:  [Catalyst](https://www.catalyst.org/research/women-in-the-workforce-united-states/) and BLS (Bureau of Labor Statistics)
+- [Percentage of the U.S. population who have completed four years of college or more from 1940 to 2018, by gender](https://www.statista.com/statistics/184272/educational-attainment-of-college-diploma-or-higher-by-gender/)
+  - 2018 Female vs Male:  35.3% vs 34.6%
+  - Source:  Statistica via US Census Bureau
 
 
 
