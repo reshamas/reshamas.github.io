@@ -12,6 +12,27 @@ The above visualization was inspired by a table that I had presented to a compan
 <img src="../assets/images/women_stats.png" width="70%" height="70%" />
 </p>
 
+## Data Collection, Availability and Sharing
+Some organizations collect and share data by gender.  The collecting and sharing of key demographic data indicates a commitment to understanding and improving diversity.  It is unsurprising that there is greater transparency with organizations that have more balanced gender breakdown.  Examples include:  American Statistical Association, American Medical Association and American Bar Association. 
+
+Examples:  
+- American Statistical Association (ASA) 
+  - 2016:  membership is **34.6% women** and **65.4% men**  (Source:  [Gender Balance in ASA Activities Update](https://magazine.amstat.org/blog/2016/02/01/genderupdate16/ )
+
+- American Bar Association (ABA)
+  - 2019:  **38% women** and **62% men** (Source:  [A Current Glance at Women in the Law](https://www.americanbar.org/content/dam/aba/administrative/women/current_glance_2019.pdf)
+  
+- American Medical Association (AMA)
+  - Practicing Physicians   (Source:  [Athena Health](https://www.athenahealth.com/insight/healthcare-future-female))
+    - Under age of 35:  **60.6% women** and **39.4%** men
+    - Ages 55 to 64:   **30.5% women** and **69.5%** men
+- Association for Computing Machinery (ACM)
+  - does not publish numbers for membership by gender
+  - It is estimated that ACM membership is:  **15% women** and 85% men
+
+
+
+
 ## References
 
 - [Ratio of Male/Female births, 1983 to 2008, in the United States](https://www.infoplease.com/us/births/births-sex-and-sex-ratio)
