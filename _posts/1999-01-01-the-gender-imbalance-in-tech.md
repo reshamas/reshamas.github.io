@@ -27,6 +27,7 @@ The above visualization was inspired by a table that I had presented to a compan
     - >In 2018, there were 75,978,000 women aged 16 and over in the labor force, representing 46.9% of the total labor force
     - >In 1999, Women’s labor force participation rate peaked at 60.0%
     - >2024 to 2060:  It is projected to be 55.4% in 2024 and 51.9% in 2060
+    - >Men’s labor force participation rate has decreased since the 1940s. It is projected to be 66.1% in 2024 and 62.3% in 2060
     - Source:  [Catalyst](https://www.catalyst.org/research/women-in-the-workforce-united-states/) and BLS (Bureau of Labor Statistics)
 
 - [Completion Rates for College](https://www.catalyst.org/research/women-in-the-workforce-united-states/)
@@ -35,10 +36,12 @@ The above visualization was inspired by a table that I had presented to a compan
 - [Percentage of the U.S. population who have completed four years of college or more from 1940 to 2018, by gender](https://www.statista.com/statistics/184272/educational-attainment-of-college-diploma-or-higher-by-gender/)
   - 2018 Female vs Male:  35.3% vs 34.6%
   - Source:  Statistica via US Census Bureau
-- Medical School
-
-
-- Law School 
+- [Women Were Majority of U.S. Medical School Applicants in 2018](https://news.aamc.org/press-releases/article/applicant-data-2018/)
+  - 2018:  women matriculants were 51.6%; men matriculants 48.4%
+  - Source:  AAMC (Association of American Medical Colleges)
+- [Women Now Outnumber Men in Law Schools](https://www.bestlawyers.com/article/women-now-outnumber-men-in-law-school/2029)
+  - 2018:  51.3% women enrolled in law school
+  - Source:  ABA (American Bar Association)
 
 
 ## Contact
