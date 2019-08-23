@@ -84,13 +84,10 @@ Some organizations collect and share data by gender.  The collecting and sharing
   - Source:  [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
 - Python
   - 2016:  **2% women**
-  
-- Scikit-learn  
-
-
-
+  - Source:  [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)  
 - Scikit-learn (machine learning library of Python)
-
+  - 2017:  **1% women**  (Source:  [Interview with Andreas Mueller](https://mlconf.com/blog/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/))
+  - 2019:  **1 or 19 active contributors = 5%** (Source: [Current Core Contributors to Scikit-learn](https://scikit-learn.org/stable/about.html#people))
   
 
 ## Contact
