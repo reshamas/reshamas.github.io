@@ -25,8 +25,8 @@ Some organizations collect and share data by gender.  The collecting and sharing
   
 ### American Medical Association (AMA)
 - Practicing Physicians   
-  - 2017:  Under age of 35:  **60.6% women** and **39.4%** men
   - 2017:  Ages 55 to 64:   **30.5% women** and **69.5%** men
+  - 2017:  Under age of 35:  **60.6% women** and **39.4%** men
 - Source:  [Athena Health](https://www.athenahealth.com/insight/healthcare-future-female)
 
 ### Association for Computing Machinery (ACM)
