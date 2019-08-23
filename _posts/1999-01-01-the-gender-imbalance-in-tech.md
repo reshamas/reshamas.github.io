@@ -14,8 +14,8 @@ The above visualization was inspired by a table that I had presented to a compan
 
 ## References
 
-- Infoplease (https://www.infoplease.com/us/births/births-sex-and-sex-ratio), ratio of male / female births, 1983 to 2008.
-- Population Distribution by Gender in the United States(https://www.kff.org/other/state-indicator/distribution-by-gender/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D); Kaiser Family Foundation
+- [Infoplease](https://www.infoplease.com/us/births/births-sex-and-sex-ratio), ratio of male / female births, 1983 to 2008.
+- [Population Distribution by Gender in the United States](https://www.kff.org/other/state-indicator/distribution-by-gender/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D); Kaiser Family Foundation
   - for year 2017: 49% male, 51% female
 
 
