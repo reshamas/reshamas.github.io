@@ -14,10 +14,19 @@ The above visualization was inspired by a table that I had presented to a compan
 
 ## References
 
-- [Infoplease](https://www.infoplease.com/us/births/births-sex-and-sex-ratio), ratio of male / female births, 1983 to 2008.
-- [Population Distribution by Gender in the United States](https://www.kff.org/other/state-indicator/distribution-by-gender/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D); Kaiser Family Foundation
+- [Ratio of Male/Female births, 1983 to 2008, in the United States](https://www.infoplease.com/us/births/births-sex-and-sex-ratio]
+  - for year 2008: ratio is 1.05 for Male/Female
+  - Source:  Infoplease
+- [Population Distribution by Gender in the United States](https://www.kff.org/other/state-indicator/distribution-by-gender/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D)
   - for year 2017: 49% male, 51% female
-
+  - Source:  Kaiser Family Foundation
+- [Women in the US Labor Force in 2010](https://www.dol.gov/wb/factsheets/qf-laborforce-10.htm)
+  - for year 2010:  Women comprised 47 percent of the total U.S. labor force
+    - Source:  US Department of Labor
+  - for year 2018: 46.9% 
+    - >In 2018, there were 75,978,000 women aged 16 and over in the labor force, representing 46.9% of the total labor force
+    - Source:  [Catalyst](https://www.catalyst.org/research/women-in-the-workforce-united-states/) and BLS (Bureau of Labor Statistics)
+- [Completion Rates for College]
 
 
 
