@@ -13,7 +13,7 @@ The above visualization was inspired by a table that I had presented to a compan
 </p>
 
 ## Data Collection, Availability and Sharing
-Some organizations collect and share data by gender.  The collecting and sharing of key demographic data indicates a commitment to understanding and improving diversity.  It is unsurprising that there is greater transparency with organizations that have more balanced gender breakdown.  Examples include:  American Statistical Association, American Medical Association and American Bar Association. 
+Some organizations collect and share data by gender.  The collecting and sharing of key demographic data indicates a commitment to understanding and improving diversity.  It is unsurprising that there is greater data transparency with organizations that have more balanced gender breakdown.  Examples include:  American Statistical Association, American Medical Association and American Bar Association. 
 
 Examples:  
 - American Statistical Association (ASA) 
