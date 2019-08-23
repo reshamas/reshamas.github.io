@@ -77,7 +77,20 @@ Some organizations collect and share data by gender.  The collecting and sharing
   - 2013:  **11% women** (Source:  [And Now, an Infuriating Statistic about Women and Coding](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/) )
   - 2017:  **5% women** (Source:  [GitHub](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/))
   - Source:  [Is Open Source Open to Women?](https://www.toptal.com/open-source/is-open-source-open-to-women)
+
+- Rstats
+  - 2010:  **9% women** 
+  - 2016:  **9.3% women**
+  - Source:  [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
+- Python
+  - 2016:  **2% women**
   
+- Scikit-learn  
+
+
+
+- Scikit-learn (machine learning library of Python)
+
   
 
 ## Contact
