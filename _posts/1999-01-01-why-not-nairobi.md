@@ -43,7 +43,9 @@ This is the first time a scikit-learn sprint was held outside of Europe and Nort
 and so it would be beneficial to the Python and open source community to make the sprints accessible.  
 
 ## WiMLDS and Scikit-learn Sprints 
-In early 2019, after publishing the [Impact Report for 2017-2018 NYC WiMLDS scikit-learn Sprints](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/), I began to plan for 2019.  Andreas and I had met, and settled on late August for the 3rd Annual NYC WiMLDS sprint.  
+In early 2019, after publishing the [NYC WiMLDS Sprint Impact Report (2017-2018)](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/), I turned my attention to 2019 sprint planning.
+
+
 
 In 2018, the Bay Area WiMLDS organizer had inquired on Twitter about having a sprint in San Francisco, and so the seed was set:  
 <p>
@@ -88,15 +90,11 @@ https://www.meetup.com/topics/wimlds/all/
 ## Shipping Books to Nairobi
 
 
-In February 2019, after writing and publishing the [NYC WiMLDS Sprint Impact Report (2017-2018)](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/), I turned my attention to 2019 sprint planning.
-
 
 
 ## Contact 
 For any comments or corrections, please email me:  reshama at wimlds dot org.
 
-## References
-- [Past scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints)
 
 
 ---
