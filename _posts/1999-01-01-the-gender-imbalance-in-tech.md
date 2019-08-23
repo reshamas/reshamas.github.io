@@ -50,6 +50,7 @@ The above visualization was inspired by a table that I had presented to a compan
   - Source:  Wired worked with Montreal startup Element AI
   - category is ML (machine learning) and AI (artificial intelligence)
 - Open Source
+  - 2013:  11% (Source [And Now, an Infuriating Statistic about Women and Coding](https://www.newamerica.org/weekly/111/and-now-an-infuriating-statistic-about-women-and-coding/) )
   - 2017:  5% (Source:  [GitHub](https://www.wired.com/2017/06/diversity-open-source-even-worse-tech-overall/))
   - Source:  [Is Open Source Open to Women?](https://www.toptal.com/open-source/is-open-source-open-to-women)
   
