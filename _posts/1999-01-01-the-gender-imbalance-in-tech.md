@@ -9,7 +9,7 @@
 The above visualization was inspired by a table that I had presented to a company to obtain sponsorship for supporting open source sprints for scikit-learn for the Women in Machine Learning & Data Science meetup chapters in May 2019.  I was unsucessful in obtaining that sponsorship, and considered that a visualization may convey the message more poignantly than numbers in a table.  
 
 <p>
-<img src="../assets/images/women_stats.png" width="70%" height="70%" />
+<img src="../assets/images/women_stats.png" width="50%" height="50%" />
 </p>
 
 ## Data Collection, Availability and Sharing
