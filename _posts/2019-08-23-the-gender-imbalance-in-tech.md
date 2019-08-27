@@ -21,8 +21,10 @@ The above visualization was inspired by a table that I had presented to a compan
 Some organizations collect and share data by gender.  The collecting and sharing of key demographic data indicates a commitment to understanding and improving diversity.  It is unsurprising that there is greater data transparency with organizations that have more balanced gender breakdown.  Examples include:  American Statistical Association, American Medical Association and American Bar Association. 
 
 ### American Statistical Association (ASA) 
-- 2016:  membership is **34.6% women** and **65.4% men**  
+- 2016 ASA Activities:  involvement is by **34.6% women** and **65.4% men**  
+- 2017:  membership is **53.7% women** and **45.4% men**
 - Source:  [Gender Balance in ASA Activities Update](https://magazine.amstat.org/blog/2016/02/01/genderupdate16/)
+- Source:  [ASA Membership by Gender](https://www.asanet.org/research-and-publications/research-sociology/trends/asa-membership-gender)
 
 ### American Bar Association (ABA)
 - 2019:  **38% women** and **62% men** 
