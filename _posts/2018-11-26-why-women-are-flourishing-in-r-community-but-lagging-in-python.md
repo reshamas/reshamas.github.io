@@ -7,7 +7,7 @@ There is a general understanding in the world of data and coding that the R comm
 
 ## DataFramed podcast (this paragraph added 02-Sep-2019)
 
-My [**DataFramed podcast**](https://www.datacamp.com/community/podcast/women-in-data-science) interview with Hugo Bowne-Anderson.  Pick up at 34:50 to hear discussion about this blog.  This podcast was recorded on 19-Dec-2018.  
+My [**DataFramed podcast**](https://www.datacamp.com/community/podcast/women-in-data-science) interview with Hugo Bowne-Anderson.  Pick up at 34:50 to 42:45 to hear discussion about this blog.  This podcast was recorded on 19-Dec-2018.  
 
 <p>
   <a href="https://www.datacamp.com/community/podcast/women-in-data-science">
