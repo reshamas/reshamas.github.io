@@ -5,6 +5,27 @@
 
 There is a general understanding in the world of data and coding that the R community is impressively welcoming and inclusive of women.  Python does not necessarily have a reputation for being exclusive, but we do not often hear accolades of its inclusivity either.  In this article, I compare numbers of users in the R and Python communities.  I also compare statistics on the respective women's meetup organizations for each language:  R-Ladies and PyLadies.  
 
+## DataFramed podcast (this paragraph added 02-Sep-2019)
+
+My [**DataFramed podcast**](https://www.datacamp.com/community/podcast/women-in-data-science) interview with Hugo Bowne-Anderson.  Pick up at 34:50 to hear discussion about this blog.  This podcast was recorded on 15-Nov-2018.  
+
+<p>
+  <a href="https://www.datacamp.com/community/podcast/women-in-data-science">
+  <img src="../assets/images/dataframed.png" width="60%" height="60%" style="border:0px;margin:0px">
+  </a>
+</p>
+
+<p float="left">
+</p>
+
+[Full transcript](https://www.datacamp.com/community/blog/women-in-data-science) is also available.
+
+ 
+
+## Intro
+
+
+ 
 
 
 ## What makes people think R is more inclusive, anyway?
