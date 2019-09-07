@@ -22,14 +22,14 @@ comments: false
 * [Fastai Week 1: Classifying Camels Horses And Elephants](https://reshamas.github.io/fastai-week-1-classifying-camels-horses-and-elephants/)
 
 ## Open Source Contribution
-* created documentation:  [fastai deep learning repo](https://github.com/reshamas/fastai_deeplearn_part1)
-* organizing [2019 WiMLDS scikit-learn open source sprints](http://wimlds.org/event/opensourcesprints/) in:
-    - Nairobi, Kenya
-    - New York, New York
-    - San Francisco, California
-* organized 2017 & 2018 scikit sprint w/[@amueller](https://github.com/amueller)
+* Created documentation:  [fastai deep learning repo](https://github.com/reshamas/fastai_deeplearn_part1)
+* Organized 3 [WiMLDS scikit-learn open source sprints in 2019](http://wimlds.org/event/opensourcesprints/) in:
+    - Nairobi, Kenya:  [Nairobi WiMLDS 2019 Scikit Learn Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
+    - New York, New York:  [Impact Report for 2017 & 2018 Sprints](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
+    - San Francisco, California:  & created website for [Bay Area WiMLDS 2019 Sprint](https://sites.google.com/view/bay-area-wimlds-2019-sprint/home)
+* Organized 2017 & 2018 scikit sprint w/[@amueller](https://github.com/amueller)
     * created scikit-sprint open source repo for public use:  [nyc-2018-scikit-sprint](https://github.com/WiMLDS/nyc-2018-scikit-sprint) 
-* contributions to Python libraries
+* Contributions to Python libraries
     * scikit-learn: [check if algorithm is appropriate for classifier #12486](https://github.com/scikit-learn/scikit-learn/pull/12486)
 
 
