@@ -11,7 +11,7 @@ I am an independent data scientist/statistician and MBA with skills in Python, R
 I am also an organizer of the meetup groups [NYC Women in Machine Learning and Data Science](wimlds.org) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 ## Contact
-I am available for consulting in these areas:  data science, statistics, diversity, mentoring and community building.  
+I am available for **consulting** in these areas:  data science, statistics, diversity, mentoring and community building.  
 
 Contact me for my hourly rates:  [complete this form](https://forms.gle/zkU7cuz2yYcfhZ8e7).  
 
