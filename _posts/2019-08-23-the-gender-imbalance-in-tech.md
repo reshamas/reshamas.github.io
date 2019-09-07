@@ -1,6 +1,6 @@
  
 <p>
-<img src="../assets/images/gender_imbalance_graph.png" width="120%" height="120%" />
+<img src="../assets/images/gender_imbalance_graph.png" width="150%" height="150%" />
 </p>
 
 
