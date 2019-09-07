@@ -1,7 +1,9 @@
  
 <p>
-<img src="../assets/images/gender_imbalance2.png" width="100%" height="100%" />
+<img src="../assets/images/gender_imbalance_graph.png" width="120%" height="120%" />
 </p>
+
+
 
 ## Background
 
