@@ -8,6 +8,12 @@ comments: false
 ## Bio
 I am an independent data scientist/statistician and MBA with skills in Python, R and SAS. I worked for over 10 years as a biostatistician in the pharmaceutical industry.  I'm also an organizer of the meetup groups [NYC Women in Machine Learning and Data Science](wimlds.org) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
+## Contact
+I am available for consulting in these areas:  data science, statistics, diversity, mentoring and community building.  
+
+Contact me for my hourly rates.  
+
+
 ### History
 - born in India
 - grew up in New Jersey, the Garden State
@@ -19,7 +25,7 @@ I am an independent data scientist/statistician and MBA with skills in Python, R
 - BA in statistics, minor in French, from Rutgers University
 
 ### What I love, in no particular order
-- teaching (Git, and other technical topics too)
+- teaching (R, Python, Git, and other technical topics too)
 - yoga
 - reading books:  on leadership, strategy, change management, as well as John Irving
 - the French language
@@ -27,5 +33,3 @@ I am an independent data scientist/statistician and MBA with skills in Python, R
 - writing
 - life in NYC, the subway and all
  
-### Contact
-For inquiries, please [complete this form](https://forms.gle/zkU7cuz2yYcfhZ8e7).  
