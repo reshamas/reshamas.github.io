@@ -6,6 +6,7 @@ comments: false
 ---
 
 ## WiMLDS Contributions
+These are contributions I have made to WiMLDS over the past 5 years.  
 
 ### New York Chapter of WiMLDS
 - NYC chapter organizer since spring 2015 to present
