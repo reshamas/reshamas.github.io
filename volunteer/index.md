@@ -26,7 +26,7 @@ These are contributions I have made to WiMLDS over the past 5 years.
     - [NYC 2017-2018 Sprint Impact Report](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
     
 ### Sponsorship
-- Built relationship over the course of 4 years which acccounted for 99% of funding for WiMLDS
+- Built relationship with 2 sponsors (O'Reilly and MLConf) over the course of 4 years which acccounted for 99% of funding for WiMLDS
 - Created and distributed Global Newsletter to increase resources and communication WiMLDS chapters globally in 2019
 - Was a guest on [DataFramed podcast](https://reshamas.github.io/dataframed-podcast/)
     - recorded in November 2018
