@@ -46,6 +46,7 @@ comments: false
 - Created project to create [WiMLDS Overview Slides](https://drive.google.com/open?id=1N8O4iFNDHXHQFkizqcoVINvYeNt9_NlxhYqKVXHy1RU) so organizers worldwide would be able to share history and statistics about WiMLDS
 - Created [5 Years (birthday) video](https://www.youtube.com/watch?v=KnCc_XiOL_Q)
 - Created [Conferences List](https://github.com/WiMLDS/conferences) for community
+- Supported global chapters by responding to inquiries, processing payments, etc. 
 
 
  
