@@ -40,6 +40,7 @@ These are contributions I have made to WiMLDS over the past 5 years.
     - [October 2018 report:  initial report](https://reshamas.github.io/overview-of-wimlds-chapters/)
 - Worked with local chapters to bring meetup chapters under WiMLDS ownership and tag the meetup groups so live statistics could easily be retrievable:  [Meetup WiMLDS MAP](https://www.meetup.com/topics/wimlds/)
 - Presented at O'Reilly AI [NYC 2019 Better Together Diversity Luncheon](https://www.youtube.com/watch?v=1mxJ-j38gcU)
+- Implemented consistent "Welome Messages" for all meetup chapters so links to social media forums were directly accessible to increase followers on Twitter, LinkedIn, Facebook, Instagram and more.
 
 ### Global Chapters Support
 - Recruited two new members to join global team from Europe and Kenya to increase global representation
