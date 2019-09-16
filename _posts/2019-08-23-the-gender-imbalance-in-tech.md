@@ -75,6 +75,7 @@ Some organizations collect and share data by gender.  The collecting and sharing
 - [Women Now Outnumber Men in Law Schools](https://www.bestlawyers.com/article/women-now-outnumber-men-in-law-school/2029)
   - 2018:  **51.3% women** enrolled in law school
   - Source:  ABA (American Bar Association)
+  - Source:  [The Parity Paradox](https://www.bestlawyers.com/article/women-now-outnumber-men-in-law-school/2029)
 - [Women in Tech](https://www.evia.events/info-women-in-technology)
   - 2015:  **25% women**  ( [NCWIT](https://www.ncwit.org/sites/default/files/resources/womenintech_facts_fullreport_05132016.pdf))
   - 2016-2017 (?):  **20% women**  (Source:  Evia)
