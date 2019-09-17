@@ -18,9 +18,6 @@ The first woman in each of these areas:
     - 1738:  first bar exam created in [Delaware](https://en.wikipedia.org/wiki/Bar_examination)
 - **COMPUTER SCIENCE:** CS PhD was ~ 1965 (Sister Mary Kenneth Keller / Irving Tang)
     - first man to get PhD in CS was in 1965, [Richard Wexelblat](https://cacm.acm.org/blogs/blog-cacm/159591-who-earned-first-computer-science-ph-d/fulltext)
-- **STATISTICS:** 
-    - 2017:  Bachelors 43% Female, Masters 49% Female, PhD 34% Female
-    - Source:  [Amstat](https://ww2.amstat.org/misc/StatTable1987-Current.pdf)
 
 ## United States Legislation
 Since 1965 was a critical year for women in computer science to make notable advances, I also examined the US laws during that time period:  
@@ -62,6 +59,8 @@ Salaries of Data Scientists](https://www.burtchworks.com/wp-content/uploads/2018
 - [Why Women Leave Tech](https://www.cio.com/article/3321897/why-women-leave-tech.html)
 - [2014 Taulbee Survey](https://cra.org/wp-content/uploads/2015/06/2014-Taulbee-Survey.pdf)
 - [AI is the Future, But Where Are the Women?](https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance/)
+- Statistics degrees in 2017:  Bachelors 43% Female, Masters 49% Female, PhD 34% Female
+    - Source:  [Amstat](https://ww2.amstat.org/misc/StatTable1987-Current.pdf)
 
 
 
