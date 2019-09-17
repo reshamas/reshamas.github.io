@@ -11,7 +11,10 @@ In my article [The Gender Imbalance in Tech](https://reshamas.github.io/the-gend
 
 The first woman in each of these areas:   
 - **MEDICINE:** MD was 1849 (Elizabeth Blackwell)
-- **LAW:** JD was 1869 (Arabella Mansfield)
+    - University of Pennsylvania was established in [1791](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(15)60950-3/fulltext)
+- **LAW:** passed bar in 1869 (Arabella Mansfield); [attendance at law school was not common](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/mansfield-arabella-1846-1911)
+    - Harvard Law School founded in 1917
+    - William and Mary Law School opened in 1779, but closed during Civil War (1861) and reopened in 1920
 - **COMPUTER SCIENCE:** CS PhD was ~ 1965 (Sister Mary Kenneth Keller / Irving Tang)
 
 ## United States Legislation
