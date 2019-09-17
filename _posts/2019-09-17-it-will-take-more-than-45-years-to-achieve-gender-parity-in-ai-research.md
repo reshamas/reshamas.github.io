@@ -48,6 +48,8 @@ With women in tech leaving at high rates, that is another factor affecting the t
 - In law, it took about 130 years from the time of the first female lawyer to laws schools achieving gender parity.
 - With computer science, if the first CS PhD was in 1965, only about 55 years previously, it seems the road is long to achieving gender parity.  If it were to take 100 years, that would bring us to 2065.  If it is 150 years, that would bring us to the year 2115.
 
+## Prediction
+My prediction is that gender parity in CS PhDs will be achieved after 2065.  And equal representation by women in AI research will be decades after that.  If I am incorrect, I would be happy to issue a retraction if I am around.
 
 ## References
 
