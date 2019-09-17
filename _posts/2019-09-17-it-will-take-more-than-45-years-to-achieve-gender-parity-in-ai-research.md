@@ -15,7 +15,9 @@ The first woman in each of these areas:
 - **LAW:** passed bar in 1869 (Arabella Mansfield); [attendance at law school was not common](https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/mansfield-arabella-1846-1911)
     - Harvard Law School founded in 1917
     - William and Mary Law School opened in 1779, but closed during Civil War (1861) and reopened in 1920
+    - 1738:  first bar exam created in [Delaware](https://en.wikipedia.org/wiki/Bar_examination)
 - **COMPUTER SCIENCE:** CS PhD was ~ 1965 (Sister Mary Kenneth Keller / Irving Tang)
+    - first man to get PhD in CS was in 1965, [Richard Wexelblat](https://cacm.acm.org/blogs/blog-cacm/159591-who-earned-first-computer-science-ph-d/fulltext)
 
 ## United States Legislation
 Since 1965 was a critical year for women in computer science to make notable advances, I also examined the US laws during that time period:  
