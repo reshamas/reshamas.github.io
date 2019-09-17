@@ -53,6 +53,7 @@ Salaries of Data Scientists](https://www.burtchworks.com/wp-content/uploads/2018
 - [The Current State of Women in Computer Science](https://www.computerscience.org/resources/women-in-computer-science/)
 - [Why Women Leave Tech](https://www.cio.com/article/3321897/why-women-leave-tech.html)
 - [2014 Taulbee Survey](https://cra.org/wp-content/uploads/2015/06/2014-Taulbee-Survey.pdf)
+- [AI is the Future, But Where Are the Women?](https://www.wired.com/story/artificial-intelligence-researchers-gender-imbalance/)
 
 
 
