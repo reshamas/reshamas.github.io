@@ -52,5 +52,7 @@ Salaries of Data Scientists](https://www.burtchworks.com/wp-content/uploads/2018
 - [Arabella Mansfield, First Female Lawyer in the US](https://www.encyclopedia.com/law/encyclopedias-almanacs-transcripts-and-maps/mansfield-arabella), Encyclopedia.com
 - [The Current State of Women in Computer Science](https://www.computerscience.org/resources/women-in-computer-science/)
 - [Why Women Leave Tech](https://www.cio.com/article/3321897/why-women-leave-tech.html)
+- [2014 Taulbee Survey](https://cra.org/wp-content/uploads/2015/06/2014-Taulbee-Survey.pdf)
+
 
 
