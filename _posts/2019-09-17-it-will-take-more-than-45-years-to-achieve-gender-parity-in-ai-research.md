@@ -22,7 +22,7 @@ Since 1965 was a critical year for women in computer science to make notable adv
 - 1972: Title IX (education): a civil rights law that amended the Higher Education Act of 1965 and prohibited discrimination on the basis of sex in any federally funded education program or activity.
 
 ## Gender Parity Achievements
-These are the years where gender parity was achieved with respect to **graduate school enrollment:**  
+These are the years where gender parity was achieved with respect to **graduate rates:**  
 - Medical school:  ~ 1999
 - Law school:  ~ 1999
 - Computer science PhDs:  [not yet in 2019]  (when:  ?)
