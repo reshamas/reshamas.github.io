@@ -29,11 +29,11 @@ These are the years where gender parity was achieved with respect to **graduate 
 
 
 ## Not A Monotonically Increasing Function
-In about 1984, women earned ~ 37% of bachelor's degree, but by **2015** that number has **decreased** to **18%**.  In **2017** it was estimated to be **24%**.  
+In about 1984, women earned ~ 37% of bachelor's degree, but by 2015 that number has **decreased** to **18%**.  In 2017 it was estimated to be **24%**.  
 
 Women earned [18% of PhDs](https://cra.org/wp-content/uploads/2015/06/2014-Taulbee-Survey.pdf) in computer science in 2014.  It is estimated that [**15%** of ACM membership](https://reshamas.github.io/the-gender-imbalance-in-tech/) is female.  
 
-With women in tech leave at high rates, that is another factor affecting the trajectory of women in computer science.  
+With women in tech leaving at high rates, that is another factor affecting the trajectory of women in computer science.  
 
 ## Other Factors
 [Girls Who Code](https://girlswhocode.com/about-us/) mission is to close the gender gap and they support girls before college level.  
