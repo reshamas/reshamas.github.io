@@ -1,4 +1,3 @@
-It Will Take More Than 45 Years to Achieve Gender Parity in AI Research
 
 >AI is the future, but... just 12% of machine learning researchers are women -- a worrying statistic for a field supposedly reshaping society.  
 
