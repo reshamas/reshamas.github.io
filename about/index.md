@@ -18,19 +18,22 @@ I am also an organizer of the meetup groups [NYC Women in Machine Learning and D
 
 ## Support me on Patreon
 These are some of my contributions to the community:  [WiMLDS volunteer contributions](wimlds_volunteer.md)
+
 Support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
 
-### History
+---
+
+## History
 - born in India
 - grew up in New Jersey, the Garden State
 - living in New York City
 
-### Education
+## Education
 - MBA from NYU Stern School of Business, with specializations in: technology, business analytics and strategy
 - MS in statistics from Rutgers University
 - BA in statistics, minor in French, from Rutgers University
 
-### What I love, in no particular order
+## What I love, in no particular order
 - teaching (R, Python, Git, and other technical topics too)
 - yoga
 - reading books:  on leadership, strategy, change management, as well as John Irving
