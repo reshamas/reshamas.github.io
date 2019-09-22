@@ -167,7 +167,7 @@ A chapter is considered inactive if they did not organize at least one event in 
   - [Delhi FB page](https://www.facebook.com/delhiwimlds/) (1150 followers, 9 events listed for 2018)
  
 ## Contact
-I can be reached at reshama@wimlds.org
+I can be reached at rs2715 at stern dot nyu dot edu
  
  
 ## References
