@@ -109,7 +109,7 @@ Special thanks to these members of the NYC WiMLDS community for following up on 
 - [Cat Chenal](https://twitter.com/Ylemental)
 
 ## Contact
-I can be contacted via email: reshama@wimlds.org
+I can be reached at rs2715 at stern dot nyu dot edu
 
 ---
 ## References
