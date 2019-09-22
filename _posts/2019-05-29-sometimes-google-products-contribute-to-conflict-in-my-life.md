@@ -96,7 +96,7 @@ Here are some tips for formatting that I recently discovered.
 
 
 ## Contact
-If there are any fixes that will be helpful for me to know, I can be reached at reshama at wimlds dot org.  
+If there are any fixes that will be helpful for me to know, I can be reached at rs2715 at stern dot nyu dot edu
 
 ## Updated Notes
 
