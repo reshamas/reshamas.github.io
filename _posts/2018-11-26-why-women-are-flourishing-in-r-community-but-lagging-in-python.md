@@ -202,7 +202,7 @@ There are a number of prominent women who are making significant contributions i
 - [Di Cook](https://twitter.com/visnut), Professor at Monash University, ordinary member of the R Foundation
 - [Jesse Mostipak](https://twitter.com/kierisi), managing director of data science at teaching trust, creator of R4DS online learning community
 - [Mara Averick](https://twitter.com/dataandme), tidyverse developer advocate at RStudio and well known for her frequent tweets on R resources
-- [Erin LeDell](https://twitter.com/ledell), leadership at R-Ladies Global
+
 
 There are a dozen women on the [leadership team and "R-Masters"](https://rladies.org/about-us/team/).  The list is very long, in a good way.
 
@@ -388,7 +388,8 @@ Here are some ideas:
 
 
 ## Contact 
-I welcome any updates or edits to this article.   I can be contacted via email at reshama@wimlds.org 
+I welcome any updates or edits to this article.   I can be reached at rs2715 at stern dot nyu dot edu
+
 
 ## References
 - [Bachelor’s Degrees Earned by Women, by Major](https://www.aps.org/programs/education/statistics/womenmajors.cfm)
