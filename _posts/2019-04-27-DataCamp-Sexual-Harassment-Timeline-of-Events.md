@@ -56,6 +56,6 @@
 | 2019-07-14    | Lorena Barba talk at PyData London: [Frustration of Diversity Efforts in STEM](https://youtu.be/THf8_A-RK38?t=1500)         (25:00 to 32:00)
 | 2019-07-16    | DataCamp: [Instructor Advisory Board (IAB) Member Announcement](https://www.datacamp.com/community/blog/instructor-advisory-board-member-announcement) 
 | 2019-09-28    | Jonathan Cornelissen [DataCamp's Culture](https://www.jonathancornelissen.com/post/datacamp-s-company-culture)
-| 2019-10-03    | Greg Wilson [tweet](https://twitter.com/gvwilson/status/1179855935621255168) 
+| 2019-10-03    | Greg Wilson [tweet](https://twitter.com/gvwilson/status/1179855935621255168); Mara Averick [tweet](https://twitter.com/dataandme/status/1179862091123085312)
 
 
