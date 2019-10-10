@@ -387,9 +387,7 @@ Here are some ideas:
 13.  Create a repository of Python open source sprints and track and publish their impact.  
 
 
-## Contact 
-I welcome any updates or edits to this article.   I can be reached at rs2715 at stern dot nyu dot edu
-
+ 
 
 ## References
 - [Bachelor’s Degrees Earned by Women, by Major](https://www.aps.org/programs/education/statistics/womenmajors.cfm)
