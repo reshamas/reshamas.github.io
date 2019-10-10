@@ -197,7 +197,7 @@ This cost does not include space which was provided by iHub and 2 dozen copies o
 
 ## Call for Action
 
-We are looking for sponsorship for 2020 WiMLDS scikit-learn sprints in various countries. Contact Reshama Shaikh at rs2715 at stern dot nyu dot edu
+We are looking for sponsorship for 2020 WiMLDS scikit-learn sprints in various countries.  
 
 ## Acknowledgments
 
