@@ -166,9 +166,7 @@ A chapter is considered inactive if they did not organize at least one event in 
   - [Delhi WiMLDS Meetup Group](https://www.meetup.com/Delhi-Women-in-Machine-Learning-Data-Science/) (179 members, 5 events in 2018)
   - [Delhi FB page](https://www.facebook.com/delhiwimlds/) (1150 followers, 9 events listed for 2018)
  
-## Contact
-I can be reached at rs2715 at stern dot nyu dot edu
- 
+  
  
 ## References
 - [AI Index 2018 Annual Report](http://cdn.aiindex.org/2018/AI%20Index%202018%20Annual%20Report.pdf)
