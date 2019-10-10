@@ -92,9 +92,7 @@ https://www.meetup.com/topics/wimlds/all/
 
 
 
-## Contact 
-For any comments or corrections, please email me: rs2715 at stern dot nyu dot edu
-
+ 
 
 
 ---
