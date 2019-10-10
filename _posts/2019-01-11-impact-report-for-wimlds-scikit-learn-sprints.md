@@ -108,9 +108,7 @@ Special thanks to these members of the NYC WiMLDS community for following up on 
 - [Tashay Green](https://twitter.com/tashay_g)
 - [Cat Chenal](https://twitter.com/Ylemental)
 
-## Contact
-I can be reached at rs2715 at stern dot nyu dot edu
-
+ 
 ---
 ## References
 - [Interview with Andreas Mueller](http://mlconf.com/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), 2017
