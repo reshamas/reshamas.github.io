@@ -5,7 +5,7 @@ tags:
 comments: false
 ---
 
-Here is a list of my favorite data science resources.  If you would like to see a resource added, email me at `rs2715@stern.nyu.edu`
+Here is a list of my favorite data science resources.  
 
 ## Conferences 
 ### Videos
