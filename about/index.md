@@ -11,7 +11,7 @@ I am an independent data scientist/statistician and MBA with skills in Python, R
 ## Consulting Requests
 I am available for **consulting** in these areas:  data science, statistics, diversity, mentoring and community building.  
 
-Contact me for my hourly rates:  reshama.stat @ gmail dot com 
+Contact me for my hourly rates:  reshama dot shaikh @ gmail dot com 
 
 ## My Volunteer Work 
 I am also an organizer of the meetup groups [NYC Women in Machine Learning and Data Science](wimlds.org) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
@@ -20,6 +20,20 @@ I am also an organizer of the meetup groups [NYC Women in Machine Learning and D
 These are some of my contributions to the community:  [WiMLDS volunteer contributions](wimlds_volunteer.md)
 
 Support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
+
+## Contacting Me
+
+I receive a lot of email requests.  I will respond to emails in this order of priority:
+
+1.  CONSULTING:  I am an independent consultant; email me for my hourly fees.
+
+2.  PROFESSIONAL DEVELOPMENT:  Business and educational development activities which move me forward professionally
+
+3.  VOLUNTEER work:  PyLadies & WiMLDS meetup.  You can support me on Patreon.
+ 
+4.  MEETING REQUESTS:  Coffee / Mentoring requests: available in exchange for support on Patreon.
+
+5.  Other miscellaneous requests
 
 ---
 
