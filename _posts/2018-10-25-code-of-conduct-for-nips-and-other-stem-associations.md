@@ -271,5 +271,4 @@ A statement issued by NIPS on why the name was not changed is [included here](ht
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-## Contact
-I welcome any updates to the CoC status of organizations.  I can be reached at rs2715 at stern dot nyu dot edu
+ 
