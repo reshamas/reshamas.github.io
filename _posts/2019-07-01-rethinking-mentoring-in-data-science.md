@@ -231,11 +231,6 @@ The bonus for me is that I am able to obtain desperately needed help to effectiv
 I have asked all of them to add new volunteers to our committees and mentor them through the process so that there is a good pipeline of organizers so the community can benefit from regular meetup events.  It has been a mutually beneficial relationship. 
 
  
-## Contact
-
-I encourage people to email me with questions: rs2715 at stern dot nyu dot edu.  While I do not promise a response to every email, I do read them all and write blogs for the questions I receive over time.
-
- 
 ## Coaching
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Jonathan Rosenberg quotes Bill Campbell: <br>A coach can <br>- see the things you can’t <br>- hear the things you can’t<br>-SO you can be the person you want to be. <a href="https://twitter.com/hashtag/LeadershipDevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#LeadershipDevelopment</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1118194936992751616?ref_src=twsrc%5Etfw">April 16, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
