@@ -70,10 +70,7 @@ Here is a list of my favorite data science resources.
 
 ## [List of scikit-learn Sprints](scikit_learn_sprints.md)
 
-## Girl Develop It
-* [Timeline of Events](http://an-open-letter-to-gdi-board.com/timeline/)
-* [Open Letter to GDI Board](http://an-open-letter-to-gdi-board.com/)
-* [podcast: Valerie Sharp / Kim Crayton](https://hashtagcauseascene.com/podcast/valerie-sharp-kristen-seversky/)
-* [podcast: Shanise Barona / Kim Crayton](https://hashtagcauseascene.com/podcast/shanise-barona/)
 
+## Diversity
+* [links to diversity resources](diversity.md)
 
