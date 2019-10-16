@@ -11,6 +11,10 @@ comments: false
 * [Aubrey Blanche](https://aubreyblanche.com)
   * >data-informed approach to transforming #diversity & #inclusion -> balance & belonging.
 
+## Events
+* [Male Ally Summit NYC](https://community.anitab.org/event/male-ally-summit-2019/), Nov 2019
+
+
 ## Girl Develop It
 * [Timeline of Events](http://an-open-letter-to-gdi-board.com/timeline/)
 * [Open Letter to GDI Board](http://an-open-letter-to-gdi-board.com/)
