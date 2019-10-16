@@ -8,6 +8,8 @@ comments: false
 ## Diversity in Hiring
 * [Hire More Women in Tech](https://www.hiremorewomenintech.com)
 * [Gender Diversity in AI Research report](https://www.nesta.org.uk/report/gender-diversity-ai/) Nesta, July 2019
+* [Aubrey Blanche](https://aubreyblanche.com)
+  * >data-informed approach to transforming #diversity & #inclusion -> balance & belonging.
 
 ## Girl Develop It
 * [Timeline of Events](http://an-open-letter-to-gdi-board.com/timeline/)
