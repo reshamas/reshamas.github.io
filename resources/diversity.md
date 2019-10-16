@@ -5,9 +5,12 @@ tags:
 comments: false
 ---
 
+## Diversity
+* [Lean In:  Women in the Workplace, 2019](https://leanin.org/women-in-the-workplace-2019)
+* [Gender Diversity in AI Research report](https://www.nesta.org.uk/report/gender-diversity-ai/) Nesta, July 2019
+
 ## Diversity in Hiring
 * [Hire More Women in Tech](https://www.hiremorewomenintech.com)
-* [Gender Diversity in AI Research report](https://www.nesta.org.uk/report/gender-diversity-ai/) Nesta, July 2019
 * [Aubrey Blanche](https://aubreyblanche.com)
   * >data-informed approach to transforming #diversity & #inclusion -> balance & belonging.
 
