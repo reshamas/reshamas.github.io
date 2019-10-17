@@ -52,9 +52,16 @@ There is a list on the [scikit-learn wiki](https://github.com/scikit-learn/sciki
   - NIPS:  [Granada, Spain](http://gael-varoquaux.info/programming/scikit-learn-nips-2011-sprint-international-thanks-to-our-sponsors.html) (Dec)
   - Euro SciPy:  [Paris](http://fa.bianp.net/blog/2011/scikit-learn-euroscipy-2011-coding-sprint-day-one/) (Aug)
   - Austin SciPy (Jul)
-  - Paris (Apr)
+  - Paris, Logilab (Apr)
+    - Boston MIT
 - 2010 
   - Paris (Sep)
   - Paris (Jun)
   - Paris (Mar)
   - **first release of scikit-learn** (Feb)
+
+## References
+* [scikit learn wiki: upcoming sprints](https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events)
+* [scikit learn wiki:  past sprints](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints)
+* [Gael Varoquaux's website](http://gael-varoquaux.info/tag/sprint.html)
+
