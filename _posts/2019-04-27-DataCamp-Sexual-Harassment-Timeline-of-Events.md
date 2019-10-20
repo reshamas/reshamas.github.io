@@ -57,6 +57,6 @@
 | 2019-07-16    | DataCamp: [Instructor Advisory Board (IAB) Member Announcement](https://www.datacamp.com/community/blog/instructor-advisory-board-member-announcement) 
 | 2019-09-28    | Jonathan Cornelissen [DataCamp's Culture](https://www.jonathancornelissen.com/post/datacamp-s-company-culture)
 | 2019-10-03    | Greg Wilson [tweet](https://twitter.com/gvwilson/status/1179855935621255168); Mara Averick [tweet](https://twitter.com/dataandme/status/1179862091123085312)
-| 2019-10-16    | Martijn Theuwissen [Working IDEAL’s Independent, Third-Party Review of DataCamp](https://www.datacamp.com/community/blog/working-ideal-independent-third-party-review-of-datacamp)
-| 2019-10-16    | Anurima Bhargava and Pamela Coukos [DataCamp Assessment Report](https://assets.datacamp.com/working-ideal-independent-third-party-review-of-datacamp.pdf) (dated 26-Sep-2019)
+| 2019-10-16    | Martijn Theuwissen: [Working IDEAL’s Independent, Third-Party Review of DataCamp](https://www.datacamp.com/community/blog/working-ideal-independent-third-party-review-of-datacamp)
+| 2019-10-16    | Anurima Bhargava and Pamela Coukos: [DataCamp Assessment Report](https://assets.datacamp.com/working-ideal-independent-third-party-review-of-datacamp.pdf) (dated 26-Sep-2019)
 
