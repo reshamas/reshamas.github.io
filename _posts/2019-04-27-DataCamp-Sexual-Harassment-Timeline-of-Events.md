@@ -4,7 +4,7 @@
 | Jul 2013      | DC founded in Belgium |
 |               |                    |
 | Sep 2017      | KW begins at DC    |
-| Oct 2017      | incident occurred  |
+| Oct 2017      | incident occurred  (DC had 50 employees, 5 were women) |
 |               |                    |
 | Jan 2018      | KW resigns; reports incident to manager (DC has no HR department)  | 
 | Feb 2018      | KW leaves DC       |
