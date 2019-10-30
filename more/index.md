@@ -8,6 +8,14 @@ comments: false
 ## Talks
 
  
+### Data Science Imposters: [Mentoring](https://datascienceimposters.com/2019/10/21/mentoring-with-reshama-shaikh/) (podcast) (Oct 2019)
+We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.github.io/rethinking-mentoring-in-data-science/)
+
+<p>
+<iframe width="320" height="30" src="https://datascienceimposters.com/?powerpress_embed=505-podcast&amp;powerpress_player=mediaelement-audio" frameborder="0" scrolling="no"></iframe>
+</p>
+
+ 
 ### DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
 
 <p>
