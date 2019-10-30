@@ -28,7 +28,7 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1mxJ-j38gcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-## AI
+## Artificial Intelligence (AI)
 
 ### Women in AI Panel Discussion at AI NEXTCon NYC (July 24, 2019)
 - Reshama Shaikh (WiMLDS) Moderator
