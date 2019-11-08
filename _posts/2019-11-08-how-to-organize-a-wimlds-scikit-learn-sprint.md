@@ -60,7 +60,12 @@ In addition to the core contributor, it is important to have experienced users o
 
 ### Social Media
 
+---
+
 ## Cultural Considerations
+
+### Date of Sprint
+Sprints should be scheduled around major national and religious holidays. A Saturday is ideal in many cities, but a weekend day may not be ideal in France.  In Israel, the weekend is a Friday and Saturday and their days off are Sunday and Monday.  In some locations a weekday event may be more ideal.  Explore your cultural and business norms for an ideal day that works for the participants and contributor.  No day will work for everyone, but pick a day that works for most of the organizers and participants and venue availability.  
 
 ### Photography
 It is important to take photographs and share on social media to bring visibility to women in data science, scikit-learn and open source.  It is also important to be respectful of people's preferences and expectations for photography.  
@@ -70,6 +75,8 @@ It is important to take photographs and share on social media to bring visibilit
 
 ### Food
 To 
+
+---
 
 ## Post-sprint
 
@@ -83,7 +90,7 @@ include examples of impact report and why
 ---
 
 ## Resources
-Below are resources.  WiMLDS organizers are free to copy the templates and adjust for their sprints.
+Below are resources.  WiMLDS organizers are free to copy the templates and edit for their sprints.
 
 
 
