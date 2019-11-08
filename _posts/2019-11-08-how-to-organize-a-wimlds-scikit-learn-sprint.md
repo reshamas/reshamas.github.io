@@ -4,6 +4,12 @@
 #### Q:  What is a sprint?  
 A:  It is a full day (6 to 8 hours) hands on session or hackathon, where users convene and work on issues on an open source library.  
 
+##  Key Logistics
+- date
+- venue
+- a Saturday (or Sunday) is preferable  (depends on region)
+tting up
+
 
 ##  Setting up
 
