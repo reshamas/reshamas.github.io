@@ -1,3 +1,8 @@
+ 
+<p>
+<img src="../assets/images/numfocus_award.jpg" width="40%" height="40%" />
+</p>
+
 
 The Annual NumFOCUS Summit for 2019 took place the first weekend in November.  I am honored to receive the Community Leadership Award for my contributions in promoting diversity in the community.  Coincidentally, that is the same weekend that I was running the 3rd scikit-learn open source sprint of the year, this one in San Francisco:  
 [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint).  
