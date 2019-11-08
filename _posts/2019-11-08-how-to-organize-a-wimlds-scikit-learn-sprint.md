@@ -1,17 +1,18 @@
 
 
 ## Intro
-#### Q:  What is a sprint?  
+#### Q:  What is an open source sprint?  
 A:  It is a full day (6 to 8 hours) hands on session or hackathon, where users convene and work on issues on an open source library.  
 
 ##  Key Logistics
 - date
 - venue
 - a Saturday (or Sunday) is preferable  (depends on region)
-tting up
+- sponsor for food
+- find core contributor to faciliate the sprint
 
 
-##  Setting up
+##  Organizing the Event
 
 ### Sprint Website
 Create a website with all information so all organizers and attendees can easily find what they need in a central place.  
@@ -37,6 +38,27 @@ It is up to the discretion of the sprint organizer regarding what information to
 - Example:  [sprint application](https://sites.google.com/view/bay-area-wimlds-2019-sprint/about/application-form)
 - Owner:  WiMLDS sprint organizer
 
+### Scikit-learn Core Contributor
+The sprints have typically been led by a scikit-learn core contributor.  These are the avenues for engaging a core contributor to lead a sprint:  
+1.  If there are core contributors residing in the city of the sprint, that is the easiest.  The [active list of core contributors](https://scikit-learn.org/stable/about.html) is available on the scikit-learn website.
+2.  If your chapter is located in a city where conferences are held, it is possible to plan a sprint around the date when the core contributor is in town.  We did that for the Bay Area 2019 sprint.  Andreas Mueller was in San Francisco for ODSC West, and thus the sprint was scheduled for the Saturday after the conference.  
+3.  It is possible to have a core contributor fly into your city, if a core contributor is available and if funding to cover travel is available.  We did that for the Nairobi 2019 sprint.  I asked on the [scikit-learn mailing list] and a contributor was interested.  For funding, can connect with the scikit-learn and WiMLDS team.  It is helpful to do research on estimated cost of flight and lodging for at least two days for budget considerations.  
+
+### Teaching Assistants
+In addition to the core contributor, it is important to have experienced users of scikit-learn and Git users who can help answer participants questions.  
+
+### Marketing
+
+### Preparation Emails
+
+
+## Sprint Day
+
+### Pair Programming
+
+
+
+### Social Media
 
 ## Cultural Considerations
 
@@ -48,3 +70,20 @@ It is important to take photographs and share on social media to bring visibilit
 
 ### Food
 To 
+
+## Post-sprint
+
+### Blogs
+
+### Follow-up on PRs
+
+### Impact Report
+include examples of impact report and why
+
+---
+
+## Resources
+Below are resources.  WiMLDS organizers are free to copy the templates and adjust for their sprints.
+
+
+
