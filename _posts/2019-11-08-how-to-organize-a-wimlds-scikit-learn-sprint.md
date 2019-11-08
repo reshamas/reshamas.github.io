@@ -1,7 +1,7 @@
 
 
 ## Intro
-#### Q:  What is an open source sprint?  
+**Q:  What is an open source sprint?  **
 A:  It is a full day (6 to 8 hours) hands on session or hackathon, where users convene and work on issues on an open source library.  
 
 ##  Key Logistics
