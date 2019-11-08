@@ -62,7 +62,7 @@ In addition to the core contributor, it is important to have experienced users o
 
 ---
 
-## Cultural Considerations
+## Inclusivity & Cultural Considerations
 
 ### Date of Sprint
 Sprints should be scheduled around major national and religious holidays. A Saturday is ideal in many cities, but a weekend day may not be ideal in France.  In Israel, the weekend is a Friday and Saturday and their days off are Sunday and Monday.  In some locations a weekday event may be more ideal.  Explore your cultural and business norms for an ideal day that works for the participants and contributor.  No day will work for everyone, but pick a day that works for most of the organizers and participants and venue availability.  
