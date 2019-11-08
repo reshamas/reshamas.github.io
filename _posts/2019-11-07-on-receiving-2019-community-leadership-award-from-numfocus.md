@@ -31,5 +31,5 @@ There are so many dedicated individuals world-wide whose participation and contr
 
 Finally, I want to share some key takeaways I have learned from my work in diversity:  
 - Thinking globally is important, imperative and *achievable*.
-- Intersectional (or covariance diversity) (meaning considering more than gender in terms of diversity) is essential and focusing on multiple dimensions of diversity will accordingly move diversity initiatives forward.
-- Welcoming and including allies is crucial in moving the needle on diversity outcomes
+- Intersectional (or covariance diversity) (meaning considering more than gender in terms of diversity) is essential and focusing on multiple dimensions of diversity will accordingly move all diversity initiatives forward.
+- Welcoming and including allies is crucial in moving the needle on diversity outcomes.
