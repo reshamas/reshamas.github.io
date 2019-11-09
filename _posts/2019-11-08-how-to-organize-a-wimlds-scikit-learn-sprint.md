@@ -85,7 +85,16 @@ To
 ### Follow-up on PRs
 
 ### Impact Report
-include examples of impact report and why
+Below are some Sprint Impact Reports I have written.  Feel free to copy the template and edit for your sprint:  
+- [Nairobi WiMLDS 2019 Scikit-learn Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/) (Aug 2019)
+- [Impact Report for 2017-2018 NYC WiMLDS Scikit-Learn Sprints](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/) (Jan 2019)
+
+It is helpful to include:  
+- any metrics
+- challenges or issues encountered
+- what worked well
+- what could be better
+
 
 ---
 
