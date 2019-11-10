@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Diversity
+title: Diversity Resources
 tags: 
 comments: false
 ---
