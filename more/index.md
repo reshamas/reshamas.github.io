@@ -18,8 +18,8 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 ---
 ## Community
 
-### [PyData Ann Arbor](https://www.meetup.com/PyData-Ann-Arbor/events/263071979/) (Nov 2019)
-**Community Building:  the Good and Messy**  
+### PyData Ann Arbor:  [Community Building: the Good and Messy](https://www.meetup.com/PyData-Ann-Arbor/events/263071979/) (Nov 2019)
+ 
 * Community
 * Diversity 
 * Inclusion
