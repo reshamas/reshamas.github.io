@@ -24,7 +24,8 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 * Diversity 
 * Inclusion
 * Accessibility
-* Open source / sharing
+* Open source / sharing  
+
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ayMyPrzaPGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
