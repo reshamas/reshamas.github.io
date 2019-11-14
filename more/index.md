@@ -19,6 +19,18 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 ## Community
 
 ### [PyData Ann Arbor](https://www.meetup.com/PyData-Ann-Arbor/events/263071979/) (Nov 2019)
+**Community Building:  the Good and Messy**  
+* Community
+* Diversity 
+* Inclusion
+* Accessibility
+* Open source / sharing
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ayMyPrzaPGk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
+</p>
+
 
 
 ### DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
