@@ -7,7 +7,7 @@ comments: false
 
 ## Talks
 
- 
+
 ### Data Science Imposters: [Mentoring](https://datascienceimposters.com/2019/10/21/mentoring-with-reshama-shaikh/) (podcast) (Oct 2019)
 We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.github.io/rethinking-mentoring-in-data-science/)
 
@@ -15,7 +15,12 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 <iframe width="320" height="30" src="https://datascienceimposters.com/?powerpress_embed=505-podcast&amp;powerpress_player=mediaelement-audio" frameborder="0" scrolling="no"></iframe>
 </p>
 
- 
+---
+## Community
+
+### [PyData Ann Arbor](https://www.meetup.com/PyData-Ann-Arbor/events/263071979/) (Nov 2019)
+
+
 ### DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
 
 <p>
@@ -27,6 +32,8 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1mxJ-j38gcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+---
 
 ## Artificial Intelligence (AI)
 
@@ -77,6 +84,8 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 - [Top AI conference NIPS won't change its name amid growing protest over 'bad taste' acronym](https://www.theregister.co.uk/2018/10/29/nips_ai_conference/), The Register (Oct 2018)
 
 ## Community
+- NumFOCUS 2019 Community Leadership Award
+ - [](https://numfocus.org/blog)
 - NumFOCUS 2018 Annual Report [Outstanding Community Member](https://numfocus.org/wp-content/uploads/2019/04/NumFOCUS-Annual-Report-2018-FINAL.pdf) (pages 4 and 23), 2019
 - [Neo4j Featured Community Member](https://neo4j.com/blog/this-week-in-neo4j-deep-feature-learning-for-graphs-decision-trees-customer-journey-analytics/), 2018
 - [Interview with Co-Founder and Researcher at Fast.ai: Dr. Rachel Thomas](https://hackernoon.com/interview-with-the-co-founder-and-researcher-at-fast-ai-dr-rachel-thomas-b00e1702a28a), 2018
