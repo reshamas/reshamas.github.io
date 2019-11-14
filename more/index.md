@@ -32,6 +32,8 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 </p>
 
 
+<p>
+ </p>
 
 ### DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
 
@@ -39,12 +41,18 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQUym4rbD_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<p>
+ </p>
+ 
 ### Better Together Diversity Networking Luncheon (April 17, 2019)
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1mxJ-j38gcU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+<p>
+ </p>
+ 
 ---
 
 ## Artificial Intelligence (AI)
