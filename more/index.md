@@ -85,7 +85,7 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 
 ## Community
 - NumFOCUS 2019 Community Leadership Award
- - [](https://numfocus.org/blog)
+ - [* coming soon *](https://numfocus.org/blog)
 - NumFOCUS 2018 Annual Report [Outstanding Community Member](https://numfocus.org/wp-content/uploads/2019/04/NumFOCUS-Annual-Report-2018-FINAL.pdf) (pages 4 and 23)
 - [Neo4j Featured Community Member](https://neo4j.com/blog/this-week-in-neo4j-deep-feature-learning-for-graphs-decision-trees-customer-journey-analytics/), 2018
 - [Interview with Co-Founder and Researcher at Fast.ai: Dr. Rachel Thomas](https://hackernoon.com/interview-with-the-co-founder-and-researcher-at-fast-ai-dr-rachel-thomas-b00e1702a28a), 2018
