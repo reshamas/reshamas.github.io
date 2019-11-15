@@ -47,8 +47,12 @@ The sprints have typically been led by a scikit-learn core contributor.  These a
 2.  If your chapter is located in a city where conferences are held, it is possible to plan a sprint around the date when the core contributor is in town.  We did that for the Bay Area 2019 sprint.  Andreas Mueller was in San Francisco for ODSC West, and thus the sprint was scheduled for the Saturday after the conference.  
 3.  It is possible to have a core contributor fly into your city, if a core contributor is available and if funding to cover travel is available.  We did that for the Nairobi 2019 sprint.  I asked on the [scikit-learn mailing list] and a contributor was interested.  For funding, can connect with the scikit-learn and WiMLDS team.  It is helpful to do research on estimated cost of flight and lodging for at least two days for budget considerations.  
 
-### Teaching Assistants
-In addition to the core contributor, it is important to have experienced users of scikit-learn and Git users who can help answer participants questions.  
+### Event Helpers:  Scikit-learn Experts, Teaching Assistants & Helpers
+In addition to the core contributor, it is important to have experienced users of scikit-learn and Git users who can help answer participants questions.  Try to recruit as many scikit-learn expert users as you can to assist participants in answering questions.  
+
+Other helpers who are familiar with Git and setting up virtual environment is helpful.  Developers who use scikit-learn and understand Python coding, unit testing and algorithms will be able to mentor as well.
+
+In addition, it is helpful to have general volunteers who can help with signing in attendees and setting up food, taking photos and tweeting.  
 
 ### Marketing
 
