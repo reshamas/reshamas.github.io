@@ -1,3 +1,10 @@
+---
+layout: single
+title: sprint template email
+tags: 
+comments: false
+---
+
 <p>Hi Everyone,</p>
 <p>Looking forward to seeing you Saturday, Nov 2 for the scikit-learn sprint (https://tinyurl.com/sf2019-sprint).&nbsp; Please read below for reminders.</p>
 <p><span style="color: #ff0000;">-------------------------</span></p>
