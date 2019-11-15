@@ -145,7 +145,7 @@ Below are resources.  WiMLDS organizers are free to copy the templates and edit 
 1.  Repository (GitHub):  [https://github.com/WiMLDS/bayarea-2019-scikit-sprint/](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/)
 2.  Event website (Google Sites):  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint)
 3.  Application (Google Forms):  [Bay Area sprint application](https://forms.gle/sfS9BZBLYftThGot7)
-4.  Marketing (Canva):  [canva.come](https://www.canva.com) Examples
+4.  Marketing (Canva):  [canva.com](https://www.canva.com). Examples:  
     - [Save the Date card](https://www.canva.com/design/DADd9esnmgU/VQMJwikhM9d_aJ2kuPulwA/view?utm_content=DADd9esnmgU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
     - [Sponsors](https://www.canva.com/design/DADp3nd3C-Q/uGZJhD2YDgeXPkiQdZn84g/view?utm_content=DADp3nd3C-Q&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
     - [Event collage](https://www.canva.com/design/DADqOnOiDqg/JPAiWkjulIF-U4usIiZe7w/view?utm_content=DADqOnOiDqg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
