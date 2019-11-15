@@ -17,7 +17,10 @@ Contact me for my hourly rates:  reshama dot shaikh @ gmail dot com
 I am also an organizer of the meetup groups [NYC Women in Machine Learning and Data Science](wimlds.org) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 ## Support me on Patreon
-These are some of my contributions to the community:  [WiMLDS volunteer contributions](wimlds_volunteer.md)
+These are some of my contributions to the community:  [Volunteer Contributions](wimlds_volunteer.md)  
+* WiMLDS 
+* Git Workshops
+* more 
 
 Support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
 
