@@ -57,6 +57,12 @@ In addition, it is helpful to have general volunteers who can help with signing 
 ### Marketing
 
 ### Preparation Emails
+Here is a [template email of reminders](https://reshamas.github.io/resources/sprint_template_email/) to send to participants.  It's a good idea to send several reminders, leading up the event:  
+* 7 days prior
+* 3 days prior
+* 1 day prior
+
+You can adjust the text depending on your location and cultural preferences.  
 
 ### Pre-event Virtual Environment Set-up
 Setting up the virtual environment can take some time, and some meetup groups may choose to have a "pre-event" meetup where participants can set up their working environment and be prepared for sprint day.  This is also useful where wi-fi may be slow and cause delays in set-up.  
