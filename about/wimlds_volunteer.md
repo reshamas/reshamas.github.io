@@ -52,4 +52,9 @@ These are contributions I have made to WiMLDS over the past 5 years.
 - Supported global chapters by responding to inquiries, processing payments, etc. 
 
 
+ ---
+ 
+ ## Software Carpentry
+ * [Pilot Survey Focus Group Update](https://datacarpentry.org/blog/2017/10/survey-focus-group-update)
+ 
  
