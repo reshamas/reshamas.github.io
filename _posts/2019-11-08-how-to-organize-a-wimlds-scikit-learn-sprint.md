@@ -5,6 +5,7 @@
 **A:**  It is a full day (6 to 8 hours) hands on session or hackathon, where users convene and work on issues on an open source library.  
 
 ##  Key Logistics
+These are the key logistics necessary for the sprint:  
 - date
 - venue
 - a Saturday (or Sunday) is preferable  (depends on region)
@@ -31,6 +32,8 @@ This list of issues is curated by the scikit-learn core contributor who will be 
 - Example:  https://github.com/WiMLDS/bayarea-2019-scikit-sprint/projects/1
 - Owner:  scikit-learn core contributor
 
+It's a good idea to email the scikit-learn core contributor two weeks in advance of the sprint and remind them to curate the list.  The list should be ready about one week in advance of the sprint and the link should be shared with participants so they can begin looking at the types of issues they will work on.  
+
 ### Sprint Application
 It is helpful that sprint participants have some experience with Python and scikit-learn library in order to learn from this event. Git is helpful but not required.  Participants will work in pairs, so it is likely that someone else at event (pair partner or TA) can help with git. 
 
@@ -51,14 +54,43 @@ In addition to the core contributor, it is important to have experienced users o
 
 ### Preparation Emails
 
+### Pre-event Virtual Environment Set-up
+Setting up the virtual environment can take some time, and some meetup groups may choose to have a "pre-event" meetup where participants can set up their working environment and be prepared for sprint day.  This is also useful where wi-fi may be slow and cause delays in set-up.  
+
+Instructions for setting up virtual environment are available in two places:  
+* [Crash Course in Contributing to Open Source](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/blob/master/scikit-learn-sprint-instructions.pdf)
+* [scikit-learn Contributing Documentation](https://scikit-learn.org/stable/developers/contributing.html)
+
+
+---
 
 ## Sprint Day
 
+### Nametags
+Nametags are highly encouraged.  They faciliate networking.  This is the recommended items to include:  
+* First Name (required)
+* Affiliation (highly recommended)
+* Last Name (optional)
+* Pronoun (optional)
+
 ### Pair Programming
 
+Pair programming is highly encouraged, but not required.  Attendees can find a partner sitting near them.  If some people are still looking for a partner, the WiMLDS organizer can connect people at the event.  
 
 
 ### Social Media
+It is important to share the sprint on social media.  It raises the visibility of WiMLDS, scikit-learn, python and open source.  It also helps in the planning of future events.  The awareness of the event aids in procuring event space and sponsorship.  
+
+---
+
+## Post-sprint
+
+### Twitter Moments
+Here are examples of collated Twitter Moments:  
+- [Nairobi 2019 sprint](https://twitter.com/i/moments/1142418211914309632)
+- [NYC 2019 sprint](https://twitter.com/i/moments/1168528872553570304)
+
+
 
 ---
 
@@ -99,7 +131,18 @@ It is helpful to include:
 ---
 
 ## Resources
-Below are resources.  WiMLDS organizers are free to copy the templates and edit for their sprints.
+Below are resources.  WiMLDS organizers are free to copy the templates and edit for their sprints.  For Google docs, you can email me at *reshama at wimlds dot org* and I can copy the documents from a previous sprint, rename for your sprint, and give you edit access:  
+1.  Repository (GitHub):  [https://github.com/WiMLDS/bayarea-2019-scikit-sprint/](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/)
+2.  Event website (Google Sites):  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint)
+3.  Application (Google Forms):  [Bay Area sprint application](https://forms.gle/sfS9BZBLYftThGot7)
+4.  Marketing (Canva):  [canva.come](https://www.canva.com) Examples
+    - [Save the Date card](https://www.canva.com/design/DADd9esnmgU/VQMJwikhM9d_aJ2kuPulwA/view?utm_content=DADd9esnmgU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+    - [Sponsors](https://www.canva.com/design/DADp3nd3C-Q/uGZJhD2YDgeXPkiQdZn84g/view?utm_content=DADp3nd3C-Q&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+    - [Event collage](https://www.canva.com/design/DADqOnOiDqg/JPAiWkjulIF-U4usIiZe7w/view?utm_content=DADqOnOiDqg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+5.  Marketing (tweets)
+    - [Save the date](https://twitter.com/wimlds/status/1157076035827056641)
+    - [Applications open](https://twitter.com/reshamas/status/1144301781545041920)
+6.  Impact report:  [Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
 
 
 
