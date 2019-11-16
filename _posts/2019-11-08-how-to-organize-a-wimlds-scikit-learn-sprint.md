@@ -16,53 +16,57 @@ These are the key logistics necessary for the sprint:
 ##  Organizing the Event
 
 ### Sprint Website
-Create a website with all information so all organizers and attendees can easily find what they need in a central place.  
+Create a website with all information so all organizers and attendees can easily find what they need in a central place.   - Owner:  WiMLDS sprint organizer 
 - Example:  [Bay Area WiMLDS 2019 sprint](https://tinyurl.com/sf2019-sprint)
 - Note:  this site is created using Google Sites.  It is helpful to use tinyurl, such as:  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint)
-- Owner:  WiMLDS sprint organizer
+- Getting started:  Rather than creating the website from scratch, you can email me and I can copy the Bay Area google sites, rename it to your site, and you can edit it.  
+
 
 ### GitHub Repo for Sprint
-This repository holds more detailed information for sprint day including documents, list of issues, etc.
+This repository holds more detailed information for sprint day including documents, list of issues, etc.  
+- Owner:  WiMLDS sprint organizer  
 - Example:  [bayarea-2019-scikit-sprint](https://github.com/WiMLDS/bayarea-2019-scikit-sprint)
-- To request a blank repo to created, send an email to *info@wimlds.org* with GitHub IDs of users who need access to it, including sprint organizers and scikit-learn core contributors
-- Owner:  WiMLDS sprint organizer   
+- Getting started:  To request a blank repo to be created, send an email to *info@wimlds.org* with GitHub IDs of users who need access to it, including sprint organizers and scikit-learn core contributors
+ 
 
-### Curating List of Beginner-friendly Issues for the Sprint
-This list of issues is curated by the scikit-learn core contributor who will be leading the sprint.  
-- Example:  https://github.com/WiMLDS/bayarea-2019-scikit-sprint/projects/1
-- Owner:  scikit-learn core contributor
-
-It's a good idea to email the scikit-learn core contributor two weeks in advance of the sprint and remind them to curate the list.  The list should be ready about one week in advance of the sprint and the link should be shared with participants so they can begin looking at the types of issues they will work on.  
 
 ### Sprint Application
 It is helpful that sprint participants have some experience with Python and scikit-learn library in order to learn from this event. Git is helpful but not required.  Participants will work in pairs, so it is likely that someone else at event (pair partner or TA) can help with git. 
 
 It is up to the discretion of the sprint organizer regarding what information to collect based on regional and cultural norms.  (Example:  some regions may not collect gender.)  
-- Example:  [sprint application](https://sites.google.com/view/bay-area-wimlds-2019-sprint/about/application-form)
 - Owner:  WiMLDS sprint organizer
+- Example:  [sprint application](https://sites.google.com/view/bay-area-wimlds-2019-sprint/about/application-form)
+- Getting started:  Rather than creating the application from scratch, you can email me and I can copy a previous application, rename it to your city event, and you can edit it.  
 
 ### Scikit-learn Core Contributor
 The sprints have typically been led by a scikit-learn core contributor.  These are the avenues for engaging a core contributor to lead a sprint:  
 1.  If there are core contributors residing in the city of the sprint, that is the easiest.  The [active list of core contributors](https://scikit-learn.org/stable/about.html) is available on the scikit-learn website.
-2.  If your chapter is located in a city where conferences are held, it is possible to plan a sprint around the date when the core contributor is in town.  We did that for the Bay Area 2019 sprint.  Andreas Mueller was in San Francisco for ODSC West, and thus the sprint was scheduled for the Saturday after the conference.  
-3.  It is possible to have a core contributor fly into your city, if a core contributor is available and if funding to cover travel is available.  We did that for the Nairobi 2019 sprint.  I asked on the [scikit-learn mailing list] and a contributor was interested.  For funding, can connect with the scikit-learn and WiMLDS team.  It is helpful to do research on estimated cost of flight and lodging for at least two days for budget considerations.  
+2.  If your chapter is located in a city where conferences are held, it is possible to plan a sprint around the date when a core contributor is in town.  We did that for the Bay Area 2019 sprint.  Andreas Mueller was in San Francisco for ODSC West, and thus the sprint was scheduled for the Saturday after the conference.  
+3.  It is possible to have a core contributor fly into your city, if a core contributor is available and if funding to cover travel is available.  We did that for the Nairobi 2019 sprint.  I asked on the [scikit-learn mailing list] and a contributor was interested.  
+
+#### Funding for Contributor
+For funding, first step is to do research on estimated cost of flight and lodging for at least two days for budget considerations.  There are a few options for funding:  
+1. try to find a sponsor
+2. can connect with the scikit-learn team
+3. can connect with the WiMLDS team
+ 
+### Curating List of Beginner-friendly Issues for the Sprint
+This list of issues is curated by the scikit-learn core contributor who will be leading the sprint.  
+- Owner:  scikit-learn core contributor
+- Example:  https://github.com/WiMLDS/bayarea-2019-scikit-sprint/projects/1
+
+It's a good idea to email the scikit-learn core contributor two weeks in advance of the sprint and remind them to curate the list.  The list should be ready about one week in advance of the sprint and the link should be shared with participants so they can begin looking at the types of issues they will work on.  
+
+### Event Sponsorship   
+It is best to tap into your local network and find a venue that can host.  For food, sometimes the venue that is hosting can sponsor it.  If not, you can look for a separate sponsor for refreshments.
+
 
 ### Event Helpers:  Scikit-learn Experts, Teaching Assistants & Helpers
 In addition to the core contributor, it is important to have experienced users of scikit-learn and Git users who can help answer participants questions.  Try to recruit as many scikit-learn expert users as you can to assist participants in answering questions.  
 
-Other helpers who are familiar with Git and setting up virtual environment is helpful.  Developers who use scikit-learn and understand Python coding, unit testing and algorithms will be able to mentor as well.
+Other helpers who are familiar with Git and setting up virtual environment are helpful.  Developers who use scikit-learn and understand Python coding, unit testing and algorithms will be able to mentor as well.
 
 In addition, it is helpful to have general volunteers who can help with signing in attendees and setting up food, taking photos and tweeting.  
-
-### Marketing
-
-### Preparation Emails
-Here is a [template email of reminders](https://reshamas.github.io/resources/sprint_template_email/) to send to participants.  It's a good idea to send several reminders, leading up the event:  
-* 7 days prior
-* 3 days prior
-* 1 day prior
-
-You can adjust the text depending on your location and cultural preferences.  
 
 ### Pre-event Virtual Environment Set-up
 Setting up the virtual environment can take some time, and some meetup groups may choose to have a "pre-event" meetup where participants can set up their working environment and be prepared for sprint day.  This is also useful where wi-fi may be slow and cause delays in set-up.  
@@ -72,11 +76,32 @@ Instructions for setting up virtual environment are available in two places:
 * [scikit-learn Contributing Documentation](https://scikit-learn.org/stable/developers/contributing.html)
 
 
+## Marketing
+Marketing the event can be done through various avenues:  
+1.  Meetup group announcement / event
+2.  Twitter
+3.  LinkedIn
+4.  Slack
+5.  Reach out to other communities in your area (PyLadies, etc.) to share the event
+
+### Social Media Cards
+We use [Canva.com](https://www.canva.com) to create social media cards.  
+
+### Preparation Emails
+Here is a [template email of reminders](https://reshamas.github.io/resources/sprint_template_email/) to send to participants.  It's a good idea to send several reminders, leading up the event:  
+* 7 days prior
+* 3 days prior
+* 1 day prior
+
+You can adjust the text depending on your location and cultural preferences.  
+
+
 ---
 
 ## Sprint Day
 
 ### Nametags
+
 Nametags are highly encouraged.  They faciliate networking.  This is the recommended items to include:  
 * First Name (required)
 * Affiliation (highly recommended)
@@ -89,7 +114,7 @@ Pair programming is highly encouraged, but not required.  Attendees can find a p
 
 
 ### Social Media
-It is important to share the sprint on social media.  It raises the visibility of WiMLDS, scikit-learn, python and open source.  It also helps in the planning of future events.  The awareness of the event aids in procuring event space and sponsorship.  
+It is important to share the sprint on social media.  It raises the visibility of WiMLDS, scikit-learn, python and open source.  It also helps in the planning of future events.  Raising public awareness of the event aids in procuring event space and sponsorship.  
 
 ---
 
@@ -112,19 +137,48 @@ Sprints should be scheduled around major national and religious holidays. A Satu
 ### Photography
 It is important to take photographs and share on social media to bring visibility to women in data science, scikit-learn and open source.  It is also important to be respectful of people's preferences and expectations for photography.  
 
+### Childcare
+If you can find sponsorship for childcare that is wonderful.  If not, there are some other options, up to the discretion of the WiMLDS organizer:   
+1.  Permit partner of attendee to attend to assist in taking care of child
+2.  Allow sprint participant to bring children to event
+
 ### Mother's Room
+Check with the venue and see if the following can be arranged:    
+1.  Private room where a woman can pump
+2.  Access to a refrigerator to store milk
+
+It is helpful to arrange this accommodation prior to opening up applications for the sprint and include it on the sprint website.  When done this way, an attendee does not have to make a special request and this accommodation gives more applicants the option to apply.  
 
 
 ### Food
-To 
+When arranging food with the sponsor, it's important to accommodate for dietary needs:  
+1.  vegetarian
+2.  dairy free
+3.  gluten free
+4.  etc. 
 
 ---
 
 ## Post-sprint
 
-### Blogs
-
 ### Follow-up on PRs
+While the sprint is a full day event, most PRs (pull requests) will not be merged at the event.  PRs require review by core contributors and making changes is part of the typical back and forth.  It's important to communicate that to attendees.  Some resources and time should be set aside by both sprint participants and WiMLDS organizers to ensure that the work began during the sprint is completed.  
+
+### Blogs
+The WiMLDS organizer or an attendee can write a blog about their experience.  It's a good way to document the event, share with the community, and also for procuring future sponsorships.  There can be multiple blogs, as different attendees have different perspectives.  Blogs can be placed in any of the following platforms:  
+1.  individual's personal blog
+2.  Medium blog
+3.  published on wimlds.org website
+
+Here are examples of blogs from previous events:  
+- Bay Area 2019:  [Of Coding Sprints and Half Marathons](https://medium.com/@valentinaborghesani/of-coding-sprints-and-half-marathons-2b4755f21191)
+- Bay Area 2019:  [Highlights from the 2019 SF WiMLDS scikit-learn Open-Source Sprint](https://medium.com/wimlds-bay-area-blog/highlights-from-the-2019-sf-wimlds-scikit-learn-open-source-sprint-bed9075d69c3)
+- New York City 2019:  [Sprinting towards a more equitable future: The 2019 NYC WiMLDS Scikit-learn Sprint](https://medium.com/@kelly.carmody45/my-experience-at-the-2019-nyc-women-in-machine-learning-and-data-science-wimlds-scikit-learn-be776024ab7)
+- New York City 2018:  [Highlights From The 2018 NYC WiMLDS Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
+- Nairobi 2019:  [Highlights From The 2019 Nairobi Wimlds Scikit Sprint](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215) 
+- Nairobi 2019:  [scikit-learn sprint at Nairobi, Kenya](https://adrin.info/scikit-learn-sprint-at-nairobi-kenya.html) 
+- New York City 2017:  [2017 WiMLDS scikit-learn Sprint](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)
+
 
 ### Impact Report
 Below are some Sprint Impact Reports I have written.  Feel free to copy the template and edit for your sprint:  
@@ -145,7 +199,7 @@ Below are resources.  WiMLDS organizers are free to copy the templates and edit 
 1.  Repository (GitHub):  [https://github.com/WiMLDS/bayarea-2019-scikit-sprint/](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/)
 2.  Event website (Google Sites):  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint)
 3.  Application (Google Forms):  [Bay Area sprint application](https://forms.gle/sfS9BZBLYftThGot7)
-4.  Marketing (Canva):  [canva.com](https://www.canva.com). Examples:  
+4.  Marketing (social media cards):  [Canva.com](https://www.canva.com). Examples:  
     - [Save the Date card](https://www.canva.com/design/DADd9esnmgU/VQMJwikhM9d_aJ2kuPulwA/view?utm_content=DADd9esnmgU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
     - [Sponsors](https://www.canva.com/design/DADp3nd3C-Q/uGZJhD2YDgeXPkiQdZn84g/view?utm_content=DADp3nd3C-Q&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
     - [Event collage](https://www.canva.com/design/DADqOnOiDqg/JPAiWkjulIF-U4usIiZe7w/view?utm_content=DADqOnOiDqg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
