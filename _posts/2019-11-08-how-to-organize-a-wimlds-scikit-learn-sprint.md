@@ -249,12 +249,12 @@ Below are resources.  WiMLDS organizers are free to copy the templates and edit 
 | Repository (GitHub)  |  [https://github.com/WiMLDS/bayarea-2019-scikit-sprint/](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/) |
 | Event website (Google Sites) | [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint) 
 | Application (Google Forms) |  [Bay Area sprint application](https://forms.gle/sfS9BZBLYftThGot7)
-| Marketing (social media cards) | [Canva.com](https://www.canva.com).  
-| |    - [Save the Date card](https://www.canva.com/design/DADd9esnmgU/VQMJwikhM9d_aJ2kuPulwA/view?utm_content=DADd9esnmgU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-| |    - [Sponsors](https://www.canva.com/design/DADp3nd3C-Q/uGZJhD2YDgeXPkiQdZn84g/view?utm_content=DADp3nd3C-Q&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-| |    - [Event collage](https://www.canva.com/design/DADqOnOiDqg/JPAiWkjulIF-U4usIiZe7w/view?utm_content=DADqOnOiDqg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-| Marketing (tweets)  |   - [Save the date](https://twitter.com/wimlds/status/1157076035827056641)
-| |    - [Applications open](https://twitter.com/reshamas/status/1144301781545041920)
+| Marketing (social media cards) | [Canva.com](https://www.canva.com) 
+| |    [Save the Date card](https://www.canva.com/design/DADd9esnmgU/VQMJwikhM9d_aJ2kuPulwA/view?utm_content=DADd9esnmgU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+| |    [Sponsors](https://www.canva.com/design/DADp3nd3C-Q/uGZJhD2YDgeXPkiQdZn84g/view?utm_content=DADp3nd3C-Q&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+| |    [Event collage](https://www.canva.com/design/DADqOnOiDqg/JPAiWkjulIF-U4usIiZe7w/view?utm_content=DADqOnOiDqg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+| Marketing (tweets)  |   [Save the date](https://twitter.com/wimlds/status/1157076035827056641)
+| |    [Applications open](https://twitter.com/reshamas/status/1144301781545041920)
 | Feedback Form (Google Forms) | [Feedback Survey](https://forms.gle/BcqYKNe1rYReffEZ9)
 | Impact report |  [Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
 
