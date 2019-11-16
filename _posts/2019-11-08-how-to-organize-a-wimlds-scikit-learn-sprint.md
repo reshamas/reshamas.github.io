@@ -7,6 +7,17 @@ Notes
  <span style="color: #ff0000;">2. <i> This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also for any other open source library. </i> </span>
  </span></p>
 
+<p><span style="background-color: #ffff00;"><i> This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also for any other open source library. </i> </span>
+ </p>	 </p>
+
+
+this one?
+
+ <p>
+ <span style="color: #ff0000;">><i> This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also for any other open source library. </i> </span>
+ </span></p>
+ 
+ 
  
 ## Intro
 **Q:  What is an open source sprint?**  
