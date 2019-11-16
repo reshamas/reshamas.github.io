@@ -28,7 +28,7 @@ comments: false
 </ul>
 <p><span style="color: #0000ff;"><strong style="color: #000000;">TWEETING (SOCIAL MEDIA)</strong></span></p>
 <p><span style="color: #000000;">We encourage you to take photos and share on Twitter and LinkedIn.&nbsp; Sharing about the event brings visibility to scikit-learn, WiMLDS and open source.&nbsp; <span style="background-color: #ffff00;">And importantly, it helps us to get sponsors for future events.&nbsp;</span></span></p>
-<p><span style="color: #000000;">Event hashtag:&nbsp; <strong><span style="color: #ff00ff;">#scikitsprint</span></strong></span></p>
+<p><span style="color: #000000;">Event hashtag:&nbsp; <strong><span style="color: #ff00ff;">#ScikitLearnSprint</span></strong></span></p>
 <p><span style="color: #000000;">Here are twitter handles for our event sponsors:&nbsp;&nbsp;</span></p>
 <ul style="box-sizing: border-box; padding-left: 2em; margin-top: 0px; margin-bottom: 16px; color: #24292e; font-family: -apple-system, system-ui, 'Segoe UI', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji'; font-size: 16px;">
 <li style="box-sizing: border-box;">@UCSF</li>
