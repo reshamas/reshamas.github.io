@@ -163,7 +163,7 @@ The WiMLDS organizer typically does an introduction and can include the followin
 
 ### Pair Programming
 
-Pair programming is highly encouraged, but not required.  Attendees can find a partner sitting near them.  If some people are still looking for a partner, the WiMLDS organizer can connect people at the event.  
+Pair programming is highly encouraged, but not required.  Attendees can find a partner sitting near them.  If some people are still looking for a partner, the WiMLDS organizer can connect people at the event.  Most attendees will work in pairs.  
 
 
 ### Social Media
