@@ -21,17 +21,17 @@ These are the key logistics necessary for the sprint:
 
 ### Sprint Website
 Create a website with all information so all organizers and attendees can easily find what they need in a central place.   
-- Owner:  WiMLDS sprint organizer 
-- Example:  [Bay Area WiMLDS 2019 sprint](https://tinyurl.com/sf2019-sprint)
-- Note:  this site is created using Google Sites.  It is helpful to use tinyurl, such as:  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint)
-- Getting started:  Rather than creating the website from scratch, you can email me and I can copy the Bay Area google sites, rename it to your site, and you can edit it.  
+- **Owner:**  WiMLDS sprint organizer 
+- **Example:**  [Bay Area WiMLDS 2019 sprint](https://tinyurl.com/sf2019-sprint)
+- **Note:**  this site is created using Google Sites.  It is helpful to use tinyurl, such as:  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint)
+- **Getting started:**  Rather than creating the website from scratch, you can email me and I can copy the Bay Area google sites, rename it to your site, and you can edit it.  
 
 
 ### GitHub Repo for Sprint
 This repository holds more detailed information for sprint day including documents, list of issues, etc.  
-- Owner:  WiMLDS sprint organizer  
-- Example:  [bayarea-2019-scikit-sprint](https://github.com/WiMLDS/bayarea-2019-scikit-sprint)
-- Getting started:  To request a blank repo to be created, send an email to *info@wimlds.org* with GitHub IDs of users who need access to it, including sprint organizers and scikit-learn core contributors
+- **Owner:**  WiMLDS sprint organizer  
+- **Example:**  [bayarea-2019-scikit-sprint](https://github.com/WiMLDS/bayarea-2019-scikit-sprint)
+- **Getting started:**  To request a blank repo to be created, send an email to *info@wimlds.org* with GitHub IDs of users who need access to it, including sprint organizers and scikit-learn core contributors
  
 
 
@@ -39,9 +39,9 @@ This repository holds more detailed information for sprint day including documen
 It is helpful that sprint participants have some experience with Python and scikit-learn library in order to learn from this event. Git is helpful but not required.  Participants will work in pairs, so it is likely that someone else at event (pair partner or TA) can help with git. 
 
 It is up to the discretion of the sprint organizer regarding what information to collect based on regional and cultural norms.  (Example:  some regions may not collect gender.)  
-- Owner:  WiMLDS sprint organizer
-- Example:  [sprint application](https://sites.google.com/view/bay-area-wimlds-2019-sprint/about/application-form)
-- Getting started:  Rather than creating the application from scratch, you can email me and I can copy a previous application, rename it to your city event, and you can edit it.  
+- **Owner:**  WiMLDS sprint organizer
+- **Example:**  [sprint application](https://sites.google.com/view/bay-area-wimlds-2019-sprint/about/application-form)
+- **Getting started:**  Rather than creating the application from scratch, you can email me and I can copy a previous application, rename it to your city event, and you can edit it.  
 
 ### Scikit-learn Core Contributor
 The sprints have typically been led by a scikit-learn core contributor.  These are the avenues for engaging a core contributor to lead a sprint:  
@@ -57,8 +57,8 @@ For funding, first step is to do research on estimated cost of flight and lodgin
  
 ### Curating List of Beginner-friendly Issues for the Sprint
 This list of issues is curated by the scikit-learn core contributor who will be leading the sprint.  
-- Owner:  scikit-learn core contributor
-- Example:  https://github.com/WiMLDS/bayarea-2019-scikit-sprint/projects/1
+- **Owner:**  scikit-learn core contributor
+- **Example:**  https://github.com/WiMLDS/bayarea-2019-scikit-sprint/projects/1
 
 It's a good idea to email the scikit-learn core contributor two weeks in advance of the sprint and remind them to curate the list.  The list should be ready about one week in advance of the sprint and the link should be shared with participants so they can begin looking at the types of issues they will work on.  
 
@@ -190,8 +190,6 @@ When arranging food with the sponsor, it's important to accommodate for dietary 
 ---
 
 ## Post-sprint
-
-
 
 ### Follow-up on PRs
 While the sprint is a full day event, most PRs (pull requests) will not be merged at the event.  PRs require review by core contributors and making changes is part of the typical back and forth.  It's important to communicate that to attendees.  Some resources and time should be set aside by both sprint participants and WiMLDS organizers to ensure that the work began during the sprint is completed.  
