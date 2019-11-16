@@ -214,13 +214,15 @@ The WiMLDS organizer or an attendee can write a blog about their experience.  It
 3.  published on wimlds.org website
 
 Here are examples of blogs from previous events:  
-- Bay Area 2019:  [Of Coding Sprints and Half Marathons](https://medium.com/@valentinaborghesani/of-coding-sprints-and-half-marathons-2b4755f21191)
-- Bay Area 2019:  [Highlights from the 2019 SF WiMLDS scikit-learn Open-Source Sprint](https://medium.com/wimlds-bay-area-blog/highlights-from-the-2019-sf-wimlds-scikit-learn-open-source-sprint-bed9075d69c3)
+- Bay Area 2019
+    - [Of Coding Sprints and Half Marathons](https://medium.com/@valentinaborghesani/of-coding-sprints-and-half-marathons-2b4755f21191)
+    - [Highlights from the 2019 SF WiMLDS scikit-learn Open-Source Sprint](https://medium.com/wimlds-bay-area-blog/highlights-from-the-2019-sf-wimlds-scikit-learn-open-source-sprint-bed9075d69c3)
 - New York City 2019:  [Sprinting towards a more equitable future: The 2019 NYC WiMLDS Scikit-learn Sprint](https://medium.com/@kelly.carmody45/my-experience-at-the-2019-nyc-women-in-machine-learning-and-data-science-wimlds-scikit-learn-be776024ab7)
 - New York City 2018:  [Highlights From The 2018 NYC WiMLDS Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
-- Nairobi 2019:  [Highlights From The 2019 Nairobi Wimlds Scikit Sprint](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215) 
-- Nairobi 2019:  [scikit-learn sprint at Nairobi, Kenya](https://adrin.info/scikit-learn-sprint-at-nairobi-kenya.html) 
 - New York City 2017:  [2017 WiMLDS scikit-learn Sprint](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)
+- Nairobi 2019:  
+    - [Highlights From The 2019 Nairobi Wimlds Scikit Sprint](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215) 
+    - [scikit-learn sprint at Nairobi, Kenya](https://adrin.info/scikit-learn-sprint-at-nairobi-kenya.html) 
 
 ### Twitter Moments
 Here are examples of collated Twitter Moments:  
