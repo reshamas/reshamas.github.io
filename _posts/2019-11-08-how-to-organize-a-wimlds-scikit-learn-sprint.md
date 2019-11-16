@@ -76,7 +76,7 @@ Other helpers who are familiar with Git and setting up virtual environment are h
 
 In addition, it is helpful to have general volunteers who can help with signing in attendees and setting up food, taking photos and tweeting.  
 
-### Pre-event Virtual Environment Set-up
+### Pre-sprint Virtual Environment Set-up
 <a style="color:orange"><i> Optional  </i> </a>
 
 Setting up the virtual environment can take some time, and some meetup groups may choose to have a "pre-event" meetup where participants can set up their working environment and be prepared for sprint day.  This is also useful where wi-fi may be slow and cause delays in set-up.  
@@ -85,7 +85,7 @@ Instructions for setting up virtual environment are available in two places:
 * [Crash Course in Contributing to Open Source](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/blob/master/scikit-learn-sprint-instructions.pdf)
 * [scikit-learn Contributing Documentation](https://scikit-learn.org/stable/developers/contributing.html)
 
-### Pre-event Git workshop  
+### Pre-sprint Git workshop  
 <a style="color:orange"><i> Optional  </i> </a>
 
 You may want to organize an evening Git workshop meetup event prior to the sprint.  Here are some curriculum options:  
