@@ -114,15 +114,19 @@ You can adjust the text depending on your location and cultural preferences.
 ## Sprint Day
 
 ### Agenda
-The agenda typically goes as follows; you can adjust based on your preferences.  It is flexible based on your preferences.    
-- 9 to 9:30 am     Attendees arrive  (breakfast, set up audio/visual computer set up)
-- 9:30 to 9:40am   WiMLDS organizer introduces event
-- 9:40 to 10:15am  Core contributor introduces Contributing Process
-- 10:15am          Sprint 
-- 12:00 to 1pm     Lunch
-- 1:00 to 3:30pm   Sprinting
-- 3:30 to 3:45pm   Break
-- 3:45 to 6pm      Sprinting
+The agenda typically goes as follows; you can adjust based on your preferences.  It is flexible based on your preferences. 
+
+| Time   | Description  |
+| -------| -------------|
+| 8:00 to 8:30am | Organizers / Contributor / Helpers arrive  |
+| 9 to 9:30 am   |  Attendees arrive  (breakfast, set up audio/visual computer set up) |
+| 9:30 to 9:40am |  WiMLDS organizer introduces event |
+| 9:40 to 10:15am  | Core contributor introduces Contributing Process |
+| 10:15am          | Sprint |
+| 12:00 to 1pm     | Lunch  |
+| 1:00 to 3:30pm   | Sprinting |
+| 3:30 to 3:45pm   | Break     |
+| 3:45 to 6pm      | Sprinting |
 
 ### Nametags
 
@@ -191,6 +195,9 @@ When arranging food with the sponsor, it's important to accommodate for dietary 
 ### Follow-up on PRs
 While the sprint is a full day event, most PRs (pull requests) will not be merged at the event.  PRs require review by core contributors and making changes is part of the typical back and forth.  It's important to communicate that to attendees.  Some resources and time should be set aside by both sprint participants and WiMLDS organizers to ensure that the work began during the sprint is completed.  
 
+Aim to complete the outstanding PRs within 60 days of the sprint. 
+
+
 ### Blogs
 The WiMLDS organizer or an attendee can write a blog about their experience.  It's a good way to document the event, share with the community, and also for procuring future sponsorships.  There can be multiple blogs, as different attendees have different perspectives.  Blogs can be placed in any of the following platforms:  
 1.  individual's personal blog
@@ -230,23 +237,26 @@ It is helpful to include:
 - what worked well
 - what could be better
 
+Aim to publish the impact report within 60 days of the sprint. 
 
 ---
 
 ## Resources
-Below are resources.  WiMLDS organizers are free to copy the templates and edit for their sprints.  For Google docs, you can email me at *reshama at wimlds dot org* and I can copy the documents from a previous sprint, rename for your sprint, and give you edit access:  
-1.  Repository (GitHub):  [https://github.com/WiMLDS/bayarea-2019-scikit-sprint/](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/)
-2.  Event website (Google Sites):  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint)
-3.  Application (Google Forms):  [Bay Area sprint application](https://forms.gle/sfS9BZBLYftThGot7)
-4.  Marketing (social media cards):  [Canva.com](https://www.canva.com). Examples:  
-    - [Save the Date card](https://www.canva.com/design/DADd9esnmgU/VQMJwikhM9d_aJ2kuPulwA/view?utm_content=DADd9esnmgU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-    - [Sponsors](https://www.canva.com/design/DADp3nd3C-Q/uGZJhD2YDgeXPkiQdZn84g/view?utm_content=DADp3nd3C-Q&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-    - [Event collage](https://www.canva.com/design/DADqOnOiDqg/JPAiWkjulIF-U4usIiZe7w/view?utm_content=DADqOnOiDqg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
-5.  Marketing (tweets)
-    - [Save the date](https://twitter.com/wimlds/status/1157076035827056641)
-    - [Applications open](https://twitter.com/reshamas/status/1144301781545041920)
-6.  Feedback form (Google Forms):  [feedback survey](https://forms.gle/BcqYKNe1rYReffEZ9)
-7.  Impact report:  [Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
+Below are resources.  WiMLDS organizers are free to copy the templates and edit for their sprints.  For Google docs, you can email me at *reshama at wimlds dot org* and I can copy the documents from a previous sprint, rename for your sprint, and give you edit access.  
+
+| Resource   | Reference  |
+| -------| -------------|
+| Repository (GitHub)  |  [https://github.com/WiMLDS/bayarea-2019-scikit-sprint/](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/) |
+| Event website (Google Sites) | [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint) 
+| Application (Google Forms) |  [Bay Area sprint application](https://forms.gle/sfS9BZBLYftThGot7)
+| Marketing (social media cards) | [Canva.com](https://www.canva.com).  
+| |    - [Save the Date card](https://www.canva.com/design/DADd9esnmgU/VQMJwikhM9d_aJ2kuPulwA/view?utm_content=DADd9esnmgU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+| |    - [Sponsors](https://www.canva.com/design/DADp3nd3C-Q/uGZJhD2YDgeXPkiQdZn84g/view?utm_content=DADp3nd3C-Q&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+| |    - [Event collage](https://www.canva.com/design/DADqOnOiDqg/JPAiWkjulIF-U4usIiZe7w/view?utm_content=DADqOnOiDqg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+| Marketing (tweets)  |   - [Save the date](https://twitter.com/wimlds/status/1157076035827056641)
+| |    - [Applications open](https://twitter.com/reshamas/status/1144301781545041920)
+| Feedback Form (Google Forms) | [Feedback Survey](https://forms.gle/BcqYKNe1rYReffEZ9)
+| Impact report |  [Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
 
 
 
