@@ -1,6 +1,8 @@
 
 Notes    
-1.  *Below are instructions and guidelines for organizing a WiMLDS scikit-learn sprint.*
+ <p>
+ <span style="color: #ff0000;">1. <i> Below are instructions and guidelines for organizing a WiMLDS scikit-learn sprint. </i> </span>
+ </span></p>
 <p>
  <span style="color: #ff0000;">2. <i> This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also for any other open source library. </i> </span>
  </span></p>
