@@ -113,7 +113,7 @@ Marketing the event can be done through various avenues:
 5.  Reach out to other communities in your area (PyLadies, etc.) to share the event
 
 ### Hashtags
-The hashtag for the sprints is <a style="color:blue"><i>#ScikitLearnSprint   </i> </a>
+The hashtag for the sprints is <a style="color:purple"> #ScikitLearnSprint    </a>
 
 ### Social Media Cards
 We use [Canva.com](https://www.canva.com) to create social media cards.  
