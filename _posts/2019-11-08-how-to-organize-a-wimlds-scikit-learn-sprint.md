@@ -100,6 +100,17 @@ You can adjust the text depending on your location and cultural preferences.
 
 ## Sprint Day
 
+### Agenda
+The agenda typically goes as follows; you can adjust based on your preferences.  It is flexible based on your preferences.    
+- 9 to 9:30 am     Attendees arrive  (breakfast, set up audio/visual computer set up)
+- 9:30 to 9:40am   WiMLDS organizer introduces event
+- 9:40 to 10:15am  Core contributor introduces Contributing Process
+- 10:15am          Sprint 
+- 12:00 to 1pm     Lunch
+- 1:00 to 3:30pm   Sprinting
+- 3:30 to 3:45pm   Break
+- 3:45 to 6pm      Sprinting
+
 ### Nametags
 
 Nametags are highly encouraged.  They faciliate networking.  This is the recommended items to include:  
@@ -108,6 +119,19 @@ Nametags are highly encouraged.  They faciliate networking.  This is the recomme
 * Last Name (optional)
 * Pronoun (optional)
 
+### WiMLDS Organizer Introduction
+The WiMLDS organizer typically does an introduction and can include the following announcements.  There is a [list of reminders](https://github.com/WiMLDS/bayarea-2019-scikit-sprint/blob/master/sprint_planning/reminders.md) posted in the GH repo.  
+- wifi instructions
+- bathroom locations
+- Code of Conduct (read CoC, let people know they can contact you or another organizer with any concerns)
+- reminder to participants to take photos & tweet and share on social media (Twitter, LinkedIn, Instagram, etc.)
+- cleaning up:  *We are in a borrowed space, please clean up after yourself*
+- thank venue host
+- thank sponsors
+- Women's space:  respect it is a women's space
+  - Speaking: let others speak:  *Two people speak once before you speak twice* (From Write/Speak/Code)
+- feedback form:  complete feedback form 
+
 ### Pair Programming
 
 Pair programming is highly encouraged, but not required.  Attendees can find a partner sitting near them.  If some people are still looking for a partner, the WiMLDS organizer can connect people at the event.  
@@ -115,17 +139,6 @@ Pair programming is highly encouraged, but not required.  Attendees can find a p
 
 ### Social Media
 It is important to share the sprint on social media.  It raises the visibility of WiMLDS, scikit-learn, python and open source.  It also helps in the planning of future events.  Raising public awareness of the event aids in procuring event space and sponsorship.  
-
----
-
-## Post-sprint
-
-### Twitter Moments
-Here are examples of collated Twitter Moments:  
-- [Nairobi 2019 sprint](https://twitter.com/i/moments/1142418211914309632)
-- [NYC 2019 sprint](https://twitter.com/i/moments/1168528872553570304)
-
-
 
 ---
 
@@ -149,7 +162,6 @@ Check with the venue and see if the following can be arranged:
 
 It is helpful to arrange this accommodation prior to opening up applications for the sprint and include it on the sprint website.  When done this way, an attendee does not have to make a special request and this accommodation gives more applicants the option to apply.  
 
-
 ### Food
 When arranging food with the sponsor, it's important to accommodate for dietary needs:  
 1.  vegetarian
@@ -160,6 +172,8 @@ When arranging food with the sponsor, it's important to accommodate for dietary 
 ---
 
 ## Post-sprint
+
+
 
 ### Follow-up on PRs
 While the sprint is a full day event, most PRs (pull requests) will not be merged at the event.  PRs require review by core contributors and making changes is part of the typical back and forth.  It's important to communicate that to attendees.  Some resources and time should be set aside by both sprint participants and WiMLDS organizers to ensure that the work began during the sprint is completed.  
@@ -178,6 +192,18 @@ Here are examples of blogs from previous events:
 - Nairobi 2019:  [Highlights From The 2019 Nairobi Wimlds Scikit Sprint](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215) 
 - Nairobi 2019:  [scikit-learn sprint at Nairobi, Kenya](https://adrin.info/scikit-learn-sprint-at-nairobi-kenya.html) 
 - New York City 2017:  [2017 WiMLDS scikit-learn Sprint](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)
+
+### Twitter Moments
+Here are examples of collated Twitter Moments:  
+- [Nairobi 2019 sprint](https://twitter.com/i/moments/1142418211914309632)
+- [NYC 2019 sprint](https://twitter.com/i/moments/1168528872553570304)
+
+### Feedback Form
+There is a Feedback Form available.  Remind attendees at end of event to complete it. Also, include link to form in event follow-up email.  Share results of feedback form with all involved in organizing the sprint, including the core contributor.  Comments from sprint can be included in the Sprint Impact Report.
+
+- Owner:  WiMLDS sprint organizer
+- Example:  [feedback survey](https://forms.gle/BcqYKNe1rYReffEZ9)
+- Getting started:  Rather than creating the feedback form from scratch, you can email me and I can copy a previous application, rename it to your city event, and you can edit it.  
 
 
 ### Impact Report
@@ -206,7 +232,8 @@ Below are resources.  WiMLDS organizers are free to copy the templates and edit 
 5.  Marketing (tweets)
     - [Save the date](https://twitter.com/wimlds/status/1157076035827056641)
     - [Applications open](https://twitter.com/reshamas/status/1144301781545041920)
-6.  Impact report:  [Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
+6.  Feedback form (Google Forms):  [feedback survey](https://forms.gle/BcqYKNe1rYReffEZ9)
+7.  Impact report:  [Nairobi WiMLDS 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
 
 
 
