@@ -70,7 +70,8 @@ For food, sometimes the venue that is hosting can sponsor it.  If not, you can l
 
 
 ### Event Helpers:  Scikit-learn Experts, Teaching Assistants & Helpers
-*REQUIRED*   
+<a style="color:orange"><i> Required  </i> </a>
+
 In addition to the core contributor, it is important to have experienced users of scikit-learn and Git users who can help answer participants questions.  Try to recruit as many scikit-learn expert users as you can to assist participants in answering questions.  
 
 Other helpers who are familiar with Git and setting up virtual environment are helpful.  Developers who use scikit-learn and understand Python coding, unit testing and algorithms will be able to mentor as well.
@@ -78,7 +79,8 @@ Other helpers who are familiar with Git and setting up virtual environment are h
 In addition, it is helpful to have general volunteers who can help with signing in attendees and setting up food, taking photos and tweeting.  
 
 ### Pre-event Virtual Environment Set-up
-*OPTIONAL*  
+<a style="color:orange"><i> Optional  </i> </a>
+
 Setting up the virtual environment can take some time, and some meetup groups may choose to have a "pre-event" meetup where participants can set up their working environment and be prepared for sprint day.  This is also useful where wi-fi may be slow and cause delays in set-up.  
 
 Instructions for setting up virtual environment are available in two places:  
@@ -86,14 +88,15 @@ Instructions for setting up virtual environment are available in two places:
 * [scikit-learn Contributing Documentation](https://scikit-learn.org/stable/developers/contributing.html)
 
 ### Pre-event Git workshop  
-<a style="color:orange"><i> OPTIONAL  </i> </a>
+<a style="color:orange"><i> Optional  </i> </a>
 
 You may want to organize an evening Git workshop meetup event prior to the sprint.  Here are some curriculum options:  
 - [Git Workflows](https://github.com/reshamas/git-intro-workshop)
 - [Software Carpentry](https://swcarpentry.github.io/git-novice/)
 
 ### Donate to NumFOCUS
-*OPTIONAL; Encouraged*  
+<a style="color:orange"><i> Optional; Strongly encouraged  </i> </a>
+
 The fee for the sprints have typically been free.  The event has been organized by volunteers.  Attendees should be encouraged to donate some amount (nominal, such as $5 to $10, or more depending on their budget) to support the open source community.  
 
 Donations can be made on the [NumFOCUS website](https://numfocus.org/donate).  For donations, the following information can be provided to attendees:   
