@@ -70,8 +70,6 @@ For food, sometimes the venue that is hosting can sponsor it.  If not, you can l
 
 
 ### Event Helpers:  Scikit-learn Experts, Teaching Assistants & Helpers
-<a style="color:orange"><i> Required  </i> </a>
-
 In addition to the core contributor, it is important to have experienced users of scikit-learn and Git users who can help answer participants questions.  Try to recruit as many scikit-learn expert users as you can to assist participants in answering questions.  
 
 Other helpers who are familiar with Git and setting up virtual environment are helpful.  Developers who use scikit-learn and understand Python coding, unit testing and algorithms will be able to mentor as well.
