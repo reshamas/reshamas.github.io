@@ -20,7 +20,8 @@ These are the key logistics necessary for the sprint:
 ##  Organizing the Event
 
 ### Sprint Website
-Create a website with all information so all organizers and attendees can easily find what they need in a central place.   - Owner:  WiMLDS sprint organizer 
+Create a website with all information so all organizers and attendees can easily find what they need in a central place.   
+- Owner:  WiMLDS sprint organizer 
 - Example:  [Bay Area WiMLDS 2019 sprint](https://tinyurl.com/sf2019-sprint)
 - Note:  this site is created using Google Sites.  It is helpful to use tinyurl, such as:  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint)
 - Getting started:  Rather than creating the website from scratch, you can email me and I can copy the Bay Area google sites, rename it to your site, and you can edit it.  
