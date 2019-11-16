@@ -50,7 +50,7 @@ It is up to the discretion of the sprint organizer regarding what information to
 The sprints have typically been led by a scikit-learn core contributor.  These are the avenues for engaging a core contributor to lead a sprint:  
 1.  If there are core contributors residing in the city of the sprint, that is the easiest.  The [active list of core contributors](https://scikit-learn.org/stable/about.html) is available on the scikit-learn website.
 2.  If your chapter is located in a city where conferences are held, it is possible to plan a sprint around the date when a core contributor is in town.  We did that for the Bay Area 2019 sprint.  Andreas Mueller was in San Francisco for ODSC West, and thus the sprint was scheduled for the Saturday after the conference.  
-3.  It is possible to have a core contributor fly into your city, if a core contributor is available and if funding to cover travel is available.  We did that for the Nairobi 2019 sprint.  I asked on the [scikit-learn mailing list] and a contributor was interested.  
+3.  It is possible to have a core contributor fly into your city, if a core contributor and funding to cover their travel is available.  We did that for the Nairobi 2019 sprint.  I asked on the [scikit-learn mailing list] and a contributor was interested.  
 
 #### Funding for Contributor
 For funding, first step is to do research on estimated cost of flight and lodging for at least two days for budget considerations.  There are a few options for funding:  
