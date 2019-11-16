@@ -38,13 +38,13 @@ This repository holds more detailed information for sprint day including documen
 ### Sprint Application
 It is helpful that sprint participants have some experience with Python and scikit-learn library in order to learn from this event. 
 
-#### Git
-Git is helpful but not required.  Participants will work in pairs, so it is likely that someone else at event (pair partner or TA) can help with git. 
-
 It is up to the discretion of the sprint organizer regarding what information to collect based on regional and cultural norms.  (Example:  some regions may not collect gender.)  
 - **Owner:**  WiMLDS sprint organizer
 - **Example:**  [sprint application](https://sites.google.com/view/bay-area-wimlds-2019-sprint/about/application-form)
 - **Getting started:**  Rather than creating the application from scratch, you can email me and I can copy a previous application, rename it to your city event, and you can edit it.  
+
+#### Git
+Git is helpful but not required.  Participants will work in pairs, so it is likely that someone else at event (pair partner or TA) can help with git. 
 
 ### Scikit-learn Core Contributor
 The sprints have typically been led by a scikit-learn core contributor.  These are the avenues for engaging a core contributor to lead a sprint:  
