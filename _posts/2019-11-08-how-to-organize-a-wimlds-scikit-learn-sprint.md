@@ -1,13 +1,8 @@
 
-Note  
-- *Below are instructions and guidelines for organizing a WiMLDS scikit-learn sprint.*
-- *This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also in any other open source library.*  
-
-<p><span style="background-color: #ffff00;"><i> This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also for any other open source library. </i> </span>
- </p>
- 
- <p>
- <span style="color: #ff0000;">><i> This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also for any other open source library. </i> </span>
+Notes    
+1.  *Below are instructions and guidelines for organizing a WiMLDS scikit-learn sprint.*
+<p>
+ <span style="color: #ff0000;">2. <i> This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also for any other open source library. </i> </span>
  </span></p>
 
  
