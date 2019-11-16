@@ -70,6 +70,7 @@ For food, sometimes the venue that is hosting can sponsor it.  If not, you can l
 
 
 ### Event Helpers:  Scikit-learn Experts, Teaching Assistants & Helpers
+*REQUIRED*   
 In addition to the core contributor, it is important to have experienced users of scikit-learn and Git users who can help answer participants questions.  Try to recruit as many scikit-learn expert users as you can to assist participants in answering questions.  
 
 Other helpers who are familiar with Git and setting up virtual environment are helpful.  Developers who use scikit-learn and understand Python coding, unit testing and algorithms will be able to mentor as well.
@@ -89,6 +90,14 @@ Instructions for setting up virtual environment are available in two places:
 You may want to organize an evening Git workshop meetup event prior to the sprint.  Here are some curriculum options:  
 - [Git Workflows](https://github.com/reshamas/git-intro-workshop)
 - [Software Carpentry](https://swcarpentry.github.io/git-novice/)
+
+### Donate to NumFOCUS
+*OPTIONAL; Encouraged*  
+The fee for the sprints have typically been free.  The event has been organized by volunteers.  Attendees should be encouraged to donate some amount (nominal, such as $5 to $10, or more depending on their budget) to support the open source community.  
+
+Donations can be made on the [NumFOCUS website](https://numfocus.org/donate).  For donations, the following information can be provided to attendees:   
+- Donation dedication:  `scikit-learn`
+- Person to inform:  `info@wimlds.org`
 
 ## Marketing
 Marketing the event can be done through various avenues:  
