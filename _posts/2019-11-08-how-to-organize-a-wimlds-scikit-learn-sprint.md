@@ -126,7 +126,7 @@ You can adjust the text depending on your location and cultural preferences.
 ## Sprint Day
 
 ### Agenda
-The agenda typically goes as follows; you can adjust based on your preferences.  It is flexible based on your preferences. 
+The agenda typically goes as follows.  It is flexible based on your preferences. 
 
 | Time   | Description  |
 | -------| -------------|
