@@ -61,8 +61,11 @@ This list of issues is curated by the scikit-learn core contributor who will be 
 
 It's a good idea to email the scikit-learn core contributor two weeks in advance of the sprint and remind them to curate the list.  The list should be ready about one week in advance of the sprint and the link should be shared with participants so they can begin looking at the types of issues they will work on.  
 
-### Event Sponsorship   
-It is best to tap into your local network and find a venue that can host.  For food, sometimes the venue that is hosting can sponsor it.  If not, you can look for a separate sponsor for refreshments.
+### Event Space Sponsorship   
+It is best to tap into your local network and find a venue that can host.  
+
+### Food Sponsorship
+For food, sometimes the venue that is hosting can sponsor it.  If not, you can look for a separate sponsor for refreshments.  It is also possible to organize the event without providing food and have attendees bring their own lunch and snacks.  
 
 
 ### Event Helpers:  Scikit-learn Experts, Teaching Assistants & Helpers
