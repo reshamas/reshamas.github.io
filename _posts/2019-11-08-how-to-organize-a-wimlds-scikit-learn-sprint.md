@@ -3,7 +3,7 @@ Note
 - *Below are instructions and guidelines for organizing a WiMLDS scikit-learn sprint.*
 - *This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also in any other open source library.*  
 
-<p><span style="background-color: #ffff00;">test
+<p><span style="background-color: #ffff00;"><i> This resource is available for anyone outside of WiMLDS who wants to organize a sprint and also for any other open source library. </i> </span>
  </p>
  
  
