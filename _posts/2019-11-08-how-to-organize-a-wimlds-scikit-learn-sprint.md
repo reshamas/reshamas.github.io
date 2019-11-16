@@ -1,3 +1,10 @@
+Notes
+<p><span style="background-color: #ffff00;">1.  <i> Below are instructions and guidelines for organizing a WiMLDS scikit-learn sprint.  </i> </span>
+ </p>	 </p>
+
+<p><span style="background-color: #ffff00;">2.  <i> This resource is available for anyone outside of WiMLDS (including corporations) who wants to organize a sprint and also for any other open source library. </i> </span>
+ </p>	 </p>
+
 
 Notes    
  <p>
@@ -21,7 +28,7 @@ this one?
  
 ## Intro
 **Q:  What is an open source sprint?**  
-**A:**  It is a full day (6 to 8 hours) hands on session or hackathon, where users convene and work on issues on an open source library.  
+**A:**  It is a full day (6 to 8 hours) hands on session or hackathon, where users convene and work on issues on an open source library.  Sprints can span 1 or more days.  Beginners typically work on issues related to documentation, fixing error messages, etc. 
 
 ##  Key Logistics
 These are the key logistics necessary for the sprint:  
