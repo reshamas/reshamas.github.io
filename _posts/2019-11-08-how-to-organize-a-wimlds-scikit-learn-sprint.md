@@ -190,6 +190,8 @@ Sprints should be scheduled around major national and religious holidays. A Satu
 It is important to take photographs and share on social media to bring visibility to women in data science, scikit-learn and open source.  It is also important to be respectful of people's preferences and expectations for photography.  
 
 ### Childcare
+<a style="color:orange"><i> Optional  </i> </a>
+
 If you can find sponsorship for childcare that is wonderful.  If not, there are some other options, up to the discretion of the WiMLDS organizer:   
 1.  Permit partner of attendee to attend to assist in taking care of child
 2.  Allow sprint participant to bring children to event
@@ -202,7 +204,7 @@ Check with the venue and see if the following can be arranged:
 It is helpful to arrange this accommodation prior to opening up applications for the sprint and include it on the sprint website.  When done this way, an attendee does not have to make a special request and this accommodation gives more applicants the option to apply.  
 
 ### Food
-When arranging food with the sponsor, it's important to accommodate for dietary needs:  
+Having food that is accessible to people with various dietary considerations is inclusive.  These are some dietary needs to consider: 
 1.  vegetarian
 2.  dairy free
 3.  gluten free
