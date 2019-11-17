@@ -4,13 +4,17 @@
 </p>
 
 
-The Annual NumFOCUS Summit for 2019 took place the first weekend in November.  I am honored to receive the Community Leadership Award for my contributions in promoting diversity in the community.  Coincidentally, that is the same weekend that I was running the 3rd scikit-learn open source sprint of the year, this one in San Francisco:  [WiMLDS SF sprint](https://tinyurl.com/sf2019-sprint).
+The Annual NumFOCUS Summit for 2019 took place the first weekend in November.  I am honored to receive the Community Leadership Award for my contributions in promoting diversity in the community ([2019 NumFOCUS Awards and New Contributor Recognition](https://numfocus.org/blog/2019-numfocus-awards)).  Coincidentally, that is the same weekend that I was running the 3rd scikit-learn open source sprint of the year, this one in San Francisco:  [WiMLDS SF sprint](https://tinyurl.com/sf2019-sprint).
 
 It’s wonderful that both these events happened, even if both were the same weekend.  
 
 The SF chapter of WiMLDS (Women in Machine Learning & Data Science) was founded 6 years ago.  I’ve organized the sprint 3 years in a row in NYC (2017-2019), and after numerous emails, phone calls and calendar checks, and I was excited to bring the scikit sprint to the Bay Area WiMLDS for the first time.
 
 Receiving this award and running the sprint on the same day:  it was a good scheduling conflict to have.  I will take it. 🙂 
+
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats .<a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a>, .<a href="https://twitter.com/datapythonista?ref_src=twsrc%5Etfw">@datapythonista</a>, and many others on being recognized for their significant contributions! <a href="https://t.co/aXjYPApgzU">https://t.co/aXjYPApgzU</a></p>&mdash; Sean Law (@seanmylaw) <a href="https://twitter.com/seanmylaw/status/1195444472391307264?ref_src=twsrc%5Etfw">November 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
 
 ## Achievements
 
