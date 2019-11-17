@@ -4,7 +4,11 @@
 </p>
 
 
-The Annual NumFOCUS Summit for 2019 took place the first weekend in November.  I am honored to receive the Community Leadership Award for my contributions in promoting diversity in the community ([2019 NumFOCUS Awards and New Contributor Recognition](https://numfocus.org/blog/2019-numfocus-awards)).  Coincidentally, that is the same weekend that I was running the 3rd scikit-learn open source sprint of the year, this one in San Francisco:  [WiMLDS SF sprint](https://tinyurl.com/sf2019-sprint).
+The Annual NumFOCUS Summit for 2019 took place the first weekend in November.  I am honored to receive the Community Leadership Award for my contributions in promoting diversity in the community ([2019 NumFOCUS Awards and New Contributor Recognition](https://numfocus.org/blog/2019-numfocus-awards)).  
+
+>Reshama was selected to receive this award in acknowledgment of the strong positive impact she has had in diversifying the NumFOCUS community, particularly by focusing on the inclusion of more women. She served on the NumFOCUS Diversity & Inclusion in Scientific Computing (DISC) Steering Committee from 2017-2019 and has exemplified leadership by producing thoughtful, thought-provoking, and data-driven blogs that challenge the community to look squarely at our diversity problem and take action to correct it. Reshama was also instrumental in developing open source contributing sprints as a partnership between scikit-learn and Women in Machine Learning and Data Science, in an effort to get more women involved in the machine learning community.
+
+Coincidentally, that is the same weekend that I was running the 3rd scikit-learn open source sprint of the year, this one in San Francisco:  [WiMLDS SF sprint](https://tinyurl.com/sf2019-sprint).
 
 It’s wonderful that both these events happened, even if both were the same weekend.  
 
