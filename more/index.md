@@ -7,6 +7,11 @@ comments: false
 
 ## Talks
 
+### Transform Your Workplace:  [Mentoring Redefined with Reshama Shaikh](https://xeniumhr.libsyn.com/mentoring-redefined-with-reshema-shaikh) (Nov 2019)
+
+<p>
+<iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/12012983/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/4b4949/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+</p>
 
 ### Data Science Imposters: [Mentoring](https://datascienceimposters.com/2019/10/21/mentoring-with-reshama-shaikh/) (podcast) (Oct 2019)
 We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.github.io/rethinking-mentoring-in-data-science/)
