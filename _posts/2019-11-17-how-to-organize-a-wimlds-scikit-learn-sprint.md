@@ -240,6 +240,7 @@ Here are examples of blogs from previous events:
 
 ### Twitter Moments
 Here are examples of collated Twitter Moments:  
+- [Bay Area 2019 sprint](https://twitter.com/i/moments/1196432895549857794)
 - [Nairobi 2019 sprint](https://twitter.com/i/moments/1142418211914309632)
 - [NYC 2019 sprint](https://twitter.com/i/moments/1168528872553570304)
 
