@@ -69,6 +69,9 @@ This list of issues is curated by the scikit-learn core contributor who will be 
 
 It's a good idea to email the scikit-learn core contributor two weeks in advance of the sprint and remind them to curate the list.  The list should be ready about one week in advance of the sprint and the link should be shared with participants so they can begin looking at the types of issues they will work on.  
 
+Issues selected are labled `easy` or `good first issue`:  [issues list](https://github.com/scikit-learn/scikit-learn/issues)
+
+
 ### Event Space Sponsorship   
 It is best to tap into your local network and find a venue that can host.  
 
