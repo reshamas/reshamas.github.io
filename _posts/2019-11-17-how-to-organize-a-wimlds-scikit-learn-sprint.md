@@ -117,7 +117,9 @@ Marketing the event can be done through various avenues:
 2.  Twitter
 3.  LinkedIn
 4.  Slack
-5.  Reach out to other communities in your area (PyLadies, etc.) to share the event
+5.  Facebook groups
+6.  Reach out to other communities in your area (PyLadies, etc.) to share the event
+7.  Word of mouth:  invite people in the community who use python and scikit-learn
 
 ### Hashtags
 The hashtag for the sprints is <a style="color:purple"> #ScikitLearnSprint    </a>
