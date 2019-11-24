@@ -12,7 +12,7 @@ My [**DataFramed podcast**](https://www.datacamp.com/community/podcast/women-in-
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rQUym4rbD_E?start=2090" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</p float="left">
+</p>
 
 
 
