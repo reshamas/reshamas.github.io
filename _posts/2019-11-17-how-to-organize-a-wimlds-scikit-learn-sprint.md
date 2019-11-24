@@ -229,7 +229,8 @@ Aim to complete the outstanding PRs within 60 days of the sprint.
 The WiMLDS organizer or an attendee can write a blog about their experience.  It's a good way to document the event, share with the community, and also for procuring future sponsorships.  There can be multiple blogs, as different attendees have different perspectives.  Blogs can be placed in any of the following platforms:  
 1.  individual's personal blog
 2.  Medium blog
-3.  published on wimlds.org website
+3.  Publish on the sprint event website
+4.  published on wimlds.org website
 
 Here are examples of blogs from previous events:  
 - Bay Area 2019
