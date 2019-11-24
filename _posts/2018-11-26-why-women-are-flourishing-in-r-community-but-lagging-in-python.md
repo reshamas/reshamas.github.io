@@ -10,10 +10,7 @@ There is a general understanding in the world of data and coding that the R comm
 My [**DataFramed podcast**](https://www.datacamp.com/community/podcast/women-in-data-science) interview with Hugo Bowne-Anderson.  Pick up at 34:50 to 42:45 to hear discussion about this blog.  This podcast was recorded on 19-Dec-2018.  
 
 <p>
-  <a href="https://www.datacamp.com/community/podcast/women-in-data-science">
-  <img src="../assets/images/dataframed.png" width="60%" height="60%" style="border:0px;margin:0px">
-  </a>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rQUym4rbD_E?start=2090" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <p float="left">
 </p>
