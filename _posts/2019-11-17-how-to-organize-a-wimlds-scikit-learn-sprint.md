@@ -27,15 +27,13 @@ These are the key logistics necessary for the sprint:
 Create a website with all information so all organizers and attendees can easily find what they need in a central place.   
 - **Owner:**  WiMLDS sprint organizer 
 - **Example:**  [Bay Area WiMLDS 2019 sprint](https://tinyurl.com/sf2019-sprint)
-- **Note:**  this site is created using Google Sites.  It is helpful to use tinyurl, such as:  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint)
-- **Getting started:**  Rather than creating the website from scratch, you can email me and I can copy the Bay Area google sites, rename it to your site, and you can edit it.  
+- **Note:**  this site is created using Google Sites.  It is helpful to use tinyurl, such as:  [https://tinyurl.com/sf2019-sprint](https://tinyurl.com/sf2019-sprint).   
 
 
 ### GitHub Repo for Sprint
 This repository holds more detailed information for sprint day including documents, list of issues, etc.  
 - **Owner:**  WiMLDS sprint organizer  
 - **Example:**  [bayarea-2019-scikit-sprint](https://github.com/WiMLDS/bayarea-2019-scikit-sprint)
-- **Getting started:**  To request a blank repo to be created, send an email to *info@wimlds.org* with GitHub IDs of users who need access to it, including sprint organizers and scikit-learn core contributors
  
 
 
@@ -45,7 +43,7 @@ It is helpful that sprint participants have some experience with Python and scik
 It is up to the discretion of the sprint organizer regarding what information to collect based on regional and cultural norms.  (Example:  some regions may not collect gender.)  
 - **Owner:**  WiMLDS sprint organizer
 - **Example:**  [sprint application](https://sites.google.com/view/bay-area-wimlds-2019-sprint/about/application-form)
-- **Getting started:**  Rather than creating the application from scratch, you can email me and I can copy a previous application, rename it to your city event, and you can edit it.  
+
 
 #### Git
 Git is helpful but not required.  Participants will work in pairs, so it is likely that someone else at event (pair partner or TA) can help with git. 
@@ -60,7 +58,7 @@ The sprints have typically been led by a scikit-learn core contributor.  These a
 For funding, first step is to do research on estimated cost of flight and lodging for at least two days for budget considerations.  There are a few options for funding:  
 1. try to find a sponsor
 2. can connect with the scikit-learn team
-3. can connect with the WiMLDS team
+
  
 ### Curating List of Beginner-friendly Issues for the Sprint
 This list of issues is curated by the scikit-learn core contributor who will be leading the sprint.  
@@ -109,7 +107,7 @@ The fee for the sprints have typically been free.  The event has been organized 
 
 Donations can be made on the [NumFOCUS website](https://numfocus.org/donate).  For donations, the following information can be provided to attendees:   
 - Donation dedication:  `scikit-learn`
-- Person to inform:  `info@wimlds.org`
+- Person to inform:  scikit-learn team
 
 ## Marketing
 Marketing the event can be done through various avenues:  
