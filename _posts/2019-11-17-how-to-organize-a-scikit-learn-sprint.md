@@ -238,7 +238,7 @@ Here are examples of blogs from previous events:
     - 2018:  [Highlights From The 2018 NYC WiMLDS Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
     - 2017:  [2017 WiMLDS scikit-learn Sprint](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)
 - Nairobi 2019:  
-    - [Highlights From The 2019 Nairobi Wimlds Scikit Sprint](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215) 
+    - [Highlights From The 2019 Nairobi WiMLDS Scikit Sprint](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215) 
     - [scikit-learn sprint at Nairobi, Kenya](https://adrin.info/scikit-learn-sprint-at-nairobi-kenya.html) 
 
 ### Twitter Moments
