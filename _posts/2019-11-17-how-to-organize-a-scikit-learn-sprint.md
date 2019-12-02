@@ -1,7 +1,7 @@
 
-Below are detailed instructions, guidelines and recommendations for organizing a WiMLDS scikit-learn sprint. 
+Below are detailed instructions, guidelines and recommendations for organizing a scikit-learn sprint. 
 
-<p><span style="background-color: #ffff00;"> <i> This resource is available for anyone who would like to organize a sprint and also for any other open source library (including corporations, meetup groups, conferences, etc.). </i> </span>
+<p><span style="background-color: #ffff00;"> <i> This resource is available for anyone who would like to organize an open source sprint and also for any other open source library (including corporations, meetup groups, conferences, etc.). </i> </span>
  </p>	
 
 
