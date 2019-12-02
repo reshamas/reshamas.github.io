@@ -144,7 +144,7 @@ The agenda typically goes as follows.  It is flexible based on your preferences.
 | -------| -------------|
 | 8:00 to 8:30am | Organizers / Contributor / Helpers arrive  |
 | 9 to 9:30 am   |  Attendees arrive  (breakfast, set up audio/visual computer set up) |
-| 9:30 to 9:40am |  WiMLDS organizer introduces event |
+| 9:30 to 9:40am |  Organizer introduces event |
 | 9:40 to 10:15am  | Core contributor introduces Contributing Process |
 | 10:15am          | Sprint |
 | 12:00 to 1pm     | Lunch  |
@@ -175,7 +175,7 @@ The sprint organizer typically does an introduction and can include the followin
 
 ### Pair Programming
 
-Pair programming is highly encouraged, but not required.  Attendees can find a partner sitting near them.  If some people are still looking for a partner, the WiMLDS organizer can connect people at the event.  Most attendees will work in pairs.  
+Pair programming is highly encouraged, but not required.  Attendees can find a partner sitting near them.  If some people are still looking for a partner, the sprint organizer can connect people at the event.  Most attendees will work in pairs.  
 
 
 ### Social Media
@@ -217,13 +217,13 @@ Having food that is accessible to people with various dietary considerations is 
 ## Post-sprint
 
 ### Follow-up on PRs
-While the sprint is a full day event, most PRs (pull requests) will not be merged at the event.  PRs require review by core contributors and making changes is part of the typical back and forth.  It's important to communicate that to attendees.  Some resources and time should be set aside by both sprint participants and WiMLDS organizers to ensure that the work began during the sprint is completed.  
+While the sprint is a full day event, most PRs (pull requests) will not be merged at the event.  PRs require review by core contributors and making changes is part of the typical back and forth.  It's important to communicate that to attendees.  Some resources and time should be set aside by both sprint participants and sprint organizers to ensure that the work began during the sprint is completed.  
 
 Aim to complete the outstanding PRs within 60 days of the sprint. 
 
 
 ### Blogs
-The WiMLDS organizer or an attendee can write a blog about their experience.  It's a good way to document the event, share with the community, and also for procuring future sponsorships.  There can be multiple blogs, as different attendees have different perspectives.  Blogs can be placed in any of the following platforms:  
+The sprint organizer or an attendee can write a blog about their experience.  It's a good way to document the event, share with the community, and also for procuring future sponsorships.  There can be multiple blogs, as different attendees have different perspectives.  Blogs can be placed in any of the following platforms:  
 1.  individual's personal blog
 2.  Medium blog
 3.  Publish on the sprint event website
