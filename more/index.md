@@ -63,7 +63,7 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 ## Artificial Intelligence (AI)
 
 ### Women in AI Panel Discussion at AI NEXTCon NYC (July 24, 2019)
-- Reshama Shaikh (WiMLDS) Moderator
+- Reshama Shaikh:  Moderator
 - Katherine Chen (Uber)
 - Emily Pitler(Google)
 - Esperanza Aguilera (Kx)
