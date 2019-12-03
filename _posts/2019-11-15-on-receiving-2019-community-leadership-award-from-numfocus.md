@@ -12,7 +12,7 @@ Coincidentally, that is the same weekend that I was running the 3rd scikit-learn
 
 It’s wonderful that both these events happened, even if both were the same weekend.  
 
-The SF chapter of WiMLDS (Women in Machine Learning & Data Science) was founded 6 years ago.  I’ve organized the sprint 3 years in a row in NYC (2017-2019), and after numerous emails, phone calls and calendar checks, I was excited to bring the scikit sprint to the Bay Area WiMLDS for the first time.
+The SF chapter of WiMLDS (Women in Machine Learning & Data Science) was founded 6 years ago.  I’ve organized the sprint 3 years in a row in NYC (2017-2019), and after numerous emails, phone calls and calendar checks, I was excited to bring the scikit sprint to the Bay Area WiMLDS for the first time.  ( [NYC 2019 sprint](https://twitter.com/i/moments/1168528872553570304) and [Bay Area 2019 sprint](https://twitter.com/i/moments/1196432895549857794) twitter moments)
 
 Receiving this award and running the sprint on the same day:  it was a good scheduling conflict to have.  I will take it. 🙂 
 
@@ -23,11 +23,15 @@ Receiving this award and running the sprint on the same day:  it was a good sche
 ## Achievements
 
 2019 has been a productive year for me in promoting diversity.  These are my proudest accomplishments:
-- 3 scikit sprints, including the **VERY FIRST** scikit sprint on the continent of **Africa**, held in Nairobi, Kenya in June 22.   I was able to arrange a contributor to fly from Berlin to Nairobi, successfully navigating sponsorship, legal review, time zone differences and more.  Over 40 people attended, they were delighted and thankful for the experience of contributing to open source for the first time.  
+- 3 scikit sprints, including the **VERY FIRST** scikit sprint on the continent of **Africa**, held in Nairobi, Kenya in June 22.   I was able to arrange a contributor to fly from Berlin to Nairobi, successfully navigating sponsorship, legal review, time zone differences and more.  Over 40 people attended, they were delighted and thankful for the experience of contributing to open source for the first time.  ([Nairobi 2019 sprint](https://twitter.com/i/moments/1142418211914309632) twitter moment)
 - A podcast interview, [Women in Data Science](https://www.r-bloggers.com/reshama-shaikh-discusses-women-in-machine-learning-and-data-science/) which was heard in many corners of the planet and which brought opportunities for building the WiMLDS community to more cities in US and Europe and also, more globally, to the Middle East, Africa and India and to other regions of the world.  
 - [Mentoring new organizers](https://reshamas.github.io/rethinking-mentoring-in-data-science/) for both NYC WiMLDS and PyLadies; both are the second largest chapters world-wide in their respective communities.  It’s been vital and gratifying to set up the chapters with the leadership pipeline to continue building an inclusive community and providing quality programming in data science and open source.  (See [WiMLDS list of contributions](https://reshamas.github.io/about/wimlds_volunteer/).)
 - Git workshops for the community.  Git skills make open source and coding accessible. Naturally, my [Git curriculum](https://github.com/reshamas/git-intro-workshop) is open source. 
 - My articles on diversity, inclusivity and building community:  [articles](https://reshamas.github.io)
+
+- [Bay Area 2019 sprint](https://twitter.com/i/moments/1196432895549857794)
+- [Nairobi 2019 sprint](https://twitter.com/i/moments/1142418211914309632)
+- [NYC 2019 sprint](https://twitter.com/i/moments/1168528872553570304)
 
 ## Community Acknowledgments
 
