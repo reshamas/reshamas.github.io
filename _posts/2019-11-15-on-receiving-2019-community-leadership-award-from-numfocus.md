@@ -28,8 +28,8 @@ Receiving this award and running the sprint on the same day:  it was a good sche
 - [Mentoring new organizers](https://reshamas.github.io/rethinking-mentoring-in-data-science/) for both NYC WiMLDS and PyLadies; both are the second largest chapters world-wide in their respective communities.  It’s been vital and gratifying to set up the chapters with the leadership pipeline to continue building an inclusive community and providing quality programming in data science and open source.  (See [WiMLDS list of contributions](https://reshamas.github.io/about/wimlds_volunteer/).)
 - Git workshops for the community.  Git skills make open source and coding accessible. Naturally, my [Git curriculum](https://github.com/reshamas/git-intro-workshop) is open source. 
 - My articles on diversity, inclusivity and building community:  [articles](https://reshamas.github.io)
- - [Why Women Are Flourishing in the R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
- - [Code of Conduct for NeurIPS and Other STEM Organizations](https://reshamas.github.io/code-of-conduct-for-nips-and-other-stem-associations/)
+    - [Why Women Are Flourishing in the R Community But Lagging in Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
+    - [Code of Conduct for NeurIPS and Other STEM Organizations](https://reshamas.github.io/code-of-conduct-for-nips-and-other-stem-associations/)
  
 
 ## Community Acknowledgments
