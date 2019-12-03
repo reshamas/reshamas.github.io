@@ -12,7 +12,7 @@ Coincidentally, that is the same weekend that I was running the 3rd scikit-learn
 
 It’s wonderful that both these events happened, even if both were the same weekend.  
 
-The SF chapter of WiMLDS (Women in Machine Learning & Data Science) was founded 6 years ago.  I’ve organized the sprint 3 years in a row in NYC (2017-2019), and after numerous emails, phone calls and calendar checks, and I was excited to bring the scikit sprint to the Bay Area WiMLDS for the first time.
+The SF chapter of WiMLDS (Women in Machine Learning & Data Science) was founded 6 years ago.  I’ve organized the sprint 3 years in a row in NYC (2017-2019), and after numerous emails, phone calls and calendar checks, I was excited to bring the scikit sprint to the Bay Area WiMLDS for the first time.
 
 Receiving this award and running the sprint on the same day:  it was a good scheduling conflict to have.  I will take it. 🙂 
 
