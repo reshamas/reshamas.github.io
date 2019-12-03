@@ -10,13 +10,13 @@ Below are detailed instructions, guidelines and recommendations for organizing a
  
 ## Intro
 **Q:  What is an open source sprint?**  
-**A:**  It is a full day (6 to 8 hours) hands on session or hackathon, where users convene and work on issues on an open source library.  Sprints can span 1 or more days.  Beginners typically work on issues related to documentation, fixing error messages, etc. 
+**A:**  It is a full day (6 to 8 hours) hands on session or hackathon, where users convene and work on issues on an open source library.  Sprints can span one or more days.  Beginners typically work on issues related to documentation, fixing error messages, etc. 
 
 ##  Key Logistics
 These are the key logistics necessary for the sprint:  
 - date
 - venue
-- a Saturday (or Sunday) is preferable  (depends on region); in some cases a week day works best.
+- a Saturday (or Sunday) is preferable  (depends on region); in some cases a weekday works best.
 - sponsor for food
 - find core contributor to faciliate the sprint
 
@@ -123,7 +123,7 @@ Marketing the event can be done through various avenues:
 The hashtag for the sprints is <a style="color:purple"> #ScikitLearnSprint    </a>
 
 ### Social Media Cards
-We use [Canva.com](https://www.canva.com) to create social media cards.  
+[Canva.com](https://www.canva.com) is used to create social media cards.  
 
 ### Preparation Emails
 Here is a [template email of reminders](https://reshamas.github.io/resources/sprint_template_email/) to send to participants.  It's a good idea to send several reminders, leading up the event:  
