@@ -28,9 +28,9 @@ These are contributions I have made to WiMLDS over the past 5 years.
     
 ### Sponsorship
 - Built relationship with 2 sponsors (O'Reilly and MLConf) over the course of 4 years which accounted for 95% of funding for WiMLDS
-- Created and distributed Global Newsletter to increase resources and communication WiMLDS chapters globally in 2019
+- Created and distributed Global Newsletter to increase resources and communication WiMLDS chapter organizers globally in 2019
 - Was a guest on [DataFramed podcast](https://reshamas.github.io/dataframed-podcast/)
-    - recorded in November 2018
+    - recorded in November 2018 and released in February 2019
     - resulted in increasing our chapters 50%, from 39 to 63 [WiMLDS Q1 report](https://reshamas.github.io/wimlds-2019-q1-report/) in less than 2 months
     
 ### Marketing
