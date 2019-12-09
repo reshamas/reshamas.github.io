@@ -13,10 +13,10 @@ These are contributions I have made to WiMLDS over the past 5 years.
     - organized dozens of meetup events and workshops over the course of 5 years:  [past NYC WiMLDS events](https://www.meetup.com/NYC-WiMLDS/events/past/)
 - Mentored new organizers in 2018 and 2019
 - Advisor to NYC WiMLDS from January 2015 to spring 2015, prior to joining as an organizer
-- Organized [2018 WiMLDS/WiDS/SAP conference](https://events.sap.com/us/widsnyc2019/en/home)
+- Co-organized [2018 WiMLDS/WiDS/SAP conference](https://events.sap.com/us/widsnyc2019/en/home)
 
 ### Scikit-learn Open Source Sprints
-- organized 5 scikit-learn sprints
+- Organized 5 scikit-learn sprints
     - NYC 2017
     - [NYC 2018](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
     - NYC 2019
