@@ -44,7 +44,7 @@ These are contributions I have made to WiMLDS over the past 5 years.
 
 ### Global Chapters Support
 - Recruited two new members to join global team from Europe and Kenya to increase global representation
-- Created a "zap" on Zapier:  a system to manage new organizers (now over 150) to the meetup group and process their applications so they can be added to the wimlds website.  This improved efficency, saved time and ensure more organizers were added to our website.
+- Created a "zap" on Zapier:  a system to manage new organizers (now over 150) to the meetup group and process their applications so they can be added to the wimlds website.  This improved efficiency, saved time and ensure more organizers were added to our website.
 - Recruited and guided a volunteer to create and design our website.  This project was initiated and overseen by me in 2016.
 - Created project to create [WiMLDS Overview Slides](https://drive.google.com/open?id=1N8O4iFNDHXHQFkizqcoVINvYeNt9_NlxhYqKVXHy1RU) so organizers worldwide would be able to share history and statistics about WiMLDS
 - Created [5 Years (birthday) video](https://www.youtube.com/watch?v=KnCc_XiOL_Q)
