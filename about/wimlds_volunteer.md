@@ -27,7 +27,7 @@ These are contributions I have made to WiMLDS over the past 5 years.
     - [NYC 2017-2018 Sprint Impact Report](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
     
 ### Sponsorship
-- Built relationship with sponsors over the course of 4 years which accounted for significant funding for WiMLDS
+- Built relationship with sponsors over the course of 5 years which accounted for significant funding for WiMLDS
 - Created and distributed Global Newsletter to increase resources and communication WiMLDS chapter organizers globally in 2019
 - Was a guest on [DataFramed podcast](https://reshamas.github.io/dataframed-podcast/)
     - recorded in November 2018 and released in February 2019
@@ -51,6 +51,38 @@ These are contributions I have made to WiMLDS over the past 5 years.
 - Created [Conferences List](https://github.com/WiMLDS/conferences) for community
 - Supported global chapters by responding to inquiries, processing payments, etc. 
 
+### New York Chapter Events Organized
+- [Intro to PyTorch Workshop](https://www.meetup.com/NYC-WiMLDS/events/265379160/), Nov 2019
+- [2019 Scikit-learn Sprint](https://www.meetup.com/NYC-WiMLDS/events/259491883/), Aug 2019 (full day workshop)
+- [Facebook Artificial Intelligence (FB AI)
+](https://www.meetup.com/NYC-WiMLDS/events/259523757/), Apr 2019
+- [Women in Data Science Conference at SAP](https://www.meetup.com/NYC-WiMLDS/events/258684683/), Mar 2019 (full day event)
+- [Understanding Probability Theory With Exercises in R and Python
+](https://www.meetup.com/NYC-WiMLDS/events/255216081/), Jan 2019 (Saturday workshop)
+- [Tips for Better Predictive Models (@Foursquare)
+](https://www.meetup.com/NYC-WiMLDS/events/256307623/), Dec 2018
+- [Intro To Neo4j Graph Database (@NY Times)
+](https://www.meetup.com/NYC-WiMLDS/events/255098438/), Oct 2018
+- [Kristen Sosulski of NYU + Exploring Public Data with Enigma](https://www.meetup.com/NYC-WiMLDS/events/254282334/), Oct 2018
+- [2018 Scikit-learn Sprint](https://www.meetup.com/NYC-WiMLDS/events/253593297/), Sep 2018
+- [GraphHack 2018: Neo4j Buzzword Bingo Hackathon
+](https://www.meetup.com/NYC-WiMLDS/events/253590704/), Sep 2018
+- [Deep Learning:  CNNs](https://www.meetup.com/NYC-WiMLDS/events/246220505/), Jan 2018
+- [Investigating Complex Data Relationships through Graphs
+](https://www.meetup.com/NYC-WiMLDS/events/244032981/), Oct 2017
+- [Engima and the Big Data Picture](https://www.meetup.com/NYC-WiMLDS/events/241877545/), Aug 2017
+- [Scikit-learn Sprint](https://www.meetup.com/NYC-WiMLDS/events/237123181/), Mar 2017 (Saturday workshop)
+- [Neural Networks Workshop](https://www.meetup.com/NYC-WiMLDS/events/235881587/), Jan 2017 (Saturday workshop)
+- [Recommendation Engines Workshop](https://www.meetup.com/NYC-WiMLDS/events/234863804/), Nov 2016 (Saturday workshop)
+- [Faster Python Computing with Pyfora](https://www.meetup.com/NYC-WiMLDS/events/233015046/), Aug 2016
+- [Scalable Machine Learning with H2O](https://www.meetup.com/NYC-WiMLDS/events/232097514/), Jul 2016
+- [Big Data Applications at AT&T Labs (featuring hands-on RCloud demo)](https://www.meetup.com/NYC-WiMLDS/events/230714509/), Jun 2016
+- [Image Recognition Through Deep Learning & Neural Networks
+](https://www.meetup.com/NYC-WiMLDS/events/228744644/), Mar 2016
+- [Advanced Machine Learning Tutorial](https://www.meetup.com/NYC-WiMLDS/events/227686920/), Feb 2016
+- [Intermediate Python Hands-on Workshop](https://www.meetup.com/NYC-WiMLDS/events/225784769/), Dec 2015 (Saturday workshop)
+- [Hands-on Intro to Django](https://www.meetup.com/NYC-WiMLDS/events/225784729/), Oct 2015 (Saturday workshop)
+- [A Hands-on Introduction to D3](https://www.meetup.com/NYC-WiMLDS/events/222647643/), Jun 2015 (Saturday workshop)
 
 ---
  
