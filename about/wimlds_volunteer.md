@@ -53,7 +53,7 @@ These are contributions I have made to WiMLDS over the past 5 years.
 
 ### New York Chapter Events Organized
 - [Intro to PyTorch Workshop](https://www.meetup.com/NYC-WiMLDS/events/265379160/), Nov 2019
-- [2019 Scikit-learn Sprint](https://www.meetup.com/NYC-WiMLDS/events/259491883/), Aug 2019 (full day workshop)
+- [2019 Scikit-learn Sprint](https://www.meetup.com/NYC-WiMLDS/events/259491883/), Aug 2019 (Saturday workshop)
 - [Facebook Artificial Intelligence (FB AI)
 ](https://www.meetup.com/NYC-WiMLDS/events/259523757/), Apr 2019
 - [Women in Data Science Conference at SAP](https://www.meetup.com/NYC-WiMLDS/events/258684683/), Mar 2019 (full day event)
@@ -64,7 +64,7 @@ These are contributions I have made to WiMLDS over the past 5 years.
 - [Intro To Neo4j Graph Database (@NY Times)
 ](https://www.meetup.com/NYC-WiMLDS/events/255098438/), Oct 2018
 - [Kristen Sosulski of NYU + Exploring Public Data with Enigma](https://www.meetup.com/NYC-WiMLDS/events/254282334/), Oct 2018
-- [2018 Scikit-learn Sprint](https://www.meetup.com/NYC-WiMLDS/events/253593297/), Sep 2018
+- [2018 Scikit-learn Sprint](https://www.meetup.com/NYC-WiMLDS/events/253593297/), Sep 2018 (Saturday workshop)
 - [GraphHack 2018: Neo4j Buzzword Bingo Hackathon
 ](https://www.meetup.com/NYC-WiMLDS/events/253590704/), Sep 2018
 - [Deep Learning:  CNNs](https://www.meetup.com/NYC-WiMLDS/events/246220505/), Jan 2018
