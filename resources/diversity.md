@@ -24,4 +24,5 @@ comments: false
 * [Open Letter to GDI Board](http://an-open-letter-to-gdi-board.com/)
 * [podcast: Valerie Sharp / Kim Crayton](https://hashtagcauseascene.com/podcast/valerie-sharp-kristen-seversky/)
 * [podcast: Shanise Barona / Kim Crayton](https://hashtagcauseascene.com/podcast/shanise-barona/)
+* [Women in Tech and White Supremacy](https://medium.com/@Mo_Mack/women-in-tech-and-white-supremacy-a8ea49bf1a5f), Maureen McElaney
 
