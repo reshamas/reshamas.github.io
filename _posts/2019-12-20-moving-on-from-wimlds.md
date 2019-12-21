@@ -46,7 +46,9 @@ These are contributions I have made to WiMLDS over the past 5 years.
 - Wrote Sprint Impact Reports (goal:  communicate our events, accomplishments and impact to community)
     - [Nairobi 2019 Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
     - [NYC 2017-2018 Sprint Impact Report](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
-    
+
+I also wrote a comprehensive article on organizing open source sprints: [How to Organize a Scikit-learn Sprint](https://reshamas.github.io/how-to-organize-a-scikit-learn-sprint/) so other chapters can continue to organize.  I provided these resources to the Berlin WiMLDS chapter to organize their [Berlin 2020 sprint](https://sites.google.com/view/berlinscikitsprint/home).  
+
 ### Sponsorship
 - Built relationship with sponsors over the course of 5 years which accounted for significant funding for WiMLDS
 - Created and distributed Global Newsletter to increase resources and communication WiMLDS chapter organizers globally in 2019
