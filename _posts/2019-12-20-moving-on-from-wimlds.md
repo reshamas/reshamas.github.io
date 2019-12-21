@@ -10,7 +10,7 @@ When I joined WiMLDS in 2015, the NYC chapter was just a few months old, and the
 After 5 years as a WiMLDS organizer, global team and board member, I will be moving on in January 2020 to pursue other projects.  My last day will be January 15, 2020. 
 
 ### Moving on to:  URGs and Allies in Data Science
-My next endeavor is exploring intersectional diversity (meaning considering dimensions of diversity outside of gender), beginning with **URGs and Allies in Data Science**:  
+My next endeavor is exploring intersectional diversity (meaning considering dimensions of diversity outside of gender), beginning with **URGs and Allies in Data Science** (where URGs = under-represented groups):  
 - Meetup:  [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/)
 - Twitter:  [@UrgsADS](https://twitter.com/urgsADS)
 - LinkedIn:  [URGs and Allies in Data Science](www.linkedin.com/company/uads/)
