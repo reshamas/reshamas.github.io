@@ -67,7 +67,7 @@ I also wrote a comprehensive article documenting the process: [How to Organize a
     - [2018 Annual report](https://reshamas.github.io/wimlds-2018-annual-report/)
     - [October 2018 report:  initial report](https://reshamas.github.io/overview-of-wimlds-chapters/)
 - Analyzed and wrote report on [NLP Analysis Of Five Years Of WiMLDS Meetup Events](https://reshamas.github.io/nlp-analysis-of-five-years-of-wimlds-meetup-events/)
-- Worked with local chapters to bring meetup chapters under WiMLDS ownership and tag the meetup groups so live statistics could easily be retrievable:  [Meetup WiMLDS MAP](https://www.meetup.com/topics/wimlds/)
+- Worked with local chapters to bring meetup chapters under WiMLDS ownership and tag the meetup groups so live statistics could easily be retrievable:  [Meetup WiMLDS Map](https://www.meetup.com/topics/wimlds/)
 - Presented at O'Reilly AI [NYC 2019 Better Together Diversity Luncheon](https://www.youtube.com/watch?v=1mxJ-j38gcU)
 - Implemented consistent "Welome Messages" for all meetup chapters so links to social media forums were directly accessible to increase followers on Twitter, LinkedIn, Facebook, Instagram and more.
 
