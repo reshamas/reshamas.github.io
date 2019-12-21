@@ -36,7 +36,7 @@ These are contributions I have made to WiMLDS over the past 5 years.
 
 ### Scikit-learn Open Source Sprints
 - Organized 5 scikit-learn sprints
-    - NYC 2017
+    - [NYC 2017](https://www.meetup.com/NYC-WiMLDS/events/237123181/)
     - [NYC 2018](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
     - [NYC 2019](https://medium.com/@kelly.carmody45/my-experience-at-the-2019-nyc-women-in-machine-learning-and-data-science-wimlds-scikit-learn-be776024ab7) 
     - [Nairobi 2019](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
