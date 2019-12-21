@@ -4,19 +4,19 @@ When I joined WiMLDS in 2015, the NYC chapter was just a few months old, and the
 
 After 5 years as a WiMLDS organizer, global team and board member (WiMLDS contributions), I will be moving on in January 2020 to pursue other projects.  
 
-## Moving on to:  URGs and Allies in Data Science
+### Moving on to:  URGs and Allies in Data Science
 My next endeavor is exploring intersectional diversity (meaning considering dimensions of diversity outside of gender), beginning with **URGs and Allies in Data Science**:  
 - Meetup:  [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/)
 - Twitter:  [@UrgsADS](https://twitter.com/urgsADS)
 - LinkedIn:  [URGs and Allies in Data Science](www.linkedin.com/company/uads/)
 
-## Lessons Learned
+### Lessons Learned
 Being an organizer for the past 5 years has shaped my perspective on a number of aspects:  
 - Thinking globally is important and imperative.
 - Intersectional diversity (also referred to as covariance diversity) is worth considering and focusing on multiple dimensions of diversity could accordingly move all diversity initiatives forward.
 - Welcoming and including allies is crucial in moving the needle on diversity outcomes.
 
-## Contacting Me
+### Contacting Me
 I am easy to find on social media and my contact information is available on my [website](https://reshamas.github.io). 
 
 Thank you to everyone for all your support over the years, and I look forward to crossing paths with you in the data science community.  
