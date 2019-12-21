@@ -1,6 +1,6 @@
 
 <p float="left">
-  <img src="../assets/images/wimlds_leaving_collage.png" width="50%" height="50%" style="border:0px;margin:0px">
+  <img src="../assets/images/leaving_collage.png" width="50%" height="50%" style="border:0px;margin:0px">
 </p>
 <p>
 </p>
