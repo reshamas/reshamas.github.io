@@ -5,6 +5,8 @@
 <p>
 </p>
 
+### Moving from: WiMLDS
+
 When I joined WiMLDS in 2015, the NYC chapter was just a few months old, and there were only 2 chapters.  Now at the end of 2019, there are 80+ chapters, and it’s been wonderful to contribute to and observe the growth of WiMLDS. 
 
 After 5 years as a WiMLDS organizer, global team and board member, I will be moving on in January 2020 to pursue other projects.  My last day will be January 15, 2020. 
