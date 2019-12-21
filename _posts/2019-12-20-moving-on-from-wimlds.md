@@ -2,7 +2,7 @@
 
 When I joined WiMLDS in 2015, the NYC chapter was just a few months old, and there were only 2 chapters.  Now at the end of 2019, there are 80+ chapters, and it’s been wonderful to contribute to and observe the growth of WiMLDS. 
 
-After 5 years as a WiMLDS organizer, global team and board member (WiMLDS contributions), I will be moving on in January 2020 to pursue other projects.  
+After 5 years as a WiMLDS organizer, global team and board member (WiMLDS contributions), I will be moving on in January 2020 to pursue other projects.  My last day will be January 15, 2020. 
 
 ### Moving on to:  URGs and Allies in Data Science
 My next endeavor is exploring intersectional diversity (meaning considering dimensions of diversity outside of gender), beginning with **URGs and Allies in Data Science**:  
@@ -23,7 +23,7 @@ Thank you to everyone for all your support over the years, and I look forward to
 
 ---
 
-## APPENDIX:  My WiMLDS Contributions (2015 to 2020)
+## APPENDIX:  My WiMLDS Contributions 
 
 These are contributions I have made to WiMLDS over the past 5 years.  
 
