@@ -1,4 +1,9 @@
 
+<p float="left">
+  <img src="../assets/images/wimlds_collage.png" width="50%" height="50%" style="border:0px;margin:0px">
+</p>
+<p>
+</p>
 
 When I joined WiMLDS in 2015, the NYC chapter was just a few months old, and there were only 2 chapters.  Now at the end of 2019, there are 80+ chapters, and it’s been wonderful to contribute to and observe the growth of WiMLDS. 
 
