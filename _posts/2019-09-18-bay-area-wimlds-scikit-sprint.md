@@ -1,5 +1,5 @@
 <p float="left">
-  <img src="../assets/images/sf_collage.png" width="50%" height="50%" style="border:0px;margin:0px">
+  <img src="../assets/images/sf_collage.png" width="90%" height="90%" style="border:0px;margin:0px">
 </p>
 <p>
 </p>
