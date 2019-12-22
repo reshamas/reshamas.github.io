@@ -14,11 +14,15 @@ I am available for **consulting** in these areas:  data science, statistics, div
 Contact me for my hourly rates:  reshama dot shaikh @ gmail dot com 
 
 ## My Volunteer Work 
-I am also an organizer of the meetup groups [NYC Women in Machine Learning and Data Science](wimlds.org) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+I am also an organizer of the meetup groups [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+
+### Previously
+I was formerly an NYC WiMLDS chapter organizer and on the Board and Global Leadership Team for [WiMLDS](wimlds.org) from 2015 to 2020.  
 
 ## Support me on Patreon
 These are some of my contributions to the community:  [Volunteer Contributions](wimlds_volunteer.md)  
-* WiMLDS 
+* NYC URGs and Allie in Data Science
+* PyLadies
 * Git Workshops
 * more 
 
@@ -32,7 +36,7 @@ I receive a lot of email requests.  I will respond to emails in this order of pr
 
 2.  PROFESSIONAL DEVELOPMENT:  Business and educational development activities which move me forward professionally
 
-3.  VOLUNTEER work:  PyLadies & WiMLDS meetup.  You can support me on Patreon.
+3.  VOLUNTEER work:  NYC URGs and Allies in Data Science, PyLadies.  You can support me on Patreon.
  
 4.  MEETING REQUESTS:  Coffee / Mentoring requests: available in exchange for support on Patreon.
 
