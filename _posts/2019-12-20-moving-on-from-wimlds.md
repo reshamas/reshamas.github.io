@@ -15,7 +15,7 @@ After 5 years as a WiMLDS organizer, global team and board member, I will be mov
 My next endeavor is exploring intersectional diversity (meaning considering dimensions of diversity outside of gender), beginning with **URGs and Allies in Data Science** (where URGs = under-represented groups):  
 - Meetup:  [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/)
 - Twitter:  [@UrgsADS](https://twitter.com/urgsADS)
-- LinkedIn:  [URGs and Allies in Data Science](www.linkedin.com/company/uads/)
+- LinkedIn:  [URGs and Allies in Data Science](https://www.linkedin.com/company/uads/)
 
 ### Lessons Learned
 Being an organizer for the past 5 years has shaped my perspective on a number of aspects:  
