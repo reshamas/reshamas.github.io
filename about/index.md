@@ -21,7 +21,7 @@ I was formerly an NYC WiMLDS chapter organizer and on the Board and Global Leade
 
 ## Support me on Patreon
 These are some of my contributions to the community:  [Volunteer Contributions](wimlds_volunteer.md)  
-* NYC URGs and Allie in Data Science
+* NYC URGs and Allies in Data Science
 * PyLadies
 * Git Workshops
 * more 
