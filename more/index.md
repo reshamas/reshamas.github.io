@@ -9,7 +9,7 @@ comments: false
 
 ### Banana Data:  [Scikit-learn Sprints](https://podcasts.apple.com/us/podcast/bdn-15-finding-community-in-data-science-reshama-shaikh/id1463103655?i=1000461480128)  (Jan 2020)
 
-Now that we’ve covered how open source works, we’re looking to pull back the curtain and see who’s actually contributing. In part 2/2 of our series on open source, we sat down with Reshama Shaikh, a statistician and key organizer of scikit-Learn sprints, to learn about the ups & downs of open source contributing, as well how a Sprint in Nairobi benefits Fortune 500 companies in the US.
+Now that we’ve covered how open source works, we’re looking to pull back the curtain and see who’s actually contributing. In part 2/2 of our series on open source, we sat down with Reshama Shaikh, a statistician and key organizer of scikit-learn sprints, to learn about the ups & downs of open source contributing, as well how a Sprint in Nairobi benefits Fortune 500 companies in the US.
 
 ### Transform Your Workplace:  [Mentoring Redefined with Reshama Shaikh](https://xeniumhr.libsyn.com/mentoring-redefined-with-reshema-shaikh) (Nov 2019)
 
