@@ -12,6 +12,19 @@ Below are detailed instructions, guidelines and recommendations for organizing a
 **Q:  What is an open source sprint?**  
 **A:**  It is a full day (6 to 8 hours) hands on session or hackathon, where users convene and work on issues on an open source library.  Sprints can span one or more days.  Beginners typically work on issues related to documentation, fixing error messages, etc. 
 
+## Background
+
+Below are two **podcast** links related to scikit-learn and open source.  
+
+### Banana Data:  [Scikit-learn Sprints, featuring Reshama Shaikh](https://podcasts.apple.com/us/podcast/bdn-15-finding-community-in-data-science-reshama-shaikh/id1463103655?i=1000461480128) 
+
+>Now that we’ve covered how open source works, we’re looking to pull back the curtain and see who’s actually contributing. In part 2/2 of our series on open source, we sat down with Reshama Shaikh, a statistician and key organizer of scikit-learn sprints, to learn about the ups & downs of open source contributing, as well how a Sprint in Nairobi benefits Fortune 500 companies in the US.
+
+### Banana Data:  [Why Open Source, featuring Andreas Mueller](spoti.fi/2MhubSh)
+
+>Open Source software such as scikit-Learn, Python, and Spark form the backbone of data science. In a two-part series, we’re covering the ins and outs of open source - and how this special type of software supports 98% of enterprise-level companies’ data science efforts.In part 1, we’re chatting with Andreas Mueller, a core contributor of  scikit-Learn aboutthe  value in open source versus corporate software, and what it looks like to run and govern this type of community-written (and driven) project.
+
+
 ##  Key Logistics
 These are the key logistics necessary for the sprint:  
 - date
