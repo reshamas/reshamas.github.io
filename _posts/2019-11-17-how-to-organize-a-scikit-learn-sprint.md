@@ -22,7 +22,7 @@ Below are two **podcast** links related to scikit-learn and open source.
 
 
 <a href="https://podcasts.apple.com/us/podcast/bdn-15-finding-community-in-data-science-reshama-shaikh/id1463103655?i=1000461480128">
-  <img src="../assets/images/bd_rs.png" width="75%" height="75%" style="border:0px;margin:0px">
+  <img src="../assets/images/bd_rs.png" width="95%" height="95%" style="border:0px;margin:0px">
   </a>
 
 <p float="left">
@@ -34,7 +34,7 @@ Below are two **podcast** links related to scikit-learn and open source.
 >Open Source software such as scikit-Learn, Python, and Spark form the backbone of data science. In a two-part series, we’re covering the ins and outs of open source - and how this special type of software supports 98% of enterprise-level companies’ data science efforts.In part 1, we’re chatting with Andreas Mueller, a core contributor of  scikit-Learn aboutthe  value in open source versus corporate software, and what it looks like to run and govern this type of community-written (and driven) project.
 
 <a href="https://podcasts.apple.com/us/podcast/bdn-14-why-open-source-feat-andreas-mueller-core-contributor/id1463103655?i=1000460388431">
-  <img src="../assets/images/bd_acm.png" width="75%" height="75%" style="border:0px;margin:0px">
+  <img src="../assets/images/bd_acm.png" width="95%" height="95%" style="border:0px;margin:0px">
   </a>
 
 <p float="left">
