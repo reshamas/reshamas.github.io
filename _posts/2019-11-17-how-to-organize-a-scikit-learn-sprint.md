@@ -20,10 +20,25 @@ Below are two **podcast** links related to scikit-learn and open source.
 
 >Now that we’ve covered how open source works, we’re looking to pull back the curtain and see who’s actually contributing. In part 2/2 of our series on open source, we sat down with Reshama Shaikh, a statistician and key organizer of scikit-learn sprints, to learn about the ups & downs of open source contributing, as well how a Sprint in Nairobi benefits Fortune 500 companies in the US.
 
-### Banana Data:  [Why Open Source, featuring Andreas Mueller](spoti.fi/2MhubSh)
+
+<a href="https://podcasts.apple.com/us/podcast/bdn-15-finding-community-in-data-science-reshama-shaikh/id1463103655?i=1000461480128">
+  <img src="../assets/images/bd_rs.png" width="75%" height="75%" style="border:0px;margin:0px">
+  </a>
+
+<p float="left">
+</p>
+
+
+### Banana Data:  [Why Open Source, featuring Andreas Mueller](https://podcasts.apple.com/us/podcast/bdn-14-why-open-source-feat-andreas-mueller-core-contributor/id1463103655?i=1000460388431)
 
 >Open Source software such as scikit-Learn, Python, and Spark form the backbone of data science. In a two-part series, we’re covering the ins and outs of open source - and how this special type of software supports 98% of enterprise-level companies’ data science efforts.In part 1, we’re chatting with Andreas Mueller, a core contributor of  scikit-Learn aboutthe  value in open source versus corporate software, and what it looks like to run and govern this type of community-written (and driven) project.
 
+<a href="https://podcasts.apple.com/us/podcast/bdn-14-why-open-source-feat-andreas-mueller-core-contributor/id1463103655?i=1000460388431">
+  <img src="../assets/images/bd_acm.png" width="75%" height="75%" style="border:0px;margin:0px">
+  </a>
+
+<p float="left">
+</p>
 
 ##  Key Logistics
 These are the key logistics necessary for the sprint:  
