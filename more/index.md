@@ -5,19 +5,28 @@ tags:
 comments: false
 ---
 
-## Talks
+## Podcasts
 
-### Banana Data (podcast):  [Scikit-learn Sprints](https://podcasts.apple.com/us/podcast/bdn-15-finding-community-in-data-science-reshama-shaikh/id1463103655?i=1000461480128)  (Jan 2020)
+### Banana Data:  [Scikit-learn Sprints](https://podcasts.apple.com/us/podcast/bdn-15-finding-community-in-data-science-reshama-shaikh/id1463103655?i=1000461480128)  (Jan 2020)
 
 Now that we’ve covered how open source works, we’re looking to pull back the curtain and see who’s actually contributing. In part 2/2 of our series on open source, we sat down with Reshama Shaikh, a statistician and key organizer of scikit-Learn sprints, to learn about the ups & downs of open source contributing, as well how a Sprint in Nairobi benefits Fortune 500 companies in the US.
 
-### Transform Your Workplace (podcast):  [Mentoring Redefined with Reshama Shaikh](https://xeniumhr.libsyn.com/mentoring-redefined-with-reshema-shaikh) (Nov 2019)
+### Transform Your Workplace:  [Mentoring Redefined with Reshama Shaikh](https://xeniumhr.libsyn.com/mentoring-redefined-with-reshema-shaikh) (Nov 2019)
 
 <p>
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/12012983/height/90/theme/custom/thumbnail/yes/direction/forward/render-playlist/no/custom-color/4b4949/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 </p>
 
-### Data Science Imposters (podcast): [Mentoring](https://datascienceimposters.com/2019/10/21/mentoring-with-reshama-shaikh/) (Oct 2019)
+### DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (Feb 2019)
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rQUym4rbD_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+ </p>
+ 
+### Data Science Imposters: [Mentoring](https://datascienceimposters.com/2019/10/21/mentoring-with-reshama-shaikh/) (Oct 2019)
 We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.github.io/rethinking-mentoring-in-data-science/)
 
 <p>
@@ -44,14 +53,7 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 <p>
  </p>
 
-### DataFramed: [Women in Data Science](https://www.datacamp.com/community/podcast/women-in-data-science) (podcast) (Feb 2019)
 
-<p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rQUym4rbD_E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-<p>
- </p>
  
 ### Better Together Diversity Networking Luncheon (April 17, 2019)
 
