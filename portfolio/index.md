@@ -13,6 +13,8 @@ comments: false
 * [The Outcome of Neoadjuvant Hormonal Therapy with Radiation Therapy Depends on the Definition of Biochemical Failure: P-33](https://journals.lww.com/journalppo/Citation/2002/11000/The_Outcome_of_Neoadjuvant_Hormonal_Therapy_with.77.aspx)
 
 ## Book Contribution
+* [Build a Career in Data Science](https://www.manning.com/books/build-a-career-in-data-science) (by Emily Robinson and Jacqueline Nolis), 2020
+    - statement on open source sprints
 * [Data Visualization Made Simple:  Insights into Becoming Visual](https://www.amazon.com/gp/product/1138503916/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1#customerReviews) (by Kristen Sosulski, NYU Professor), 2018
     - [Exploring the openings and closings of NYC schools (case study in Chapter 8)](https://books.google.com/books?id=cM5wDwAAQBAJ&pg=PT208&lpg=PT208&dq=reshama+shaikh&source=bl&ots=UkRLpWvqLn&sig=9weW5DeMyFEs93ToLRQyIxWb1_0&hl=en&sa=X&ved=2ahUKEwjVttPC6IneAhWNm-AKHURqA0c4HhDoATABegQICBAB#v=onepage&q=reshama%20shaikh&f=false)
 
