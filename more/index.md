@@ -111,6 +111,7 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 
 
 ## Press
+- [New Partners To Bolster Perspective For Responsible AI](https://www.partnershiponai.org/new-partners-to-bolster-perspective-for-responsible-ai/) (Sep 2019)
 - [Q&A: Reshama Shaikh, Data Scientist](https://disruptionhub.com/qa-reshama-shaikh-data-scientist), D/SRUPTION (Jul 2019)
 - [When It Comes To Senior Leadership, Women Are Still Few And Far Between](https://disruptionhub.com/senior-leadership-more-women-needed/), D/SRUPTION (Mar 2019)
 - [Machine Learning: Mind The Gender Gap](https://disruptionhub.com/machine-learning-mind-the-gender-gap), D/SRUPTION (Jan 2019)
