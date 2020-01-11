@@ -13,7 +13,7 @@ Contact me for my hourly rates:  reshama dot shaikh @ gmail dot com
 
 ### Contacting Me
 
-I receive a lot of email requests.  I will respond to emails in this order of priority:
+I am involved in many projects and a lot of inquiries.  As an independent consultant, I have to prioritize paid consulting.  I will respond to emails in this order of priority:
 
 1.  CONSULTING:  I am an independent consultant; email me for my hourly fees.
 
@@ -24,6 +24,9 @@ I receive a lot of email requests.  I will respond to emails in this order of pr
 4.  MEETING REQUESTS:  Coffee / Mentoring requests: available in exchange for support on Patreon.
 
 5.  Other miscellaneous requests
+
+### Inquiries
+If you have general inquiries you can email me, and I will regularly post blogs to respond to those.
 
 ### Terms
 • there is a fee for initial consultation, $100/hr, 1 hour minimum fee
