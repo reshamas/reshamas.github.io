@@ -13,7 +13,7 @@ I am an independent data scientist/statistician and MBA with skills in Python, R
 
 ### Contacting Me
 
-I am involved in many projects and a lot of inquiries.  As an independent consultant, I have to prioritize paid consulting.  I will respond to emails in this order of priority:
+I am involved in many projects and receive lot of inquiries.  As an independent consultant, I have to prioritize paid consulting.  I will respond to emails in this order of priority:
 
 1.  CONSULTING:  I am an independent consultant; email me for my hourly fees.
 
