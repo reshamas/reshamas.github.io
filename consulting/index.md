@@ -24,3 +24,7 @@ I receive a lot of email requests.  I will respond to emails in this order of pr
 4.  MEETING REQUESTS:  Coffee / Mentoring requests: available in exchange for support on Patreon.
 
 5.  Other miscellaneous requests
+
+### Terms
+• there is a fee for initial consultation, $100/hr, 1 hour minimum fee
+• for no-shows, fee must be paid prior to rescheduling
