@@ -8,27 +8,14 @@ comments: false
 ## Bio
 I am an independent data scientist/statistician and MBA with skills in Python, R and SAS. I worked for over 10 years as a biostatistician in the pharmaceutical industry.  
 
+---
+
 ## Consulting Requests
-I am available for **consulting** in these areas:  data science, statistics, diversity, mentoring and community building.  
+I am available for **consulting** in these areas:  data science, diversity, mentoring and community building.  
 
 Contact me for my hourly rates:  reshama dot shaikh @ gmail dot com 
 
-## My Volunteer Work 
-I am also an organizer of the meetup groups [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
-
-### Previously
-I was formerly an NYC WiMLDS chapter organizer and on the Board and Global Leadership Team for [WiMLDS](wimlds.org) from 2015 to 2020.  
-
-## Support me on Patreon
-These are some of my contributions to the community:  [Volunteer Contributions](wimlds_volunteer.md)  
-* NYC URGs and Allies in Data Science
-* PyLadies
-* Git Workshops
-* more 
-
-Support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
-
-## Contacting Me
+### Contacting Me
 
 I receive a lot of email requests.  I will respond to emails in this order of priority:
 
@@ -41,6 +28,23 @@ I receive a lot of email requests.  I will respond to emails in this order of pr
 4.  MEETING REQUESTS:  Coffee / Mentoring requests: available in exchange for support on Patreon.
 
 5.  Other miscellaneous requests
+
+
+## My Volunteer Work 
+I am also an organizer of the meetup groups [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+
+### Previously
+I was formerly an NYC WiMLDS chapter organizer and on the Board and Global Leadership Team for [WiMLDS](wimlds.org) from 2015 to 2020.  
+
+### Support me on Patreon
+These are some of my contributions to the community:  [Volunteer Contributions](wimlds_volunteer.md)  
+* NYC URGs and Allies in Data Science
+* PyLadies
+* Git Workshops
+* more 
+
+Support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
+
 
 ---
 
