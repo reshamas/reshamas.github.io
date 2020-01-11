@@ -29,5 +29,5 @@ I am involved in many projects and receive a lot of inquiries.  As an independen
 If you have general inquiries you can email me, and I will regularly post blogs to respond to those.
 
 ### Terms
-• there is a fee for initial consultation, $100/hr, 1 hour minimum fee
-• for no-shows, fee must be paid for missed meeting prior to rescheduling
+- there is a fee for initial consultation, $100/hr, 1 hour minimum fee  
+- for no-shows, fee must be paid for missed meeting prior to rescheduling
