@@ -8,27 +8,10 @@ comments: false
 ## Bio
 I am an independent data scientist/statistician and MBA with skills in Python, R and SAS. I worked for over 10 years as a biostatistician in the pharmaceutical industry.  
 
-
 ---
 
-### Contacting Me
-
-I am involved in many projects and receive lot of inquiries.  As an independent consultant, I have to prioritize paid consulting.  I will respond to emails in this order of priority:
-
-1.  CONSULTING:  I am an independent consultant; email me for my hourly fees.
-
-2.  PROFESSIONAL DEVELOPMENT:  Business and educational development activities which move me forward professionally
-
-3.  VOLUNTEER work:  NYC URGs and Allies in Data Science, PyLadies.  You can support me on Patreon.
- 
-4.  MEETING REQUESTS:  Coffee / Mentoring requests: available in exchange for support on Patreon.
-
-5.  Other miscellaneous requests
-
----
-
-## Requests
-See [Consulting page](consulting/index.md)
+## Inquiries & Contact
+See [Contact](consulting/index.md)
 
 
 ---
