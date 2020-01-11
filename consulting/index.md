@@ -31,3 +31,6 @@ If you have general inquiries you can email me, and I will regularly post blogs 
 ### Terms
 - there is a fee for initial consultation, $100/hr, 1 hour minimum fee  
 - for no-shows, fee must be paid for missed meeting prior to rescheduling
+
+### Volunteer
+Support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
