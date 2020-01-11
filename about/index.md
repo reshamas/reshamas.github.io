@@ -28,7 +28,7 @@ I am involved in many projects and a lot of inquiries.  As an independent consul
 ---
 
 ## Requests
-See [Consulting page](consulting/)
+See [Consulting page](consulting/index.md)
 
 
 ---
