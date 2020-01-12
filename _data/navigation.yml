@@ -5,12 +5,12 @@ main:
   # main links links
   - title: About
     url: /about/
-  - title: Portfolio
-    url: /portfolio/
   - title: Consulting
     url: /consulting/
-  - title: More
-    url: /more/   
+  - title: Portfolio
+    url: /portfolio/
+  - title: Media
+    url: /media/   
   - title: Interviews
     url: /interviews/
   - title: Resources
