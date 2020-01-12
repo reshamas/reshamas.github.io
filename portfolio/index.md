@@ -6,7 +6,7 @@ comments: false
 ---
 
 ## Scientific Publications
-[while affiliated with Thomas Jefferson University](https://www.researchgate.net/scientific-contributions/59221316_Reshama_Shaikh) 
+Publications while [affiliated with Thomas Jefferson University](https://www.researchgate.net/scientific-contributions/59221316_Reshama_Shaikh) 
 * Modified two‐sided normal tolerance intervals for batch acceptance of dose uniformity
 * Sample sizes for batch acceptance from single- and multistage designs using two-sided normal tolerance intervals with specified content
 * The Utility of a 7‐Day Percutaneous Spinal Cord Stimulator Trial Measured by a Pain Diary: A Long‐term Retrospective Analysis
