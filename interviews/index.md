@@ -6,6 +6,48 @@ comments: false
 ---
 
 All of my MLConf interviews are available [here](https://mlconf.com/blog/author/reshama-shaikh/).   
+- Cassie Kozyrokov
+- Leslie N. Smith
+- Andreas Mueller
+- Jerry Talton
+- Humayun Irshad
+- Abhineet Gupta
+- Narine Kokhlikyan
+- Kavita Reddy
+- Erik Schlicht
+
+## Cassie Kozyrkov
+My [interview with Cassie Kozyrkov](https://mlconf.com/blog/interview-with-cassie-kozyrkov-chief-decision-scientist-at-google-by-reshama-shaikh-program-committee-member/), Chief Decision Scientist at Google.  Many topics are covered:  data science, statistics, education, leadership, inclusivity, comprehensive list of favorite resources and so much more!
+
+LinkedIn: [cassie](https://www.linkedin.com/in/cassie-kozyrkov-9531919/)  
+Twitter: [@quaesita](https://twitter.com/quaesita)
+
+<p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In this interview, <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> got me talking about all kinds of things, from <a href="https://twitter.com/hashtag/DecisionIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#DecisionIntelligence</a> to being unboring to <a href="https://twitter.com/hashtag/diversity?src=hash&amp;ref_src=twsrc%5Etfw">#diversity</a> to socks... great fun, thanks <a href="https://twitter.com/MLconf?ref_src=twsrc%5Etfw">@MLconf</a>! <a href="https://t.co/Xjl4evn6S4">https://t.co/Xjl4evn6S4</a></p>&mdash; Cassie Kozyrkov (@quaesita) <a href="https://twitter.com/quaesita/status/1047905972407214080?ref_src=twsrc%5Etfw">October 4, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+## Leslie N. Smith
+My [interview with Leslie N. Smith](https://mlconf.com/blog/interview-with-leslie-n-smith-phd-senior-research-scientist-at-the-us-naval-research-laboratory-by-reshama-shaikh-program-committee-member/) is posted on MLConf website.
+
+Leslie N. Smith, is a Senior Research Scientist at the US Naval Research Laboratory.  His research is in optimizing hyperparameters in deep learning.  
+
+LinkedIn:  [drlesliensmith](https://www.linkedin.com/in/drlesliensmith/)  
+Twitter:  [@lnsmith613](https://twitter.com/lnsmith613)  
+GitHub:  [lnsmith54](https://github.com/lnsmith54)
+
+<p>
+  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Interview with Leslie N Smith, PhD of <a href="https://twitter.com/USNRL?ref_src=twsrc%5Etfw">@USNRL</a> by <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> on his research:  optimizing hyperparameters in <a href="https://twitter.com/hashtag/DeepLearning?src=hash&amp;ref_src=twsrc%5Etfw">#DeepLearning</a>, which has been implemented in the <a href="https://twitter.com/fastdotai?ref_src=twsrc%5Etfw">@fastdotai</a> library<a href="https://t.co/ZccjNxIsaS">https://t.co/ZccjNxIsaS</a> <a href="https://t.co/na5zbhE4DU">pic.twitter.com/na5zbhE4DU</a></p>&mdash; MLconf (@MLconf) <a href="https://twitter.com/MLconf/status/991697521029201920?ref_src=twsrc%5Etfw">May 2, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+## Andreas Mueller
+My [interview with Andreas Mueller](https://mlconf.com/blog/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), who is the core contributor to the Python Scikit-learn library, was conducted right before our first [WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint) to involve more women in open source contribution.  It is posted on MLConf's website.  
+
+Twitter:  [@amuellerml](https://twitter.com/amuellerml)  
+GitHub:  [amueller](https://github.com/amueller)
+
+
 
 ## Jerry Talton
 My interview with [Jerry Talton](https://mlconf.com/blog/interview-with-jerry-talton-director-of-data-machine-learning-carta/) of [Carta](https://carta.com).   
@@ -30,16 +72,7 @@ My interview with [Abhineet Gupta](https://mlconf.com/blog/interview-with-abhine
 - creating evaluation metrics for machine learning models and set up the simulation pipeline to generate earthquakes for preparedness trainings and mitigation policy design
 
 
-## Cassie Kozyrkov
-My [interview with Cassie Kozyrkov](https://mlconf.com/blog/interview-with-cassie-kozyrkov-chief-decision-scientist-at-google-by-reshama-shaikh-program-committee-member/), Chief Decision Scientist at Google.  Many topics are covered:  data science, statistics, education, leadership, inclusivity, comprehensive list of favorite resources and so much more!
 
-LinkedIn: [cassie](https://www.linkedin.com/in/cassie-kozyrkov-9531919/)  
-Twitter: [@quaesita](https://twitter.com/quaesita)
-
-<p>
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">In this interview, <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> got me talking about all kinds of things, from <a href="https://twitter.com/hashtag/DecisionIntelligence?src=hash&amp;ref_src=twsrc%5Etfw">#DecisionIntelligence</a> to being unboring to <a href="https://twitter.com/hashtag/diversity?src=hash&amp;ref_src=twsrc%5Etfw">#diversity</a> to socks... great fun, thanks <a href="https://twitter.com/MLconf?ref_src=twsrc%5Etfw">@MLconf</a>! <a href="https://t.co/Xjl4evn6S4">https://t.co/Xjl4evn6S4</a></p>&mdash; Cassie Kozyrkov (@quaesita) <a href="https://twitter.com/quaesita/status/1047905972407214080?ref_src=twsrc%5Etfw">October 4, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
 
 ## Narine Kokhlikyan
 My [interview with Narine Kokhlikyan](https://mlconf.com/blog/interview-with-narine-kokhlikyan-machine-learning-engineer-at-slice-technologies-inc-by-reshama-shaikh-program-committee-member/).  Many topics are covered:  time series + NLP + anomaly detection as well as hot topics like diversity and algorithm reliability.
@@ -65,28 +98,9 @@ LinkedIn:  [K Reddy](https://www.linkedin.com/in/kavita-reddy-725b3827/)
 </p>
 
 
-## Leslie N. Smith
-My [interview with Leslie N. Smith](https://mlconf.com/blog/interview-with-leslie-n-smith-phd-senior-research-scientist-at-the-us-naval-research-laboratory-by-reshama-shaikh-program-committee-member/) is posted on MLConf website.
-
-Leslie N. Smith, is a Senior Research Scientist at the US Naval Research Laboratory.  His research is in optimizing hyperparameters in deep learning.  
-
-LinkedIn:  [drlesliensmith](https://www.linkedin.com/in/drlesliensmith/)  
-Twitter:  [@lnsmith613](https://twitter.com/lnsmith613)  
-GitHub:  [lnsmith54](https://github.com/lnsmith54)
-
-<p>
-  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Interview with Leslie N Smith, PhD of <a href="https://twitter.com/USNRL?ref_src=twsrc%5Etfw">@USNRL</a> by <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> on his research:  optimizing hyperparameters in <a href="https://twitter.com/hashtag/DeepLearning?src=hash&amp;ref_src=twsrc%5Etfw">#DeepLearning</a>, which has been implemented in the <a href="https://twitter.com/fastdotai?ref_src=twsrc%5Etfw">@fastdotai</a> library<a href="https://t.co/ZccjNxIsaS">https://t.co/ZccjNxIsaS</a> <a href="https://t.co/na5zbhE4DU">pic.twitter.com/na5zbhE4DU</a></p>&mdash; MLconf (@MLconf) <a href="https://twitter.com/MLconf/status/991697521029201920?ref_src=twsrc%5Etfw">May 2, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
 
 ## Erik Schlicht
 My [interview with Erik Schlicht](https://mlconf.com/blog/interview-erik-schlicht-founder-computational-cognition-group-c2-g-llc-reshama-shaikh/), who is the founder of the Computational Cognition Group, LLC.   It is posted on MLConf's website. 
 
 Website:  http://schlicht.org/
   
-## Andreas Mueller
-My [interview with Andreas Mueller](https://mlconf.com/blog/interview-andreas-muller-lecturer-columbia-university-core-contributor-scikit-learn-reshama-shaikh/), who is the core contributor to the Python Scikit-learn library, was conducted right before our first [WiMLDS Scikit Sprint](https://github.com/WiMLDS/scikit-sprint) to involve more women in open source contribution.  It is posted on MLConf's website.  
-
-Twitter:  [@amuellerml](https://twitter.com/amuellerml)  
-GitHub:  [amueller](https://github.com/amueller)
-
