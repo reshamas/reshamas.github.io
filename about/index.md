@@ -11,7 +11,7 @@ I am an independent data scientist/statistician and MBA with skills in Python, R
 ---
 
 ## Inquiries, Requests & Consulting
-See [Contact](consulting/index.md)
+See [Contact](../consulting/index.md)
 
 
 ---
