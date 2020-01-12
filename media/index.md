@@ -92,7 +92,7 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 
 ## Tutorials
 
-### Git Workshop (given at Memorial Sloan Kettering, November 8, 2019)
+### Git Workshop (given at Memorial Sloan Kettering, November 8, 2018)
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Q-cS5FQ_Sb4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
