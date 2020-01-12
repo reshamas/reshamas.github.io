@@ -9,7 +9,7 @@ comments: false
 ## Consulting Requests
 I am available for **consulting** in these areas:  data science, diversity, mentoring and community building.  
 
-Contact me for my hourly rates:  reshama dot shaikh @ gmail dot com 
+Contact me for my hourly rates:  reshama dot stat @ gmail dot com 
 
 ### Contacting Me
 
