@@ -1,6 +1,6 @@
 ---
 layout: single
-title: More
+title: Media
 tags: 
 comments: false
 ---
