@@ -18,8 +18,6 @@ See [Contact](consulting/index.md)
 ## My Volunteer Work 
 I am also an organizer of the meetup groups [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
-### Previously
-I was formerly an NYC WiMLDS chapter organizer and on the Board and Global Leadership Team for [WiMLDS](wimlds.org) from 2015 to 2020.  
 
 ### Support me on Patreon
 These are some of my contributions to the community:  [Volunteer Contributions](wimlds_volunteer.md)  
@@ -30,6 +28,8 @@ These are some of my contributions to the community:  [Volunteer Contributions](
 
 Support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
 
+### Previously
+I was formerly an NYC WiMLDS chapter organizer and on the Board and Global Leadership Team for [WiMLDS](wimlds.org) from 2015 to 2020.  
 
 ---
 
