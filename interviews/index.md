@@ -6,7 +6,7 @@ comments: false
 ---
 
 All of my MLConf interviews are available [here](https://mlconf.com/blog/author/reshama-shaikh/).   
-- Cassie Kozyrokov
+- Cassie Kozyrkov
 - Leslie N. Smith
 - Andreas Mueller
 - Jerry Talton
