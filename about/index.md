@@ -16,7 +16,7 @@ See [Contact](../consulting/index.md)
 
 ---
 ## My Volunteer Work 
-I am also an organizer of the meetup groups [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+I am an organizer of the meetup groups [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 
 ### Support me on Patreon
