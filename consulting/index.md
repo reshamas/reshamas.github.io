@@ -15,15 +15,15 @@ Contact me for my hourly rates:  reshama dot stat @ gmail dot com
 
 I am involved in many projects and receive a lot of inquiries.  As an independent consultant, I have to prioritize paid consulting.  I will respond to emails in this order of priority:
 
-1.  CONSULTING:  I am an independent consultant; email me for my hourly fees.
+1.  **CONSULTING**:  I am an independent consultant; email me for my hourly fees.
 
-2.  PROFESSIONAL DEVELOPMENT:  Business and educational development activities which move me forward professionally
+2.  **PROFESSIONAL DEVELOPMENT**:  Business and educational development activities which move me forward professionally.
 
-3.  VOLUNTEER work:  NYC URGs and Allies in Data Science, PyLadies.  You can support me on Patreon.
+3.  **VOLUNTEER**:  NYC URGs and Allies in Data Science, PyLadies.  You can support me on Patreon.
  
-4.  MEETING REQUESTS:  Coffee / Mentoring requests: available in exchange for support on Patreon.
+4.  **MEETING REQUESTS** (Coffee / Mentoring):  Available in exchange for support on Patreon.
 
-5.  Other miscellaneous requests
+5.  **OTHER**:  Other miscellaneous requests
 
 ### Terms
 - there is a fee for initial consultation, $100/hr, 1 hour minimum fee  
