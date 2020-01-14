@@ -28,16 +28,17 @@ I am involved in many projects and receive a lot of inquiries.  As an independen
 - there is a fee for initial consultation, $100/hr, 1 hour minimum
 - for no-shows, fee must be paid for missed meeting prior to rescheduling
 
-### Email
+
+## Email
 
 reshama dot stat @ gmail dot com 
  
----
+
 ## General Inquiries
 
 If you have general inquiries you can email me, and I will regularly post blogs to respond to those.
 
----
+
 
 ## Volunteer Work
 
