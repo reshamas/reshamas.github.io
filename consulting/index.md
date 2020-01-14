@@ -5,11 +5,9 @@ tags:
 comments: false
 ---
 
-
 ## Consulting Requests
-I am available for **consulting** in these areas:  data science, diversity, mentoring and community building.  
 
-Contact me for my hourly rates:  reshama dot stat @ gmail dot com 
+I am available for **consulting** in these areas:  data science, diversity, mentoring and community building.  
 
 ### Contacting Me
 
@@ -26,14 +24,21 @@ I am involved in many projects and receive a lot of inquiries.  As an independen
 5.  **OTHER**:  Other miscellaneous requests
 
 ### Terms
-- there is a fee for initial consultation, $100/hr, 1 hour minimum fee  
+
+- there is a fee for initial consultation, $100/hr, 1 hour minimum
 - for no-shows, fee must be paid for missed meeting prior to rescheduling
 
+### Email
+
+reshama dot stat @ gmail dot com 
+ 
 ---
 ## General Inquiries
+
 If you have general inquiries you can email me, and I will regularly post blogs to respond to those.
 
 ---
 
 ## Volunteer Work
-Support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
+
+You can support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
