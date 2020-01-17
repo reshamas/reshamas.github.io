@@ -259,15 +259,15 @@ The sprint organizer or an attendee can write a blog about their experience.  It
 
 Here are examples of blogs from previous events:  
 - Bay Area 2019
-    - [Of Coding Sprints and Half Marathons](https://medium.com/@valentinaborghesani/of-coding-sprints-and-half-marathons-2b4755f21191)
-    - [Highlights from the 2019 SF WiMLDS scikit-learn Open-Source Sprint](https://medium.com/wimlds-bay-area-blog/highlights-from-the-2019-sf-wimlds-scikit-learn-open-source-sprint-bed9075d69c3)
+    - [Of Coding Sprints and Half Marathons](https://medium.com/@valentinaborghesani/of-coding-sprints-and-half-marathons-2b4755f21191) (Valentina Borghesani)
+    - [Highlights from the 2019 SF WiMLDS scikit-learn Open-Source Sprint](https://medium.com/wimlds-bay-area-blog/highlights-from-the-2019-sf-wimlds-scikit-learn-open-source-sprint-bed9075d69c3) (Katarina Slama)
 - New York City
-    - 2019:  [Sprinting towards a more equitable future: The 2019 NYC WiMLDS Scikit-learn Sprint](https://medium.com/@kelly.carmody45/my-experience-at-the-2019-nyc-women-in-machine-learning-and-data-science-wimlds-scikit-learn-be776024ab7)
-    - 2018:  [Highlights From The 2018 NYC WiMLDS Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/)
-    - 2017:  [2017 WiMLDS scikit-learn Sprint](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/)
+    - 2019:  [Sprinting towards a more equitable future: The 2019 NYC WiMLDS Scikit-learn Sprint](https://medium.com/@kelly.carmody45/my-experience-at-the-2019-nyc-women-in-machine-learning-and-data-science-wimlds-scikit-learn-be776024ab7) (Kelly Carmody)
+    - 2018:  [Highlights From The 2018 NYC WiMLDS Scikit Sprint](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/) (Reshama Shaikh)
+    - 2017:  [2017 WiMLDS scikit-learn Sprint](http://wimlds.org/noemi-derzsy-scikit-learn-sprint/) (Noemi Derzsy)
 - Nairobi 2019:  
-    - [Highlights From The 2019 Nairobi WiMLDS Scikit Sprint](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215) 
-    - [scikit-learn sprint at Nairobi, Kenya](https://adrin.info/scikit-learn-sprint-at-nairobi-kenya.html) 
+    - [Highlights From The 2019 Nairobi WiMLDS Scikit Sprint](https://medium.com/@mariamhaji01/highlights-from-the-2019-nairobi-wimlds-scikit-sprint-889de3b20215) (Mariam Haji)
+    - [scikit-learn sprint at Nairobi, Kenya](https://adrin.info/scikit-learn-sprint-at-nairobi-kenya.html) (Adrin Jalali)
 
 ### Twitter Moments
 Here are examples of collated Twitter Moments:  
