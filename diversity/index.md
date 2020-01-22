@@ -31,6 +31,10 @@ comments: false
 ## Women's Spaces
 - [On the Design of Women's Spaces](https://medium.com/@maybekatz/on-the-design-of-womens-spaces-72bf8f396dc0)
 
+### Articles
+- [Survival Tips For Women In Tech](https://patricia.no/2018/09/06/survival_tips_for_women_in_tech.html)
+
+
 
 ## Diversity in Hiring
 * [Project Include](https://projectinclude.org)
