@@ -71,6 +71,3 @@ Here is a list of my favorite data science resources.
 ## [List of scikit-learn Sprints](scikit_learn_sprints.md)
 
 
-## Diversity
-* [links to diversity resources](diversity.md)
-
