@@ -28,6 +28,13 @@ comments: false
 </script>
 </p>
 
+## Pronouns
+4-minute video on [Gender Identity and Pronouns](https://www.youtube.com/watch?v=J3Fh60GEB5E)
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J3Fh60GEB5E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ## Women's Spaces
 - [On the Design of Women's Spaces](https://medium.com/@maybekatz/on-the-design-of-womens-spaces-72bf8f396dc0)
 - [Do Women’s Networking Events Move the Needle on Equality?](https://hbr.org/2018/02/do-womens-networking-events-move-the-needle-on-equality)
