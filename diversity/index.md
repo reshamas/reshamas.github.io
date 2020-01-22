@@ -28,6 +28,9 @@ comments: false
 </script>
 </p>
 
+## Race
+* [Black Twitter 101: What is it?  Where did it originate? Where is it headed?](https://news.virginia.edu/content/black-twitter-101-what-it-where-did-it-originate-where-it-headed)
+
 ## Pronouns
 4-minute video on [Gender Identity and Pronouns](https://www.youtube.com/watch?v=J3Fh60GEB5E)
 
