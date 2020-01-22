@@ -34,8 +34,6 @@ comments: false
 ### Articles
 - [Survival Tips For Women In Tech](https://patricia.no/2018/09/06/survival_tips_for_women_in_tech.html)
 
-
-
 ## Diversity in Hiring
 * [Project Include](https://projectinclude.org)
 * [Hire More Women in Tech](https://www.hiremorewomenintech.com)
@@ -56,3 +54,15 @@ comments: false
 * [podcast: Shanise Barona / Kim Crayton](https://hashtagcauseascene.com/podcast/shanise-barona/)
 * [Women in Tech and White Supremacy](https://medium.com/@Mo_Mack/women-in-tech-and-white-supremacy-a8ea49bf1a5f), Maureen McElaney
 
+## Stack Exchange
+* [Stack Exchange Controversy](https://www.theregister.co.uk/2019/10/01/stack_exchange_controversy/)
+* [Stack Exchange Offers Possible Reinstatement to Moderator Removed Over Pronouns Policy](https://tech.slashdot.org/story/19/12/28/0448227/stack-exchange-apologizes-offers-possible-reinstatement-to-moderator-removed-over-pronouns-policy)
+* [Would a Note About Preferred Pronouns Qualify the Same Way as a Thank You](https://meta.stackoverflow.com/questions/390301/would-a-note-about-preferred-pronouns-qualify-the-same-way-as-a-thank-you)
+* [Stack Overflow Isn't Welcoming and It's Time for that to Change](
+https://stackoverflow.blog/2018/04/26/stack-overflow-isnt-very-welcoming-its-time-for-that-to-change/)
+
+## Code of Conduct 
+* Training:  [Otter Technology](https://otter.technology/)
+
+
+  
