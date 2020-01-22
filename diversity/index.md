@@ -57,6 +57,7 @@ comments: false
 
 ## Events
 * [Male Ally Summit NYC](https://community.anitab.org/event/male-ally-summit-2019/), Nov 2019
+* [AI Latin America SumMIT](http://ailatinsum.mit.edu/), Jan 2020
 
 ## Girl Develop It
 * [Timeline of Events](http://an-open-letter-to-gdi-board.com/timeline/)
