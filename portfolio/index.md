@@ -49,6 +49,4 @@ Publications while [affiliated with Thomas Jefferson University](https://www.res
 - [PyGotham 2016](https://github.com/reshamas/pygotham-2016)
 - [Visual Studio Code Workshop](https://github.com/nyc-pyladies/2018-vsc-editor) Dec 2018
 
-## Video Tutorials
-- [Create an Instance on AWS](https://www.youtube.com/watch?v=_dRXVp_kk7w&t=14s)
 
