@@ -19,7 +19,7 @@ I am involved in many projects and receive a lot of inquiries.  As an independen
 
 3.  **VOLUNTEER**:  NYC URGs and Allies in Data Science, PyLadies.  You can support me on Patreon.
  
-4.  **MEETING REQUESTS** (Coffee / Mentoring):  Available in exchange for support on Patreon.
+4.  **MEETING REQUESTS** (Coffee / Mentoring):   You can support me on Patreon.
 
 5.  **OTHER**:  Other miscellaneous requests
 
