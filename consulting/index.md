@@ -11,7 +11,7 @@ I am available for **consulting** in these areas:  data science, diversity, ment
 
 ### Contacting Me
 
-I am involved in many projects and receive a lot of inquiries.  As an independent consultant, I have to prioritize paid consulting.  I will respond to emails in this order of priority:
+I am involved in many projects and receive a lot of inquiries.  I respond to emails in this order of priority:
 
 1.  **CONSULTING**:  I am an independent consultant; email me for my hourly fees.
 
@@ -19,7 +19,7 @@ I am involved in many projects and receive a lot of inquiries.  As an independen
 
 3.  **VOLUNTEER**:  NYC URGs and Allies in Data Science, PyLadies.  You can support me on Patreon.  [reshamas](https://www.patreon.com/reshamas) 
  
-4.  **MEETING REQUESTS** (Coffee / Mentoring):  
+4.  **MEETING REQUESTS**:   Coffee / Mentoring
 
 5.  **OTHER**:  Other miscellaneous requests
 
@@ -28,8 +28,4 @@ I am involved in many projects and receive a lot of inquiries.  As an independen
 - there is a fee for initial consultation, $100/hr, 1 hour minimum
 - for no-shows, fee must be paid for missed meeting prior to rescheduling
 
-
-## Email
-
-reshama dot stat @ gmail dot com 
 
