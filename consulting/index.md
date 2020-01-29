@@ -17,13 +17,13 @@ I am involved in many projects and receive a lot of inquiries.  As an independen
 
 2.  **PROFESSIONAL DEVELOPMENT**:  Business and educational development activities which move me forward professionally.
 
-3.  **VOLUNTEER**:  NYC URGs and Allies in Data Science, PyLadies.  You can support me on Patreon.
+3.  **VOLUNTEER**:  NYC URGs and Allies in Data Science, PyLadies.  You can support me on Patreon.  [reshamas](https://www.patreon.com/reshamas) 
  
-4.  **MEETING REQUESTS** (Coffee / Mentoring):   You can support me on Patreon.
+4.  **MEETING REQUESTS** (Coffee / Mentoring):  
 
 5.  **OTHER**:  Other miscellaneous requests
 
-### Terms
+### Consulting Terms
 
 - there is a fee for initial consultation, $100/hr, 1 hour minimum
 - for no-shows, fee must be paid for missed meeting prior to rescheduling
@@ -32,14 +32,4 @@ I am involved in many projects and receive a lot of inquiries.  As an independen
 ## Email
 
 reshama dot stat @ gmail dot com 
- 
 
-## General Inquiries
-
-If you have general inquiries you can email me, and I will regularly post blogs to respond to those.
-
-
-
-## Volunteer Work
-
-You can support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
