@@ -32,11 +32,15 @@ Panel discussion aiming at raising awareness, supporting and advocating for disa
 - Constantino Daskalakis [@KonstDaskalakis](https://twitter.com/KonstDaskalakis)
 - Maria Skoularidou [@skoularidou](https://twitter.com/skoularidou)
 
-
+<span style="background-color: #CAE9F5;"> 
+      color-blind
+</span>
 
 
 ### Kat Heller  
-Hi, and welcome to the disability here.  So, here we’re gonna hopefully take some questions and have some answers about how things stand in relation to disabilities and figure out maybe what we can do in order to improve the situation with how inclusive we can be towards the disability community.  So, let’s start out by talking a little bit about the challenges that people face who are disables and how far we think we’ve come as a conference and where we might need to go. Oh, sorry, yes, let’s introduce ourselves and then answer the question.  Thank you.
+Hi, and welcome to the disability here.  So, here we’re gonna hopefully take some questions and have some answers about how things stand in relation to disabilities and figure out maybe what we can do in order to improve the situation with how inclusive we can be towards the disability community.  So, let’s start out by talking a little bit about the challenges that people face who are disabled and how far we think we’ve come as a conference and where we might need to go. 
+
+Oh, sorry, yes, let’s introduce ourselves and then answer the question.  Thank you.
 
 ### Hugo
 I’m Hugo Larochelle and was program chair this year, *was* because I’m done today, thank you.  I happen to be <span style="background-color: #CAE9F5;"> 
@@ -44,14 +48,11 @@ I’m Hugo Larochelle and was program chair this year, *was* because I’m done 
 </span> but I don’t think that’s why I’m on this panel but I guess that’s my little sort of way in which I can relate to some maybe some people here.  And I know we paid attention to that this year thanks to Maria in particular.  And, yeah, that’s it.
   
 
-	
-
-
 ### Negar
 Hello I’m Negar Rostamzadeh. I’m a research scientist at ElementAI and the next question was about the challenges..
 
 ### Kat
-challenges… and how well we’re doing and where you think we need to go.  [we could just introduce ourselves…]
+challenges… and how well we’re doing and where you think we need to go. We could just introduce ourselves...
 
 ### Emtiyaz
 My name is Emtiyaz Khan but you can just call me “MT”, and I work in Tokyo at Rickon Institute and my experience with disability is, I mean… I think it’s limited but my parents, my father had been paralyzed for six years and he just passed away recently so I’ve had some experience and he was in India.  So, but it’s in a very different context but I hope I still can understand what we discuss here and give some feedback.
@@ -60,7 +61,8 @@ My name is Emtiyaz Khan but you can just call me “MT”, and I work in Tokyo a
 I’m sorry to hear about that.
 
 ### Hanna
-Hey, I’m Hanna Wallach.  I’m the general chair of this year’s conference and my duties are not done, still ongoing.  I’m a senior principal researcher at Microsoft.  My, let’s see, my connection to disability, I guess, my sister had a spinal cord injury when she was 18, so she uses a wheelchair.  I, suddenly out of nowhere, went partially deaf in one year about three years ago, and it never came back and so I actually got my first hearing aid just last week, which is very exciting, so I’m testing it out at the conference.  And my mother had a very major stroke a couple of years ago and needs a live-in carer and sort of has a lot of, yeah anyway.
+Hey, I’m Hanna Wallach.  I’m the general chair of this year’s conference and my duties are not done, still ongoing.  I’m a senior principal researcher at Microsoft.  My, let’s see, my connection to disability, I guess, my sister had a spinal cord injury when she was 18, so she uses a wheelchair.  I, suddenly out of nowhere, <span style="background-color: #CAE9F5;"> 
+       went partially deaf in one year about three years ago, and it never came back and so I actually got my first hearing aid just last week </span>, which is very exciting, so I’m testing it out at the conference.  And my mother had a very major stroke a couple of years ago and needs a live-in carer and sort of has a lot of, yeah anyway.
 
 ### 3:01 Constantino
 Hi, my name is Constantino Dasklakis.  I’m a professor of computer science at MIT.  My work is on algorithms and probability and but recently I’ve been interested in learning from bias data and I feel like this is connected to the topic and you know, in general I’m excited about the opportunities that AI research brings to the topic of you know, accessibility and inclusion.
@@ -72,16 +74,20 @@ So what, sorry, going back to the question: what challenges do you think that we
 Yeah first of all should say, yeah I’m like a newcomer to the community but I can speak more generally.  So, accessibility is a major obstacle for people to be included in, you know, doing research and coming to the conference and being included in the, you know, scientific and progress and innovation.  So, also like, well disabilities in, let’s say in contrast to other, I think you know, features of humans that cause bias and unfairness is a higher dimensional feature.  So, sometimes we don’t measure it properly and sometimes people don’t want that feature which harder to measure and as a result we were facing also a, you know, data collection issue.  So, let’s say from outs, you know, to relate to what I was talking about earlier, you know, like when you’re doing statistics if you can have data it opens up an interesting challenge for how to be fair, to treat, you know, to treat, fairly.  Suppose you don’t observe it properly.  That’s one way.  But, of course, there are many more practical ways in which AI can help.  And I believe we have seen some ways in this conference that can be also assisted with technology.  For example, you know, like you know, like automatic captioning could be a way we could help.  You know, like, for people who have like visual impairments or different perception of color, we could combine AI research with video processing, to show content in a way which is more helpful to those people.  And I feel like there are many opportunities both more practical and more scientific in which we can help directly in more practical ways but also from a AI bias and fairness perspective, yeah combined statistical tools to help those people.  
 
 ### 6:30 Hanna  
-Okay, I guess maybe I’ll talk a little bit more about sort of the conference itself and sort of some things that we could be doing here to make NeurIPS a bit more inclusive along this dimension.  And I should say before I rattle off a long list of things that I think Mary Ellen who is over in the corner over there has done a fantastic job of trying to pull together a lot of this stuff this year working with Kat and working with Maria and so my long list of things should not be taken as a criticism of their hard work but simply these are things that we should be thinking about as we come back to this space next year, as we move into different spaces in the future. 
+Okay, I guess maybe I’ll talk a little bit more about sort of the conference itself and sort of some things that we could be doing here to make NeurIPS a bit more inclusive along this dimension.  <span style="background-color: #CAE9F5;">  And I should say before I rattle off a long list of things that I think Mary Ellen who is over in the corner over there has done a fantastic job of trying to pull together a lot of this stuff this year working with Kat and working with Maria and so my long list of things should not be taken as a criticism of their hard work but simply these are things that we should be thinking about as we come back to this space next year, as we move into different spaces in the future. </span>
 
 So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.
+<span style="background-color: #CAE9F5;"> 
 - There are a bunch of steps to get onto the stage in the main conference center as well for the opening remarks.
 - The microphones are often on a stand that again is not at a particularly easily customizable height. 
 - The podiums on the stages again are also at a height that is not, that is potentially problematic.  
 - The poster sessions are often very crowded and the posters are quite high up.
 - Poster sessions are for me personally often problematic because I have tinnitus so continual ringing in my partially deaf ear.
 And then sometimes if I’m in very loud environments, it gets kind of painful, hyperacusis. And so poster sessions can sometimes make that happen.  Also, just, it takes a huge amount of just mental energy for me to listen in that kind of a noisy scenario.  And so after those poster sessions, I’m then absolutely exhausted and have to sleep for more than usual which is not really super feasible at a conference. 
-- Well, I guess we’ve talked a little bit about captioning which would be helpful.  I know there have been conversations around making the LaTeX source of papers available and posters available so that those can be sort of presented in different ways that might be more accessible to people who have particular needs.  Let’s see. I could probably list a whole bunch of other things but maybe I’ll stop and hand it over to somebody else.  
+- Well, I guess we’ve talked a little bit about captioning which would be helpful.  I know there have been conversations around making the LaTeX source of papers available and posters available so that those can be sort of presented in different ways that might be more accessible to people who have particular needs.  
+ </span>	
+Let’s see. I could probably list a whole bunch of other things but maybe I’ll stop and hand it over to somebody else. 
+	
 
 ### 9:05 Emtiyaz  
 But, wow, I just have one thing to say actually after all that.  So, I actually really think that if we are thinking about inclusiveness here and we’re, you know, for these kind of issues.  I mean I said, like I’m here and I’m trying to think about this because I’ve had some personal experiences but it’s so limited that I just don’t feel qualified at all to say, you know, anything meaningful.  And I think it’s very important that as a community we listen to other people that we create a platform where we can understand and you know, what is needed, right.  So, the kind of thing you just listed.  I mean, I would not even think about this and I don’t know where that platform is.  It’s not only about disability, it’s also about, well-beingness that you know, other things.  So I think we really need to do a good job and this has to be one of the, you know, big points of the organization, that you know, we put this thing, so we hear people. 
