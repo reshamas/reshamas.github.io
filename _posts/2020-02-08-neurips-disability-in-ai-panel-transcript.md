@@ -76,9 +76,9 @@ Yeah first of all should say, yeah I’m like a newcomer to the community but I 
 ### 6:30 Hanna  
 Okay, I guess maybe I’ll talk a little bit more about sort of the conference itself and sort of some things that we could be doing here to make NeurIPS a bit more inclusive along this dimension.  <span style="background-color: #CAE9F5;">  And I should say before I rattle off a long list of things that I think Mary Ellen who is over in the corner over there has done a fantastic job of trying to pull together a lot of this stuff this year working with Kat and working with Maria and so my long list of things should not be taken as a criticism of their hard work but simply these are things that we should be thinking about as we come back to this space next year, as we move into different spaces in the future. </span>
 
-<p>
-<span style="background-color: #CAE9F5;"> 
-<li> So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.  </li?
+
+<span style="background-color: #CAE9F5;"> - So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.  </span>  
+	
 - There are a bunch of steps to get onto the stage in the main conference center as well for the opening remarks.
 - The microphones are often on a stand that again is not at a particularly easily customizable height. 
 - The podiums on the stages again are also at a height that is not, that is potentially problematic.  
@@ -86,8 +86,7 @@ Okay, I guess maybe I’ll talk a little bit more about sort of the conference i
 - Poster sessions are for me personally often problematic because I have tinnitus so continual ringing in my partially deaf ear.
 And then sometimes if I’m in very loud environments, it gets kind of painful, hyperacusis. And so poster sessions can sometimes make that happen.  Also, just, it takes a huge amount of just mental energy for me to listen in that kind of a noisy scenario.  And so after those poster sessions, I’m then absolutely exhausted and have to sleep for more than usual which is not really super feasible at a conference. 
 - Well, I guess we’ve talked a little bit about captioning which would be helpful.  I know there have been conversations around making the LaTeX source of papers available and posters available so that those can be sort of presented in different ways that might be more accessible to people who have particular needs.  
- </span>
-</p>  
+ 
 
 Let’s see. I could probably list a whole bunch of other things but maybe I’ll stop and hand it over to somebody else. 
 	
