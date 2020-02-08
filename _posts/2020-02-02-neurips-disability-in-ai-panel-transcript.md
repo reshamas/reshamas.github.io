@@ -23,13 +23,13 @@ Panel discussion aiming at raising awareness, supporting and advocating for disa
 
 
 ## Panelists
-- Katherine Heller  @kat_heller 
-- Hanna Wallach @hannawallach
-- Hugo Larochelle @hugo_larochelle 
-- Negar Rostamzadeh @negar_rz 
-- Emtiyaz Khan @EmtiyazKhan 
-- Constantino Daskalakis @KonstDaskalakis
-- Maria Skoularidou @skoularidou 
+- Katherine Heller  [@kat_heller](https://twitter.com/kat_heller)
+- Hanna Wallach [@hannawallach](https://twitter.com/hannawallach)
+- Hugo Larochelle [@hugo_larochelle](https://twitter.com/hugo_larochelle)
+- Negar Rostamzadeh [@negar_rz](https://twitter.com/negar_rz)
+- Emtiyaz Khan [@EmtiyazKhan](https://twitter.com/EmtiyazKhan)
+- Constantino Daskalakis [@KonstDaskalakis](https://twitter.com/KonstDaskalakis)
+- Maria Skoularidou [@skoularidou](https://twitter.com/skoularidou)
 
 
 
