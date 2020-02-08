@@ -76,7 +76,8 @@ Yeah first of all should say, yeah I’m like a newcomer to the community but I 
 ### 6:30 Hanna  
 Okay, I guess maybe I’ll talk a little bit more about sort of the conference itself and sort of some things that we could be doing here to make NeurIPS a bit more inclusive along this dimension.  <span style="background-color: #CAE9F5;">  And I should say before I rattle off a long list of things that I think Mary Ellen who is over in the corner over there has done a fantastic job of trying to pull together a lot of this stuff this year working with Kat and working with Maria and so my long list of things should not be taken as a criticism of their hard work but simply these are things that we should be thinking about as we come back to this space next year, as we move into different spaces in the future. </span>
 
-So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.
+So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.  
+<p>
 <span style="background-color: #CAE9F5;"> 
 - There are a bunch of steps to get onto the stage in the main conference center as well for the opening remarks.
 - The microphones are often on a stand that again is not at a particularly easily customizable height. 
@@ -85,21 +86,24 @@ So, okay, there’s a bunch of steps to get up onto this stage, that’s not gre
 - Poster sessions are for me personally often problematic because I have tinnitus so continual ringing in my partially deaf ear.
 And then sometimes if I’m in very loud environments, it gets kind of painful, hyperacusis. And so poster sessions can sometimes make that happen.  Also, just, it takes a huge amount of just mental energy for me to listen in that kind of a noisy scenario.  And so after those poster sessions, I’m then absolutely exhausted and have to sleep for more than usual which is not really super feasible at a conference. 
 - Well, I guess we’ve talked a little bit about captioning which would be helpful.  I know there have been conversations around making the LaTeX source of papers available and posters available so that those can be sort of presented in different ways that might be more accessible to people who have particular needs.  
- </span>	
+ </span>
+</p>  
+
 Let’s see. I could probably list a whole bunch of other things but maybe I’ll stop and hand it over to somebody else. 
 	
 
 ### 9:05 Emtiyaz  
-But, wow, I just have one thing to say actually after all that.  So, I actually really think that if we are thinking about inclusiveness here and we’re, you know, for these kind of issues.  I mean I said, like I’m here and I’m trying to think about this because I’ve had some personal experiences but it’s so limited that I just don’t feel qualified at all to say, you know, anything meaningful.  And I think it’s very important that as a community we listen to other people that we create a platform where we can understand and you know, what is needed, right.  So, the kind of thing you just listed.  I mean, I would not even think about this and I don’t know where that platform is.  It’s not only about disability, it’s also about, well-beingness that you know, other things.  So I think we really need to do a good job and this has to be one of the, you know, big points of the organization, that you know, we put this thing, so we hear people. 
+But, wow, I just have one thing to say actually after all that.  So, I actually really think that if we are thinking about inclusiveness here and we’re, you know, for these kind of issues.  I mean I said, like I’m here and I’m trying to think about this because I’ve had some personal experiences but it’s so limited that I just don’t feel qualified at all to say, you know, anything meaningful.  
+<span style="background-color: #CAE9F5;"> And I think it’s very important that as a community we listen to other people that we create a platform where we can understand and you know, what is needed, right. </span>  So, the kind of thing you just listed.  I mean, I would not even think about this and I don’t know where that platform is.  It’s not only about disability, <span style="background-color: #CAE9F5;"> it’s also about well-beingness </span> that you know, other things.  So I think we really need to do a good job and this has to be one of the, you know, big points of the organization, that you know, we put this thing, so we hear people. 
 
 ### 10:05  Hanna  
-And everybody, literally everybody has different needs and so we need to be listening to everybody to see what it is that we could be doing better about in this regard.
+<span style="background-color: #CAE9F5;">And everybody, literally everybody has different needs and so we need to be listening to everybody to see what it is that we could be doing better about in this regard. </span>
 
 ### Emtiyaz  
 Yeah, exactly.  So that’s all I would like to say, thanks.  
 
 ### Negar  
-So, basically, 30% of people under the age of 65 has kind of either disability or chronic illnesses so it’s a huge population and their needs need to be accommodated in different ways because each person as both Hanna and Emtiyaz mentioned has different needs.  So one idea, like continuing what MT mentioned, could be like to send a survey, an anonymized survey about kind of disabilities that people have and kind of problems that you’re dealing with and how we can accommodate it based on them and I think that would be very helpful for the idea of like having the conference more accessible for everyone.  And the other side is like how to make the whole community more accessible to everyone including people with disabilities.  So the fact is that most disabilities are invisible.  Disabilities are non-binary so people have sometimes like experiencing some issues but sometimes they are totally fine and they may actually, you may not be able to understand from looking at the person.   That like if the person is dealing with some sort of disability at the moment or like is in good health condition so the idea is **to listen and trust people who are communicating these needs with you.**  
+So, basically, <span style="background-color: #CAE9F5;"> <b> 30% of people under the age of 65 has kind of either disability or chronic illnesses so it’s a huge population and their needs need to be accommodated in different ways </b> </span> because each person as both Hanna and Emtiyaz mentioned has different needs.  So one idea, like continuing what MT mentioned, could be like to send a survey, an anonymized survey about kind of disabilities that people have and kind of problems that you’re dealing with and how we can accommodate it based on them and I think that would be very helpful for the idea of like having the conference more accessible for everyone.  And the other side is like how to make the whole community more accessible to everyone including people with disabilities.  So the fact is that most disabilities are invisible.  Disabilities are non-binary so people have sometimes like experiencing some issues but sometimes they are totally fine and they may actually, you may not be able to understand from looking at the person.   That like if the person is dealing with some sort of disability at the moment or like is in good health condition so the idea is **to listen and trust people who are communicating these needs with you.**  
 
 Rachel Thomas actually has two really nice articles about disabilities in AI and generally in the tech community.  
 [The tech industry is failing people with disabilities and chronic illnesses](https://medium.com/@racheltho/the-tech-industry-is-failing-people-with-disabilities-and-chronic-illnesses-8e8aa17937f3)
