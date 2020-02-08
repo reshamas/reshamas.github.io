@@ -1,6 +1,7 @@
+This is a transcript of the panel discussion at NeurIPS 2019 on disabilities in AI.  
 
 ## Disability in AI
-Panel discussion aiming at raising awareness, supporting and advocating for disabled people  
+Panel discussion aiming at raising awareness, supporting and advocating for disabled people.  
 - [{Dis}Ability in AI, Room 220 - 222](https://nips.cc/Conferences/2019/Schedule?showEvent=15976)  
 - NeurIPS 2019
 - Vancouver, Canada
