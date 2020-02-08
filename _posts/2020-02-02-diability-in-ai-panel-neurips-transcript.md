@@ -1,7 +1,7 @@
 
 ## Disability in AI
 Panel discussion aiming at raising awareness, supporting and advocating for disabled people  
-- {Dis}Ability in AI, Room 220 - 222  
+- [{Dis}Ability in AI, Room 220 - 222](https://nips.cc/Conferences/2019/Schedule?showEvent=15976)  
 - NeurIPS 2019
 - Vancouver, Canada
 - Maria Skoularidou (ms2407@cam.ac.uk)  
