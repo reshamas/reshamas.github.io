@@ -20,12 +20,14 @@
 
 
 ## Disability in AI
-- {Dis}Ability in AI
+- {Dis}Ability in AI, Room 220 - 222  
 - NeurIPS 2019
 - Vancouver, Canada
+- Maria Skoularidou (ms2407@cam.ac.uk)  
+- Thursday, Dec 12, 2019, 7 to 10pm  
 
-## Panelists:
-• Panel discussion aiming at raising awareness, supporting and advocating for disabled people  
+## Panelists
+Panel discussion aiming at raising awareness, supporting and advocating for disabled people  
 - Katherine Heller  @kat_heller 
 - Hanna Wallach @hannawallach
 - Hugo Larochelle @hugo_larochelle 
@@ -35,9 +37,7 @@
 - Maria Skoularidou @skoularidou 
 
 
-{Dis}Ability in AI Room 220 - 222  
-Maria Skoularidou (ms2407@cam.ac.uk)  
-Thursday, Dec 12, 2019, 7 to 10pm  
+
 
 #### Kat Heller  
 Hi, and welcome to the disability here.  So, here we’re gonna hopefully take some questions and have some answers about how things stand in relation to disabilities and figure out maybe what we can do in order to improve the situation with how inclusive we can be towards the disability community.  So, let’s start out by talking a little bit about the challenges that people face who are disables and how far we think we’ve come as a conference and where we might need to go. Oh, sorry, yes, let’s introduce ourselves and then answer the question.  Thank you.
