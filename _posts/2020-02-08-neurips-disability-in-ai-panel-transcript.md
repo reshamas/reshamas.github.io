@@ -73,17 +73,49 @@ Okay, I guess maybe I’ll talk a little bit more about sort of the conference i
 
 <ul>
 <li>
-<span style="background-color: #CAE9F5;"> - So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.  </span>  </li>
+<span style="background-color: #CAE9F5;"> So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.  
+</span>  
+</li>
 
-</ul?
-- There are a bunch of steps to get onto the stage in the main conference center as well for the opening remarks.
-- The microphones are often on a stand that again is not at a particularly easily customizable height. 
-- The podiums on the stages again are also at a height that is not, that is potentially problematic.  
-- The poster sessions are often very crowded and the posters are quite high up.
-- Poster sessions are for me personally often problematic because I have tinnitus so continual ringing in my partially deaf ear.
-And then sometimes if I’m in very loud environments, it gets kind of painful, hyperacusis. And so poster sessions can sometimes make that happen.  Also, just, it takes a huge amount of just mental energy for me to listen in that kind of a noisy scenario.  And so after those poster sessions, I’m then absolutely exhausted and have to sleep for more than usual which is not really super feasible at a conference. 
-- Well, I guess we’ve talked a little bit about captioning which would be helpful.  I know there have been conversations around making the LaTeX source of papers available and posters available so that those can be sort of presented in different ways that might be more accessible to people who have particular needs.  
- 
+<li>
+<span style="background-color: #CAE9F5;"> There are a bunch of steps to get onto the stage in the main conference center as well for the opening remarks.  
+</span>  
+</li>
+
+<li>
+<span style="background-color: #CAE9F5;"> The microphones are often on a stand that again is not at a particularly easily customizable height. 
+</span>  
+</li>
+
+<li>
+<span style="background-color: #CAE9F5;"> 
+	The podiums on the stages again are also at a height that is not, that is potentially problematic.  
+</span>  
+</li>
+
+<li>
+<span style="background-color: #CAE9F5;"> 
+ The poster sessions are often very crowded and the posters are quite high up.
+	</span>  
+</li>
+
+<li>
+<span style="background-color: #CAE9F5;"> 
+Poster sessions are for me personally often problematic because I have tinnitus so continual ringing in my partially deaf ear.
+And then sometimes if I’m in very loud environments, it gets kind of painful, hyperacusis. And so poster sessions can sometimes make that happen.  Also, just, it takes a huge amount of just mental energy for me to listen in that kind of a noisy scenario.  And so after those poster sessions, I’m then absolutely exhausted and have to sleep for more than usual which is not really super feasible at a conference.	</span>  
+</li>
+
+<li>
+<span style="background-color: #CAE9F5;"> 
+Well, I guess we’ve talked a little bit about captioning which would be helpful. 	</span>  
+</li>
+
+<li>
+<span style="background-color: #CAE9F5;"> 
+I know there have been conversations around making the LaTeX source of papers available and posters available so that those can be sort of presented in different ways that might be more accessible to people who have particular needs.  	</span>  
+</li>
+
+</ul>
 
 Let’s see. I could probably list a whole bunch of other things but maybe I’ll stop and hand it over to somebody else. 
 	
