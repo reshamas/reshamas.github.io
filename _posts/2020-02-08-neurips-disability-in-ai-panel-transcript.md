@@ -49,10 +49,10 @@ I’m Hugo Larochelle and was program chair this year, *was* because I’m done 
   
 
 ### Negar
-Hello I’m Negar Rostamzadeh. I’m a research scientist at ElementAI and the next question was about the challenges..
+Hello I’m Negar Rostamzadeh. I’m a research scientist at ElementAI and the next question was about the challenges.
 
 ### Kat
-challenges… and how well we’re doing and where you think we need to go. We could just introduce ourselves...
+challenges… and how well we’re doing and where you think we need to go. We could just introduce ourselves.
 
 ### Emtiyaz
 My name is Emtiyaz Khan but you can just call me “MT”, and I work in Tokyo at Rickon Institute and my experience with disability is, I mean… I think it’s limited but my parents, my father had been paralyzed for six years and he just passed away recently so I’ve had some experience and he was in India.  So, but it’s in a very different context but I hope I still can understand what we discuss here and give some feedback.
