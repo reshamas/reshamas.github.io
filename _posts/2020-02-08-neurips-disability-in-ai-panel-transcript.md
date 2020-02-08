@@ -182,7 +182,7 @@ Ok, so, I guess one of the things I think about personally is like wouldn’t it
 [inaudible speaking]
 
 ### 29:20 Negar
-Yeah, actually we organized, like Hugo and some other researchers in Montreal founded Montreal in AI Symposium (http://montrealaisymposium.com/) and we organized it this year and one of the keynote speakers had disability, visual impairment.  She actually gave a really great talk about the way, to like, with research, how to address this issue like from technology side.
+Yeah, actually we organized, like Hugo and some other researchers in Montreal founded [Montreal in AI Symposium](http://montrealaisymposium.com/) and we organized it this year and one of the keynote speakers had disability, visual impairment.  She actually gave a really great talk about the way, to like, with research, how to address this issue like from technology side.
 
 ### 30:00 Hugo
 Yeah, there are people that effectively we could invite and I think knowing more about because that’s a field that I don’t know all that well and it would be like a really original, also just a workshop, period.  
