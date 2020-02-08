@@ -22,7 +22,6 @@ Panel discussion aiming at raising awareness, supporting and advocating for disa
 
 
 
-
 ## Panelists
 - Katherine Heller  [@kat_heller](https://twitter.com/kat_heller)
 - Hanna Wallach [@hannawallach](https://twitter.com/hannawallach)
@@ -31,10 +30,6 @@ Panel discussion aiming at raising awareness, supporting and advocating for disa
 - Emtiyaz Khan [@EmtiyazKhan](https://twitter.com/EmtiyazKhan)
 - Constantino Daskalakis [@KonstDaskalakis](https://twitter.com/KonstDaskalakis)
 - Maria Skoularidou [@skoularidou](https://twitter.com/skoularidou)
-
-<span style="background-color: #CAE9F5;"> 
-      color-blind
-</span>
 
 
 ### Kat Heller  
