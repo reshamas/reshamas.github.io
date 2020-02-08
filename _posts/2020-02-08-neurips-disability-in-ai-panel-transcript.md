@@ -69,14 +69,13 @@ Yeah first of all should say, yeah I’m like a newcomer to the community but I 
 Okay, I guess maybe I’ll talk a little bit more about sort of the conference itself and sort of some things that we could be doing here to make NeurIPS a bit more inclusive along this dimension.  And I should say before I rattle off a long list of things that I think Mary Ellen who is over in the corner over there has done a fantastic job of trying to pull together a lot of this stuff this year working with Kat and working with Maria and so my long list of things should not be taken as a criticism of their hard work but simply these are things that we should be thinking about as we come back to this space next year, as we move into different spaces in the future. 
 
 So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.
-There are a bunch of steps to get onto the stage in the main conference center as well for the opening remarks.
-The microphones are often on a stand that again is not at a particularly easily customizable height. 
-The podiums on the stages again are also at a height that is not, that is potentially problematic.  
-The poster sessions are often very crowded and the posters are quite high up.
-Poster sessions are for me personally often problematic because I have tinnitus so continual ringing in my partially deaf ear.
+- There are a bunch of steps to get onto the stage in the main conference center as well for the opening remarks.
+- The microphones are often on a stand that again is not at a particularly easily customizable height. 
+- The podiums on the stages again are also at a height that is not, that is potentially problematic.  
+- The poster sessions are often very crowded and the posters are quite high up.
+- Poster sessions are for me personally often problematic because I have tinnitus so continual ringing in my partially deaf ear.
 And then sometimes if I’m in very loud environments, it gets kind of painful, hyperacusis. And so poster sessions can sometimes make that happen.  Also, just, it takes a huge amount of just mental energy for me to listen in that kind of a noisy scenario.  And so after those poster sessions, I’m then absolutely exhausted and have to sleep for more than usual which is not really super feasible at a conference. 
-
-Well, I guess we’ve talked a little bit about captioning which would be helpful.  I know there have been conversations around making the LaTeX source of papers available and posters available so that those can be sort of presented in different ways that might be more accessible to people who have particular needs.  Let’s see. I could probably list a whole bunch of other things but maybe I’ll stop and hand it over to somebody else.  
+- Well, I guess we’ve talked a little bit about captioning which would be helpful.  I know there have been conversations around making the LaTeX source of papers available and posters available so that those can be sort of presented in different ways that might be more accessible to people who have particular needs.  Let’s see. I could probably list a whole bunch of other things but maybe I’ll stop and hand it over to somebody else.  
 
 ### 9:05 Emtiyaz  
 But, wow, I just have one thing to say actually after all that.  So, I actually really think that if we are thinking about inclusiveness here and we’re, you know, for these kind of issues.  I mean I said, like I’m here and I’m trying to think about this because I’ve had some personal experiences but it’s so limited that I just don’t feel qualified at all to say, you know, anything meaningful.  And I think it’s very important that as a community we listen to other people that we create a platform where we can understand and you know, what is needed, right.  So, the kind of thing you just listed.  I mean, I would not even think about this and I don’t know where that platform is.  It’s not only about disability, it’s also about, well-beingness that you know, other things.  So I think we really need to do a good job and this has to be one of the, you know, big points of the organization, that you know, we put this thing, so we hear people. 
