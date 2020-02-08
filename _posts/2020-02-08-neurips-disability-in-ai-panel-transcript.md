@@ -39,14 +39,11 @@ Panel discussion aiming at raising awareness, supporting and advocating for disa
 Hi, and welcome to the disability here.  So, here we’re gonna hopefully take some questions and have some answers about how things stand in relation to disabilities and figure out maybe what we can do in order to improve the situation with how inclusive we can be towards the disability community.  So, let’s start out by talking a little bit about the challenges that people face who are disables and how far we think we’ve come as a conference and where we might need to go. Oh, sorry, yes, let’s introduce ourselves and then answer the question.  Thank you.
 
 ### Hugo
-I’m Hugo Larochelle and was program chair this year, *was* because I’m done today, thank you.  I happen to be <span style="background-color: #ffff00;"> 
+I’m Hugo Larochelle and was program chair this year, *was* because I’m done today, thank you.  I happen to be <span style="background-color: #CAE9F5;"> 
       color-blind
 </span> but I don’t think that’s why I’m on this panel but I guess that’s my little sort of way in which I can relate to some maybe some people here.  And I know we paid attention to that this year thanks to Maria in particular.  And, yeah, that’s it.
   
-  
-  <span style="background-color: #ADD8E6;"> 
-      color-blind
-</span>
+
 	
 
 
