@@ -39,19 +39,19 @@ Panel discussion aiming at raising awareness, supporting and advocating for disa
 
 
 
-#### Kat Heller  
+### Kat Heller  
 Hi, and welcome to the disability here.  So, here we’re gonna hopefully take some questions and have some answers about how things stand in relation to disabilities and figure out maybe what we can do in order to improve the situation with how inclusive we can be towards the disability community.  So, let’s start out by talking a little bit about the challenges that people face who are disables and how far we think we’ve come as a conference and where we might need to go. Oh, sorry, yes, let’s introduce ourselves and then answer the question.  Thank you.
 
-#### Hugo
+### Hugo
 I’m Hugo Larochelle and was program chair this year, *was* because I’m done today, thank you.  I happen to be color-blind but I don’t think that’s why I’m on this panel but I guess that’s my little sort of way in which I can relate to some maybe some people here.  And I know we paid attention to that this year thanks to Maria in particular.  And, yeah, that’s it.
 
-#### Negar
+### Negar
 Hello I’m Negar Rostamzadeh. I’m a research scientist at ElementAI and the next question was about the challenges..
 
-#### Kat
+### Kat
 challenges… and how well we’re doing and where you think we need to go.  [we could just introduce ourselves…]
 
-#### Emtiyaz
+### Emtiyaz
 My name is Emtiyaz Khan but you can just call me “MT”, and I work in Tokyo at Rickon Institute and my experience with disability is, I mean… I think it’s limited but my parents, my father had been paralyzed for six years and he just passed away recently so I’ve had some experience and he was in India.  So, but it’s in a very different context but I hope I still can understand what we discuss here and give some feedback.
 
 ### Kat
