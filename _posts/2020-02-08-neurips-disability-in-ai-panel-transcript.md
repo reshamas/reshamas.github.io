@@ -42,7 +42,11 @@ Hi, and welcome to the disability here.  So, here we’re gonna hopefully take s
 I’m Hugo Larochelle and was program chair this year, *was* because I’m done today, thank you.  I happen to be <span style="background-color: #ffff00;"> 
       color-blind
 </span> but I don’t think that’s why I’m on this panel but I guess that’s my little sort of way in which I can relate to some maybe some people here.  And I know we paid attention to that this year thanks to Maria in particular.  And, yeah, that’s it.
-
+  
+  
+  <span style="background-color: #ADD8E6;"> 
+      color-blind
+</span>
 	
 
 
@@ -224,3 +228,7 @@ Hi, my name’s Joe and so mostly you’ve been talking about kind of physical d
 ### 36:35 Hanna
 I think that’s really important in one area that I worry about with this regard as our reviewing process which has these incredibly tight timelines and very strict requirements on what has to be done when, etc, etc and all this kind of 
 
+
+
+## References
+- [How to Use Color Blind Friendly Palettes to Make Your Charts Accessible](https://venngage.com/blog/color-blind-friendly-palette/)
