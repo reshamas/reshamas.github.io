@@ -40,9 +40,7 @@ Hi, and welcome to the disability here.  So, here we’re gonna hopefully take s
 
 ### Hugo
 I’m Hugo Larochelle and was program chair this year, *was* because I’m done today, thank you.  I happen to be <span style="background-color: #ffff00;"> 
-<i> 
       color-blind
-</i> 
 </span> but I don’t think that’s why I’m on this panel but I guess that’s my little sort of way in which I can relate to some maybe some people here.  And I know we paid attention to that this year thanks to Maria in particular.  And, yeah, that’s it.
 
 	
