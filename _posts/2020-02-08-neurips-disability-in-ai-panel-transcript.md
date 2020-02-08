@@ -78,7 +78,7 @@ Okay, I guess maybe I’ll talk a little bit more about sort of the conference i
 
 <p>
 <span style="background-color: #CAE9F5;"> 
-- So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.  
+<li> So, okay, there’s a bunch of steps to get up onto this stage, that’s not great.  </li?
 - There are a bunch of steps to get onto the stage in the main conference center as well for the opening remarks.
 - The microphones are often on a stand that again is not at a particularly easily customizable height. 
 - The podiums on the stages again are also at a height that is not, that is potentially problematic.  
