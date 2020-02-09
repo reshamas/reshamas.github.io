@@ -15,6 +15,7 @@ comments: false
 
 ### {Dis}abilities in AI
 #### Video on panel discussion at NeurIPS 2019
+[Transcript](https://reshamas.github.io/neurips-disability-in-ai-panel-transcript/) is available.  
 
 <p>
 <div id="presentation-embed-38922466"></div>
