@@ -304,6 +304,16 @@ Absolutely.  And framing and phrasing is going to be very always important.  But
 ### 47:24 Kat
 I also think maybe we can do more, I don’t know what the cost is, but we can do more like as a community to make things global instead of so dependent on individual resources.  Either through the conference or through their university or whatever, right.  So for example, I’ve definitely seen situations in which talks were both closed captioned and there was a sign language interpreter standing there right next to it so we’ve got four tracks and to just do that for every track.  Like every track in every track.  I think it’s something that maybe should be looked into.  I know there were also issues for students in the same situation at the poster sessions and maybe we could like also try to think globally about what solutions to that might be. 
 
+### 48:10 audience member
+So I think this lady asked for data on the closed captioning.  I think the quality probably could use improvements so when it was livestreaming a lot of the captioning was actually incorrect.  And I know because I use it, you know.  And so I don’t know what the technology is, maybe it’s not like machine learnable yet, but maybe you can have like a you know, a first pass that’s a little bit lower quality but then correct it later because people would definitely benefit from that.  
+
+### 49:00 audience member
+So, I want to make sure we’re aware that there is like [American Disabilities Act](https://www.ada.gov/index.html) for those in the US and even some states have their own individual rules that are even more stringent.  Canada also has very specific rules about those with disabilities.  One of the things we can do without actually surveying our population is recognize that we do in fact know information about what types of things are considered disabilities already look to see what those address.  Most of our employers are having to actually already look at these things for employees in the first place so rather than wait for somebody to identify.  We should be looking to those things that we already know that we can do or probably should be doing because we’re not employees, but we’re members of a community just like employees or members of an organization. So from that perspective, if we already look at what those things are and then it’s by publicizing and making it clear to our communities at large that these things are available, it might then work.  Again, the whole thing about the make sure they know about the dimensions of how long it takes to get someplace.  They have more information.  They can then make determinations whether or not those that would be, maybe it’s streaming, might actually come because they know there’s actually opportunity for them to participate in an active way because we’ve already set the stage for them.  So I’m just saying one of the things that we can actually do, as a body, is actually go ahead and actively look at those things and put those into place and then communicate openly and often that those things are in place.  Just two cents.
+
+### 50:40 Kat
+Okay, so I think that we’re over an hour so I will close it out.  Thanks for coming.  I really appreciate it.  And thank you to all of our panelists who did a great job.  
+
+[applause]
 
 
 ## References
