@@ -40,17 +40,17 @@ We are looking for sponsors to fiscally support this project and maintenance of 
 ## The Long Term Goal
 The goal of this dashboard fits into a bigger picture of exploring and visualizing the R, Python and data science communities.  These are the projects that Ben Ubah is embarking on, contingent on sponsorship support.  
 
-### R Community Dashboards
+### R Community Explorer
 - [R User Groups](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
 - [R Ladies](https://benubah.github.io/r-community-explorer/rladies.html)
 - [R-GSoC](https://benubah.github.io/r-community-explorer/gsoc.html) (Google Summer of Code)
 
-### Python Community Dashboards
+### Python Community Explorer
 - [PyLadies](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
 - PyData
 - more coming soon; contact Ben to sponsor a python project dashboard (ubah.ben22 [at] gmail com)
 
-### Data Science Community
+### Data Science Community Explorer
 - [Data Science groups](https://datascience-community.github.io/user-groups/datascience.html)
 
 
