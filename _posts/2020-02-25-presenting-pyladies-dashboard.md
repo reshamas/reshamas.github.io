@@ -9,7 +9,7 @@ The [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pylad
 
 ## Purpose
 - To provide informative, real-time statistics on the PyLadies chapters around the world 
-- To identify inactive and unbegun chapters
+- To identify inactive chapters
 - To provide a portal for potential members to find a local community to join and for current members to track chapter activity
 - To provide data visually to potential sponsors that communicates the reach of PyLadies organization
 - To provide Python-focused organizations like the PSF and NumFOCUS insight into the community
