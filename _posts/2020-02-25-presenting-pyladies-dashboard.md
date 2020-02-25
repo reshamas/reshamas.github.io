@@ -1,4 +1,4 @@
-The PyLadies dashboard was created in February 2020.  
+The [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html) was created in February 2020.  
 
 <p>
  <a>
@@ -17,7 +17,7 @@ The PyLadies dashboard was created in February 2020.
 ## The Dashboard
 
 The dashboard is hosted on GitHub, using GitHub Pages, and is available at the following link:  
-https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html
+[pyladies-dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
 
 ## Audience
 - PyLadies organizers
@@ -40,8 +40,5 @@ We are looking for sponsors to fiscally support this project and maintenance of 
 
 
 ## Contact
-If you have any questions, feedback, suggestions, please open an issue on GitHub here:  
-https://github.com/nyc-pyladies/pyladies-dashboard/issues
-
-Or email:  reshama.stat@gmail.com
+If you have any questions, feedback, suggestions, please open an [issue on GitHub](https://github.com/nyc-pyladies/pyladies-dashboard/issues) or email:  reshama.stat@gmail.com
 
