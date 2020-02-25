@@ -16,8 +16,7 @@ The [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pylad
 
 ## The Dashboard
 
-The dashboard is hosted on GitHub, using GitHub Pages, and is available at the following link:  
-[pyladies-dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
+The dashboard is hosted on GitHub, using GitHub Pages, and is available at the following link: [pyladies-dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
 
 ## Audience
 - PyLadies organizers
