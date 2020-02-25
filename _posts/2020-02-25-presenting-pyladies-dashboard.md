@@ -48,12 +48,12 @@ The goal of this dashboard fits into a bigger picture of exploring and visualizi
 ### Python Community Dashboards
 - [PyLadies](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
 - PyData
-- more coming soon, we are looking for sponsors
+- more coming soon; contact Ben to sponsor a python project dashboard (ubah.ben22 [at] gmail com)
 
 ### Data Science Community
 - [Data Science groups](https://datascience-community.github.io/user-groups/datascience.html)
 
 
 ## Contact
-If you have any questions, feedback, suggestions, please open an [issue on GitHub](https://github.com/nyc-pyladies/pyladies-dashboard/issues) or email:  reshama.stat@gmail.com
+If you have any questions, feedback or suggestions for the PyLadies dashboard, please open an [issue on GitHub](https://github.com/nyc-pyladies/pyladies-dashboard/issues) or email:  reshama.stat@gmail.com
 
