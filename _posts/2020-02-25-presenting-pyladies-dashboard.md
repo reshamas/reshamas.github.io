@@ -1,7 +1,7 @@
 The [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html) was created in February 2020.  
 
 <p>
- <a>
+ <a href="ttps://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html">
   <img src="../assets/images/pyladies_d.png" width="95%" height="95%" style="padding:1px;border:thick solid black;" > 
  </a>
 </p>
