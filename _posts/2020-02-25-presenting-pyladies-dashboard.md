@@ -3,7 +3,7 @@ The [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pylad
 <p>
  <a>
   <img src="../assets/images/3q744c.gif" width="75%" height="75%" style="padding:1px;border:thick solid black;" > 
-  </a
+ </a>
 </p>
 
 
