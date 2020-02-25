@@ -2,7 +2,7 @@ The PyLadies dashboard was created in February 2020.
 
 <p>
  <a>
-  <img src="../assets/images/3q744c.gif" > 
+  <img src="../assets/images/3q744c.gif" width="50%" height="50%" style="padding:1px;border:thick solid black;" > 
   </a>
 </p>
 
