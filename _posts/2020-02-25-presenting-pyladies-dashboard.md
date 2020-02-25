@@ -1,5 +1,12 @@
 The PyLadies dashboard was created in February 2020.  
 
+<p>
+ <a>
+  <img src="../assets/images/pyladies_clip.mov" > 
+  </a>
+</p>
+
+
 ## Purpose
 - To provide informative, real-time statistics on the PyLadies chapters around the world 
 - To identify inactive and unbegun chapters
