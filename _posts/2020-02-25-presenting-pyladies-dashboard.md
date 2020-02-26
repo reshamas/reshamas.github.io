@@ -52,7 +52,7 @@ The goal of this dashboard fits into a bigger picture of exploring and visualizi
 
 ### Data Science Community Explorer
 - [Data Science groups](https://datascience-community.github.io/user-groups/datascience.html) (developing)
-
+- Any other data science / software community
 
 ## Contact
 If you have any questions, feedback or suggestions for the PyLadies dashboard, please open an [issue on GitHub](https://github.com/nyc-pyladies/pyladies-dashboard/issues) or email:  reshama.stat@gmail.com
