@@ -38,20 +38,20 @@ The dashboard is hosted on GitHub, using GitHub Pages, and is available at the f
 We are looking for sponsors to fiscally support this project and maintenance of this project in exchange for displaying your organization’s name in the Sponsor section of the dashboard page.  Email us for more information.  
 
 ## The Long Term Goal
-The goal of this dashboard fits into a bigger picture of exploring and visualizing the R, Python and data science communities.  These are the projects that Ben Ubah is embarking on, contingent on sponsorship support.  
+The goal of this dashboard fits into a bigger picture of exploring and visualizing the R, Python and data science communities. This really gives a broad overview of the state of things as comparisons can then be realistically done. These are the projects that Ben Ubah is embarking on, contingent on sponsorship support.  
 
 ### R Community Explorer
-- [R User Groups](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
+- [R User Groups](https://benubah.github.io/r-community-explorer/rugs.html)
 - [R Ladies](https://benubah.github.io/r-community-explorer/rladies.html)
-- [R-GSoC](https://benubah.github.io/r-community-explorer/gsoc.html) (Google Summer of Code)
+- Events and trends (coming soon); contact Ben to sponsor an events/trends R dashboard (ubah.ben22 [at] gmail com)
 
 ### Python Community Explorer
 - [PyLadies](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
-- PyData
-- more coming soon; contact Ben to sponsor a python project dashboard (ubah.ben22 [at] gmail com)
+- PyData / Python groups
+- Events and trends (coming soon); contact Ben to sponsor a python project dashboard (ubah.ben22 [at] gmail com)
 
 ### Data Science Community Explorer
-- [Data Science groups](https://datascience-community.github.io/user-groups/datascience.html)
+- [Data Science groups](https://datascience-community.github.io/user-groups/datascience.html) (developing)
 
 
 ## Contact
