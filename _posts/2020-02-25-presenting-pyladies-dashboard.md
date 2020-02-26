@@ -38,7 +38,7 @@ The dashboard is hosted on GitHub, using GitHub Pages, and is available at the f
 We are looking for sponsors to fiscally support this project and maintenance of this project in exchange for displaying your organization’s name in the Sponsor section of the dashboard page.  Email us for more information.  
 
 ## The Long Term Goal
-The goal of this dashboard fits into a bigger picture of exploring and visualizing the R, Python and data science communities. This really gives a broad overview of the state of things as comparisons can then be realistically drawn. These are the projects that Ben Ubah is embarking on, contingent on sponsorship support.  
+The goal of this dashboard fits into a bigger picture of exploring and visualizing the R, Python and data science communities. This permits data-driven assessments and decisions.  These are the projects that Ben Ubah is embarking on, contingent on sponsorship support.  
 
 ### R Community Explorer
 - [R User Groups](https://benubah.github.io/r-community-explorer/rugs.html)
