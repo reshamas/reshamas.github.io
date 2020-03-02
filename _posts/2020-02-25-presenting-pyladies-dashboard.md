@@ -10,6 +10,7 @@ The [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pylad
 ## Purpose
 - To provide informative, real-time statistics on the PyLadies chapters around the world 
 - To identify inactive chapters
+- To highlight under-represented regions
 - To provide a portal for potential members to find a local community to join and for current members to track chapter activity
 - To provide data visually to potential sponsors that communicates the reach of PyLadies organization
 - To provide Python-focused organizations like the PSF and NumFOCUS insight into the community
@@ -52,7 +53,7 @@ The goal of this dashboard fits into a bigger picture of exploring and visualizi
 
 ### Data Science Community Explorer
 - [Data Science groups](https://datascience-community.github.io/user-groups/datascience.html) (developing)
-- Any other data science / software community
+- Any other data science / software community (please reach out to Ben Ubah if you need a dashboard/explorer for your community)
 
 ## Contact
 If you have any questions, feedback or suggestions for the PyLadies dashboard, please open an [issue on GitHub](https://github.com/nyc-pyladies/pyladies-dashboard/issues) or email:  reshama.stat@gmail.com
