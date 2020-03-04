@@ -1,4 +1,4 @@
-The [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html) was created in February 2020 and will be officially released on March 2, 2020.  
+The [PyLadies dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html) was created in February 2020 and was officially released on March 2, 2020.  
 
 <p>
  <a href="https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html">
