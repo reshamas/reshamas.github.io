@@ -16,7 +16,6 @@ Many people have used the statistics from my November 2018 article in presentati
 | Users (b)         | 41.7%      | 5.8%       |  7.2   |
 | URG Initatives    | ?          | [R Forwards](https://forwards.github.io)       |     |
 | Conferences       | PyCon      | Rstudio, useR! 
-|                   |            |        |     |
 |                   |    |        |     |
 | **DASHBOARD**     | **[PyLadies](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)**   | **[R-Ladies](https://benubah.github.io/r-community-explorer/rladies.html)**
 | Founded           | 2011       | 2012       |                |
