@@ -4,7 +4,7 @@ In November of 2018, I wrote the article [Why Women Are Flourishing In R Communi
 In celebration of International Women's Day 2020, here is an update of the statistics.  Many people have used the statistics from my November 2018 article in presentations related to diversity.  There are now updated statistics for the community to reference.  
 
 
-## Statistics of Python and R Communities
+## 2020 Statistics of Python and R Communities
 
 | Detail            | Python | R  | ratio Python/R  |
 |-------------------|------------|------------|----------------|
