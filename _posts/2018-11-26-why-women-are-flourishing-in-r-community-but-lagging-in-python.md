@@ -14,11 +14,12 @@ My [**DataFramed podcast**](https://www.datacamp.com/community/podcast/women-in-
 
 </p>
 
-
-
 [Full transcript](https://www.datacamp.com/community/blog/women-in-data-science) is also available.
 
- 
+## Python and R Statistics (these updated statistics added 07-Mar-2020)
+[2020 Statistics On Python And R Communities](https://reshamas.github.io/2020-statistics-on-python-and-r-communities/)
+
+---
 
 ## Intro
 
