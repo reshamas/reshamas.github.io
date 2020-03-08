@@ -11,9 +11,9 @@ Many people have used the statistics from my November 2018 article in presentati
 | Language          | Python     | Rstats     |                |
 | Language Released | 1990       | 1993       |                |
 | # Female core developers|  5   | 0          |  5:0              | 
-| Sponsors (a)      | PSF        | R Foundation |              |
+| Sponsors       | PSF        | R Foundation |              |
 | Sponsor Followers | [305.2K](https://twitter.com/ThePSF)  |  [16.4K](https://twitter.com/_R_Foundation)| 18.6  |
-| Users (b)         | 41.7%      | 5.8%       |  7.2   |
+| Users (a)         | 41.7%      | 5.8%       |  7.2   |
 | URG Initatives    | ?          | [R Forwards](https://forwards.github.io)       |     |
 | Conferences       | PyCon      | Rstudio, useR! 
 |                   |    |        |     |
