@@ -5,7 +5,6 @@ In celebration of International Women's Day 2020, here is an update of the stati
 
 
 ## Statistics of Python and R Communities
-updated:  07-Mar-2020
 
 | Detail            | Python | R  | ratio Python/R  |
 |-------------------|------------|------------|----------------|
@@ -30,6 +29,7 @@ updated:  07-Mar-2020
 | Leadership team             | in-progress| yes        |                |
 
 Notes:  
+- This table was updated 07-Mar-2020.
 - (a) Stack Overflow 2019 [Developers Survey](https://insights.stackoverflow.com/survey/2019)
 - PSF = Python Software Foundation  
 - CS = computer science
