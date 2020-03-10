@@ -17,7 +17,7 @@ Many people have used the statistics from my November 2018 article in presentati
 | URG Initatives    | ?          | [R Forwards](https://forwards.github.io)       |     |
 | Conferences       | PyCon      | Rstudio, useR! 
 |                   |    |        |     |
-| **DASHBOARD**     | **[PyLadies](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)**   | **[R-Ladies](https://benubah.github.io/r-community-explorer/rladies.html)**
+|      | **[PyLadies Dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)**   | **[R-Ladies Dashboard](https://benubah.github.io/r-community-explorer/rladies.html)**
 | Founded           | 2011       | 2012       |                |
 | Members           | 54,000     | 65,000     |  0.8   |
 | Countries         | 30         |  52        |  0.6   |
