@@ -1,0 +1,21 @@
+
+## Data
+- Johns Hopkins GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
+
+## Global Dashboards
+- [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+- [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
+- [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
+- Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
+- [Avi Schiffman](https://ncov2019.live/data)
+
+## Country Dashboards
+- Public Health England [Total UK cases COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
+    - Ref:  [UK data](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
+- [Ecuador](https://coronavirusecuador.com)
+
+
+## US State Data
+- [California](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/#nt=2PromoSuperLeadLarge-1col-7030col1-main)
+- [New Jersey COVID-19 Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
+- [Massachusetts COVID Data](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-)
