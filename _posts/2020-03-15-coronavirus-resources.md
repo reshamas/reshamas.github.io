@@ -10,6 +10,7 @@
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
 - [Avi Schiffman](https://ncov2019.live/data)
 - [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
+- [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
 
 ## Modeling / Statistical 
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
