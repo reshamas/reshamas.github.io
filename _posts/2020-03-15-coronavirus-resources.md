@@ -24,11 +24,11 @@
     - Ref:  [UK data](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
 
 ## Country Data via Wikipedia
-- [India wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India)
-- [Iran wikipedia](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Iran_medical_cases)
-- [Italy wikipedia](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Italy_medical_cases)
-- [Japan wikipedia](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Japan_medical_cases)
-- [South Korea wikipedia](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/South_Korea_medical_cases)
+- [India](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India)
+- [Iran](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Iran_medical_cases)
+- [Italy](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Italy_medical_cases)
+- [Japan](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Japan_medical_cases)
+- [South Korea](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/South_Korea_medical_cases)
 
 
 ## US State Data
