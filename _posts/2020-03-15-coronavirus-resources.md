@@ -1,7 +1,7 @@
 
-## Johns Hopkins 
+## Johns Hopkins (JH) 
 - [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
-- DATA: JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
+- **DATA**: JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 ## Global Dashboards
 - [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
