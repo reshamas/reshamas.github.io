@@ -25,6 +25,7 @@
 
 ## Country Data via Wikipedia
 - Wikipedia:  [coronavirus pandemic](https://en.wikipedia.org/wiki/2019–20_coronavirus_pandemic)
+- Wikipedia:  search of [2020 pandemic in](https://en.wikipedia.org/w/index.php?search=2020+coronavirus+pandemic+in&title=Special%3ASearch&go=Go&ns0=1) (by country listing)
 - [India](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India)
 - [Iran](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Iran_medical_cases)
 - [Italy](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Italy_medical_cases)
