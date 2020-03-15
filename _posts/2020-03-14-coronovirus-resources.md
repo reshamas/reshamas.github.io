@@ -5,6 +5,7 @@
 ## Global Dashboards
 - [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 - [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
+- [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
 - [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
 - [Avi Schiffman](https://ncov2019.live/data)
@@ -17,5 +18,8 @@
 
 ## US State Data
 - [California](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/#nt=2PromoSuperLeadLarge-1col-7030col1-main)
-- [New Jersey COVID-19 Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
 - [Massachusetts COVID Data](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-)
+- [New Jersey COVID-19 Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
+- [New York (state)](https://www.health.ny.gov/diseases/communicable/coronavirus/)
+- [Washington (state)](https://www.doh.wa.gov/Emergencies/Coronavirus)
+
