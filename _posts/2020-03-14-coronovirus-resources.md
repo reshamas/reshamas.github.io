@@ -10,6 +10,9 @@
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
 - [Avi Schiffman](https://ncov2019.live/data)
 
+## Modeling / Statistical 
+- [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
+
 ## Country Dashboards
 - United Kingdom [Total UK cases COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
     - Ref:  [UK data](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
