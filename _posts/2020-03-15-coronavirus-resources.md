@@ -1,10 +1,10 @@
 
-## Data
-- Johns Hopkins GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
+## Johns Hopkins 
+- [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
+- DATA: JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 ## Global Dashboards
 - [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
-- [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
 - [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
 - [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
