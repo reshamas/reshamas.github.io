@@ -15,7 +15,7 @@
 ## Modeling / Statistical 
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
 
-## Country Dashboards
+## Country Data / Dashboards
 - [Canada data](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - [Ecuador](https://coronavirusecuador.com)
 - [South Africa](https://datastudio.google.com/u/0/reporting/1b60bdc7-bec7-44c9-ba29-be0e043d8534/page/hrUIB)
@@ -23,7 +23,12 @@
 - United Kingdom [Total UK cases COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
     - Ref:  [UK data](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
 
-
+## Country Data via Wikipedia
+- [India wikipedia](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India)
+- [Iran wikipedia](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Iran_medical_cases)
+- [Italy wikipedia](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Italy_medical_cases)
+- [Japan wikipedia](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Japan_medical_cases)
+- [South Korea wikipedia](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/South_Korea_medical_cases)
 
 
 ## US State Data
