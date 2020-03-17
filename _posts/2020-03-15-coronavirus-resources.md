@@ -37,12 +37,16 @@
 ## US State Data
 - [Alaska](http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx)
 - [Arizona](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home) (cases + # tested)
+- [Arkansas](https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus) (pos, neg, tested, date updated)
 - [**California**](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/#nt=2PromoSuperLeadLarge-1col-7030col1-main)
 - [Colorado](https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub) case summary
 - [Idaho](https://coronavirus.idaho.gov/) data
 - [Hawaii](https://health.hawaii.gov/news/category/corona-virus/) daily updates
+- [Iowa](https://idph.iowa.gov/emerging-health-issues/novel-coronavirus) (current, recovered, by county)
 - [Kansas](https://govstatus.egov.com/coronavirus) (positive, negative, date updated)
 - [**Massachusetts COVID**](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-)
+- [Minnesota](https://www.health.state.mn.us/diseases/coronavirus/situation.html) (# tested, positive, date updated)
+- [Missouri](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/) (negative, positive, deaths, tested, date updated)
 - [Montana](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
 - [Nebraska](http://dhhs.ne.gov/Pages/Coronavirus.aspx0 case numbers
 - [**New Jersey COVID-19 Dashboard**](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
@@ -52,6 +56,7 @@
 - [Oklahoma](https://coronavirus.health.ok.gov/) (positive, negative, pending, by country, by gender, by age group)
 - [Oregon](https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de) (dashboard)
 - [South Dakota](https://doh.sd.gov/news/Coronavirus.aspx) (data by gender, age group, county)
+- [Texas](https://www.dshs.state.tx.us/news/updates.shtm#coronavirus) (cases by county, date updated)
 - [Utah](https://coronavirus.utah.gov/latest/)
 - [**Washington (state)**](https://www.doh.wa.gov/Emergencies/Coronavirus)
 - [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
