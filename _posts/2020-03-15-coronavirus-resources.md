@@ -64,6 +64,7 @@ PUI = person under investigation
 - [**New Jersey COVID-19 Dashboard**](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
 - [New Mexico](https://cv.nmhealth.org/)
 - [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
+- [North Carolina](https://www.ncdhhs.gov/covid-19-case-count-nc) (cases, deaths, last updated)
 - [North Dakota](https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases)
 - [Ohio](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/) (pos, PUI, hospitalizations, date updated)
 - [Oklahoma](https://coronavirus.health.ok.gov/) (positive, negative, pending, by country, by gender, by age group)
@@ -73,7 +74,9 @@ PUI = person under investigation
 - [Tennessee](https://www.tn.gov/health/cedep/ncov.html) (neg, pos, tested, date updated, county)
 - [Texas](https://www.dshs.state.tx.us/news/updates.shtm#coronavirus) (cases by county, date updated)
 - [Utah](https://coronavirus.utah.gov/latest/)
+- [Virginia](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/) (tested, cases, by county, date updated)
 - [**Washington (state)**](https://www.doh.wa.gov/Emergencies/Coronavirus)
+- [West Virgina](https://dhhr.wv.gov/COVID-19/Pages/default.aspx) (pos, neg, deaths, pending, last updated)
 - [Wisconsin](https://www.dhs.wisconsin.gov/outbreaks/index.htm) (neg, pos, date updated, by county)
 - [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
 
