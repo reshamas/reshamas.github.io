@@ -34,7 +34,7 @@
 - [South Korea](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/South_Korea_medical_cases)
 
 
-## US State Data
+## United States:  Coronavirus Data by State
 PUI = person under investigation  
 
 - [Alaska](http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx)
@@ -45,10 +45,12 @@ PUI = person under investigation
 - [Idaho](https://coronavirus.idaho.gov/) data
 - [Illinois](http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus) (pos, neg, by county, date updated)
 - [Hawaii](https://health.hawaii.gov/news/category/corona-virus/) daily updates
+- [Indiana](https://www.in.gov/coronavirus/) (pos, deaths, tested, date updated)
 - [Iowa](https://idph.iowa.gov/emerging-health-issues/novel-coronavirus) (current, recovered, by county)
 - [Kansas](https://govstatus.egov.com/coronavirus) (positive, negative, date updated)
 - [Louisiana](http://ldh.la.gov/Coronavirus/) Dashboard (reported, tested, deaths)
 - [**Massachusetts COVID**](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-)
+- [Michigan](https://www.michigan.gov/coronavirus) (by county, date updated)
 - [Minnesota](https://www.health.state.mn.us/diseases/coronavirus/situation.html) (# tested, positive, date updated)
 - [Missouri](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/) (negative, positive, deaths, tested, date updated)
 - [Montana](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
