@@ -41,12 +41,15 @@
 - [Colorado](https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub) case summary
 - [Idaho](https://coronavirus.idaho.gov/) data
 - [Hawaii](https://health.hawaii.gov/news/category/corona-virus/) daily updates
+- [Kansas](https://govstatus.egov.com/coronavirus) (positive, negative, date updated)
 - [**Massachusetts COVID**](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-)
 - [Montana](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
+- [Nebraska](http://dhhs.ne.gov/Pages/Coronavirus.aspx0 case numbers
 - [**New Jersey COVID-19 Dashboard**](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
 - [New Mexico](https://cv.nmhealth.org/)
 - [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
 - [North Dakota](https://www.health.nd.gov/diseases-conditions/coronavirus/north-dakota-coronavirus-cases)
+- [Oklahoma](https://coronavirus.health.ok.gov/) (positive, negative, pending, by country, by gender, by age group)
 - [Oregon](https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de) (dashboard)
 - [South Dakota](https://doh.sd.gov/news/Coronavirus.aspx) (data by gender, age group, county)
 - [Utah](https://coronavirus.utah.gov/latest/)
