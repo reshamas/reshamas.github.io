@@ -5,6 +5,7 @@
 
 ## Global Dashboards
 - [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+- [World o meters](https://www.worldometers.info/coronavirus/#countries)
 - [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
 - [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
