@@ -63,6 +63,7 @@ PUI = person under investigation
 - [Missouri](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/) (negative, positive, deaths, tested, date updated)
 - [Montana](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
 - [Nebraska](http://dhhs.ne.gov/Pages/Coronavirus.aspx0) case numbers
+- [Nevada](http://dpbh.nv.gov/coronavirus/)
 - [**New Jersey COVID-19 Dashboard**](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
 - [New Mexico](https://cv.nmhealth.org/)
 - [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
