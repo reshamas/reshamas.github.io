@@ -75,6 +75,7 @@ PUI = person under investigation
 - [Texas](https://www.dshs.state.tx.us/news/updates.shtm#coronavirus) (cases by county, date updated)
 - [Utah](https://coronavirus.utah.gov/latest/)
 - [Virginia](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/) (tested, cases, by county, date updated)
+- [Washington DC](https://coronavirus.dc.gov/page/coronavirus-data) (pos, neg, tested, date updated)
 - [**Washington (state)**](https://www.doh.wa.gov/Emergencies/Coronavirus)
 - [West Virgina](https://dhhr.wv.gov/COVID-19/Pages/default.aspx) (pos, neg, deaths, pending, last updated)
 - [Wisconsin](https://www.dhs.wisconsin.gov/outbreaks/index.htm) (neg, pos, date updated, by county)
