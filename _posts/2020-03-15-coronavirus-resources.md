@@ -34,9 +34,17 @@
 
 
 ## US State Data
-- [California](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/#nt=2PromoSuperLeadLarge-1col-7030col1-main)
-- [Massachusetts COVID Data](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-)
-- [New Jersey COVID-19 Dashboard](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
-- [New York (state)](https://www.health.ny.gov/diseases/communicable/coronavirus/)
-- [Washington (state)](https://www.doh.wa.gov/Emergencies/Coronavirus)
+- [Alaska](http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx)
+- [**California**](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/#nt=2PromoSuperLeadLarge-1col-7030col1-main)
+- [Colorado](https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub) case summary
+- [Idaho](https://coronavirus.idaho.gov/) data
+- [**Massachusetts COVID**](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-)
+- [Montana](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
+- [**New Jersey COVID-19 Dashboard**](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
+- [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
+- [Oregon](https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de) (dashboard)
+- [Utah](https://coronavirus.utah.gov/latest/)
+- [**Washington (state)**](https://www.doh.wa.gov/Emergencies/Coronavirus)
+- [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
+
 
