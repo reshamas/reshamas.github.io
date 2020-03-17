@@ -48,7 +48,7 @@
 - [Minnesota](https://www.health.state.mn.us/diseases/coronavirus/situation.html) (# tested, positive, date updated)
 - [Missouri](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/) (negative, positive, deaths, tested, date updated)
 - [Montana](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
-- [Nebraska](http://dhhs.ne.gov/Pages/Coronavirus.aspx0 case numbers
+- [Nebraska](http://dhhs.ne.gov/Pages/Coronavirus.aspx0) case numbers
 - [**New Jersey COVID-19 Dashboard**](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
 - [New Mexico](https://cv.nmhealth.org/)
 - [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
