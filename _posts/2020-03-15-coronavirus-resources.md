@@ -4,6 +4,7 @@
 - **DATA**: JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
 
 ## Global Dashboards
+- [nCov 2019](https://ncov2019.live/data)
 - [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 - [World o meters](https://www.worldometers.info/coronavirus/#countries)
 - [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
@@ -36,6 +37,7 @@
 
 ## United States:  Coronavirus Data by State
 US data:  Centers for Disease Control [(CDC)](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)  
+ncov dashboard:  [nCoV2019.live](https://ncov2019.live/data)  
 PUI = person under investigation  
 
 - [Alabama](http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html) (cases, deaths, by county, date updated)
