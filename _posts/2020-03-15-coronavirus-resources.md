@@ -10,7 +10,7 @@
 - [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
 - [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
-- [Avi Schiffman](https://ncov2019.live/data)
+- [Avi Schiffman](https://ncov2019.live)
 - [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
 
@@ -46,6 +46,8 @@ PUI = person under investigation
 - [Arkansas](https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus) (pos, neg, tested, date updated)
 - [**California**](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/#nt=2PromoSuperLeadLarge-1col-7030col1-main)
 - [Colorado](https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub) case summary
+- [Connecticut](https://portal.ct.gov/coronavirus) (pos, by county, last updated)
+- [Delaware](https://dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html) (pos, deaths, last updated)
 - [Florida](http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html) (pos, tested, date updated)
 - [Georgia](https://dph.georgia.gov/covid-19-daily-status-report) (pos, deaths, by county, date updated)
 - [Idaho](https://coronavirus.idaho.gov/) data
@@ -56,6 +58,7 @@ PUI = person under investigation
 - [Kansas](https://govstatus.egov.com/coronavirus) (positive, negative, date updated)
 - [Kentucky](https://chfs.ky.gov/agencies/dph/pages/covid19.aspx) (tested, pos, date updated)
 - [Louisiana](http://ldh.la.gov/Coronavirus/) Dashboard (reported, tested, deaths)
+- [Maine](https://www.maine.gov/dhhs/mecdc/infectious-disease/epi/airborne/coronavirus.shtml) (pos, neg, by county, age grp, gender, date updated)
 - [Maryland](https://coronavirus.maryland.gov/) (cases)
 - [**Massachusetts COVID**](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-)
 - [Michigan](https://www.michigan.gov/coronavirus) (by county, date updated)
@@ -65,6 +68,7 @@ PUI = person under investigation
 - [Montana](https://dphhs.mt.gov/publichealth/cdepi/diseases/coronavirusmt)
 - [Nebraska](http://dhhs.ne.gov/Pages/Coronavirus.aspx0) case numbers
 - [Nevada](http://dpbh.nv.gov/coronavirus/)
+- [New Hampshire](https://www.nh.gov/covid19/) (pos, tested, monitored, date updated)
 - [**New Jersey COVID-19 Dashboard**](https://www.nj.gov/health/cd/topics/covid2019_dashboard.shtml)
 - [New Mexico](https://cv.nmhealth.org/)
 - [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
@@ -74,16 +78,23 @@ PUI = person under investigation
 - [Oklahoma](https://coronavirus.health.ok.gov/) (positive, negative, pending, by country, by gender, by age group)
 - [Oregon](https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de) (dashboard)
 - [Pennsylvania](https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx) (pos, neg, by county, date updated)
+- [Rhode Island](https://health.ri.gov/data/covid-19/) (pos, neg, tested, quarantined, last updated)
 - [South Carolina](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19#) (NO DATA as of 17-Mar-2020)
 - [South Dakota](https://doh.sd.gov/news/Coronavirus.aspx) (data by gender, age group, county)
 - [Tennessee](https://www.tn.gov/health/cedep/ncov.html) (neg, pos, tested, date updated, county)
 - [Texas](https://www.dshs.state.tx.us/news/updates.shtm#coronavirus) (cases by county, date updated)
 - [Utah](https://coronavirus.utah.gov/latest/)
+- [Vermont](https://www.bmhvt.org/coronavirus/) (pos, neg, monitored, recovered, date updated)
 - [Virginia](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/) (tested, cases, by county, date updated)
 - [Washington DC](https://coronavirus.dc.gov/page/coronavirus-data) (pos, neg, tested, date updated)
 - [**Washington (state)**](https://www.doh.wa.gov/Emergencies/Coronavirus)
 - [West Virgina](https://dhhr.wv.gov/COVID-19/Pages/default.aspx) (pos, neg, deaths, pending, last updated)
 - [Wisconsin](https://www.dhs.wisconsin.gov/outbreaks/index.htm) (neg, pos, date updated, by county)
 - [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
+- x
+- [Puerto Rico]
 
+Puerto Rico
+Virgin Islands
+American Samoa
 
