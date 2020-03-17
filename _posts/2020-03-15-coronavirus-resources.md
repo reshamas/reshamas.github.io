@@ -35,6 +35,7 @@
 
 
 ## United States:  Coronavirus Data by State
+US data:  Centers for Disease Control [(CDC)](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)  
 PUI = person under investigation  
 
 - [Alabama](http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html) (cases, deaths, by county, date updated)
@@ -67,6 +68,7 @@ PUI = person under investigation
 - [Ohio](https://coronavirus.ohio.gov/wps/portal/gov/covid-19/) (pos, PUI, hospitalizations, date updated)
 - [Oklahoma](https://coronavirus.health.ok.gov/) (positive, negative, pending, by country, by gender, by age group)
 - [Oregon](https://experience.arcgis.com/experience/fff9f83827c5461583cd014fdf4587de) (dashboard)
+- [South Carolina](https://www.scdhec.gov/infectious-diseases/viruses/coronavirus-disease-2019-covid-19#) (NO DATA as of 17-Mar-2020)
 - [South Dakota](https://doh.sd.gov/news/Coronavirus.aspx) (data by gender, age group, county)
 - [Tennessee](https://www.tn.gov/health/cedep/ncov.html) (neg, pos, tested, date updated, county)
 - [Texas](https://www.dshs.state.tx.us/news/updates.shtm#coronavirus) (cases by county, date updated)
