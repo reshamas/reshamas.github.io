@@ -44,6 +44,7 @@
 - [Hawaii](https://health.hawaii.gov/news/category/corona-virus/) daily updates
 - [Iowa](https://idph.iowa.gov/emerging-health-issues/novel-coronavirus) (current, recovered, by county)
 - [Kansas](https://govstatus.egov.com/coronavirus) (positive, negative, date updated)
+- [Louisiana](http://ldh.la.gov/Coronavirus/) Dashboard (reported, tested, deaths)
 - [**Massachusetts COVID**](https://www.mass.gov/info-details/covid-19-cases-quarantine-and-monitoring#covid-19-cases-in-massachusetts-)
 - [Minnesota](https://www.health.state.mn.us/diseases/coronavirus/situation.html) (# tested, positive, date updated)
 - [Missouri](https://health.mo.gov/living/healthcondiseases/communicable/novel-coronavirus/) (negative, positive, deaths, tested, date updated)
