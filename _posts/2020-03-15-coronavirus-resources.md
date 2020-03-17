@@ -37,11 +37,14 @@
 ## United States:  Coronavirus Data by State
 PUI = person under investigation  
 
+- [Alabama](http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html) (cases, deaths, by county, date updated)
 - [Alaska](http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx)
 - [Arizona](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home) (cases + # tested)
 - [Arkansas](https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus) (pos, neg, tested, date updated)
 - [**California**](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/#nt=2PromoSuperLeadLarge-1col-7030col1-main)
 - [Colorado](https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub) case summary
+- [Florida](http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html) (pos, tested, date updated)
+- [Georgia](https://dph.georgia.gov/covid-19-daily-status-report) (pos, deaths, by county, date updated)
 - [Idaho](https://coronavirus.idaho.gov/) data
 - [Illinois](http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus) (pos, neg, by county, date updated)
 - [Hawaii](https://health.hawaii.gov/news/category/corona-virus/) daily updates
