@@ -35,12 +35,15 @@
 
 
 ## US State Data
+PUI = person under investigation  
+
 - [Alaska](http://dhss.alaska.gov/dph/Epi/id/Pages/COVID-19/monitoring.aspx)
 - [Arizona](https://www.azdhs.gov/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/index.php#novel-coronavirus-home) (cases + # tested)
 - [Arkansas](https://www.healthy.arkansas.gov/programs-services/topics/novel-coronavirus) (pos, neg, tested, date updated)
 - [**California**](https://www.latimes.com/projects/california-coronavirus-cases-tracking-outbreak/#nt=2PromoSuperLeadLarge-1col-7030col1-main)
 - [Colorado](https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub) case summary
 - [Idaho](https://coronavirus.idaho.gov/) data
+- [Illinois](http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus) (pos, neg, by county, date updated)
 - [Hawaii](https://health.hawaii.gov/news/category/corona-virus/) daily updates
 - [Iowa](https://idph.iowa.gov/emerging-health-issues/novel-coronavirus) (current, recovered, by county)
 - [Kansas](https://govstatus.egov.com/coronavirus) (positive, negative, date updated)
@@ -60,6 +63,7 @@
 - [Texas](https://www.dshs.state.tx.us/news/updates.shtm#coronavirus) (cases by county, date updated)
 - [Utah](https://coronavirus.utah.gov/latest/)
 - [**Washington (state)**](https://www.doh.wa.gov/Emergencies/Coronavirus)
+- [Wisconsin](https://www.dhs.wisconsin.gov/outbreaks/index.htm) (neg, pos, date updated, by county)
 - [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
 
 
