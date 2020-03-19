@@ -25,6 +25,7 @@ Coronavirus:  Dashboards, data links, growth charts
 
 ## Modeling / Statistical 
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
+- [Growth Simulations](https://meltingasphalt.com/interactive/outbreak/)
 
 ## Country Data / Dashboards
 - [Canada data](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
