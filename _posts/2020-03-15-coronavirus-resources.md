@@ -1,7 +1,11 @@
+Coronavirus:  Dashboards, data links, growth charts
 
 ## Johns Hopkins (JH) 
 - [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
-- **DATA**: JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
+
+## Data
+- JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
+- [Data API](https://covidtracking.com/api/)
 
 ## Growth Rates
 - [fastai:  Graphs of Growth](https://covid19dashboards.com)
