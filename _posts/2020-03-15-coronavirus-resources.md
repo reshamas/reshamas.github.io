@@ -8,6 +8,9 @@ Coronavirus:  Dashboards, data links, growth charts
 - [Data API](https://covidtracking.com/api/)
 - [Open research dataset](https://chanzuckerberg.com/newsroom/new-dataset-makes-coronavirus-research-open-and-machine-readable/)  COVID-19 Open Research Dataset (CORD), a collection of 29,000 articles (13,000 full text) covering coronaviruses, related viruses, and research on our very own novel SARS-CoV-2.
 
+## Tools
+- [pycovid](https://github.com/sudharshan-ashok/pycovid) python package for pulling data into pandas dataframe
+
 ## Growth Rates
 - [fastai:  Graphs of Growth](https://covid19dashboards.com)
 - [Visualize by countries](https://covid19-dash.github.io)
