@@ -22,6 +22,7 @@ Coronavirus:  Dashboards, data links, growth charts
 - [Avi Schiffman](https://ncov2019.live)
 - [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
+- [University of Washington Virology Dashboard](http://depts.washington.edu/labmed/covid19/)
 
 ## Modeling / Statistical 
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
