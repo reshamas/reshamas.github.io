@@ -35,6 +35,7 @@ Coronavirus:  Dashboards, data links, growth charts
 ## Country Data / Dashboards
 - [Canada data](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - [Ecuador](https://coronavirusecuador.com)
+- [India](https://www.mohfw.gov.in/) statistics
 - [South Africa](https://datastudio.google.com/u/0/reporting/1b60bdc7-bec7-44c9-ba29-be0e043d8534/page/hrUIB)
 - United States [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
 - United Kingdom [Total UK cases COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
