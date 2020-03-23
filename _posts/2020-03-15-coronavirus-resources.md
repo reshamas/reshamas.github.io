@@ -32,6 +32,9 @@ Coronavirus:  Dashboards, data links, growth charts
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
 - [Growth Simulations](https://meltingasphalt.com/interactive/outbreak/)
 
+## Hackathon
+- [covid-19-bh20](https://github.com/virtual-biohackathons/covid-19-bh20)
+
 ## Country Data / Dashboards
 - [Canada data](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - [Ecuador](https://coronavirusecuador.com)
