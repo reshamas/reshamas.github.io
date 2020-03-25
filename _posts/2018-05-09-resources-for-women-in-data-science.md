@@ -17,7 +17,7 @@ The focus of this post is to share a comprehensive list of resources for women a
 There has been extensive research which shows that women are:
 - [underrepresented in tech](https://www.bloomberg.com/news/articles/2017-06-02/why-so-few-women-break-through-tech-s-bro-culture-quicktake-q-a) and the [statistics are severely imbalanced](http://observer.com/2017/06/women-in-tech-statistics/)
 - [lagging in senior positions](https://research.hackerrank.com/women-in-tech/2018/)
-- [paid inequitably](http://www.businessinsider.com/gender-wage-pay-gap-charts-2017-3#the-number-of-women-promoted-to-the-highest-levels-of-companies-reveals-unconscious-biases-6)
+- [paid inequitably](https://careerswiki.com/publications/gender-pay-gap-statistics/)
 - [experiencing sexism](https://twitter.com/math_rachel/status/897600522722705408)   
 
 Some positive news is that research has shown that networking events for women *do indeed* [move the needle on equality](https://hbr.org/2018/02/do-womens-networking-events-move-the-needle-on-equality).
@@ -53,26 +53,23 @@ Prior to joining any of the organizations or attending their events, it is essen
 ### [Women in Data Science](https://www.widsconference.org) (WiDS)
 - hosted at Stanford University
 - livestreamed around the world, 75K+ participants from 75 countries
-- 2018 conference was March 5
-- twitter hashtag:  #WiDS2018
+- annual conference in March
 
 ### [Women in Analytics](https://www.womeninanalytics.org)
-- 2018 conference was March 15 in Columbus, Ohio
-- twitter hashtag:  #WIA2018
+- annual conference in Columbus, Ohio
+ 
+### [Women in Robotics IV](https://sites.google.com/view/rss201)
+- has annual conference 
 
-### [Women in Robotics IV](https://sites.google.com/view/rss2018women/home)
-- 2018 conference is June 29 in Pittsburgh, PA
-
-### [Women in Computer Vision Workshop](https://wicvworkshop.github.io/ECCV2018/index.html)
+### [Women in Computer Vision Workshop](https://wicvworkshop.github.io)
 - 2018 conference is September 9 in Munich, Germany
 
-### [Women in Statistics & Data Science Conference](http://ww2.amstat.org/meetings/wsds/2018/)
+### [Women in Statistics & Data Science Conference](http://ww2.amstat.org/meetings/wsds)
 - organized by American Statistical Association
-- 2018 conference is October 18-20 in Cincinatti, Ohio
+- annual conference
 
-### [Women in Machine Learning Workshop](http://wimlworkshop.org/sh_events/wiml-workshop-2018/) (WiML)
-- 2018 conference is December 3-4 in Montreal, Canada
-- co-located with NIPS 2018
+### [Women in Machine Learning Workshop](http://wimlworkshop.org) (WiML)
+- co-located with NeurIPS and ICML
 - other events co-located with COLT, ICML and [more](http://wimlworkshop.org/events/)
 
 ## Women in Data Science Groups
@@ -87,20 +84,19 @@ Here's a list of other organizations in the same space:
 ## Women in Tech Conferences
 
 ### [Women Who Code CONNECT](https://connect2018.womenwhocode.com/)
-- 2018 conference was April 28 in San Francisco, CA
 - for women in tech and software engineering
+- has annual conference
 
-### [Write/Speak/Code](http://www.writespeakcode.com/2018/index.html)
-- 2018 conference is August 1-4 in New York, NY
+### [Write/Speak/Code](http://www.writespeakcode.com)
+- has annual conference
+- for women and non-binary
 
 ### [Lesbians Who Tech + Allies](https://lesbianswhotech.org/newyork2018/)
-- 2018 conference is September 12-14 in New York, NY
+- annual conference
 
 ### [Grace Hopper Celebration](https://ghc.anitab.org) 
 - world's largest gathering of women technologists, 18K+ attendees
-- 2018 conference is September 26-18 in Houston, TX
-- twitter hashtag for 2017:  #GHC17, #GHC2017
-
+- annual conference
 
 ## Organizations
 Below are various groups in the data and tech space.  You can participate by:
