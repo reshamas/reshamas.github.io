@@ -1,4 +1,4 @@
-Coronavirus:  Dashboards, data links, growth charts
+Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 
 ## Johns Hopkins (JH) 
 - [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
