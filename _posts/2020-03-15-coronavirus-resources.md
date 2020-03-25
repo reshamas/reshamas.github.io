@@ -34,6 +34,8 @@ Coronavirus:  Dashboards, data links, growth charts
 
 ## Hackathon
 - [covid-19-bh20](https://github.com/virtual-biohackathons/covid-19-bh20)
+- [#BuildforCOVID19 Global Online Hackathon](https://covid-global-hackathon.devpost.com) Submissions open Mar 26 to 30, 2020
+
 
 ## Country Data / Dashboards
 - [Canada data](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
