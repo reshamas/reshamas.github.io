@@ -33,9 +33,11 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 ## fastai: Data Science 
 - [video: CV19](https://www.youtube.com/watch?v=GZ0yNMnvwqY)
 
-## Masks for All
+## Masks for Allj
+- video (English): [Masks and the Critical Thinking - Why homemade masks really work against coronavirus](https://youtu.be/2_8hojsF-nY) Petr Ludwig
 - [video: case for masks](https://www.youtube.com/watch?v=BoDwXwZXsDI)
 - [#masksforall](https://twitter.com/hashtag/masks4all?src=hashtag_click)
+- [Research papers on masks](https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/edit#heading=h.9yzpxufkt5ow)
 
 ## Modeling / Statistical 
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
