@@ -9,7 +9,8 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [Open research dataset](https://chanzuckerberg.com/newsroom/new-dataset-makes-coronavirus-research-open-and-machine-readable/)  COVID-19 Open Research Dataset (CORD), a collection of 29,000 articles (13,000 full text) covering coronaviruses, related viruses, and research on our very own novel SARS-CoV-2.
 
 ## Helpdesk for Researchers
-- [COVID-19 Open-Source Helpdesk](https://discourse.covid-oss-help.org) via Discourse Forums
+- [COVID-19 Open-Source Helpdesk](https://covid-oss-help.org)
+    - [Discourse Forums](https://discourse.covid-oss-help.org) 
 
 ## Tools
 - [pycovid](https://github.com/sudharshan-ashok/pycovid) python package for pulling data into pandas dataframe
