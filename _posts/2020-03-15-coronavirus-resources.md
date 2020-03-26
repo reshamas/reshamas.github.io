@@ -27,7 +27,6 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
-- [University of Washington Virology Dashboard](http://depts.washington.edu/labmed/covid19/)
 
 ## fastai: Data Science 
 - [video: CV19](https://www.youtube.com/watch?v=GZ0yNMnvwqY)
@@ -118,6 +117,7 @@ PUI = person under investigation
 - [Virginia](http://www.vdh.virginia.gov/surveillance-and-investigation/novel-coronavirus/) (tested, cases, by county, date updated)
 - [Washington DC](https://coronavirus.dc.gov/page/coronavirus-data) (pos, neg, tested, date updated)
 - [**Washington (state)**](https://www.doh.wa.gov/Emergencies/Coronavirus)
+    - [University of Washington Virology Dashboard](http://depts.washington.edu/labmed/covid19/)
 - [West Virgina](https://dhhr.wv.gov/COVID-19/Pages/default.aspx) (pos, neg, deaths, pending, last updated)
 - [Wisconsin](https://www.dhs.wisconsin.gov/outbreaks/index.htm) (neg, pos, date updated, by county)
 - [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
