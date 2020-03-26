@@ -24,7 +24,6 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 - [World o meters](https://www.worldometers.info/coronavirus/#countries)
 - [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
-- [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
 - [Avi Schiffman](https://ncov2019.live)
 - [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
@@ -53,6 +52,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [India](https://www.mohfw.gov.in/) statistics
 - [South Africa](https://datastudio.google.com/u/0/reporting/1b60bdc7-bec7-44c9-ba29-be0e043d8534/page/hrUIB)
 - United States [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
+    - US:  [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
 - United Kingdom [Total UK cases COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
     - Ref:  [UK data](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
 
