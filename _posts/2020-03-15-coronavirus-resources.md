@@ -29,6 +29,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
+- Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
 
 ## fastai: Data Science 
 - [video: CV19](https://www.youtube.com/watch?v=GZ0yNMnvwqY)
