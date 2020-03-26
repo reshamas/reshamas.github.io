@@ -16,6 +16,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [pycovid](https://github.com/sudharshan-ashok/pycovid) python package for pulling data into pandas dataframe
 
 ## Growth Rates
+- [Financial Times graphs](https://www.ft.com/coronavirus-latest)  **very nice graphs!
 - [Graphs of Growth](https://covid19dashboards.com) by Pratap Vardhan
 - [Visualize by countries](https://covid19-dash.github.io)
 
