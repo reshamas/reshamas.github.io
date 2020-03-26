@@ -31,6 +31,13 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
 - [University of Washington Virology Dashboard](http://depts.washington.edu/labmed/covid19/)
 
+## fastai: Data Science 
+- [video: CV19](https://www.youtube.com/watch?v=GZ0yNMnvwqY)
+
+## Masks for All
+- [video: case for masks](https://www.youtube.com/watch?v=BoDwXwZXsDI)
+- [#masksforall](https://twitter.com/hashtag/masks4all?src=hashtag_click)
+
 ## Modeling / Statistical 
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
 - [Growth Simulations](https://meltingasphalt.com/interactive/outbreak/)
