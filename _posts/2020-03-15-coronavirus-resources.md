@@ -20,12 +20,11 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 
 
 ## Global Dashboards
-- [nCov 2019](https://ncov2019.live/data)
+- [nCov 2019](https://ncov2019.live/data) (Avi Schiffman)
 - [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
 - [World o meters](https://www.worldometers.info/coronavirus/#countries)
 - [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
-- [Avi Schiffman](https://ncov2019.live)
 - [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
 - [University of Washington Virology Dashboard](http://depts.washington.edu/labmed/covid19/)
