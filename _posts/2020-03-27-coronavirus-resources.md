@@ -11,9 +11,16 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 >dataset of tweets acquired from the Twitter Stream related to COVID-19 chatter. The first 9 weeks of data (from January 1st, 2020 to March 11th, 2020) contain very low tweet counts as we filtered other data we were collecting for other research purposes, however, one can see the dramatic increase as the awareness for the virus spread. Dedicated data gathering started from March 11th yielding over 4 million tweets a day.
 - NY Times [US county level data](https://github.com/nytimes/covid-19-data)
 
-## Helpdesk for Researchers
+## Researchers
 - [COVID-19 Open-Source Helpdesk](https://covid-oss-help.org)
     - [Discourse Forums](https://discourse.covid-oss-help.org) 
+- [Open Ventilator Registry](https://github.com/openventilatorregistry/OpenVentilatorRegistry)  
+>The Open Ventilator Registry is calling on software engineers to help build a platform for hospitals to report on their stock of ventilators and if they have a surplus or deficit. Hospitals with a surplus can then send their supply to hospitals in greatest need. We aim to create a nimble and decentralized supply chain and distribution network of these life saving devices.
+
+## Resources Compiled for R (rstats)
+[covid19-r](https://github.com/mine-cetinkaya-rundel/covid19-r/blob/master/README.md)
+>repo links to a collection of analyses on and representations of COVID19 data in R.
+
 
 ## Tools
 - [pycovid](https://github.com/sudharshan-ashok/pycovid) python package for pulling data into pandas dataframe
