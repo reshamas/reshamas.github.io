@@ -8,7 +8,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [Data API](https://covidtracking.com/api/)
 - Chan Zuckerberg [Open research dataset](https://chanzuckerberg.com/newsroom/new-dataset-makes-coronavirus-research-open-and-machine-readable/)  COVID-19 Open Research Dataset (CORD), a collection of 29,000 articles (13,000 full text) covering coronaviruses, related viruses, and research on our very own novel SARS-CoV-2.
 - Panacea Lab: [COVID19 Tweets (millions)](http://www.panacealab.org/covid19/) Georgia State University
->>dataset of tweets acquired from the Twitter Stream related to COVID-19 chatter. The first 9 weeks of data (from January 1st, 2020 to March 11th, 2020) contain very low tweet counts as we filtered other data we were collecting for other research purposes, however, one can see the dramatic increase as the awareness for the virus spread. Dedicated data gathering started from March 11th yielding over 4 million tweets a day.
+>dataset of tweets acquired from the Twitter Stream related to COVID-19 chatter. The first 9 weeks of data (from January 1st, 2020 to March 11th, 2020) contain very low tweet counts as we filtered other data we were collecting for other research purposes, however, one can see the dramatic increase as the awareness for the virus spread. Dedicated data gathering started from March 11th yielding over 4 million tweets a day.
 - NY Times [US county level data](https://github.com/nytimes/covid-19-data)
 
 ## Helpdesk for Researchers
@@ -50,6 +50,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 ## Hackathon
 - [covid-19-bh20](https://github.com/virtual-biohackathons/covid-19-bh20)
 - [#BuildforCOVID19 Global Online Hackathon](https://covid-global-hackathon.devpost.com) Submissions open Mar 26 to 30, 2020
+- [Kaggle COVID Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
 
 ## Country Data / Dashboards
