@@ -10,6 +10,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - Panacea Lab: [COVID19 Tweets (millions)](http://www.panacealab.org/covid19/) Georgia State University
 >dataset of tweets acquired from the Twitter Stream related to COVID-19 chatter. The first 9 weeks of data (from January 1st, 2020 to March 11th, 2020) contain very low tweet counts as we filtered other data we were collecting for other research purposes, however, one can see the dramatic increase as the awareness for the virus spread. Dedicated data gathering started from March 11th yielding over 4 million tweets a day.
 - NY Times [US county level data](https://github.com/nytimes/covid-19-data)
+- [Molecular Dynamics trajectories](https://www.deshawresearch.com/downloads/download_trajectory_sarscov2.cgi/)
 
 ## Researchers
 - [COVID-19 Open-Source Helpdesk](https://covid-oss-help.org)
