@@ -11,6 +11,8 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 >dataset of tweets acquired from the Twitter Stream related to COVID-19 chatter. The first 9 weeks of data (from January 1st, 2020 to March 11th, 2020) contain very low tweet counts as we filtered other data we were collecting for other research purposes, however, one can see the dramatic increase as the awareness for the virus spread. Dedicated data gathering started from March 11th yielding over 4 million tweets a day.
 - NY Times [US county level data](https://github.com/nytimes/covid-19-data)
 - [Molecular Dynamics trajectories](https://www.deshawresearch.com/downloads/download_trajectory_sarscov2.cgi/)
+- Google Cloud hosted [COVID19 data](cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19)
+>To aid researchers, data scientists, and analysts in the effort to combat COVID-19, we are making a hosted repository of public datasets, like Johns Hopkins Center for Systems Science and Engineering (JHU CSSE), the Global Health Data from the World Bank, and OpenStreetMap data, free to access and query through our COVID-19 Public Dataset Program. Researchers can also use BigQuery ML to train advanced machine learning models with this data right inside BigQuery at no additional cost. 
 
 ## Researchers
 - [COVID-19 Open-Source Helpdesk](https://covid-oss-help.org)
