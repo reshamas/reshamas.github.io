@@ -7,7 +7,7 @@ Panel discussion aiming at raising awareness, supporting and advocating for disa
 - Vancouver, Canada
 - Maria Skoularidou (ms2407@cam.ac.uk)  
 - Thursday, Dec 12, 2019, 7 to 10pm  
-- SlidesLive link:  https://slideslive.com/38922466
+- SlidesLive link:  [https://slideslive.com/38922466](https://slideslive.com/38922466)
 
 <p>
 <div id="presentation-embed-38922466"></div>
