@@ -14,6 +14,11 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - Google Cloud hosted [COVID19 data](cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19)
 >To aid researchers, data scientists, and analysts in the effort to combat COVID-19, we are making a hosted repository of public datasets, like Johns Hopkins Center for Systems Science and Engineering (JHU CSSE), the Global Health Data from the World Bank, and OpenStreetMap data, free to access and query through our COVID-19 Public Dataset Program. Researchers can also use BigQuery ML to train advanced machine learning models with this data right inside BigQuery at no additional cost. 
 
+## New York State
+- [NY State COVID19 Dashboard](https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map?%3Aembed=yes&%3Atoolbar=no)
+- [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
+
+
 ## Researchers
 - [COVID-19 Open-Source Helpdesk](https://covid-oss-help.org)
     - [Discourse Forums](https://discourse.covid-oss-help.org) 
