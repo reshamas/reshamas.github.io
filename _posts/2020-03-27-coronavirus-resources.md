@@ -107,6 +107,7 @@ PUI = person under investigation
 - [Connecticut](https://portal.ct.gov/coronavirus) (pos, by county, last updated)
 - [Delaware](https://dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html) (pos, deaths, last updated)
 - [Florida](http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html) (pos, tested, date updated)
+    - [FLORIDA DASHBOARD](https://fdoh.maps.arcgis.com/apps/opsdashboard/index.html#/74c7375b03894e68920c2d0131eef1e6)
 - [Georgia](https://dph.georgia.gov/covid-19-daily-status-report) (pos, deaths, by county, date updated)
 - [Idaho](https://coronavirus.idaho.gov/) data
 - [Illinois](http://www.dph.illinois.gov/topics-services/diseases-and-conditions/diseases-a-z-list/coronavirus) (pos, neg, by county, date updated)
