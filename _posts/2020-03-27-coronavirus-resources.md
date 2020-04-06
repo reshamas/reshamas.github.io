@@ -14,6 +14,11 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - Google Cloud hosted [COVID19 data](cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19)
 >To aid researchers, data scientists, and analysts in the effort to combat COVID-19, we are making a hosted repository of public datasets, like Johns Hopkins Center for Systems Science and Engineering (JHU CSSE), the Global Health Data from the World Bank, and OpenStreetMap data, free to access and query through our COVID-19 Public Dataset Program. Researchers can also use BigQuery ML to train advanced machine learning models with this data right inside BigQuery at no additional cost. 
 
+## United States
+- United States [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
+    - US:  [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
+    - US:  [IHME](http://covid19.healthdata.org)
+    
 ## New York State
 - [NY State COVID19 Dashboard](https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map?%3Aembed=yes&%3Atoolbar=no)
 - [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
@@ -80,6 +85,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [South Africa](https://datastudio.google.com/u/0/reporting/1b60bdc7-bec7-44c9-ba29-be0e043d8534/page/hrUIB)
 - United States [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
     - US:  [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
+    - US:  [IHME](http://covid19.healthdata.org)
 - United Kingdom [Total UK cases COVID-19 Cases Update](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
     - Ref:  [UK data](https://www.gov.uk/government/publications/covid-19-track-coronavirus-cases)
 
