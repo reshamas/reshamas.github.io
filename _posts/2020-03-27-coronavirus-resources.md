@@ -160,7 +160,9 @@ PUI = person under investigation
 - [West Virgina](https://dhhr.wv.gov/COVID-19/Pages/default.aspx) (pos, neg, deaths, pending, last updated)
 - [Wisconsin](https://www.dhs.wisconsin.gov/outbreaks/index.htm) (neg, pos, date updated, by county)
 - [Wyoming](https://health.wyo.gov/publichealth/infectious-disease-epidemiology-unit/disease/novel-coronavirus/)
-- 
+
+
+## US Territories
 - [Puerto Rico](http://www.salud.gov.pr/Pages/coronavirus.aspx)
 - [Virgin Islands](https://doh.vi.gov/covid19usvi)
 - [Samoa](http://www.samoagovt.ws/)
