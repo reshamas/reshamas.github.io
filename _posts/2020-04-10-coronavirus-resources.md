@@ -5,7 +5,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 
 ## Data
 - JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
-- AWS Data Lake: [A public data lake for analysis of COVID-19 data](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/
+- AWS: [A public data lake for analysis of COVID-19 data](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/)
 >Hosted on the AWS cloud, we have seeded our curated data lake with COVID-19 case tracking data from Johns Hopkins and The New York Times, hospital bed availability from Definitive Healthcare, and over 45,000 research articles about COVID-19 and related coronaviruses from the Allen Institute for AI.
 
 - [Data API](https://covidtracking.com/api/)
