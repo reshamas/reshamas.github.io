@@ -5,6 +5,9 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 
 ## Data
 - JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
+- AWS: [A public data lake for analysis of COVID-19 data](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/)
+>Hosted on the AWS cloud, we have seeded our curated data lake with COVID-19 case tracking data from Johns Hopkins and The New York Times, hospital bed availability from Definitive Healthcare, and over 45,000 research articles about COVID-19 and related coronaviruses from the Allen Institute for AI.
+
 - [Data API](https://covidtracking.com/api/)
 - Chan Zuckerberg [Open research dataset](https://chanzuckerberg.com/newsroom/new-dataset-makes-coronavirus-research-open-and-machine-readable/)  COVID-19 Open Research Dataset (CORD), a collection of 29,000 articles (13,000 full text) covering coronaviruses, related viruses, and research on our very own novel SARS-CoV-2.
 - Panacea Lab: [COVID19 Tweets (millions)](http://www.panacealab.org/covid19/) Georgia State University
@@ -71,6 +74,9 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 ## Modeling / Statistical 
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
 - [Growth Simulations](https://meltingasphalt.com/interactive/outbreak/)
+
+## Aggregated Resources
+- Academic Data Science Alliance: [COVID-19 Data Science Resources](https://www.academicdatascience.org/covid)
 
 ## Hackathon
 - [covid-19-bh20](https://github.com/virtual-biohackathons/covid-19-bh20)
