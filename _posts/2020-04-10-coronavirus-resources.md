@@ -75,6 +75,9 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, hackathons
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
 - [Growth Simulations](https://meltingasphalt.com/interactive/outbreak/)
 
+## Aggregated Resources
+- Academic Data Science Alliance: [COVID-19 Data Science Resources](https://www.academicdatascience.org/covid)
+
 ## Hackathon
 - [covid-19-bh20](https://github.com/virtual-biohackathons/covid-19-bh20)
 - [#BuildforCOVID19 Global Online Hackathon](https://covid-global-hackathon.devpost.com) Submissions open Mar 26 to 30, 2020
