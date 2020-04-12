@@ -85,6 +85,10 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [#BuildforCOVID19 Global Online Hackathon](https://covid-global-hackathon.devpost.com) Submissions open Mar 26 to 30, 2020
 - [Kaggle COVID Challenge](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge)
 
+## Community
+- [Free Educational Resources](https://www.amazingeducationalresources.com)
+
+
 ## Africa
 - [Africa summaries & charts](https://medium.com/@darlingtonahialeakogo/ai4covid-19-african-statistics-minohealth-ai-labs-and-runmila-ai-institute-607f969b7a59)
 
