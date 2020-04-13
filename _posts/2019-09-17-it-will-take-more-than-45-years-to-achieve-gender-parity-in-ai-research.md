@@ -64,5 +64,9 @@ Salaries of Data Scientists](https://www.burtchworks.com/wp-content/uploads/2018
 - Statistics degrees in 2017:  Bachelors 43% Female, Masters 49% Female, PhD 34% Female
     - Source:  [Amstat](https://ww2.amstat.org/misc/StatTable1987-Current.pdf)
 
+## Resources
+- [35+ initiatives to get more women into cybersecurity](https://www.comparitech.com/blog/information-security/women-cybersecurity-initiatives/)
+
+
 
 
