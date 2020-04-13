@@ -87,7 +87,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 
 ## Community
 - [Free Educational Resources](https://www.amazingeducationalresources.com)
-
+- [COVID-19 Mental Health Resources for Families](https://nyulangone.org/news/covid-19-mental-health-resources-families/covid-19-mental-health-resources-families-2020)
 
 ## Africa
 - [Africa summaries & charts](https://medium.com/@darlingtonahialeakogo/ai4covid-19-african-statistics-minohealth-ai-labs-and-runmila-ai-institute-607f969b7a59)
