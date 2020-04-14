@@ -76,6 +76,8 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Epidemic Simulation](https://prajwalsouza.github.io/Experiments/Epidemic-Simulation.html) by Prajwal Dsouza
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
 - [Growth Simulations](https://meltingasphalt.com/interactive/outbreak/)
+- [Estimating COVID-19's R_0 in Real-Time](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb)
+
 
 ## Aggregated Resources
 - Academic Data Science Alliance: [COVID-19 Data Science Resources](https://www.academicdatascience.org/covid)
