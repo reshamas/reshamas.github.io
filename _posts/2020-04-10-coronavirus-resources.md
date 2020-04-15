@@ -10,6 +10,10 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
 - Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
 
+## Accessible COVID-19 statistics tracker
+- [Accessible COVID-19 statistics tracker](https://cvstats.net/#page-top)
+>For many people with disabilities, much of the data available regarding the COVID19 (coronavirus) outbreak is in a graphical format, which is impossible to access. It is my hope that this site can serve to solve the lack of information by making critical statistics available in a text format that is easy to read and understand.
+
 ## Johns Hopkins (JH) 
 - [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
 
