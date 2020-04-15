@@ -1,5 +1,15 @@
 Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic modeling, hackathons
 
+## Global Dashboards
+- [nCov 2019](https://ncov2019.live/data) (Avi Schiffman)
+- [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
+- [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+- [World o meters](https://www.worldometers.info/coronavirus/#countries)
+- [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
+- Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
+- [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
+- Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
+
 ## Johns Hopkins (JH) 
 - [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
 
@@ -53,15 +63,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [COVID Trends](https://aatishb.com/covidtrends) by Aatish Bhatia
 
 
-## Global Dashboards
-- [nCov 2019](https://ncov2019.live/data) (Avi Schiffman)
-- [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
-- [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
-- [World o meters](https://www.worldometers.info/coronavirus/#countries)
-- [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
-- Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
-- [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
-- Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
+
 
 ## fastai: Data Science 
 - [video: CV19](https://www.youtube.com/watch?v=GZ0yNMnvwqY)
