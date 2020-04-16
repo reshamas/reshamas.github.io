@@ -12,7 +12,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 
 ## Clinical Trials / Studies
 - NIH study: [Blood Samples from Healthy Volunteers Needed to Inform Public Health Decision Making](https://www.niaid.nih.gov/news-events/nih-begins-study-quantify-undetected-cases-coronavirus-infection)
-- [National Covid-19 Convalescent Plasma Project](https://ccpp19.org/)
+- US: [National Covid-19 Convalescent Plasma Project](https://ccpp19.org/)
 
 
 ## Accessible COVID-19 statistics tracker
