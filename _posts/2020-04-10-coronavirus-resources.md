@@ -13,6 +13,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 ## Clinical Trials / Studies
 - NIH study: [Blood Samples from Healthy Volunteers Needed to Inform Public Health Decision Making](https://www.niaid.nih.gov/news-events/nih-begins-study-quantify-undetected-cases-coronavirus-infection)
 - US: [National Covid-19 Convalescent Plasma Project](https://ccpp19.org/)
+- American Red Cross:  [Plasma Donations from Recovered COVID-19 Patients](https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html)
 
 
 ## Accessible COVID-19 statistics tracker
