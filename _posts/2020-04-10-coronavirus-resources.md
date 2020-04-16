@@ -16,6 +16,8 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 >For many people with disabilities, much of the data available regarding the COVID19 (coronavirus) outbreak is in a graphical format, which is impossible to access. It is my hope that this site can serve to solve the lack of information by making critical statistics available in a text format that is easy to read and understand.
 
 >Persons with disabilities often use adaptive/assistive technology that require an alternate/accessible format so the technology can access the information in a specific manner for the user. 
+- [National Federation for the Blind](https://www.nfb.org/resources/covid-19-resources)
+
 
 ## Johns Hopkins (JH) 
 - [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
