@@ -10,6 +10,11 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
 - Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
 
+## Clinical Trials / Studies
+- NIH study: [Blood Samples from Healthy Volunteers Needed to Inform Public Health Decision Making](https://www.niaid.nih.gov/news-events/nih-begins-study-quantify-undetected-cases-coronavirus-infection)
+- [National Covid-19 Convalescent Plasma Project](https://ccpp19.org/)
+
+
 ## Accessible COVID-19 statistics tracker
 - [Accessible COVID-19 statistics tracker](https://cvstats.net/#page-top)
     - [Alternate Formats](https://www.queensu.ca/accessibility/how-info/what-are-alternate-formats)
