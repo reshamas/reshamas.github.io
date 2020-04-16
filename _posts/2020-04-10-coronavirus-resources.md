@@ -1,5 +1,24 @@
 Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic modeling, hackathons
 
+## Global Dashboards
+- [nCov 2019](https://ncov2019.live/data) (Avi Schiffman)
+- [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
+- [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
+- [World o meters](https://www.worldometers.info/coronavirus/#countries)
+- [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
+- Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
+- [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
+- Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
+
+## Accessible COVID-19 statistics tracker
+- [Accessible COVID-19 statistics tracker](https://cvstats.net/#page-top)
+    - [Alternate Formats](https://www.queensu.ca/accessibility/how-info/what-are-alternate-formats)
+>For many people with disabilities, much of the data available regarding the COVID19 (coronavirus) outbreak is in a graphical format, which is impossible to access. It is my hope that this site can serve to solve the lack of information by making critical statistics available in a text format that is easy to read and understand.
+
+>Persons with disabilities often use adaptive/assistive technology that require an alternate/accessible format so the technology can access the information in a specific manner for the user. 
+- [National Federation for the Blind](https://www.nfb.org/resources/covid-19-resources)
+
+
 ## Johns Hopkins (JH) 
 - [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
 
@@ -25,6 +44,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 ## New York State
 - [NY State COVID19 Dashboard](https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map?%3Aembed=yes&%3Atoolbar=no)
 - [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
+- [Vetted Solutions to Combat COVID-19](https://www.covidsolutions.org) A vetted list of actionable solutions for COVID-19 impact that you can engage with right now. 
 
 
 ## Researchers
@@ -53,15 +73,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [COVID Trends](https://aatishb.com/covidtrends) by Aatish Bhatia
 
 
-## Global Dashboards
-- [nCov 2019](https://ncov2019.live/data) (Avi Schiffman)
-- [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
-- [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
-- [World o meters](https://www.worldometers.info/coronavirus/#countries)
-- [Healthmap](https://www.healthmap.org/covid-19/) (animated spread)
-- Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
-- [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
-- Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
+
 
 ## fastai: Data Science 
 - [video: CV19](https://www.youtube.com/watch?v=GZ0yNMnvwqY)
@@ -76,6 +88,8 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Epidemic Simulation](https://prajwalsouza.github.io/Experiments/Epidemic-Simulation.html) by Prajwal Dsouza
 - [Modeling COVID-19 Spread vs Healthcare Capacity](https://alhill.shinyapps.io/COVID19seir/)
 - [Growth Simulations](https://meltingasphalt.com/interactive/outbreak/)
+- [Estimating COVID-19's R_0 in Real-Time](https://github.com/k-sys/covid-19/blob/master/Realtime%20R0.ipynb)
+
 
 ## Aggregated Resources
 - Academic Data Science Alliance: [COVID-19 Data Science Resources](https://www.academicdatascience.org/covid)
