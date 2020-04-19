@@ -1,6 +1,7 @@
 Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic modeling, hackathons
 
 ## Global Dashboards
+- [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
 - [nCov 2019](https://ncov2019.live/data) (Avi Schiffman)
 - [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
 - [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
@@ -23,10 +24,6 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 
 >Persons with disabilities often use adaptive/assistive technology that require an alternate/accessible format so the technology can access the information in a specific manner for the user. 
 - [National Federation for the Blind](https://www.nfb.org/resources/covid-19-resources)
-
-
-## Johns Hopkins (JH) 
-- [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
 
 ## Data
 - JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
