@@ -10,6 +10,12 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
 - Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
 
+## Clinical Trials / Studies
+- NIH study: [Blood Samples from Healthy Volunteers Needed to Inform Public Health Decision Making](https://www.niaid.nih.gov/news-events/nih-begins-study-quantify-undetected-cases-coronavirus-infection)
+- US: [National Covid-19 Convalescent Plasma Project](https://ccpp19.org/)
+- American Red Cross:  [Plasma Donations from Recovered COVID-19 Patients](https://www.redcrossblood.org/donate-blood/dlp/plasma-donations-from-recovered-covid-19-patients.html)
+
+
 ## Accessible COVID-19 statistics tracker
 - [Accessible COVID-19 statistics tracker](https://cvstats.net/#page-top)
     - [Alternate Formats](https://www.queensu.ca/accessibility/how-info/what-are-alternate-formats)
@@ -52,6 +58,8 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
     - [Discourse Forums](https://discourse.covid-oss-help.org) 
 - [Open Ventilator Registry](https://github.com/openventilatorregistry/OpenVentilatorRegistry)  
 >The Open Ventilator Registry is calling on software engineers to help build a platform for hospitals to report on their stock of ventilators and if they have a surplus or deficit. Hospitals with a surplus can then send their supply to hospitals in greatest need. We aim to create a nimble and decentralized supply chain and distribution network of these life saving devices.
+- [RStudio and COVID-19](https://blog.rstudio.com/2020/04/17/rstudio-and-covid-19)
+
 
 ## Resources Compiled for R (rstats)
 [covid19-r](https://github.com/mine-cetinkaya-rundel/covid19-r/blob/master/README.md)
@@ -93,6 +101,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 
 ## Aggregated Resources
 - Academic Data Science Alliance: [COVID-19 Data Science Resources](https://www.academicdatascience.org/covid)
+- [Science Responds](https://science-responds.org/resources/datasets)
 
 ## Hackathon
 - [covid-19-bh20](https://github.com/virtual-biohackathons/covid-19-bh20)
@@ -102,6 +111,9 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 ## Community
 - [Free Educational Resources](https://www.amazingeducationalresources.com)
 - [COVID-19 Mental Health Resources for Families](https://nyulangone.org/news/covid-19-mental-health-resources-families/covid-19-mental-health-resources-families-2020)
+- US [Small Business Relief](https://madelinetosh.com/pages/covid-19-small-business-relief)
+- US [Coronavirus (COVID-19): Small Business Guidance & Loan Resources](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
+- NYC [NYC Business Continuity Loan Fund](https://www1.nyc.gov/site/sbs/businesses/covid19-business-outreach.page)
 
 ## Africa
 - [Africa summaries & charts](https://medium.com/@darlingtonahialeakogo/ai4covid-19-african-statistics-minohealth-ai-labs-and-runmila-ai-institute-607f969b7a59)
