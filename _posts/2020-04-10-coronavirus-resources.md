@@ -38,6 +38,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Molecular Dynamics trajectories](https://www.deshawresearch.com/downloads/download_trajectory_sarscov2.cgi/)
 - Google Cloud hosted [COVID19 data](cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19)
 >To aid researchers, data scientists, and analysts in the effort to combat COVID-19, we are making a hosted repository of public datasets, like Johns Hopkins Center for Systems Science and Engineering (JHU CSSE), the Global Health Data from the World Bank, and OpenStreetMap data, free to access and query through our COVID-19 Public Dataset Program. Researchers can also use BigQuery ML to train advanced machine learning models with this data right inside BigQuery at no additional cost. 
+- Genetic sequence data: [GISAID](https://www.gisaid.org/)
 
 ## United States
 - United States [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
