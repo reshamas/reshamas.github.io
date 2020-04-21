@@ -15,7 +15,7 @@ After 5 years as a WiMLDS organizer, global team and board member, I will be mov
 My next endeavor is exploring intersectional diversity (meaning considering dimensions of diversity outside of gender), beginning with **Data Umbrella** (for URGs and Allies in Data Science:  where URGs = under-represented groups):  
 - Meetup:  [Data Umbrella](https://www.meetup.com/nyc-uads/) (formerly NYC URGs and Allies in DS)
 - Twitter:  [@DataUmbrella](https://twitter.com/DataUmbrella)
-- LinkedIn:  [Data Umbrella](www.linkedin.com/company/dataumbrella/)
+- LinkedIn:  [Data Umbrella](https://www.linkedin.com/company/dataumbrella/)
 
 ### Lessons Learned
 Being an organizer for the past 5 years has shaped my perspective on a number of aspects:  
