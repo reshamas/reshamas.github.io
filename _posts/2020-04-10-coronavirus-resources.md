@@ -31,6 +31,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 >Hosted on the AWS cloud, we have seeded our curated data lake with COVID-19 case tracking data from Johns Hopkins and The New York Times, hospital bed availability from Definitive Healthcare, and over 45,000 research articles about COVID-19 and related coronaviruses from the Allen Institute for AI.
 
 - [Data API](https://covidtracking.com/api/)
+- [CORD 19](https://pages.semanticscholar.org/coronavirus-research)
 - Chan Zuckerberg [Open research dataset](https://chanzuckerberg.com/newsroom/new-dataset-makes-coronavirus-research-open-and-machine-readable/)  COVID-19 Open Research Dataset (CORD), a collection of 29,000 articles (13,000 full text) covering coronaviruses, related viruses, and research on our very own novel SARS-CoV-2.
 - Panacea Lab: [COVID19 Tweets (millions)](http://www.panacealab.org/covid19/) Georgia State University
 >dataset of tweets acquired from the Twitter Stream related to COVID-19 chatter. The first 9 weeks of data (from January 1st, 2020 to March 11th, 2020) contain very low tweet counts as we filtered other data we were collecting for other research purposes, however, one can see the dramatic increase as the awareness for the virus spread. Dedicated data gathering started from March 11th yielding over 4 million tweets a day.
