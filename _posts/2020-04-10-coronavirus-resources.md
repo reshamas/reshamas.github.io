@@ -90,10 +90,12 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [video: CV19](https://www.youtube.com/watch?v=GZ0yNMnvwqY)
 
 ## Effectiveness of Masks
+- [Masks4All](https://masks4all.co)
 - video (English): [Masks and the Critical Thinking - Why homemade masks really work against coronavirus](https://youtu.be/2_8hojsF-nY) Petr Ludwig
 - [video: case for masks](https://www.youtube.com/watch?v=BoDwXwZXsDI) Jeremy Howard
 - [#masksforall](https://twitter.com/hashtag/masks4all?src=hashtag_click)
 - [Research papers on masks](https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/edit#heading=h.9yzpxufkt5ow)
+- [Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v1)
 
 ## Modeling / Statistical / Epidemiologic
 - [Epidemic Simulation](https://prajwalsouza.github.io/Experiments/Epidemic-Simulation.html) by Prajwal Dsouza
