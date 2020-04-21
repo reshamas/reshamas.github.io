@@ -1,6 +1,7 @@
 Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic modeling, hackathons
 
 ## Global Dashboards
+- [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
 - [nCov 2019](https://ncov2019.live/data) (Avi Schiffman)
 - [University of Virginia](http://nssac.bii.virginia.edu/covid-19/dashboard/)
 - [WHO Dashboard](https://experience.arcgis.com/experience/685d0ace521648f8a5beeeee1b9125cd)
@@ -24,16 +25,13 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 >Persons with disabilities often use adaptive/assistive technology that require an alternate/accessible format so the technology can access the information in a specific manner for the user. 
 - [National Federation for the Blind](https://www.nfb.org/resources/covid-19-resources)
 
-
-## Johns Hopkins (JH) 
-- [Johns Hopkins dashboard](https://coronavirus.jhu.edu/map.html)
-
 ## Data
 - JH GitHub repository: [COVID-19](https://github.com/CSSEGISandData/COVID-19)
 - AWS: [A public data lake for analysis of COVID-19 data](https://aws.amazon.com/blogs/big-data/a-public-data-lake-for-analysis-of-covid-19-data/)
 >Hosted on the AWS cloud, we have seeded our curated data lake with COVID-19 case tracking data from Johns Hopkins and The New York Times, hospital bed availability from Definitive Healthcare, and over 45,000 research articles about COVID-19 and related coronaviruses from the Allen Institute for AI.
 
 - [Data API](https://covidtracking.com/api/)
+- [CORD 19](https://pages.semanticscholar.org/coronavirus-research)
 - Chan Zuckerberg [Open research dataset](https://chanzuckerberg.com/newsroom/new-dataset-makes-coronavirus-research-open-and-machine-readable/)  COVID-19 Open Research Dataset (CORD), a collection of 29,000 articles (13,000 full text) covering coronaviruses, related viruses, and research on our very own novel SARS-CoV-2.
 - Panacea Lab: [COVID19 Tweets (millions)](http://www.panacealab.org/covid19/) Georgia State University
 >dataset of tweets acquired from the Twitter Stream related to COVID-19 chatter. The first 9 weeks of data (from January 1st, 2020 to March 11th, 2020) contain very low tweet counts as we filtered other data we were collecting for other research purposes, however, one can see the dramatic increase as the awareness for the virus spread. Dedicated data gathering started from March 11th yielding over 4 million tweets a day.
@@ -41,6 +39,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Molecular Dynamics trajectories](https://www.deshawresearch.com/downloads/download_trajectory_sarscov2.cgi/)
 - Google Cloud hosted [COVID19 data](cloud.google.com/blog/products/data-analytics/free-public-datasets-for-covid19)
 >To aid researchers, data scientists, and analysts in the effort to combat COVID-19, we are making a hosted repository of public datasets, like Johns Hopkins Center for Systems Science and Engineering (JHU CSSE), the Global Health Data from the World Bank, and OpenStreetMap data, free to access and query through our COVID-19 Public Dataset Program. Researchers can also use BigQuery ML to train advanced machine learning models with this data right inside BigQuery at no additional cost. 
+- Genetic sequence data: [GISAID](https://www.gisaid.org/)
 
 ## United States
 - United States [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
@@ -69,6 +68,10 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Volunteer Chat Support](https://docs.google.com/forms/d/e/1FAIpQLSd-uRUGzOo33Fym0CntNvYszVDq0lfRur5PFUQB1xW8d_9szw/viewform)
 - NY State [Tech Team](https://www.ny.gov/programs/new-york-state-covid-19-technology-swat-team)
 - [US Digital Response](https://www.usdigitalresponse.org)
+- R stats Community:  How can #rstats and data scientists help?
+    - https://repidemicsconsortium.org 
+    - https://github.com/reconhub/covid19hub  (fix bugs, develop packages, make shiny app)
+        - community mgmt, connecting people
 
 ## Tools
 - [pycovid](https://github.com/sudharshan-ashok/pycovid) python package for pulling data into pandas dataframe
@@ -87,10 +90,12 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [video: CV19](https://www.youtube.com/watch?v=GZ0yNMnvwqY)
 
 ## Effectiveness of Masks
+- [Masks4All](https://masks4all.co)
 - video (English): [Masks and the Critical Thinking - Why homemade masks really work against coronavirus](https://youtu.be/2_8hojsF-nY) Petr Ludwig
 - [video: case for masks](https://www.youtube.com/watch?v=BoDwXwZXsDI) Jeremy Howard
 - [#masksforall](https://twitter.com/hashtag/masks4all?src=hashtag_click)
 - [Research papers on masks](https://docs.google.com/document/d/1HLrm0pqBN_5bdyysOeoOBX4pt4oFDBhsC_jpblXpNtQ/edit#heading=h.9yzpxufkt5ow)
+- [Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v1)
 
 ## Modeling / Statistical / Epidemiologic
 - [Epidemic Simulation](https://prajwalsouza.github.io/Experiments/Epidemic-Simulation.html) by Prajwal Dsouza
@@ -133,6 +138,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 ## Country Data via Wikipedia
 - Wikipedia:  [coronavirus pandemic](https://en.wikipedia.org/wiki/2019–20_coronavirus_pandemic)
 - Wikipedia:  search of [2020 pandemic in](https://en.wikipedia.org/w/index.php?search=2020+coronavirus+pandemic+in&title=Special%3ASearch&go=Go&ns0=1) (by country listing)
+- [India Dashboard](https://www.covid19india.org)
 - [India](https://en.wikipedia.org/wiki/2020_coronavirus_pandemic_in_India)
 - [Iran](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Iran_medical_cases)
 - [Italy](https://en.wikipedia.org/wiki/Template:2019–20_coronavirus_pandemic_data/Italy_medical_cases)
