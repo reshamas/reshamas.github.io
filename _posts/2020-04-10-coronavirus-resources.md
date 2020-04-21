@@ -67,6 +67,10 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Volunteer Chat Support](https://docs.google.com/forms/d/e/1FAIpQLSd-uRUGzOo33Fym0CntNvYszVDq0lfRur5PFUQB1xW8d_9szw/viewform)
 - NY State [Tech Team](https://www.ny.gov/programs/new-york-state-covid-19-technology-swat-team)
 - [US Digital Response](https://www.usdigitalresponse.org)
+- R stats Community:  How can #rstats and data scientists help?
+    - https://repidemicsconsortium.org 
+    - https://github.com/reconhub/covid19hub  (fix bugs, develop packages, make shiny app)
+        - community mgmt, connecting people
 
 ## Tools
 - [pycovid](https://github.com/sudharshan-ashok/pycovid) python package for pulling data into pandas dataframe
