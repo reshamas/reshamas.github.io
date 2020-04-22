@@ -128,6 +128,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Canada data](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
 - [Ecuador](https://coronavirusecuador.com)
 - [India](https://www.mohfw.gov.in/) statistics
+- [India dashboard](https://alephthoughts.com/covid-19/)
 - [South Africa](https://datastudio.google.com/u/0/reporting/1b60bdc7-bec7-44c9-ba29-be0e043d8534/page/hrUIB)
 - United States [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
     - US:  [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
