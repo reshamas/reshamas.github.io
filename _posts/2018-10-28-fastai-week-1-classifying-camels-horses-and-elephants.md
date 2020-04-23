@@ -58,7 +58,7 @@ Our Lesson 1 homework is to obtain our own data and train a classifier to distin
 <p>
 </p>
 
-I began with a small sample, only 50 images in each class. URLS of images, in a `.csv` file, were downloaded to my local computer using [Google Images](https://images.google.com).  I uploaded the files to [Google Cloud Platform](https://images.google.com) (GCP) using the `scp` (Secure Copy) command.  
+I began with a small sample, only 50 images in each class. URLS of images, in a `.csv` file, were downloaded to my local computer using [Google Images](https://images.google.com) and [Chrome extension: download all images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm?hl=en).  I uploaded the files to [Google Cloud Platform](https://images.google.com) (GCP) using the `scp` (Secure Copy) command.  
 
 This is how the urls are stored in the text file:  
 <p>
