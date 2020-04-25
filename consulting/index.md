@@ -17,7 +17,7 @@ I am involved in many projects, and due to number of inquiries received and limi
 
 2.  **PROFESSIONAL DEVELOPMENT**:  Business and educational development activities which move me forward professionally.
 
-3.  **VOLUNTEER**:  [Data Umbrella](https://www.dataumbrella.org), [PyLadies](nyc.pyladies.com).  You can support me on Patreon.  [reshamas](https://www.patreon.com/reshamas) 
+3.  **VOLUNTEER**:  [Data Umbrella](https://www.dataumbrella.org), [PyLadies](http://nyc.pyladies.com).  You can support me on Patreon.  [reshamas](https://www.patreon.com/reshamas) 
  
 4.  **MEETING REQUESTS**:   Coffee / Mentoring
 
