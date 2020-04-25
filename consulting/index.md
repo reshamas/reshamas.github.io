@@ -9,9 +9,9 @@ comments: false
 
 I am available for **consulting** in these areas:  data science, diversity and community building.  
 
-### Contacting Me
+## Contacting Me
 
-Due to number of inquiries received and limited time, I respond to emails in this order of priority:
+I am involved in many project and due to number of inquiries received and limited time, I respond to emails in this order of priority:
 
 1.  **CONSULTING**:  I am an independent consultant; email me for my hourly fees.
 
