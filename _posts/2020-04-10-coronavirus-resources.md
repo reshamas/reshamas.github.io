@@ -107,6 +107,8 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 ## Aggregated Resources
 - Academic Data Science Alliance: [COVID-19 Data Science Resources](https://www.academicdatascience.org/covid)
 - [Science Responds](https://science-responds.org/resources/datasets)
+- [Amplifying people I trust on COVID-19](https://simplystatistics.org/2020/04/29/amplifying-people-i-trust-on-covid-19/)
+
 
 ## Hackathon
 - [covid-19-bh20](https://github.com/virtual-biohackathons/covid-19-bh20)
