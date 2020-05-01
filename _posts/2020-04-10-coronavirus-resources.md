@@ -42,6 +42,9 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - Genetic sequence data: [GISAID](https://www.gisaid.org/)
 - Google:  [Community Mobility Reports](https://www.google.com/covid19/mobility/)
 - European [COVID19 Data Portal](https://www.covid19dataportal.org)
+- [US Census Bureau Data for COVID19](https://www.census.gov/topics/preparedness/events/pandemics/covid-19.html)
+- [Resources for COVID19: China Data Lab](https://projects.iq.harvard.edu/chinadatalab/resources-covid-19)
+
 
 ## United States
 - United States [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
