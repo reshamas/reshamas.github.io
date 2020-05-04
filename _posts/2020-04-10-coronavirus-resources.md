@@ -134,6 +134,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 
 ## Country Data / Dashboards
 - [Canada data](https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html)
+- [Czechia](https://onemocneni-aktualne.mzcr.cz/covid-19#sekce-2)
 - [Ecuador](https://coronavirusecuador.com)
 - [India](https://www.mohfw.gov.in/) statistics
 - [India dashboard](https://alephthoughts.com/covid-19/)
