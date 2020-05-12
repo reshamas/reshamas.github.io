@@ -10,6 +10,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - Our World in Data [Research & Statistics](https://ourworldindata.org/coronavirus)
 - [Johns Hopkins, WeChat, DingXiangYuan (DXY)](https://shiny.john-coene.com/coronavirus/)
 - Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
+- [Information is Beautiful](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) (great visualizations)
 
 ## Clinical Trials / Studies
 - NIH study: [Blood Samples from Healthy Volunteers Needed to Inform Public Health Decision Making](https://www.niaid.nih.gov/news-events/nih-begins-study-quantify-undetected-cases-coronavirus-infection)
@@ -44,6 +45,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - European [COVID19 Data Portal](https://www.covid19dataportal.org)
 - [US Census Bureau Data for COVID19](https://www.census.gov/topics/preparedness/events/pandemics/covid-19.html)
 - [Resources for COVID19: China Data Lab](https://projects.iq.harvard.edu/chinadatalab/resources-covid-19)
+- [Twitter COVID-19 repo](https://github.com/weijiax/covid19_data)
 
 
 ## United States
@@ -138,6 +140,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Ecuador](https://coronavirusecuador.com)
 - [India](https://www.mohfw.gov.in/) statistics
 - [India dashboard](https://alephthoughts.com/covid-19/)
+- [Nigeria dashboard](https://covid19.curanetwork.co)
 - [South Africa](https://datastudio.google.com/u/0/reporting/1b60bdc7-bec7-44c9-ba29-be0e043d8534/page/hrUIB)
 - United States [CDC](https://www.cdc.gov/coronavirus/2019-ncov/cases-in-us.html)
     - US:  [NY Times Map](https://www.nytimes.com/interactive/2020/us/coronavirus-us-cases.html)
