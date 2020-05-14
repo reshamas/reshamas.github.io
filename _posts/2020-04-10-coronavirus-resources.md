@@ -55,6 +55,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - U of Maryland: [Impact Analysis Platform](https://data.covid.umd.edu)
 
 ## New York State
+- [NY State data on GitHub](https://github.com/nychealth/coronavirus-data)
 - [NY State COVID19 Dashboard](https://covid19tracker.health.ny.gov/views/NYS-COVID19-Tracker/NYSDOHCOVID-19Tracker-Map?%3Aembed=yes&%3Atoolbar=no)
 - [**New York (state)**](https://www.health.ny.gov/diseases/communicable/coronavirus/)
 - [Vetted Solutions to Combat COVID-19](https://www.covidsolutions.org) A vetted list of actionable solutions for COVID-19 impact that you can engage with right now. 
