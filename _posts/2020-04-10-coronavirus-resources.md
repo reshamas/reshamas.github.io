@@ -12,6 +12,12 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - Stat News: [COVID-19 Tracker](https://www.statnews.com/2020/03/26/covid-19-tracker/)
 - [Information is Beautiful](https://informationisbeautiful.net/visualizations/covid-19-coronavirus-infographic-datapack/) (great visualizations)
 
+### Growth Rates
+- [Financial Times graphs](https://www.ft.com/coronavirus-latest)  **very nice graphs!
+- [Graphs of Growth](https://covid19dashboards.com) by Pratap Vardhan  **fastpages**
+- [Visualize by countries](https://covid19-dash.github.io)
+- [COVID Trends](https://aatishb.com/covidtrends) by Aatish Bhatia
+
 ## Clinical Trials / Studies
 - NIH study: [Blood Samples from Healthy Volunteers Needed to Inform Public Health Decision Making](https://www.niaid.nih.gov/news-events/nih-begins-study-quantify-undetected-cases-coronavirus-infection)
 - US: [National Covid-19 Convalescent Plasma Project](https://ccpp19.org/)
@@ -66,31 +72,28 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
     - [Discourse Forums](https://discourse.covid-oss-help.org) 
 - [Open Ventilator Registry](https://github.com/openventilatorregistry/OpenVentilatorRegistry)  
 >The Open Ventilator Registry is calling on software engineers to help build a platform for hospitals to report on their stock of ventilators and if they have a surplus or deficit. Hospitals with a surplus can then send their supply to hospitals in greatest need. We aim to create a nimble and decentralized supply chain and distribution network of these life saving devices.
-- [RStudio and COVID-19](https://blog.rstudio.com/2020/04/17/rstudio-and-covid-19)
 
 
 ## Resources Compiled for R (rstats)
-[covid19-r](https://github.com/mine-cetinkaya-rundel/covid19-r/blob/master/README.md)
+- [covid19-r](https://github.com/mine-cetinkaya-rundel/covid19-r/blob/master/README.md)
 >repo links to a collection of analyses on and representations of COVID19 data in R.
-
-## Volunteer
-- [Volunteer Chat Support](https://docs.google.com/forms/d/e/1FAIpQLSd-uRUGzOo33Fym0CntNvYszVDq0lfRur5PFUQB1xW8d_9szw/viewform)
-- NY State [Tech Team](https://www.ny.gov/programs/new-york-state-covid-19-technology-swat-team)
-- [US Digital Response](https://www.usdigitalresponse.org)
+- [RStudio and COVID-19](https://blog.rstudio.com/2020/04/17/rstudio-and-covid-19)
+- [R packages on GitHub](https://github.com/Covid19R)
 - R stats Community:  How can #rstats and data scientists help?
     - https://repidemicsconsortium.org 
     - https://github.com/reconhub/covid19hub  (fix bugs, develop packages, make shiny app)
         - community mgmt, connecting people
 
+## Volunteer
+- [Volunteer Chat Support](https://docs.google.com/forms/d/e/1FAIpQLSd-uRUGzOo33Fym0CntNvYszVDq0lfRur5PFUQB1xW8d_9szw/viewform)
+- NY State [Tech Team](https://www.ny.gov/programs/new-york-state-covid-19-technology-swat-team)
+- [US Digital Response](https://www.usdigitalresponse.org)
+
 ## Tools
 - [pycovid](https://github.com/sudharshan-ashok/pycovid) python package for pulling data into pandas dataframe
 - Neo4j [COVID Knowledge Graph](https://covidgraph.org)
 
-## Growth Rates
-- [Financial Times graphs](https://www.ft.com/coronavirus-latest)  **very nice graphs!
-- [Graphs of Growth](https://covid19dashboards.com) by Pratap Vardhan
-- [Visualize by countries](https://covid19-dash.github.io)
-- [COVID Trends](https://aatishb.com/covidtrends) by Aatish Bhatia
+
 
 
 
