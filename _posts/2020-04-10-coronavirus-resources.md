@@ -18,6 +18,9 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - [Visualize by countries](https://covid19-dash.github.io)
 - [COVID Trends](https://aatishb.com/covidtrends) by Aatish Bhatia
 
+## Policy
+- [Policy Responses to COVID-19](https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19)
+
 ## Clinical Trials / Studies
 - NIH study: [Blood Samples from Healthy Volunteers Needed to Inform Public Health Decision Making](https://www.niaid.nih.gov/news-events/nih-begins-study-quantify-undetected-cases-coronavirus-infection)
 - US: [National Covid-19 Convalescent Plasma Project](https://ccpp19.org/)
@@ -92,10 +95,6 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 ## Tools
 - [pycovid](https://github.com/sudharshan-ashok/pycovid) python package for pulling data into pandas dataframe
 - Neo4j [COVID Knowledge Graph](https://covidgraph.org)
-
-
-
-
 
 
 ## fastai: Data Science 
