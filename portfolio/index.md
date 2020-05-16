@@ -6,7 +6,10 @@ comments: false
 ---
 
 ## Scientific Publications
-Publications while [affiliated with Thomas Jefferson University](https://www.researchgate.net/scientific-contributions/59221316_Reshama_Shaikh).   
+
+[Face Masks Against COVID-19: An Evidence Review](www.preprints.org/manuscript/202004.0203/) (2020)
+
+Publications while [affiliated with Thomas Jefferson University](https://www.researchgate.net/scientific-contributions/59221316_Reshama_Shaikh):  
 * Modified two‐sided normal tolerance intervals for batch acceptance of dose uniformity
 * Sample sizes for batch acceptance from single- and multistage designs using two-sided normal tolerance intervals with specified content
 * The Utility of a 7‐Day Percutaneous Spinal Cord Stimulator Trial Measured by a Pain Diary: A Long‐term Retrospective Analysis
