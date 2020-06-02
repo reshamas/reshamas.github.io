@@ -129,7 +129,7 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 
 ## Educational Resources
 - [Free Educational Resources](https://www.amazingeducationalresources.com)
-- [Resources (K-12)](https://alldigitalschool.com)
+- [Resources (K-12)](https://alldigitalschool.com) by All Digital School
 
 ## Community
 - [COVID-19 Mental Health Resources for Families](https://nyulangone.org/news/covid-19-mental-health-resources-families/covid-19-mental-health-resources-families-2020)
