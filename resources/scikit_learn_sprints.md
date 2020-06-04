@@ -15,6 +15,12 @@ comments: false
 
 There is a list on the [scikit-learn wiki](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints). 
 
+- 2020
+  - [EuroPython 2020 Sprints](https://wiki.python.org/moin/EuroPython2020/Sprints) (Jul 2020)
+  - Data Umbrella + NYC PyLadies [First ONLINE sprint](https://tinyurl.com/sklearn-online) (Jun 2020)
+  - Paris, France:  [Sprint of the Decade](https://github.com/scikit-learn/scikit-learn/wiki/Paris-scikit-learn-Sprint-of-the-Decade) (Jan 2020)
+  - Berlin, Germany: [WiMLDS sprint](https://github.com/WiMLDS/berlin-2020-scikit-sprint) (Jan 2020)
+  
 - 2019  
   - San Francisco, CA:  [WiMLDS sprint](http://wimlds.org/opensourcesprints-2/bay-area-scikit-sprint-2019/) (Nov 2019)
   - New York, NY:  [WiMLDS sprint](http://wimlds.org/opensourcesprints-2/nyc-scikit-sprint-2019/) (Aug 24, 2019)
