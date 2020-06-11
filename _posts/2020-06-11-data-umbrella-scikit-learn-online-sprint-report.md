@@ -22,7 +22,7 @@ This report focuses on the summary, impact and lessons learned of the **first on
 ## Sprint Participants' Background
 
 <p>
- <img src="../assets/images/sprint_demog/sprint_joelucas.png" width="99%" height="99%" style="border:0px;margin:0px">
+ <img src="../assets/images/sprint_online/sprint_demog.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
 To ensure that attendees had some knowledge of Python and scikit-learn, a brief application form was used.  Attendees did not have to be experienced Git users, but some experience was helpful.  
