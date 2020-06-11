@@ -37,15 +37,15 @@ Query for PR:
 
 ## Impact Report for Data Umbrella Scikit-learn Sprint
 
-|                                       | Sprint 2020    |   
+|                                       | Sprint 2020    |
 |---------------------------------------|----------------|
-| Report date                           | 10-Jun-2020    |   
-| Sprint date                           | 06-Jun-2019    |   
-| Location                              | online |   
+| Report date                           | 10-Jun-2020    |
+| Sprint date                           | 06-Jun-2019    |
+| Location                              | online         |
 | Open source library                   | [scikit-learn](https://github.com/scikit-learn/scikit-learn) |  
 | GitHub repository link                | [data-umbrella/2020-sklearn-sprint](https://github.com/data-umbrella/2020-sklearn-sprint)| 
 | List of Issues                        | [project list](https://github.com/data-umbrella/2020-sklearn-sprint/projects/1)  |
-|                                       |               |              
+|                                       |               |
 | Organizer      | [Reshama Shaikh](https://twitter.com/reshamas)    |
 | Lead Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml) |
 | Scikit-learn Experts    | Adrin Jalali, Thomas Fan, Nicolas Hug, Tom Dupre la Tour  |  
@@ -61,7 +61,6 @@ Query for PR:
 | <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>19</b> </a> | 
 |                                           |          |           
 | PRs open  (e)                             | ?        |    
- 
 | PRs returned to issue pool (g)            | ?        |      
 |                                           |          |       
 | Attendees:  Initial Registrations  | 51       |    
@@ -159,6 +158,12 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 
 
 ## Sprint Feedback
+
+Feedback has been shared a number of ways:  
+1.  Twitter (Moment)
+2.  Blogs
+3.  Sprint survey
+4.  Casually, in conversation during the sprint
 
 
 These were the respondents **favorite** parts of the sprint:
