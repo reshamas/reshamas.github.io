@@ -21,6 +21,10 @@ This report focuses on the summary, impact and lessons learned of the **first on
 
 ## Sprint Participants' Background
 
+<p>
+ <img src="../assets/images/sprint_demog/sprint_joelucas.png" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
+
 To ensure that attendees had some knowledge of Python and scikit-learn, a brief application form was used.  Attendees did not have to be experienced Git users, but some experience was helpful.  
 
 About 25% of the attendees had participated in a scikit-learn open source sprint before.  The attendees were evenly split by gender.  Participants from ten different countries joined. Over half the participants identified as "underrepresented."
@@ -50,11 +54,12 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 | Sponsor:  food                        | Not applicable |
 |                                       |                |
 | [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |
-| PRs [MRG] at sprint (a)               | 27             |
+| PRs [MRG] at sprint            | 27             |
+| PRs [MRG] post-sprint            | 10?             |
+| PRs open from sprint                       | ?        |
+| PRs returned to issue pool (g)     | ?        |
 | <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>19</b> </a> |
 |                                    |          |
-| PRs open  (e)                      | ?        |
-| PRs returned to issue pool (g)     | ?        |
 |                                    |          |
 | Attendees:  Initial Registrations  | 51       |
 | Attendees:  Participated           | ~ 42     |
