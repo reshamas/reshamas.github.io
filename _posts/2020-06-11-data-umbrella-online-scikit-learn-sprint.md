@@ -110,6 +110,11 @@ Because this was an online event and the idea of having an 8-hour sprint was not
   <img src="../assets/images/sprint_online/sprint_videos.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
+## Challenges for Me, as an Organizer
+Participants can use a variety of different names for email, Discord, GitHub, etc.  It is difficult to get to know participants and connect their different profiles and assist them.  
+
+
+
 ## Challenges
 
 ### Technology Platforms
