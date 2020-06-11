@@ -19,7 +19,7 @@ This report focuses on the summary, impact and lessons learned of the **first on
 - [Sprints Organized by Reshama Shaikh](https://www.dataumbrella.org/open-source/sprints)
 
 
-## Sprint Participants' Background
+## Demographics
 
 <p>
  <img src="../assets/images/sprint_online/sprint_demog.png" width="99%" height="99%" style="border:0px;margin:0px">
