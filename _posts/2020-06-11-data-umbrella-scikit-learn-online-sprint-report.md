@@ -52,14 +52,13 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 | Platforms                             | Discord & Zoom |
 | Sponsor:  venue                       | Not applicable |
 | Sponsor:  food                        | Not applicable |
-|                                       |                |
+|                                    |                |
 | [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |
 | PRs [MRG] at sprint            | 27             |
 | PRs [MRG] post-sprint            | 14             |
 | PRs open from sprint                       | 17        |
 | PRs returned to issue pool      | ?        |
 | <a style="color:red"><b>TOTAL PRs MERGED</b> </a>    |  <a style="color:red"><b>41</b> </a> |
-|                                    |          |
 |                                    |          |
 | Attendees:  Initial Registrations  | 51       |
 | Attendees:  Participated           | ~ 42     |
