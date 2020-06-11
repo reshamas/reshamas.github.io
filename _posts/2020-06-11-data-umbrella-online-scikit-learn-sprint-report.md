@@ -51,28 +51,27 @@ Query for PR:
 | Scikit-learn Experts    | Adrin Jalali, Thomas Fan, Nicolas Hug, Tom Dupre la Tour  |  
 | Teaching Assistants                   | [Mark Hannel](https://twitter.com/benchmarkhannel
 ) / Shashank Singh |
-| Platforms                             | Discord & Zoom            |
-| Sponsor:  venue                       | Not applicable            |   
-| Sponsor:  food                        | Not applicable            |   
-|                                           |          |          
-| [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |    
-| PRs [MRG] at sprint (a)                   | 27        |    
-?       |                                                                       
-| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>19</b> </a> | 
-|                                           |          |           
-| PRs open  (e)                             | ?        |    
-| PRs returned to issue pool (g)            | ?        |      
-|                                           |          |       
-| Attendees:  Initial Registrations  | 51       |    
-| Attendees:  Participated           | ~ 42     |    
-| Attendee List                      | [2020](https://sites.google.com/view/nyc-2020-scikit-sprint/contributors)     |   
-|                                    |               |    
+| Platforms                             | Discord & Zoom |
+| Sponsor:  venue                       | Not applicable |
+| Sponsor:  food                        | Not applicable |
+|                                       |                |
+| [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |
+| PRs [MRG] at sprint (a)               | 27             |
+| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>19</b> </a> |
+|                                    |          |
+| PRs open  (e)                      | ?        |
+| PRs returned to issue pool (g)     | ?        |
+|                                    |          |
+| Attendees:  Initial Registrations  | 51       |
+| Attendees:  Participated           | ~ 42     |
+| Attendee List                      | [2020](https://sites.google.com/view/nyc-2020-scikit-sprint/contributors)   |
+|                                    |          |
 | Post-sprint Survey                 | [survey form](https://forms.gle/XGCqNpzw5u4tzfJB7) (closed)
-|                                    |               |  
-| Cost of Sprint                     | volunteer time to organize event | 
-|                                    |               | 
-| Blog 1: by Joe Lucas               | [Scikit-learn Sprint: My Open Source Adventure](http://joetl.com/posts/sklearn_sprint/) | 
-| Blog 2: by Jake Tae                | [A Reflection on My First Open Source Contribution Sprint](https://jaketae.github.io/development/sklearn-sprint/)  | 
+|                                    |          |  
+| Cost of Sprint                     | volunteer time to organize event |
+|                                    |          |
+| Blog 1: by Joe Lucas               | [Scikit-learn Sprint: My Open Source Adventure](http://joetl.com/posts/sklearn_sprint/) |
+| Blog 2: by Jake Tae                | [A Reflection on My First Open Source Contribution Sprint](https://jaketae.github.io/development/sklearn-sprint/)  |
 | Blog 3: by C Thinwa                | [Why you should contribute to open-source as a data scientist](https://medium.com/@ceethinwa/why-you-should-contribute-to-open-source-as-a-data-scientist-7375ec5bc628) |
 | Blog 4: by Maren Westerman         | [ ] ( ) |
 
@@ -114,7 +113,6 @@ Because this was an online event and the idea of having an 8-hour sprint was not
 Participants can use a variety of different names for email, Discord, GitHub, etc.  It is difficult to get to know participants and connect their different profiles and assist them.  
 
 
-
 ## Challenges
 
 ### Technology Platforms
@@ -126,7 +124,7 @@ For the virtual event, the following platforms were utilized:
 3.  **Gitter:**  use after sprint (Typically our sprints are in person, so sprint participants would ask in person or on Gitter.)  There are more core scikit-learn contributors on Gitter than on this Discord.  But, typically, if the question is related to a specific pull request (PR), the conversation is on the GitHub PR.
 
  
-### Pair Programmers
+### Pair Programming
 About 8 people were no-shows, and their pairs needed to be reassigned at the start of the event. 
 
 ### Discord
