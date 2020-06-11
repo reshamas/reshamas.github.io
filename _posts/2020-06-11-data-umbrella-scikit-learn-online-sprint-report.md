@@ -25,7 +25,7 @@ This report focuses on the summary, impact and lessons learned of the **first on
 
 To ensure that attendees had some knowledge of Python and scikit-learn, a brief application form was used.  Attendees did not have to be experienced Git users, but some experience was helpful.  
 
-About 25% of the attendees had participated in a scikit-learn open source sprint before.  The attendees were evenly split by gender.  Participants from ten different countries joined. Over half the participants identified as "underrepresented."
+About 25% of the attendees had participated in a scikit-learn open source sprint before.  The attendees were evenly split by gender.  Participants from **ten different countries** joined. Over half the participants identified as "underrepresented."
 
 Most attendees learned of the event via Twitter and word-of-mouth, followed by scikit-learn GitHub repo and then through other social media and community platforms (e.g. Slack, Meetup, LinkedIn, etc.)
 
@@ -72,7 +72,7 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 | Blog 1: by Joe Lucas               | [Scikit-learn Sprint: My Open Source Adventure](http://joetl.com/posts/sklearn_sprint/) |
 | Blog 2: by Jake Tae                | [A Reflection on My First Open Source Contribution Sprint](https://jaketae.github.io/development/sklearn-sprint/)  |
 | Blog 3: by C Thinwa                | [Why you should contribute to open-source as a data scientist](https://medium.com/@ceethinwa/why-you-should-contribute-to-open-source-as-a-data-scientist-7375ec5bc628) |
-| Blog 4: by Maren Westerman         | [ ] ( ) |
+| Blog 4: by Maren Westerman | [ ] ( ) |
 
 
 ## Impact Summary for 2020
@@ -81,10 +81,6 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 </p>
 
 
-## An International Collaboration
-Scikit-learn core contributors joined from San Francisco (CA), New York (NY) and Berlin (Germany).
-
-Sprint participants hailed from ten different countries.
 
 ## Preparation Work
 Because this was an online event and the idea of having an 8-hour sprint was not appealing (to me), I reduced the time in half and increased the preparation work that attendees could do.
@@ -149,35 +145,6 @@ Feedback has been shared a number of ways:
 4.  Casually, in conversation during the sprint
 
 
-These were the respondents **favorite** parts of the sprint:
-
-<p float="left">
-  <img src="../assets/images/x_feedback_good.png" width="99%" height="99%" style="border:0px;margin:0px">
-</p>
-
-
-These are areas for **improvement**:  
-<p float="left">
-  <img src="../assets/images/x_feedback_improve.png" width="99%" height="99%" style="border:0px;margin:0px">
-</p>
-
-
-Here is additional feedback:
-<p float="left">
-  <img src="../assets/images/x_feedback_other.png" width="99%" height="99%" style="border:0px;margin:0px">
-</p>
-
-
-## Lessons Learned
-
-
-
-## Future Plans
-- **2 day event:** Because the contributor has traveled far and PRs take some time to work through, it is worth considering having a 2 day sprint. 
-- **Remote participation:** There were numerous requests to join remotely.  Our plan is to have Andreas Mueller record the first couple of hours of the August 2019 sprint and share the recording.
-- **Hold pre-sprint evening workshop:** one week prior so participants can set up their virtual environments and save time during the sprint day.
-
-
 ---
 ## References
 
@@ -193,7 +160,4 @@ Here is additional feedback:
 
 ---
 ## Addendum
-- [no addendums or updates at the time of publication] 
-
- 
-
+- [no addendums or updates at the time of publication]
