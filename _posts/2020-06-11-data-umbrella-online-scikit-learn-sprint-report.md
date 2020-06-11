@@ -27,13 +27,7 @@ About 25% of the attendees had participated in a scikit-learn open source sprint
 
 Most attendees learned of the event via Twitter and word-of-mouth, followed by scikit-learn GitHub repo and then through other social media and community platforms (e.g. Slack, Meetup, LinkedIn, etc.)
 
-[Scikit-learn Sprint: My Open Source Adventure](http://joetl.com/posts/sklearn_sprint/) by Joe Lucas
-[A Reflection on My First Open Source Contribution Sprint](https://jaketae.github.io/development/sklearn-sprint/) by Jake Tae 
 
-
-Query for PR:
-- [Open PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen+created%3A>%3D2020-06-04+%23DataUmbrella+): 17  (Query:  `is:pr is:open created:>=2020-06-04 #DataUmbrella`)
-- [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2020-06-04+%23DataUmbrella): 38   (Query: `is:pr is:merged created:>=2020-06-04 #DataUmbrella`)
 
 ## Impact Report for Data Umbrella Scikit-learn Sprint
 
@@ -42,6 +36,7 @@ Query for PR:
 | Report date                           | 10-Jun-2020    |
 | Sprint date                           | 06-Jun-2019    |
 | Location                              | online         |
+| Sprint website | [2020 Online Sprint](https://sites.google.com/view/nyc-2020-scikit-sprint) | 
 | Open source library                   | [scikit-learn](https://github.com/scikit-learn/scikit-learn) |  
 | GitHub repository link                | [data-umbrella/2020-sklearn-sprint](https://github.com/data-umbrella/2020-sklearn-sprint)| 
 | List of Issues                        | [project list](https://github.com/data-umbrella/2020-sklearn-sprint/projects/1)  |
@@ -49,8 +44,7 @@ Query for PR:
 | Organizer      | [Reshama Shaikh](https://twitter.com/reshamas)    |
 | Lead Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml) |
 | Scikit-learn Experts    | Adrin Jalali, Thomas Fan, Nicolas Hug, Tom Dupre la Tour  |  
-| Teaching Assistants                   | [Mark Hannel](https://twitter.com/benchmarkhannel
-) / Shashank Singh |
+| Teaching Assistants                   | [Mark Hannel](https://twitter.com/benchmarkhannel) & Shashank Singh |
 | Platforms                             | Discord & Zoom |
 | Sponsor:  venue                       | Not applicable |
 | Sponsor:  food                        | Not applicable |
@@ -197,7 +191,12 @@ Here is additional feedback:
 ## References
 
 - [List of Scikit-learn Sprints](https://reshamas.github.io/resources/scikit_learn_sprints/)
-- 
+
+
+### Query for PR:
+- [Open PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen+created%3A>%3D2020-06-04+%23DataUmbrella+): 17  (Query:  `is:pr is:open created:>=2020-06-04 #DataUmbrella`)
+- [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2020-06-04+%23DataUmbrella): 38   (Query: `is:pr is:merged created:>=2020-06-04 #DataUmbrella`)
+
 ---
 ## Addendum
 - [no addendums or updates at the time of publication] 
