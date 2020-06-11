@@ -57,8 +57,8 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 | PRs [MRG] at sprint            | 27             |
 | PRs [MRG] post-sprint            | 14             |
 | PRs open from sprint                       | 17        |
-| PRs returned to issue pool (g)     | ?        |
-| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>41</b> </a> |
+| PRs returned to issue pool      | ?        |
+| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>    |  <a style="color:red"><b>41</b> </a> |
 |                                    |          |
 |                                    |          |
 | Attendees:  Initial Registrations  | 51       |
