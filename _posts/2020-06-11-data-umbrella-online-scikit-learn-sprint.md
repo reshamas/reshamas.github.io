@@ -1,10 +1,12 @@
-
- <img src="../assets/images/sprint_online/sprint_joelucas.png" width="99%" height="99%" style="border:0px;margin:0px">
-</p>
-
 <p float="left">
   <img src="../assets/images/sprint_online/sprint_annonce.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
+
+<p>
+ <img src="../assets/images/sprint_online/sprint_joelucas.png" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
+
+
 
 ## Sprint Background
 
@@ -55,12 +57,11 @@ Query for PR:
 |                                           |          |          
 | [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |    
 | PRs [MRG] at sprint (a)                   | 27        |    
-| PRs [MRG] post-sprint (w/o follow-up) (b) |        |     
-| PRs [MRG] post-sprint (w/follow-up) (c)   | ?       |                                                                       
+?       |                                                                       
 | <a style="color:red"><b>TOTAL PRs MERGED</b> </a>  (d)   |  <a style="color:red"><b>19</b> </a> | 
 |                                           |          |           
 | PRs open  (e)                             | ?        |    
-| PRs closed (by merged PRs) (f)            | ?        |      
+ 
 | PRs returned to issue pool (g)            | ?        |      
 |                                           |          |       
 | Attendees:  Initial Registrations  | 51       |    
@@ -163,31 +164,23 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 These were the respondents **favorite** parts of the sprint:
 
 <p float="left">
-  <img src="../assets/images/n_feedback_favorite.png" width="99%" height="99%" style="border:0px;margin:0px">
+  <img src="../assets/images/x_feedback_good.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
 
 These are areas for **improvement**:  
 <p float="left">
-  <img src="../assets/images/n_feedback_improve.png" width="99%" height="99%" style="border:0px;margin:0px">
+  <img src="../assets/images/x_feedback_improve.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
 
 Here is additional feedback:
 <p float="left">
-  <img src="../assets/images/n_feedback_other.png" width="99%" height="99%" style="border:0px;margin:0px">
+  <img src="../assets/images/x_feedback_other.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
 
 ## Lessons Learned
-- **Need another core contributor at sprint:** this would be very helpful as in New York City we often have 2 or 3 contributors.  Travel costs restrict the participation of more contributors
-- **Need one or more core contributors:**  to review PRs remotely during the sprint
-- **Introduce an easy fix:** at start of sprint
-- **Create a tutorial:** for Contributing, Git, and GitHub 
-- **Set up virtual environments prior to sprint day:** because wifi was slow and delayed some attendees being able to effectively participate in sprint
-- **Improve `sklearn` documentation:** for setting up environments  
->There were people who were still trying to setup their environment and get the package to compile still at the end of the day, and that to me is a strong hint that something could be improved.
-
 
 
 
@@ -195,44 +188,7 @@ Here is additional feedback:
 - **2 day event:** Because the contributor has traveled far and PRs take some time to work through, it is worth considering having a 2 day sprint. 
 - **Remote participation:** There were numerous requests to join remotely.  Our plan is to have Andreas Mueller record the first couple of hours of the August 2019 sprint and share the recording.
 - **Hold pre-sprint evening workshop:** one week prior so participants can set up their virtual environments and save time during the sprint day.
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">software to record voice + screen:<br>OBS (Open Broadcaster Software): <a href="https://t.co/pCPuTyPmeL">https://t.co/pCPuTyPmeL</a><br><br>• Free and <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> software for video recording &amp; live streaming<br>• Download and start streaming quickly and easily on Windows, Mac or Linux<br><br>via <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> <a href="https://t.co/GWKMmCzGSq">pic.twitter.com/GWKMmCzGSq</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1156646503391408128?ref_src=twsrc%5Etfw">July 31, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
 
-
-
-## Planning for 2020
-This dinner is from the Friday night kick-off meeting, prior to the Saturday sprint.  People were excitedly discussing plans for the 2020 sprint! 
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is last night&#39;s (Friday) pre-sprint dinner kick-off meeting. <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> core contributor <a href="https://twitter.com/adrinjalali?ref_src=twsrc%5Etfw">@adrinjalali</a> flew from Berlin to Nairobi to run this sprint. 👍🏽<br><br>The crew started planning the <a href="https://twitter.com/WiMLDS_Nairobi?ref_src=twsrc%5Etfw">@WiMLDS_Nairobi</a> 2020 sprint already! 😁<a href="https://twitter.com/adrinjalali?ref_src=twsrc%5Etfw">@adrinjalali</a> brought stickers too!<a href="https://twitter.com/NumFOCUS?ref_src=twsrc%5Etfw">@NumFOCUS</a> <a href="https://t.co/Z9I5dRmwVM">pic.twitter.com/Z9I5dRmwVM</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1142412889149583361?ref_src=twsrc%5Etfw">June 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-
-## Sprint Expenses
-
-The total cost of the sprint was approximately $3500 USD.  It includes the cost of food which was covered by Microsoft 4Afrika.  Other costs included shipping the books from the USA to Nairobi and travel for the contributor from Europe to Nairobi.  
-
-This cost does not include space which was provided by iHub and 2 dozen copies of books which were provided by O'Reilly Media.  
-
-## Call for Action
-
-We are looking for sponsorship for 2020 WiMLDS scikit-learn sprints in various countries.  
-
-## Acknowledgments
-
-Special thanks to the following reviewers for their speedy review, assistance and patience:  
-- [Guillaume LeMaitre](https://twitter.com/glemaitre58)
-- [Roman Yurchak](https://twitter.com/RomanYurchak)
-- [Thomas J. Fan](https://twitter.com/thomasjpfan)
-- [Hanmin Qin](https://twitter.com/Hanmin_Qin)
-- [Nicolas Hug](https://www.linkedin.com/in/nicolas-hug/)
-- [Joel Nothman](https://www.linkedin.com/in/joel-nothman-03a6ab97/)
-
-## Sponsors
-
-<p float="left">
-  <img src="../assets/images/nairobi_sponsors.png" width="99%" height="99%" style="border:0px;margin:0px">
-</p>
 
 ---
 ## References
