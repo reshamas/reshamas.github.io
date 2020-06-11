@@ -85,22 +85,23 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 ## Preparation Work
 Because this was an online event and the idea of having an 8-hour sprint was not appealing (to me), I reduced the time in half and increased the preparation work that attendees could do.
 
-There are two videos for newcomers to [Get Started with Contributing to Scikit-learn](https://www.dataumbrella.org/open-source/contributing-to-scikit-learn).  Many people who were not participating in the sprint watched the videos and began submitted PRs.  
+There are two videos for newcomers to [Get Started with Contributing to Scikit-learn](https://www.dataumbrella.org/open-source/contributing-to-scikit-learn).  
+
+**Added Bonus:** Many people who were not participating in the sprint watched the videos and began submitted PRs.  
 
 <p float="left">
   <img src="../assets/images/sprint_online/sprint_videos.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
 ## Challenges for Me, as an Organizer
-Participants can use a variety of different names for email, Discord, GitHub, etc.  It is difficult to get to know participants and connect their different profiles and assist them.  
-
+Participants can use a variety of different (user) names (and nicknames) for email, Discord, GitHub, etc.  It is time-consuming to get to know participants and connect their different profiles and assist them.  
 
 ## Challenges
 
 ### Technology Platforms
 For a typical in-person sprint, interaction is in person and some communication in the scikit-learn sprint Gitter channel.
 
-For the virtual event, the following platforms were utilized:
+For the virtual event, the following platforms were utilized, which would also limit any costs required to use:  
 1.  **Zoom:** for presentation: being online from 11:45 am EDT to about 12:15 pm EDT (because Discord has max of only 25 people in any one channel, and we have about 50 people joining)
 2.  **Discord:** during sprint time
 3.  **Gitter:**  use after sprint (Typically our sprints are in person, so sprint participants would ask in person or on Gitter.)  There are more core scikit-learn contributors on Gitter than on this Discord.  But, typically, if the question is related to a specific pull request (PR), the conversation is on the GitHub PR.
