@@ -140,10 +140,10 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 ## Sprint Feedback
 
 Feedback has been shared a number of ways:  
-1.  Twitter [Moment](https://twitter.com/i/events/1269710860202770434)
-2.  Blogs
-3.  Sprint survey
-4.  Casually, in conversation during the sprint
+- Twitter [Moment](https://twitter.com/i/events/1269710860202770434)
+- Blogs
+- Sprint survey
+- Casually, in conversation during the sprint
 
 
 ---
