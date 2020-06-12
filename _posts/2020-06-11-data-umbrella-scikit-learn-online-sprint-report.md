@@ -82,11 +82,11 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 
 
 ## Preparation Work
-Because this was an online event and the idea of having an 8-hour sprint was not appealing (to me), I reduced the time in half and increased the preparation work that attendees could do.
+Because this was a virtual event and the idea of having an 8-hour online sprint was not appealing (to me), I reduced the time in half and increased the preparation work that attendees could do.
 
 There are two videos for newcomers to [Get Started with Contributing to Scikit-learn](https://www.dataumbrella.org/open-source/contributing-to-scikit-learn).  
 
-**Added Bonus:** Many people who were not participating in the sprint watched the videos and began submitted PRs.  
+**Added Bonus:** Many people who discovered these resources from social media and were not participating in the sprint watched the videos and began submitting PRs.  The goal was to make contributing accessible to a larger pool of people.  
 
 <p float="left">
   <img src="../assets/images/sprint_online/sprint_videos.png" width="99%" height="99%" style="border:0px;margin:0px">
@@ -118,7 +118,7 @@ Over 80 applicants were sent acceptances and half did not RSVP. Partial reasons 
 A number of Windows users experienced challenges in setting up their virtual environment.
 
 ## Pair Programming
-This was an entirely online event.  Particpants were assigned their partner prior to sprint start.  Where possible, a new contributor was matched with a returning contributor.
+This was an entirely online event.  Participants were assigned their partner prior to sprint start.  Where possible, a new contributor was matched with a returning contributor.
 
 
 ## Non-measurable Impact
@@ -143,6 +143,30 @@ Feedback has been shared a number of ways:
 - Blogs
 - Sprint survey
 - Casually, in conversation during the sprint
+
+### Twitter
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Such an amazing feeling when you solve an issue on Scikit learn and your PR gets merged 😍.<br><br>Thank you <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> for introducing me in to open source contribution, <a href="https://twitter.com/adrinjalali?ref_src=twsrc%5Etfw">@adrinjalali</a> &amp; <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> for your patience till I somehow got it right. <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a></p>&mdash; Mariam Ahmed (@MamuAhmed) <a href="https://twitter.com/MamuAhmed/status/1271148465570136064?ref_src=twsrc%5Etfw">June 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I learnt a lot solving small issues with my <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> team mate <a href="https://twitter.com/pardeepshergill?ref_src=twsrc%5Etfw">@pardeepshergill</a>!<br><br>Thanks a lot to the core developers and organizers!</p>&mdash; Violeta Roizman (@violetrzn) <a href="https://twitter.com/violetrzn/status/1269353409045581826?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Huge shout-out to <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> and the <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> team for the online <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>. My pair partner Cynthia and I learned a lot, did our first-time PRs (that documentation will never be the same :) and we are hooked to open-source for life.</p>&mdash; Krum Arnaudov (@ArnaudovKrum) <a href="https://twitter.com/ArnaudovKrum/status/1269369688947134464?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> is about to start and I&#39;m double stoked by it. It&#39;s new community for me, and the sprint is a refreshingly diverse, global crowd. And I&#39;m certain I&#39;ll learn a lot that can be used for future virtual sprints and hackweeks. Thanks <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> <a href="https://twitter.com/NYCPyLadies?ref_src=twsrc%5Etfw">@NYCPyLadies</a></p>&mdash; Brigitta Sipőcz (@AstroBrigi) <a href="https://twitter.com/AstroBrigi/status/1269294472765960192?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Special &quot;Thank you!&quot; to both <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> and <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> - I was really anxious and your Beginner Resources helped me bridge the first-time block. I will try my best to pay back in pull requests and word spreading :) You are great!</p>&mdash; Krum Arnaudov (@ArnaudovKrum) <a href="https://twitter.com/ArnaudovKrum/status/1269373764732624896?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two pull requests, an comment, and an issue submitted.. <br>Pair programming works! :)<br><br>Thanks so much <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> <a href="https://twitter.com/MelissaFerrari_?ref_src=twsrc%5Etfw">@MelissaFerrari_</a> <a href="https://twitter.com/NoemiDerzsy?ref_src=twsrc%5Etfw">@NoemiDerzsy</a> for organizing &amp; <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> <a href="https://twitter.com/thomasjpfan?ref_src=twsrc%5Etfw">@thomasjpfan</a> <a href="https://twitter.com/adrinjalali?ref_src=twsrc%5Etfw">@adrinjalali</a> <a href="https://twitter.com/hug_nicolas?ref_src=twsrc%5Etfw">@hug_nicolas</a> for facilitating<a href="https://twitter.com/hashtag/scikitlearn?src=hash&amp;ref_src=twsrc%5Etfw">#scikitlearn</a> <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a></p>&mdash; Lauren Oldja (@urbanplans) <a href="https://twitter.com/urbanplans/status/1269357353008316417?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 
 
 ---
