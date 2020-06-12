@@ -71,7 +71,7 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 | Blog 1: by Joe Lucas               | [Scikit-learn Sprint: My Open Source Adventure](http://joetl.com/posts/sklearn_sprint/) |
 | Blog 2: by Jake Tae                | [A Reflection on My First Open Source Contribution Sprint](https://jaketae.github.io/development/sklearn-sprint/)  |
 | Blog 3: by C Thinwa                | [Why you should contribute to open-source as a data scientist](https://medium.com/@ceethinwa/why-you-should-contribute-to-open-source-as-a-data-scientist-7375ec5bc628) |
-| Blog 4: by Maren Westerman | [ ] ( ) |
+| Blog 4: by Maren Westerman | [Review of the Data Umbrella Scikit-learn Online Sprint June 2020](https://marenwestermann.github.io/blogpost/2020/06/12/sklearn-sprint.html) |
 
 
 ## Impact Summary for 2020
