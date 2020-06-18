@@ -24,7 +24,7 @@ The following platforms were researched to discover existence of PyLadies chapte
 - [Twitter list of PyLadies chapters](https://twitter.com/i/lists/218154359)
 - [Brazil chapter list](http://brasil.pyladies.com/locations/)
 - [Czechia chapter list](https://pyladies.cz)
-- PyLadies Slack: announcements of new chapters
+- [PyLadies Slack](http://slackin.pyladies.com): announcements of new chapters
 - Search "pyladies" on Facebook
 - Search "pyladies" on Twitter
 - Search "pyladies" on Instagram
@@ -74,5 +74,6 @@ Some chapters were dissolved, or rolled into other communities such as:  Django 
 As this was a rather manual process, the first step was identifying how many chapters there were.  Next steps would be to determine the membership in the "main platform" to ascertain how many members are in the community.
 
 ## References
+- [PyLadies Handbook Documentation](https://buildmedia.readthedocs.org/media/pdf/pyladies-kit/latest/pyladies-kit.pdf)
 - [pyladies/global-organizing](https://github.com/pyladies/global-organizing)
 - [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
