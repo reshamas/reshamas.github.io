@@ -14,7 +14,7 @@ This summary provides an abbreviated update:
 - to identify which platforms are used to connect with the local communities of that chapter
 
 ## Summary
-There are 249 chapters identified across 64 countries.  Fifty-percent of the chapters were identified as "active", the rest are "inactive."  The chapter was categories as "active" if there was any activity on one of the social media platforms within the past 12 months.  
+There are 249 chapters identified across 64 countries.  Fifty-percent of the chapters were identified as "active", the rest are "inactive."  The chapter was categorized as "active" if there was any activity on one of the social media platforms within the past 12 months.  
 
 
 ## Resources to Identify Chapters
@@ -29,6 +29,7 @@ The following platforms were researched to discover existence of PyLadies chapte
 - Search "pyladies" on Twitter
 - Search "pyladies" on Instagram
 - Search "pyladies" on LinkedIn
+- Search "pyladies" on YouTube
 - Indirect searches for one chapter led to findings of other chapters
 
 ## Platforms
@@ -47,7 +48,7 @@ PyLadies groups around the world use various platforms to organize and communica
 
 ## Country-level Chapters
 The following countries have opened a chapter at the "country-level":  
-Argentina, Australia, Brazil, Czechia, Ghana, India, Indonesia, Morocco, Nigeria, Peru, Poland, Sierra Leone, Spain, Turkey
+Argentina, Australia, Brazil, Czechia, Ghana, India, Indonesia, Morocco, Nigeria, Peru, Poland, Sierra Leone, Spain, Turkey.
 
 ## Chapters by Country
 This visualization shows number of chapters by country for the 20 countries with most chapters.  
