@@ -30,6 +30,7 @@ The following platforms were researched to discover existence of PyLadies chapte
 - Search "pyladies" on Instagram
 - Search "pyladies" on LinkedIn
 - Search "pyladies" on YouTube
+- Search pyladies chapters on Google
 - Indirect searches for one chapter led to findings of other chapters
 
 ## Platforms
