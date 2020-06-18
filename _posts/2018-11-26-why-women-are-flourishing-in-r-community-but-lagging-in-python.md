@@ -120,7 +120,8 @@ PyLadies has no board.  I discovered via a deep Google search a [PyLadies Kit](h
 
 >The global PyLadies community has no formal organization behind it; no board of directors, no appointed leadership.
 We found that PyLadies growth and success stems from being decentralized and non-bureaucratic.
-We do have a few point people that can answer and address general, or non-location specific PyLadies questions. If
+
+>We do have a few point people that can answer and address general, or non-location specific PyLadies questions. If
 you are not a local PyLadies leader, you may do so via our general email. If you are a local PyLadies leader, you may
 email our organizers list (must be added to the mailing list first).
 
