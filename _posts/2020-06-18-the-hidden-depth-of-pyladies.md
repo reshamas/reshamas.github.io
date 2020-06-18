@@ -5,7 +5,7 @@
 </p>
 
 ## Background
-[PyLadies](https://www.pyladies.com/) is a global group created to involve more women in the Python open-source community. PyLadies was founded in 2011, with the first chapter being established in Los Angeles in April of that year. There is more background available in the [PyLadies Wikipedia page](https://en.wikipedia.org/wiki/PyLadies).
+[PyLadies](https://www.pyladies.com/) is a global group that was created to involve more women in the Python open-source community. PyLadies was founded in 2011, with the first chapter being established in Los Angeles in April of that year. There is more background available in the [PyLadies Wikipedia page](https://en.wikipedia.org/wiki/PyLadies).
 
 The last [Overview of PyLadies Chapters](https://prith13.github.io/posts/2018/11/pyladies-overview/) was published on November 24, 2018.  
 
@@ -14,7 +14,7 @@ This summary provides an abbreviated update:
 - to identify which platforms are used to connect with the local communities of that chapter
 
 ## Summary
-There are 249 chapters identified.  
+There are 249 chapters identified across 64 countries.  Fifty-percent of the chapters were identified as "active", the rest are "inactive."  The chapter was categories as "active" if there was any activity on one of the social media platforms within the past 12 months.  
 
 
 ## Resources to Identify Chapters
@@ -66,7 +66,7 @@ The following countries have opened a chapter at the "country-level"
 This visualization shows number of chapters by country for the 20 countries with most chapters.  
 
 <p>
- <img src="../assets/images/sprint_online/pyladies_2020_country.png" width="99%" height="99%" style="border:0px;margin:0px">
+ <img src="../assets/images/pyladies_2020_country.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
 ## Disclosure
@@ -79,10 +79,9 @@ Some chapters were dissolved, or rolled into other communities such as:  Django 
 
 
 <p>
- <img src="../assets/images/sprint_online/pyladies_quote.png" width="99%" height="99%" style="border:0px;margin:0px">
+ <img src="../assets/images/pyladies_quote.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
 
 ## Number of Members
 As this was a rather manual process, the first step was identifying how many chapters there were.  Next steps would be to determine the membership in the "main platform" to ascertain how many members are in the community.
-
