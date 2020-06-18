@@ -45,22 +45,9 @@ PyLadies groups around the world use various platforms to organize and communica
 - LinkedIn
 - Google Groups
 
-## Country-level chapters
-The following countries have opened a chapter at the "country-level"  
-- Argentina 
-- Australia
-- Brazil
-- Czechia
-- Ghana
-- India
-- Indonesia
-- Morocco
-- Nigeria
-- Peru
-- Poland
-- Sierra Leone
-- Spain
-- Turkey
+## Country-level Chapters
+The following countries have opened a chapter at the "country-level":  
+Argentina, Australia, Brazil, Czechia, Ghana, India, Indonesia, Morocco, Nigeria, Peru, Poland, Sierra Leone, Spain, Turkey
 
 ## Chapters by Country
 This visualization shows number of chapters by country for the 20 countries with most chapters.  
@@ -79,9 +66,12 @@ Some chapters were dissolved, or rolled into other communities such as:  Django 
 
 
 <p>
- <img src="../assets/images/pyladies_quote.png" width="99%" height="99%" style="border:0px;margin:0px">
+ <img src="../assets/images/pyladies_quote.png" width="50%" height="50%" style="border:0px;margin:0px">
 </p>
 
 
 ## Number of Members
 As this was a rather manual process, the first step was identifying how many chapters there were.  Next steps would be to determine the membership in the "main platform" to ascertain how many members are in the community.
+
+## References
+- [pyladies/global-organizing](https://github.com/pyladies/global-organizing)
