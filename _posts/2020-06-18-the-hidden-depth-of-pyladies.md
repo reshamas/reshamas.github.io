@@ -41,7 +41,8 @@ PyLadies groups around the world use various platforms to organize and communica
 - non-PyLadies website
 - Twitter
 - Instagram
-- Slack
+- PyLadies Global Slack
+- individual chapter Slack
 - WhatsApp
 - YouTube
 - LinkedIn
