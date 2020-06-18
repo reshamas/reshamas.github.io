@@ -75,3 +75,4 @@ As this was a rather manual process, the first step was identifying how many cha
 
 ## References
 - [pyladies/global-organizing](https://github.com/pyladies/global-organizing)
+- [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
