@@ -81,7 +81,7 @@ To start a new chapter:
 1. Join the [PyLadies Global Slack](http://slackin.pyladies.com)  
 2. Read through the [PyLadies Kit](http://kit.pyladies.com/en/latest/)
 
-If you have any questions, you an inquire on the PyLadies Slack.  
+If you have any questions, you can inquire on the PyLadies Slack.  
 
 
 ## References
