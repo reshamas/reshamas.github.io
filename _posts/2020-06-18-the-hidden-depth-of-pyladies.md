@@ -76,6 +76,14 @@ Some chapters were dissolved, or rolled into other communities such as:  Django 
 ## Number of Members
 As this was a rather manual process, the first step was identifying how many chapters there were.  Next steps would be to determine the membership in the "main platform" to ascertain how many members are in the community.
 
+## Start a New Chapter
+To start a new chapter:  
+1. Join the [PyLadies Global Slack](http://slackin.pyladies.com)  
+2. Read through the [PyLadies Kit](http://kit.pyladies.com/en/latest/)
+
+If you have any questions, you an inquire on the PyLadies Slack.  
+
+
 ## References
 - [PyLadies Handbook Documentation](https://buildmedia.readthedocs.org/media/pdf/pyladies-kit/latest/pyladies-kit.pdf)
 - [pyladies/global-organizing](https://github.com/pyladies/global-organizing)
