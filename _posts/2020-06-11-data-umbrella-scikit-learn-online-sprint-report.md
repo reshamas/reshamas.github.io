@@ -120,6 +120,9 @@ A number of Windows users experienced challenges in setting up their virtual env
 ## Pair Programming
 This was an entirely online event.  Participants were assigned their partner prior to sprint start.  Where possible, a new contributor was matched with a returning contributor.
 
+## Follow-up Office Hours
+Office hours were set up 2 weeks after the sprint where some of the scikit-learn core contributors were available to answer questions on open PRs.  The office hours were scheduled for 7am PDT / 10am EDT /  5pm EAT / 7:30pm IST.
+
 
 ## Non-measurable Impact
 Aside from the number of PRs that were merged, there is non-quantifiable impact of the open source sprint. Some examples include:
@@ -167,7 +170,22 @@ Feedback has been shared a number of ways:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two pull requests, an comment, and an issue submitted.. <br>Pair programming works! :)<br><br>Thanks so much <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> <a href="https://twitter.com/MelissaFerrari_?ref_src=twsrc%5Etfw">@MelissaFerrari_</a> <a href="https://twitter.com/NoemiDerzsy?ref_src=twsrc%5Etfw">@NoemiDerzsy</a> for organizing &amp; <a href="https://twitter.com/amuellerml?ref_src=twsrc%5Etfw">@amuellerml</a> <a href="https://twitter.com/thomasjpfan?ref_src=twsrc%5Etfw">@thomasjpfan</a> <a href="https://twitter.com/adrinjalali?ref_src=twsrc%5Etfw">@adrinjalali</a> <a href="https://twitter.com/hug_nicolas?ref_src=twsrc%5Etfw">@hug_nicolas</a> for facilitating<a href="https://twitter.com/hashtag/scikitlearn?src=hash&amp;ref_src=twsrc%5Etfw">#scikitlearn</a> <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a></p>&mdash; Lauren Oldja (@urbanplans) <a href="https://twitter.com/urbanplans/status/1269357353008316417?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+## Adjustments for Next Sprint
 
+### Application Form: reminder for spam
+Remind participants that communication is sent from other platforms (Mailchimp, Eventbrite, etc) and it may go to spam.  It would be good to keep an eye out on the spam folder or email the sprint organizer if they have not heard back. 
+
+### Issues
+Add in a slide to explain to participants how to look for issues to work on.
+
+### Pair Programming
+Add in a slide explaining how pair programming works.
+
+### Second Pull Request
+Update slides / documentation to show how to submit a second PR.
+
+### Pair Partner
+Explore how to optimally match participants as pair partners based on experience.  
 
 ---
 ## References
