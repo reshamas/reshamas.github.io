@@ -175,6 +175,9 @@ Feedback has been shared a number of ways:
 ### Application Form: reminder for spam
 Remind participants that communication is sent from other platforms (Mailchimp, Eventbrite, etc) and it may go to spam.  It would be good to keep an eye out on the spam folder or email the sprint organizer if they have not heard back. 
 
+### Application form:  pronouns 
+Ask for preferred pronoun on application and als to include on website for contributors.
+
 ### Issues
 Add in a slide to explain to participants how to look for issues to work on.
 
