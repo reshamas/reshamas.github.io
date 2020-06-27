@@ -55,10 +55,10 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 |                                    |                |
 | [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |
 | PRs [MRG] at sprint            | 27             |
-| PRs [MRG] post-sprint            | 14             |
-| PRs open from sprint                       | 17        |
+| PRs [MRG] post-sprint            | 30             |
+| PRs open from sprint                       | 4        |
 | PRs returned to issue pool      | ?        |
-| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>    |  <a style="color:red"><b>41</b> </a> |
+| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>    |  <a style="color:red"><b>57</b> </a> |
 |                                    |          |
 | Attendees:  Initial Registrations  | 51       |
 | Attendees:  Participated           | ~ 42     |
@@ -176,7 +176,7 @@ Feedback has been shared a number of ways:
 Remind participants that communication is sent from other platforms (Mailchimp, Eventbrite, etc) and it may go to spam.  It would be good to keep an eye out on the spam folder or email the sprint organizer if they have not heard back. 
 
 ### Application form:  pronouns 
-Ask for preferred pronoun on application and als to include on website for contributors.
+Ask for preferred pronoun on application and also to include on website for contributors.
 
 ### Issues
 Add in a slide to explain to participants how to look for issues to work on.
@@ -190,6 +190,9 @@ Update slides / documentation to show how to submit a second PR.
 ### Pair Partner
 Explore how to optimally match participants as pair partners based on experience.  
 
+### Platforms
+Three platforms (Zoom, Discord and Gitter) were confusing for attendees.  One platform was preferred. 
+
 ---
 ## References
 
@@ -198,9 +201,9 @@ Explore how to optimally match participants as pair partners based on experience
 
 
 ### Query for PR:
-- [Open PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen+created%3A>%3D2020-06-04+%23DataUmbrella+): 17  (Query:  `is:pr is:open created:>=2020-06-04 #DataUmbrella`)
+- [Open PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen+created%3A>%3D2020-06-04+%23DataUmbrella+): 4  (Query:  `is:pr is:open created:>=2020-06-04 #DataUmbrella`)
     - [Open](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen++%23DataUmbrella+) (w/o date range)
-- [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2020-06-04+%23DataUmbrella): 38   (Query: `is:pr is:merged created:>=2020-06-04 #DataUmbrella`)
+- [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2020-06-04+%23DataUmbrella): 57   (Query: `is:pr is:merged created:>=2020-06-04 #DataUmbrella`)
     - [Merged](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged++%23DataUmbrella+) (w/o date range)
 
 ---
