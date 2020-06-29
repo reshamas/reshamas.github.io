@@ -93,7 +93,7 @@ There are two videos for newcomers to [Get Started with Contributing to Scikit-l
 </p>
 
 ## Challenges for Me, as an Organizer
-Participants can use a variety of different (user) names (and nicknames) for email, Discord, GitHub, etc.  It is time-consuming to get to know participants and connect their different profiles and assist them.  
+Participants can use a variety of different (user) names (and nicknames) for email, Discord, GitHub, social media, etc.  It is challenging to connect their different profiles and assist them, and it makes getting to know participants more time-consuming and difficult. 
 
 ## Challenges
 
