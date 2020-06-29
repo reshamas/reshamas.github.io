@@ -56,7 +56,8 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 | [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |
 | PRs [MRG] at sprint            | 27             |
 | PRs [MRG] post-sprint            | 30             |
-| PRs open from sprint                       | 4        |
+| PRs [merged](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged++%23DataUmbrella+)          |    |
+| PRs [open](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen++%23DataUmbrella+)                       | 4        |
 | PRs returned to issue pool      | ?        |
 | <a style="color:red"><b>TOTAL PRs MERGED</b> </a>    |  <a style="color:red"><b>57</b> </a> |
 |                                    |          |
