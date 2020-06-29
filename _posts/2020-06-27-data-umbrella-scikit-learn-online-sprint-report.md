@@ -175,7 +175,7 @@ Feedback has been shared a number of ways:
 ### Application Form: reminder for spam
 Remind participants that communication is sent from other platforms (Mailchimp, Eventbrite, etc) and it may go to spam.  It would be good to keep an eye out on the spam folder or email the sprint organizer if they have not heard back. 
 
-### Application form:  pronouns 
+### Application Form:  pronouns 
 Ask for preferred pronoun on application and also to include on website for contributors.
 
 ### Issues
@@ -192,6 +192,13 @@ Explore how to optimally match participants as pair partners based on experience
 
 ### Platforms
 Three platforms (Zoom, Discord and Gitter) were confusing for attendees.  One platform was preferred. 
+
+### Scikit-learn Mailing List
+Include link to [scikit-learn mailing list](https://mail.python.org/mailman/listinfo/scikit-learn) in communications.  Encourage participants to sign up for the mailing list to keep up to date on discussions.  The mailing list is also a good way to learn about open source, the library and the community.
+https://mail.python.org/mailman/listinfo/scikit-learn
+
+### Setting up virtual environment
+We encouraged people to set up their virtual environment beforehand. The dilemna here is if we make it optional, more people probably would not do it.  If we make it required, people who do not set up beforehand may not attend the sprint.  Some people had difficulty setting up their environment and thought they could only join the sprint if their set up was ready. Action: find a way to optimize set up before the sprint while providing support for those who need it.
 
 ---
 ## References
