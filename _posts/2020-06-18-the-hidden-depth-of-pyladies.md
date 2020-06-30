@@ -83,6 +83,12 @@ To start a new chapter:
 
 If you have any questions, you can inquire on the PyLadies Slack.  
 
+## More Background on PyLadies
+<p>
+ <img href="https://youtu.be/c2e8y_c-rMM" src="../assets/images/pyl_links.png" width="50%" height="50%" style="border:0px;margin:0px">
+</p>
+
+
 
 ## References
 - [PyLadies Handbook Documentation](https://buildmedia.readthedocs.org/media/pdf/pyladies-kit/latest/pyladies-kit.pdf)
