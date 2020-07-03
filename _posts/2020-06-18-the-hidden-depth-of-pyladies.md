@@ -14,7 +14,7 @@ This summary provides an abbreviated update:
 - to identify which platforms are used to connect with the local communities of that chapter
 
 ## Summary
-There are 249 chapters identified across 64 countries.  Fifty-percent of the chapters were identified as "active", the rest are "inactive."  The chapter was categorized as "active" if there was any activity on one of the social media platforms within the past 12 months.  
+There are 249 chapters identified across 64 countries.  Fifty percent of the chapters were identified as "active", the rest are "inactive."  The chapter was categorized as "active" if there was any activity on one of the social media platforms within the past 12 months.  
 
 
 ## Resources to Identify Chapters
