@@ -49,9 +49,11 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 | Scikit-learn core contributors    | Adrin Jalali, Thomas Fan, Nicolas Hug, Chiara Marmo, Tom Dupre la Tour  |  
 | Teaching Assistants                   | Mark Hannel & Shashank Singh |
 | Helpers      | Mariam Haji, Noemi Derzsy, Melissa Ferrari  |
-| Platforms                             | Discord & Zoom |
-| Sponsor:  venue                       | Not applicable |
-| Sponsor:  food                        | Not applicable |
+| Platforms                          | Discord & Zoom |
+| Sponsor:  venue                    | Not applicable |
+| Sponsor:  food                     | Not applicable |
+| Cost of Sprint                     | 50 hours volunteer time to organize event |
+|                                    |                |
 |                                    |                |
 | [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |
 | PRs [MRG] at sprint            | 27             |
@@ -68,8 +70,6 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 |                                    |          |
 | Post-sprint Survey                 | [survey form](https://forms.gle/XGCqNpzw5u4tzfJB7) (closed)
 |                                    |          |  
-| Cost of Sprint                     | volunteer time to organize event |
-|                                    |          |
 | Blog 1: by Joe Lucas               | [Scikit-learn Sprint: My Open Source Adventure](http://joetl.com/posts/sklearn_sprint/) |
 | Blog 2: by Jake Tae                | [A Reflection on My First Open Source Contribution Sprint](https://jaketae.github.io/development/sklearn-sprint/)  |
 | Blog 3: by C Thinwa                | [Why you should contribute to open-source as a data scientist](https://medium.com/@ceethinwa/why-you-should-contribute-to-open-source-as-a-data-scientist-7375ec5bc628) |
