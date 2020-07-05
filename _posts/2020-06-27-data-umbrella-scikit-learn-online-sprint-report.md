@@ -50,10 +50,10 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 | Teaching Assistants                   | Mark Hannel & Shashank Singh |
 | Helpers      | Mariam Haji, Noemi Derzsy, Melissa Ferrari  |
 | Platforms                          | Discord & Zoom |
+|                                    |                |
 | Sponsor:  venue                    | Not applicable |
 | Sponsor:  food                     | Not applicable |
-| Cost of Sprint                     | 50 hours volunteer time to organize event |
-|                                    |                |
+| Cost of Sprint                     | 60 hours volunteer time to organize event |
 |                                    |                |
 | [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |
 | PRs [MRG] at sprint            | 27             |
