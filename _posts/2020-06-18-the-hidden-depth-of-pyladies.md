@@ -94,6 +94,7 @@ If you have any questions, you can inquire on the PyLadies Slack.
 - [PyLadies Handbook Documentation](https://buildmedia.readthedocs.org/media/pdf/pyladies-kit/latest/pyladies-kit.pdf)
 - [pyladies/global-organizing](https://github.com/pyladies/global-organizing)
 - [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
+- [Presenting PyLadies Dashboard](https://reshamas.github.io/presenting-pyladies-dashboard/)
 
 ## New Chapters to Add
 - Stuttgart, Germany
