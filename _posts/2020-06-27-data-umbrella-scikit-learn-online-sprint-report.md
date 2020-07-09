@@ -219,6 +219,9 @@ https://mail.python.org/mailman/listinfo/scikit-learn
 ### Setting up virtual environment
 We encouraged people to set up their virtual environment beforehand. The dilemna here is if we make it optional, more people probably would not do it.  If we make it required, people who do not set up beforehand may not attend the sprint.  Some people had difficulty setting up their environment and thought they could only join the sprint if their set up was ready. Action: find a way to optimize set up before the sprint while providing support for those who need it.
 
+### Discord categories
+For each virtual table, use categories to group table for chat and voice. The current setup does not have voice and chat for each table adjacent to each other.
+
 ---
 ## References
 
