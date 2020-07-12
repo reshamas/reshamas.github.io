@@ -7,7 +7,7 @@ comments: false
 
 ## Scientific Publications
 
-[Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v2/) (2020)
+[Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v3) (2020)
 
 Publications while [affiliated with Thomas Jefferson University](https://www.researchgate.net/scientific-contributions/59221316_Reshama_Shaikh):  
 * Modified two‐sided normal tolerance intervals for batch acceptance of dose uniformity
