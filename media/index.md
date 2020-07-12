@@ -5,6 +5,14 @@ tags:
 comments: false
 ---
 
+## Open Source: Contributing to Scikit-Learn
+
+<p>
+<iframe width="560" height="315" src="https://youtu.be/PU1WyDPGePI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+
 ## Podcasts
 
 ### Banana Data:  [Scikit-learn Sprints](https://podcasts.apple.com/us/podcast/bdn-15-finding-community-in-data-science-reshama-shaikh/id1463103655?i=1000461480128)  (Jan 2020)
