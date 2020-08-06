@@ -227,6 +227,7 @@ For each virtual table, use categories to group table for chat and voice. The cu
 
 - [List of Scikit-learn Sprints](https://reshamas.github.io/resources/scikit_learn_sprints/)
 - [Sprints Organized by Reshama Shaikh](https://www.dataumbrella.org/open-source/sprints)
+- [PyCon 2020 Mentored Sprints](https://us.pycon.org/2020/hatchery/mentoredsprints/)
 
 
 ### Query for PR:
