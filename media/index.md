@@ -89,6 +89,12 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-T1XlHqvuYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+### Women in AI Panel Discussion (extended video)
+
+<p> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FGiktBsAE08" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p> 
+
 ## Deep Learning
 
 ### Mobile Food Classifier using fastai deep learning library
