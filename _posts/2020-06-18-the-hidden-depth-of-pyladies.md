@@ -89,6 +89,11 @@ If you have any questions, you can inquire on the PyLadies Slack.
 <a href="https://youtu.be/c2e8y_c-rMM"><img src="/assets/images/pyl_links.png" width="66%" /></a>
 </p>
 
+## Python Core Developers
+<p>
+<img src="/assets/images/python_core.png" width="80%" /></a>
+</p>
+
 
 ## References
 - [PyLadies Handbook Documentation](https://buildmedia.readthedocs.org/media/pdf/pyladies-kit/latest/pyladies-kit.pdf)
