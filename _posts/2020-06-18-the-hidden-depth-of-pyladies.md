@@ -91,7 +91,7 @@ If you have any questions, you can inquire on the PyLadies Slack.
 
 ## Python Core Developers
 <p>
-<img src="/assets/images/python_core.png" width="80%" /></a>
+<img src="/assets/images/python_core.png" width="80%" />
 </p>
 
 
