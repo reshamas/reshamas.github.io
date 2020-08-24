@@ -137,6 +137,8 @@ Coronavirus (COVID19):  Dashboards, data links, growth charts, epidemiologic mod
 - US [Coronavirus (COVID-19): Small Business Guidance & Loan Resources](https://www.sba.gov/page/coronavirus-covid-19-small-business-guidance-loan-resources)
 - NYC [NYC Business Continuity Loan Fund](https://www1.nyc.gov/site/sbs/businesses/covid19-business-outreach.page)
 - [Telehealth and Online Mental Health Resources During COVID-19 Pandemic](https://www.sunshinebehavioralhealth.com/resources/telehealth-addiction-treatment-during-quarantine/)
+- [Coronavirus Resources for Mesothelioma Patients](https://www.asbestos.net/mesothelioma-and-covid19/)
+
 
 ## Africa
 - [Africa summaries & charts](https://medium.com/@darlingtonahialeakogo/ai4covid-19-african-statistics-minohealth-ai-labs-and-runmila-ai-institute-607f969b7a59)
