@@ -125,7 +125,7 @@ We found that PyLadies growth and success stems from being decentralized and non
 you are not a local PyLadies leader, you may do so via our general email. If you are a local PyLadies leader, you may
 email our organizers list (must be added to the mailing list first).
 
-[R-Ladies Global](https://rladies.org/about-us/team/) has an active board.  I am an organizer for both Women in Machine Learning & Data Science (WiMLDS) and PyLadies.  As a board member of WiMLDS, I can say from personal experience that WiMLDS is better able to support our chapters with a board and designated leadership.  It is indeed challenging, since it is a volunteer position, but well worth the effort.  
+[R-Ladies Global](https://rladies.org/about-us/team/) has an active board.  I am an organizer for both [Data Umbrella](https://www.dataumbrella.org/) and PyLadies.  As a prior board member of another women's community, I can say from personal experience that the leadership is better able to support the chapters with a board and designated leadership.  It is indeed challenging, since it is a volunteer position, but well worth the effort.  
 
 The PyLadies website currently has [89 chapters listed](https://www.pyladies.com/locations/), but 17 of them are defunct, and that data has not been updated.  Determining how many active chapters and members was a tedious and manual process.  Comparatively, R-Ladies has a [central account](https://www.meetup.com/pro/rladies/) where it is easy to obtain the numbers.  Some of the PyLadies chapters are included in the [PSF account](https://www.meetup.com/pro/python-software-foundation-meetups/) which includes various Python user groups. 
 
@@ -152,6 +152,8 @@ We can make a rough comparison to computer scientists.  The Association for Comp
 <p>
 <img src="../assets/images/cs_degrees.jpg" width="99%" height="99%" />
 </p>
+
+It is estimated that 15% of the membership of ACM is women. 
 
 ### Funding
 This hypothesis has not been tested, because I do not have the data.  But, it could be a possible factor:  
@@ -232,26 +234,26 @@ The R community has prominent data scientists that are vocally supportive of wom
 [rstudio](https://blog.rstudio.com/2018/08/10/rstudio-conf-2019-diversity-scholarships/) is offering 32 domestic diversity scholarships and 6 internatioal scholarships to its 2019 conference. 
 
 ## Table of Key Characteristics of R-Ladies and PyLadies
-This table compares key details of R-Ladies and PyLadies, as well as Women in Machine Learning and Data Science (WiMLDS).  WiMLDS is included because it serves both populations in data science.
+This table compares key details of R-Ladies and PyLadies.
 
-| Detail            | R-Ladies     | WiMLDS | PyLadies         |  
-|-------------------|--------------|--------|------------------|
-| Founded           | 2012         | 2013   | 2011             |   
-| Users (a)         | 6.1%         |        | 38.8%            |
-| Language          | R            |        | Python           |
-| Sponsors          | R Consortium | none   | PSF (b)          |  
-| Funding           | $?           | none   | $?               |
-| Sponsor Followers | [5.9K](https://twitter.com/RConsortium)             |        | [223K](https://twitter.com/ThePSF) |
-| Field of Study    | Statistics   |        | CS (c), others   |
-| Board             | yes          | yes    | no               |
-| Members           | 29,455       | 20,140 | 36,500           |
-| Chapters          | 120          | 34     | 45               |
-| Countries         | 40           | 17     | 19               |
-| Slack Members     | 650          | 751    | 1515             |
-| Twitter Followers | 8112         | 8376   | 10000            |
-| Affiliated Conferences | Rstudio, useR!      | none   | PyCon            |
-| Other Conferences | NYR | none |      |
-| Language First Released |   1993 |         | 1990            |
+| Detail            | R-Ladies      | PyLadies         |  
+|-------------------|---------------|------------------|
+| Founded           | 2012           | 2011             |   
+| Users (a)         | 6.1%               | 38.8%            |
+| Language          | R                    | Python           |
+| Sponsors          | R Consortium    | PSF (b)          |  
+| Funding           | $?              | $?               |
+| Sponsor Followers | [5.9K](https://twitter.com/RConsortium)               | [223K](https://twitter.com/ThePSF) |
+| Field of Study    | Statistics     | CS (c), others   |
+| Board             | yes            | no               |
+| Members           | 29,455        | 36,500           |
+| Chapters          | 120             | 45               |
+| Countries         | 40               | 19               |
+| Slack Members     | 650              | 1515             |
+| Twitter Followers | 8112            | 10000            |
+| Affiliated Conferences | Rstudio, useR!        | PyCon            |
+| Other Conferences | NYR  |      |
+| Language First Released |   1993          | 1990            |
 
 Notes:  
 - SO (a) = Stack Overflow Survey data
@@ -275,7 +277,7 @@ This article [By Welcoming Women, Python’s Founder [Guido van Rossum] Overcome
 #### Open Source Sprints
 [Scikit-learn](https://scikit-learn.org/stable/) is the machine learning library of Python, and there is only 1 woman in the [100 top contributors](https://scikit-learn.org/stable/about.html#citing-scikit-learn).
 
-To increase the participation of women in open source, and specifically for scikit-learn, [Andreas Mueller](https://twitter.com/amuellerml) has organized open source sprints with [NYC Women in Machine Learning and Data Science](https://github.com/WiMLDS/nyc-2018-scikit-sprint).  While the event was a positive learning experience, the impact is undetermined, with 5 pull requests merged at the event, and two more merged post-sprint.  It will take a while to make a significant dent.  Scikit-learn has frequent sprints, a listing can be found at the end of [this article](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/).  
+To increase the participation of women in open source, and specifically for scikit-learn, [Andreas Mueller](https://twitter.com/amuellerml) has organized open source sprints with [Data Umbrella](https://www.dataumbrella.org/open-source/sprints) and [NYC Women in Machine Learning and Data Science](https://github.com/WiMLDS/nyc-2018-scikit-sprint).  While the event was a positive learning experience, the impact is undetermined.  It will take a while to make a significant dent.  Scikit-learn has frequent sprints, a listing can be found at the end of [this article](https://reshamas.github.io/highlights-from-the-2018-NYC-WiMLDS-scikit-sprint/).  
 
 [NumFOCUS DISC and Jupyter](https://github.com/sbrice/disc-sprint-nyc-2018) held a sprint in October 2018 to increase diversity in open source.  The impact of that sprint has been published here:  [Highlights From The 2018 NYC DISC Sprint](https://medium.com/@sbrice/highlights-from-the-2018-nyc-disc-sprint-ac4cf34b1566). Six pull requests were merged, and 72% of the attendees were first-time contributors.
 
