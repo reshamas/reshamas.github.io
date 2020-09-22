@@ -86,7 +86,9 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 ## Preparation Work
 Because this was a virtual event and the idea of having an 8-hour online sprint was not appealing (to me), I reduced the time in half and increased the preparation work that attendees could do.
 
-There are two videos for newcomers to [Get Started with Contributing to Scikit-learn](https://www.dataumbrella.org/open-source/contributing-to-scikit-learn).  
+There are two videos for newcomers to [Get Started with Contributing to Scikit-learn](https://www.dataumbrella.org/open-source/contributing-to-scikit-learn):  
+- Andreas Mueller: [Crash Course in Contributing to Scikit-learn](https://www.youtube.com/watch?v=5OL8XoMMOfA)
+- Reshama Shaikh: [Contributing to Scikit-Learn: An Example Pull Request](https://youtu.be/PU1WyDPGePI)
 
 **Added Bonus:** Many people who discovered these resources from social media and were not participating in the sprint watched the videos and began submitting PRs.  The goal was to make contributing accessible to a larger pool of people.  
 
