@@ -5,7 +5,7 @@
 
 ## Introduction and Background
 
-I am an organizer for two New York city meetup groups:  [NYC URGs and Allies in Data Science](https://www.meetup.com/nyc-uads/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+I am an organizer for two New York city meetup groups:  [Data Umbrella](https://www.dataumbrella.org/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 I attended college in the 90’s and mentorship is not something that was discussed at the time.  In recent years, I have heard the conversation of “find a mentor, you need a mentor to advance your career.”  
 
