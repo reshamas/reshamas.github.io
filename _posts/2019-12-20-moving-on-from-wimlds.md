@@ -13,7 +13,7 @@ After 5 years as a WiMLDS organizer, global team and board member, I will be mov
 
 ### Moving on to:  URGs and Allies in Data Science
 My next endeavor is exploring intersectional diversity (meaning considering dimensions of diversity outside of gender), beginning with **Data Umbrella** (for URGs and Allies in Data Science:  where URGs = under-represented groups):  
-- Meetup:  [Data Umbrella](https://www.meetup.com/nyc-uads/) (formerly NYC URGs and Allies in DS)
+- Meetup:  [Data Umbrella](https://www.meetup.com/nyc-uads/) 
 - Twitter:  [@DataUmbrella](https://twitter.com/DataUmbrella)
 - LinkedIn:  [Data Umbrella](https://www.linkedin.com/company/dataumbrella/)
 
