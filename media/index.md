@@ -128,6 +128,7 @@ We discuss the article [Rethinking Mentoring in Data Science](https://reshamas.g
 - [Top AI conference NIPS won't change its name amid growing protest over 'bad taste' acronym](https://www.theregister.co.uk/2018/10/29/nips_ai_conference/), The Register (Oct 2018)
 
 ## Community
+- [How the Global Tech Community Is Coming Together for NODES 2020](https://neo4j.com/blog/how-the-global-tech-community-is-coming-together-for-nodes-2020/)
 - NumFOCUS 2019 Community Leadership Award
     - [2019 NumFOCUS Awards and New Contributor Recognition](https://numfocus.org/blog/2019-numfocus-awards)
     - [On Receiving 2019 Community Leadership Award From NumFOCUS](https://reshamas.github.io/on-receiving-2019-community-leadership-award-from-numfocus/)
