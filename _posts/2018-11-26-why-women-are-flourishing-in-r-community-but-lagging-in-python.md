@@ -129,7 +129,9 @@ email our organizers list (must be added to the mailing list first).
 
 The PyLadies website currently has [89 chapters listed](https://www.pyladies.com/locations/), but 17 of them are defunct, and that data has not been updated.  Determining how many active chapters and members was a tedious and manual process.  Comparatively, R-Ladies has a [central account](https://www.meetup.com/pro/rladies/) where it is easy to obtain the numbers.  Some of the PyLadies chapters are included in the [PSF account](https://www.meetup.com/pro/python-software-foundation-meetups/) which includes various Python user groups. 
 
-Here is a recently published [PyLadies Overview](https://prith13.github.io/posts/2018/11/pyladies-overview/).  
+Here are some PyLadies Overviews:  
+- [PyLadies Overview](https://prith13.github.io/posts/2018/11/pyladies-overview/) (Nov 2018)
+- [The Hidden Depth of PyLadies](https://reshamas.github.io/the-hidden-depth-of-pyladies/)    (Jul 2020)
 
 ### Foundational
 The proportion of women graduating with degrees in statistics (44%) is significantly greater than those graduating in computer science (19%).  The pipeline of R users and statisticians is rich with women compared to computer science.  
@@ -179,6 +181,10 @@ The [R Forwards](https://forwards.github.io) task force was set up by the [R Fou
 ### rOpenSci
 [rOpenSci](https://ropensci.org/about/) is an organization whose mission is to make scientific data retrieval reproducible.  There is 
 rOpenSci [Educators Collaborative:  What Educational Resources Work Well and Why?](https://ropensci.org/blog/2018/07/25/educollab-resources/) which provides resources to educators of the R language.  
+
+### satRdays
+[satRdays](https://satrdays.org/) are free/cheap accessible R conferences being organised by the community for the community.  The R Consortium is a global sponsor.  
+
 
 ### R Communities Connected Network
 Below is a network of the R communities.  We can see there is a tight network of collaboration.  
