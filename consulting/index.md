@@ -24,6 +24,5 @@ I am involved in many projects, and due to number of inquiries received and limi
 
 5.  **OTHER**:  Other miscellaneous requests
 
-Suggestion:  
-I give a *LOT* of my time to volunteer activities in the community.  I typically receive requests for my time versus offering me something in this ratio:  99:1.  If you would like a call or meeting with me, please make a donation of $50 or more to [Data Umbrella Collective](https://opencollective.com/data-umbrella).  
+ 
 
