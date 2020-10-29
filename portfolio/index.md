@@ -5,6 +5,22 @@ tags:
 comments: false
 ---
 
+## Technical Projects
+- Visualizations created using plotly (Python javascript library):  [COVID-19 Plots](https://reshamas.github.io/covid19-plots/)
+- [NLP Analysis of 5 Years of Meetup Events](https://reshamas.github.io/nlp-analysis-of-five-years-of-wimlds-meetup-events/)
+
+### Deep Learning Projects
+* [Deploying Deep Learning Models on Web and Mobile](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
+* [Fastai Week 2: Classifying African And Asian Elephants](https://reshamas.github.io/fastai-week-2-classifying-african-and-asian-elephants/)
+* [Fastai Week 1: Classifying Camels Horses And Elephants](https://reshamas.github.io/fastai-week-1-classifying-camels-horses-and-elephants/)
+
+### Kaggle
+* [Is It a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
+    - used deep learning for image analysis 
+    - Blog:  [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/)
+    - GitHub repo:  [kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg)
+    
+    
 ## Scientific Publications
 
 [Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v3) (2020)
@@ -21,10 +37,7 @@ Publications while [affiliated with Thomas Jefferson University](https://www.res
 * [Data Visualization Made Simple:  Insights into Becoming Visual](https://www.amazon.com/gp/product/1138503916/ref=dbs_a_def_rwt_hsch_vapi_taft_p1_i1#customerReviews) (by Kristen Sosulski, NYU Professor), 2018
     - [Exploring the openings and closings of NYC schools (case study in Chapter 8)](https://books.google.com/books?id=cM5wDwAAQBAJ&pg=PT208&lpg=PT208&dq=reshama+shaikh&source=bl&ots=UkRLpWvqLn&sig=9weW5DeMyFEs93ToLRQyIxWb1_0&hl=en&sa=X&ved=2ahUKEwjVttPC6IneAhWNm-AKHURqA0c4HhDoATABegQICBAB#v=onepage&q=reshama%20shaikh&f=false)
 
-## Deep Learning
-* [Deploying Deep Learning Models on Web and Mobile](https://reshamas.github.io/deploying-deep-learning-models-on-web-and-mobile/)
-* [Fastai Week 2: Classifying African And Asian Elephants](https://reshamas.github.io/fastai-week-2-classifying-african-and-asian-elephants/)
-* [Fastai Week 1: Classifying Camels Horses And Elephants](https://reshamas.github.io/fastai-week-1-classifying-camels-horses-and-elephants/)
+
 
 ## Open Source Contribution
 * Created documentation:  [fastai deep learning repo](https://github.com/reshamas/fastai_deeplearn_part1)
@@ -38,11 +51,6 @@ Publications while [affiliated with Thomas Jefferson University](https://www.res
     * scikit-learn: [check if algorithm is appropriate for classifier #12486](https://github.com/scikit-learn/scikit-learn/pull/12486)
 
 
-## Kaggle
-* [Is It a Ship or Iceberg](https://www.kaggle.com/c/statoil-iceberg-classifier-challenge)
-    - used deep learning for image analysis 
-    - Blog:  [My First Kaggle Competition](https://reshamas.github.io/my-first-kaggle-competition/)
-    - GitHub repo:  [kaggle_iceberg](https://github.com/reshamas/kaggle_iceberg)
 
 ## Git Workshops
 - [Intro to Git: workshop content](https://github.com/reshamas/git-intro-workshop)
