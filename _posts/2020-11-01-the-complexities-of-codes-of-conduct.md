@@ -90,7 +90,7 @@ Here are some challenges with effectively implementing CoC:
 
 After hosting a meetup event, I typically return home, unwind and go to bed.  Sometimes though, I cannot sleep and after careful introspection, I realize there were some occurrences at the meetup event which evoked feelings of discomfort.  
 
-It takes time to process events, feelings and interactions. Sometimes it requires careful evaluation and even talking things out with others to understand where the unease is coming from and what the issue is.  Additionally, some behaviors are disruptive do not have a straight line connected to a bullet point in a code of conduct.  
+It takes time to process events, feelings and interactions. Sometimes it requires careful evaluation and even talking things out with others to understand where the unease is coming from and what the issue is.  Additionally, some behaviors are disruptive and do not have a straight line connected to a bullet point in a code of conduct.  
 
 ### Conflicts of Interest
 Sometimes the codes of conduct are violated by people who are at the very top of leadership positions, and given the power differential, accountability is not always possible. 
