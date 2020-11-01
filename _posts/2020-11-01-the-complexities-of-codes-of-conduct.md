@@ -146,13 +146,13 @@ Here are some key takeaways from the independent service and how it functions:
 ### Funding
 The communities in the PyData ecosystem are primarily volunteer run. They are many and include PSF, NumFOCUS, independent meetup groups and more.  
 
-Provide sponsorship to the organizers so they can have training and effective CoC processes in place.  
+Provide sponsorship to the organizers so they can have training and effective CoC processes in place.  Sponsors should have mechanisms in place to ensure that training has occurred, such as verification by certificate of completion.  
 
 ### Transparency
 [Global Diversity CFP Day](https://www.globaldiversitycfpday.com/code-of-conduct) publishes an Issue Log on their website of incidents during their events and in their community. 
 
 ### Empathy
-As stated above, most of the communities are volunteer-run.  Conference speakers are volunteers, organizers are volunteers.  Coming from a place of compassion and empathy and acknowleding that people have good intentions will help us move towards our goal of creating a professional and inclusive community.
+As stated above, most of these communities are volunteer-run.  Conference speakers are volunteers, organizers are volunteers.  Coming from a place of compassion and empathy and acknowleding that people have good intentions will help us move towards our goal of creating a professional and inclusive community.
 
 ### Change and Education
 I have picked up significant experience in codes of conduct in the community in the past few years.  There is still much to learn about effectively implementing codes of conduct to realize our goals of creating professional and inclusive communities.  It is work-in-progress.
