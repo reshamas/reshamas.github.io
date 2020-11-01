@@ -8,7 +8,7 @@
 </b>
 
 *Disclaimer*  
-The views in this article are my own and do not represent those of any organization with which I am affiliated.*
+The views in this article are my own and do not represent those of any organization with which I am affiliated.
 
 *Disclosures*  
 - I served on the NumFOCUS (NF) Diversity in Scientific Computing Committee (DISC) committee from 2017 to 2019. 
