@@ -7,23 +7,16 @@
 <b>
 </b>
 
-Disclaimer  
-*The views in this article are my own and do not represent those of any organization with which I am affiliated.*
+*Disclaimer*  
+The views in this article are my own and do not represent those of any organization with which I am affiliated.*
 
-Disclosures  
+*Disclosures*  
 - I served on the NumFOCUS (NF) Diversity in Scientific Computing Committee (DISC) committee from 2017 to 2019. 
 - I was a contributing member to the NF [Code of Conduct](https://numfocus.org/code-of-conduct) (CoC) sub-committee which developed the CoC.  The CoC was ratified by the NF Board in August 2018.
 - I was Diversity Chair of [JupyterCon 2020](https://jupytercon.com).
 - I chaired the JupyterCon keynote session where Jeremy Howard spoke on October 13, 2020.
 
 Note:  All of these positions are volunteer. 
-
-## Intro
-The complexity of codes of conduct is an important topic, and it has been on my mind for some time.  I began writing this article over a year ago, the last edit was on September 20, 2019.  Three days later, my brother passed away unexpectedly.  There are many unreturned phone calls and emails as well as unfinished projects from last fall.  
-
- Given the recent events with JupyterCon, I felt it was imperative to return to it.
-
-The goal of this article is to share what I have learned about codes of conduct with the community, rather than dissecting what happened with JupyterCon.
 
 ## Background: What Happened at JupyterCon 2020?
 A background on the CoC events at JupyterCon 2020 are as follows:  
@@ -52,6 +45,13 @@ NumFOCUS:
 Jeremy Howard:  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I received an apology from <a href="https://twitter.com/NumFOCUS?ref_src=twsrc%5Etfw">@NumFOCUS</a> and I replied to let them know that I accept their apology.<br><br>I believe that all involved had the best intentions, and NumFOCUS tell me that they plan to improve their processes in the future.<br><br>I&#39;m not planning to discuss this further.</p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/1322252117789212672?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
+
+## Intro
+The complexity of codes of conduct is an important topic, and it has been on my mind for some time.  I began writing this article over a year ago, the last edit was on September 20, 2019.  Three days later, my brother passed away unexpectedly.  There are many unreturned phone calls and emails as well as unfinished projects from last fall.  
+
+ Given the recent events with JupyterCon, I felt it was imperative to return to it.
+
+The goal of this article is to share what I have learned about codes of conduct with the community, rather than dissecting what happened with JupyterCon.
 
 ## Why are Codes of Conduct Necessary?
 The goal of a CoC is to create a professional and welcoming environment for all attendees.  Additionally, in the tech and analytics circles, it has been implemented to promote a diverse and inclusive culture, particularly with respect to underrepresented persons.
