@@ -134,7 +134,8 @@ During my research for the article [Codes of Conduct for NeurIPS and Other STEM 
 During my research for JupyterCon, I contacted the consulting firm that handled ASA's Ombuds Service, [ProActive ReSolutions](https://www.proactive-resolutions.com) (PARS).  It was an informative and educational call. While I thought it would be a highly valuable service for managing CoC reports during the conference, I did not advocate strongly for it because I did not think I would be able to get approval to fund it.  It *is costly*, even at a non-profit rate.  The ASA is funded by membership dues and had been involved in high-profile incidents of sexual harassment.  It was understandable why the ASA contracted the Ombuds service.  
 
 Here are some key takeaways from the independent service and how it functions:  
-1. In most organizations, the same committee that does intake of incidence reports also does adjudication.
+1. In most organizations, the same committee that does intake of incidence reports also does adjudication.  Ombuds recommends separating intake and adjudication. 
+1. Ombuds can serve as intakers of reports or provide training to organization members. 
 1. Ombuds provides guidance on how to set up the adjudicating body.
 1. Ombuds provides training to the adjudicating body. (They can also provide training to decision makers, leaders and other members in the organization.)
 1. With Ombuds, a "reporter" can receive a response within one business day.  They can also speak to the "reporter" and help clarify the incident and what options are available.  (This is helpful for conferences where organizers/staff are overloaded.)
