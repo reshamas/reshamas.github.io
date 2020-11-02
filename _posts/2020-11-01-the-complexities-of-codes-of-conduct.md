@@ -160,9 +160,9 @@ I have picked up significant experience in codes of conduct in the community in 
 
 
 ## References
-- [Reflecting On Two Years On The NumFOCUS DISC Committee](https://reshamas.github.io/reflecting-on-two-years-on-the-numfocus-disc-committee/)
+- [Reflecting On Two Years On The NumFOCUS DISC Committee](https://reshamas.github.io/reflecting-on-two-years-on-the-numfocus-disc-committee/) by Reshama Shaikh
 - [Codes of Conduct for NeurIPS and Other STEM Organizations](https://reshamas.github.io/code-of-conduct-for-nips-and-other-stem-associations/) by Reshama Shaikh
-- Python Software Foundation [CoC](https://www.python.org/psf/conduct/)
+- Python Software Foundation: [CoC](https://www.python.org/psf/conduct/)
 - Python Software Foundation: [CoC Work Group](https://www.python.org/psf/committees/#code-of-conduct-work-group)
 
 - [How to Respond to Code of Conduct Reports](https://www.scribd.com/document/395865035/How-to-Respond-to-Code-of-Conduct-Reports-by-Valerie-Aurora-and-Mary-Gardiner) by Valerie Aurora and Mary Gardiner
