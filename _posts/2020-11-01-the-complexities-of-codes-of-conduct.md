@@ -121,9 +121,9 @@ Terminology is important:
 - Response:  how an incident is processed and addressed
 
 Not [ ], but [ ]  
-- ~~offender~~ --> reported person
 - ~~victim~~ --> reporter
 - ~~violation~~ --> incident
+- ~~offender~~ --> reported person
 - ~~enforcement~~ --> response
 
 Notice that words such as "offender" and "violation" are replaced with neutral terms such as "reported person" and "incident".
