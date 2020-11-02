@@ -47,6 +47,11 @@ Jeremy Howard:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I received an apology from <a href="https://twitter.com/NumFOCUS?ref_src=twsrc%5Etfw">@NumFOCUS</a> and I replied to let them know that I accept their apology.<br><br>I believe that all involved had the best intentions, and NumFOCUS tell me that they plan to improve their processes in the future.<br><br>I&#39;m not planning to discuss this further.</p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/1322252117789212672?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+<p>
+Andy Terrel:
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My personal apology: <a href="https://t.co/MOlOiJnu8e">https://t.co/MOlOiJnu8e</a></p>&mdash; Andy Terrel (@aterrel) <a href="https://twitter.com/aterrel/status/1323020906382430213?ref_src=twsrc%5Etfw">November 1, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
 ## Intro
 The complexity of codes of conduct is an important topic, and it has been on my mind for some time.  I began writing this article over a year ago, the last edit was on September 20, 2019.  Three days later, my brother passed away unexpectedly.  There are many unreturned phone calls and emails as well as unfinished projects from last fall.  
 
