@@ -115,7 +115,7 @@ In the past two years, I have learned that the following are essential:
 
 Terminology is important:  
 - Reporter:  person who files a report
-- Incident:  event that is being references
+- Incident:  event that is being referenced
 - Reported person: person about whom the report is filed
 - Response:  how an incident is processed and addressed
 
