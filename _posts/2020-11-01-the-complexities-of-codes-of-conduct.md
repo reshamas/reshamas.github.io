@@ -111,7 +111,7 @@ In the past two years, I have learned that the following are essential:
 
 ### Training
 [Otter Technologies](https://otter.technology
-) offers CoC incident reponse workshops.  A 4-hour training class runs about $350.
+) offers CoC incident reponse workshops.  A 4-hour training class runs about USD 350.
 
 Terminology is important:  
 - Reporter:  person who files a report
