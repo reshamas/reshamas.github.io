@@ -156,7 +156,7 @@ Provide sponsorship to the organizers so they can have training and effective Co
 As stated above, most of these communities are volunteer-run.  Conference speakers are volunteers, organizers are volunteers.  Coming from a place of compassion and empathy and acknowleding that people have good intentions will help us move towards our goal of creating a professional and inclusive community.
 
 ### Change and Education
-I have picked up significant experience in codes of conduct in the community in the past few years.  There is still much to learn about effectively implementing codes of conduct to realize our goals of creating professional and inclusive communities.  It is work-in-progress.
+I have picked up significant experience in codes of conduct in the community in the past few years.  There is still much to learn about effectively implementing codes of conduct to realize our goals of creating professional and inclusive communities.  It is a work-in-progress.
 
 
 ## References
