@@ -15,6 +15,7 @@ The views in this article are my own and do not represent those of any organizat
 - I was a contributing member to the NF [Code of Conduct](https://numfocus.org/code-of-conduct) (CoC) sub-committee which developed the CoC.  The CoC was ratified by the NF Board in August 2018.
 - I was Diversity Chair of [JupyterCon 2020](https://jupytercon.com).
 - I chaired the JupyterCon keynote session where Jeremy Howard spoke on October 13, 2020.
+- I am a co-author with Jeremy Howard et al on the manuscript [Face Masks Against COVID-19: An Evidence Review](https://www.preprints.org/manuscript/202004.0203/v3)
 
 Note:  All of these positions are volunteer. 
 
