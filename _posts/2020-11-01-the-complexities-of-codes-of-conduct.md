@@ -146,7 +146,6 @@ Here are some key takeaways from the independent service and how it functions:
 1. Ombuds provides training to the adjudicating body. (They can also provide training to decision makers, leaders and other members in the organization.)
 1. With Ombuds, a "reporter" can receive a response within one business day.  They can also speak to the "reporter" and help clarify the incident and what options are available.  (This is helpful for conferences where organizers/staff are overloaded.)
 1. Ombuds writes a report and sends it to the adjudicating body, preserving the anonymity of the reporter.
-
 1. Ombuds service provides a mechanism for concerns to be raised.
 1. Ombuds provides a final report to decision makers of the conference.  Their goal is not to force change, but to bring transparency to the process.
 
