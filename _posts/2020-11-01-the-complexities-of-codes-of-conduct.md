@@ -24,6 +24,7 @@ A background on the CoC events at JupyterCon 2020 are as follows:
 - [I Violated a Code of Conduct](https://www.fast.ai/2020/10/28/code-of-conduct/), Jeremy Howard, October 28, 2020  
 - [Public Apology to Jeremy Howard](https://numfocus.org/blog/jeremy-howard-apology), NumFOCUS, October 31, 2020
 - [A Personal Apology to Jeremy Howard and the Community](http://andy.terrel.us/blog/2020/11/01/personal-apology/), Andy Terrel, November 1, 2020
+- [JupyerCon 2020: Code of Conduct Findings](https://numfocus.org/blog/jupytercon2020-coc), NumFOCUS, November 3, 2020
 
 Jeremy Howard:  
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">NumFOCUS found I violated their Code of Conduct (CoC) at JupyterCon because my talk was not “kind”, because I said <a href="https://twitter.com/joelgrus?ref_src=twsrc%5Etfw">@joelgrus</a> was “wrong”.<br><br>This sets a bad precedent.<br><br>Joel was not involved in NumFOCUS’s action, was not told about it, and did not support it<a href="https://t.co/scl4IADmg8">https://t.co/scl4IADmg8</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/1321626078985687042?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
