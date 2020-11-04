@@ -47,6 +47,7 @@ PyLadies groups around the world use various platforms to organize and communica
 - YouTube
 - LinkedIn
 - Google Groups
+- [Telegram](https://telegram.org/)
 
 ## Country-level Chapters
 The following countries have opened a chapter at the "country-level":  
