@@ -21,7 +21,7 @@ I am an organizer of the meetup groups [Data Umbrella](https://www.dataumbrella.
 
 ### Support me on Patreon
 These are some of my contributions to the community:  [Volunteer Contributions](wimlds_volunteer.md)  
-* NYC URGs and Allies in Data Science
+* [Data Umbrella](https://www.dataumbrella.org/home)
 * PyLadies
 * Git Workshops
 * more 
