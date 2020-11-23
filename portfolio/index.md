@@ -41,10 +41,10 @@ Publications while [affiliated with Thomas Jefferson University](https://www.res
 
 ## Open Source Contribution
 * Created documentation:  [fastai deep learning repo](https://github.com/reshamas/fastai_deeplearn_part1)
-* Organized 3 [WiMLDS scikit-learn open source sprints in 2019](http://wimlds.org/event/opensourcesprints/) in:
-    - Nairobi, Kenya:  [Nairobi WiMLDS 2019 Scikit Learn Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
+* Organized 3 [scikit-learn open source sprints in 2019](https://www.dataumbrella.org/open-source/sprints) in:
+    - Nairobi, Kenya:  [Nairobi 2019 Scikit Learn Sprint Impact Report](https://reshamas.github.io/nairobi-wimlds-2019-scikit-learn-sprint-impact-report/)
     - New York, New York:  [Impact Report for 2017 & 2018 Sprints](https://reshamas.github.io/impact-report-for-wimlds-scikit-learn-sprints/)
-    - San Francisco, California:  & created website for [Bay Area WiMLDS 2019 Sprint](https://sites.google.com/view/bay-area-wimlds-2019-sprint/home)
+    - San Francisco, California:  & created website for [Bay Area 2019 Sprint](https://sites.google.com/view/bay-area-wimlds-2019-sprint/home)
 * Organized 2017 & 2018 scikit sprint w/[@amueller](https://github.com/amueller)
     * created scikit-sprint open source repo for public use:  [nyc-2018-scikit-sprint](https://github.com/WiMLDS/nyc-2018-scikit-sprint) 
 * Contributions to Python libraries
