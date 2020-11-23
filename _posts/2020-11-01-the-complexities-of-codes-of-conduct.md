@@ -70,7 +70,7 @@ Below is an excerpt of mine from a podcast interview [Women in Data Science](htt
 
 
 ## Code of Conduct Incidence Reports
-We hear much about CoC, but not necessarily the actual ~~violations~~ incidents.  Given my experience being an organizer for two meetup groups in New York City, I have observed various ~~violations~~ incidents.  Here are some examples of *behavior* that are considered disruptive to building a desired culture consistent with our mission:  
+We hear much about CoC, but not necessarily the actual ~~violations~~ incidents.  Given my experience being an organizer for two meetup groups in New York City, [Data Umbrella](https://www.dataumbrella.org/) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/), I have observed various ~~violations~~ incidents.  Here are some examples of *behavior* that are considered disruptive to building a desired culture consistent with our mission:  
 
 - Two attendees were speaking during a presentation.  They were asked multiple times to stop, as it was disrupting others' experience of the event.
 - An attendee was visibly intoxicated and using profane language during break.
