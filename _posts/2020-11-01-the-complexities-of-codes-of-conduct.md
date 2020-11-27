@@ -55,7 +55,7 @@ A background on the CoC events at JupyterCon 2020 are as follows:
 
 
 <p>
-<iframe width="560" height="315" src="https://youtu.be/HKt19-GsA1I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HKt19-GsA1I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 </p>
 
