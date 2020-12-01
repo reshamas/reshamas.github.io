@@ -1,6 +1,6 @@
 
 <p float="left">
-  <a href="https://www.manning.com/liveproject/deploying-deep-learning-model-on-web-and-mobile-applications-using-tensorflow?utm_source=dataumbrella&utm_medium=affiliate&utm_campaign=liveproject_pattaniyil_11_24_20&a_aid=dataumbrella&a_bid=d66c1909">
+  <a href="https://www.manning.com/liveproject/deploying-a-deep-learning-model-on-web-and-mobile-applications-using-tensorflow?utm_source=dataumbrella&utm_medium=affiliate&utm_campaign=liveproject_pattaniyil_11_24_20&a_aid=dataumbrella&a_bid=d66c1909">
   <img src="../assets/images/manning_project.png" width="50%" height="100%" style="padding:1px;border:thick solid black;" align="top"> 
   </a>
   
