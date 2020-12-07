@@ -31,6 +31,10 @@ A background on the CoC events at JupyterCon 2020 are as follows:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">NumFOCUS found I violated their Code of Conduct (CoC) at JupyterCon because my talk was not “kind”, because I said <a href="https://twitter.com/joelgrus?ref_src=twsrc%5Etfw">@joelgrus</a> was “wrong”.<br><br>This sets a bad precedent.<br><br>Joel was not involved in NumFOCUS’s action, was not told about it, and did not support it<a href="https://t.co/scl4IADmg8">https://t.co/scl4IADmg8</a></p>&mdash; Jeremy Howard (@jeremyphoward) <a href="https://twitter.com/jeremyphoward/status/1321626078985687042?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+<p>
+ <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have reviewed Jeremy Howard’s post on the handling of a JupyterCon 2020 COC Incident. We are currently working on a response. We thank you for your patience at this time.</p>&mdash; NumFOCUS (@NumFOCUS) <a href="https://twitter.com/NumFOCUS/status/1321848725132771328?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+ </p>
+ 
 <p> 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">How Jeremy was treated by the NumFOCUS Code of Conduct committee is terrible. He was left hanging for over a week not knowing what he&#39;d been accused of, and he wasn&#39;t given a chance to provide input in the investigation, over a technical disagreement <a href="https://t.co/QRW7E123GB">https://t.co/QRW7E123GB</a></p>&mdash; Rachel Thomas (@math_rachel) <a href="https://twitter.com/math_rachel/status/1321871737206697984?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
@@ -40,9 +44,7 @@ A background on the CoC events at JupyterCon 2020 are as follows:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thread of some posts about diversity &amp; inclusion I&#39;ve written over the years. I still stand behind these.<br><br>(I&#39;m resharing bc a few folks are suggesting Jeremy&#39;s CoC experience ➡️ partially our fault for promoting diversity, we should change our values, etc. Nope!)<br><br>1/</p>&mdash; Rachel Thomas (@math_rachel) <a href="https://twitter.com/math_rachel/status/1322200668598231041?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-<p>
- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">We have reviewed Jeremy Howard’s post on the handling of a JupyterCon 2020 COC Incident. We are currently working on a response. We thank you for your patience at this time.</p>&mdash; NumFOCUS (@NumFOCUS) <a href="https://twitter.com/NumFOCUS/status/1321848725132771328?ref_src=twsrc%5Etfw">October 29, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
- </p>
+
  
 <p> 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Public Apology to Jeremy Howard:<a href="https://t.co/nzrqY25PQy">https://t.co/nzrqY25PQy</a></p>&mdash; NumFOCUS (@NumFOCUS) <a href="https://twitter.com/NumFOCUS/status/1322250131480170497?ref_src=twsrc%5Etfw">October 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
