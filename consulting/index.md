@@ -17,11 +17,13 @@ I am involved in many projects, and due to number of inquiries received and limi
 
 2.  **PROFESSIONAL DEVELOPMENT**:  Business and educational development activities which move me forward professionally.
 
-3.  **VOLUNTEER**:  [Data Umbrella](https://www.dataumbrella.org), [PyLadies](http://nyc.pyladies.com).  You can support me on Patreon:   [reshamas](https://www.patreon.com/reshamas) 
- 
-4.  **MEETING REQUESTS**:   Coffee / Mentoring / General advice / Informational calls
+3.  **VOLUNTEER**:  [Data Umbrella](https://www.dataumbrella.org), [PyLadies](http://nyc.pyladies.com).  Donate to the [Data Umbrella Collective](https://opencollective.com/data-umbrella).
 
-5.  **OTHER**:  Other miscellaneous requests
+4.  **MENTORING**: Donate to the [Data Umbrella Collective](https://opencollective.com/data-umbrella).
+
+5  **MEETING REQUESTS**:   Coffee / General advice / Informational calls.  Donate to the [Data Umbrella Collective](https://opencollective.com/data-umbrella).
+
+6  **OTHER**:  Other miscellaneous requests
 
  
 
