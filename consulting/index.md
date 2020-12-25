@@ -21,9 +21,9 @@ I am involved in many projects, and due to number of inquiries received and limi
 
 4.  **MENTORING**: Donate to the [Data Umbrella Collective](https://opencollective.com/data-umbrella).
 
-5  **MEETING REQUESTS**:   Coffee / General advice / Informational calls.  Donate to the [Data Umbrella Collective](https://opencollective.com/data-umbrella).
+5.  **MEETING REQUESTS**:   Coffee / General advice / Informational calls.  Donate to the [Data Umbrella Collective](https://opencollective.com/data-umbrella).
 
-6  **OTHER**:  Other miscellaneous requests
+6.  **OTHER**:  Other miscellaneous requests
 
  
 
