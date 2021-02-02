@@ -16,7 +16,7 @@ See [Contact](../consulting/index.md)
 
 ---
 ## My Volunteer Work 
-I am an organizer of the meetup groups [Data Umbrella](https://www.dataumbrella.org/) (for URGs, under-represented groups in data science) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
+I am an organizer of the meetup groups [Data Umbrella](https://www.dataumbrella.org/) (for underrepresented persons in data science) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 
 ### Support me on Patreon
@@ -26,7 +26,7 @@ These are some of my contributions to the community:  [Volunteer Contributions](
 * Git Workshops
 * more 
 
-Support me on Patreon:  [reshamas on Patreon](https://www.patreon.com/reshamas) 
+Support the Data Umbrella [Open Collective](https://opencollective.com/data-umbrella)
 
 ### Previously
 I was formerly an NYC WiMLDS chapter organizer and on the Board and Global Leadership Team for [WiMLDS](wimlds.org) from 2015 to 2020.  
