@@ -19,7 +19,7 @@ See [Contact](../consulting/index.md)
 I am an organizer of the meetup groups [Data Umbrella](https://www.dataumbrella.org/) (for underrepresented persons in data science) and [NYC PyLadies](https://www.meetup.com/NYC-PyLadies/).
 
 
-### Support me on Patreon
+### Support My Work on Data Umbrella Open Collective
 These are some of my contributions to the community:  [Volunteer Contributions](wimlds_volunteer.md)  
 * [Data Umbrella](https://www.dataumbrella.org/home)
 * PyLadies
