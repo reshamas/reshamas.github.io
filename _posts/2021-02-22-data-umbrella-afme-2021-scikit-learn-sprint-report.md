@@ -3,6 +3,10 @@
 </p>
 
 
+# Reminders
+- add group photo
+- update image with demographics (Nigeria update)
+
 ## Sprint Website
 https://afme2021.dataumbrella.org
 
@@ -64,15 +68,30 @@ A total of 31 contributors attended the sprint. 12 of 31 (39%) identified at fem
 
 Contributors joined from 14 different countries.  Country information was provided based on where participants were joining from. Saudi Arabia, Kenya and Nigeria had the most participants, for a total of 16 of 31, almost 55%.
 
- Other countries represented include Morocco, South Africa, Ghana, Iran, Congo, Malawi, as well as Sweden, France and Ireland.
+ Other countries represented include Morocco, South Africa, Ghana, Iran, Congo, Malawi, as well as Sweden and France.
 
 Given the migration in the region, these other countries were also represented in terms of contributor background:  Sudan, Turkey, Syria. 
 
 There were two invited contributors, joining from India and Germany.  Invited contributors were those who participated in a prior sprint and have continued contributing to scikit-learn.  They were paired with a new contributor.  
 
+### Spoken Languages
 All communication was in English. All participants felt comfortable conversing in English. Languages spoken by participants included:  English, Arabic, French, Kishwahli, Persian, Hindi, Urdu, Turkish and German.
 
+### Open Source Background
 Two-thirds of participants identified as having "none" or "beginner" level experience in contributing to open source. 
+
+
+### Number of Participants
+- About 15 participants joined the pre-sprint event
+- 31 participants joined the sprint
+- 7 participants joined the post-sprint event
+
+Post-sprint event well.  Programming partners disappeared.  They have been contributing after the sprint.  
+Maren: pair programming connection issues Isaac
+
+
+
+
 
 The participa
 To ensure that attendees had some knowledge of Python and scikit-learn, a brief application form was used.  Attendees did not have to be experienced Git users, but some experience was helpful.  
@@ -87,48 +106,53 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 
 |                                       | Sprint 2020    |
 |---------------------------------------|----------------|
-| Report date                           | 27-Jun-2020    |
-| Sprint date                           | 06-Jun-2019    |
-| Location                              | Online; Global         |
-| Sprint website | [2020 Online Sprint](https://sites.google.com/view/nyc-2020-scikit-sprint) |
-|                | Twitter [Moment](https://twitter.com/i/events/1269710860202770434) |
+| Report date                           | 28-Feb-2021    |
+| Sprint date                           | 06-Feb-2021    |
+| Location                              | Online; Africa & Middle East (AFME)         |
+| Sprint website | [2021 AFME Sprint](https://afme2021.dataumbrella.org) |
+|                | Twitter [Moment](https://twitter.com/reshamas/status/1358409282006450178
+) |
 | Open source library                   | [scikit-learn](https://github.com/scikit-learn/scikit-learn) |  
-| GitHub repository link                | [data-umbrella/2020-sklearn-sprint](https://github.com/data-umbrella/2020-sklearn-sprint)| 
-| List of Issues                        | [project list](https://github.com/data-umbrella/2020-sklearn-sprint/projects/1)  |
+| GitHub repository link                | [data-umbrella/data-umbrella-scikit-learn-sprint](https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint)| 
 |                                       |               |
-| Organizer      | [Reshama Shaikh](https://twitter.com/reshamas)    |
+| Organizers      | [Reshama Shaikh](https://twitter.com/reshamas) & [Mariam Haji](https://www.linkedin.com/in/mariamhaji/)    |
 | Lead Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml) |
-| Scikit-learn core contributors    | Adrin Jalali, Thomas Fan, Nicolas Hug, Chiara Marmo, Tom Dupre la Tour  |  
-| Teaching Assistants                   | Mark Hannel & Shashank Singh |
-| Helpers      | Mariam Haji, Noemi Derzsy, Melissa Ferrari  |
+| Scikit-learn core contributors    | Adrin Jalali, Olivier Grisel, Guillaume LeMaitre  |  
+| Invited Contributors | Amanda D'Souza & Maren Westerman |
+| Teaching Assistants                   | None |
 | Platforms                          | Discord & Zoom |
 |                                    |                |
 | Sponsor:  venue                    | Not applicable |
 | Sponsor:  food                     | Not applicable |
-| Cost of Sprint                     | 60 hours volunteer time to organize event |
 |                                    |                |
-| [PULL REQUESTS](https://docs.google.com/spreadsheets/d/1hG_jmvib6zy3exdLUF_grb4ix5YaFpcwuKtRRYaoBPM/edit?usp=sharing) **(PRs)**                 |          |
-| PRs [MRG] at sprint            | 27             |
-| PRs [MRG] post-sprint            | 30             |
-| PRs open                    | 4        |
+| [PULL REQUESTS] ( ) **(PRs)**                 |          |
+| PRs [MRG] at sprint            | xx             |
+| PRs [MRG] post-sprint            | xx             |
+| PRs open                    | xx        |
 | PRs returned to issue pool      | ?        |
 | <a style="color:red"><b>TOTAL PRs MERGED</b> </a>    |  <a style="color:red"><b>57</b> </a> |
 | PRs [merged](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged++%23DataUmbrella+)          |      |
 | PRs [open](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen++%23DataUmbrella+)              |      |
 |                                    |          |
-| Attendees:  Initial Registrations  | 51       |
-| Attendees:  Participated           | ~ 42     |
+| Attendees:  Initial Registrations  | 45       |
+| Attendees:  Participated           | ~ 31     |
 | Attendee List                      | [2020](https://sites.google.com/view/nyc-2020-scikit-sprint/contributors)   |
 |                                    |          |
-| Post-sprint Survey                 | [survey form](https://forms.gle/XGCqNpzw5u4tzfJB7) (closed)
+| Post-sprint Survey                 | [survey form] (closed)
 |                                    |          |  
-| Blog 1: by Joe Lucas               | [Scikit-learn Sprint: My Open Source Adventure](http://joetl.com/posts/sklearn_sprint/) |
-| Blog 2: by Jake Tae                | [A Reflection on My First Open Source Contribution Sprint](https://jaketae.github.io/development/sklearn-sprint/)  |
-| Blog 3: by C Thinwa                | [Why you should contribute to open-source as a data scientist](https://medium.com/@ceethinwa/why-you-should-contribute-to-open-source-as-a-data-scientist-7375ec5bc628) |
-| Blog 4: by Maren Westerman | [Review of the Data Umbrella Scikit-learn Online Sprint June 2020](https://marenwestermann.github.io/blogpost/2020/06/12/sklearn-sprint.html) |
+| Blog 1: by Fortune Uwha               | [First Time Contributor to Open Source — Data Umbrella Scikit-learn Virtual Sprint February 2021](https://fortune-uwha.medium.com/first-time-contributor-to-open-source-data-umbrella-scikit-learn-virtual-sprint-february-2021-362208ba0710) |
+| Blog 2: by xxx               |  |
 
 
-## Impact Summary for 2020
+
+## Impact Summary for AFME 2021
+
+
+
+
+
+
+# REMOVE OLD TWEETS
 <p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Some stats on today&#39;s ONLINE <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>:<br>• 27 PRs MERGED!<br>• 27 PRs still *open* (TBC) (⚖️)<br>• 42 new &amp; returning contributors<br>• 13 helpers<br>• ➕➕❤️ the contributors emojis!<br><br>Thanks to all for spending this Saturday across 16 different time zones with us! <a href="https://t.co/MhrjtkMsui">pic.twitter.com/MhrjtkMsui</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1269410508270157832?ref_src=twsrc%5Etfw">June 6, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
