@@ -5,10 +5,27 @@
 
 # Reminders
 - add group photo
-- update image with demographics (Nigeria update)
+- update image with demographics (Nigeria/Turkey update)
+- add map in (google analytics)
+- Outreach section
+- add barchart of from what geographic regions applications were submitted
+- submit draft report to core contributors for review
+- 
+- 
+- contributors can review other people's PRs
+    - for people who have submitted a PR, try to do this, review PR and provide comment
 
 ## Sprint Website
 https://afme2021.dataumbrella.org
+
+## Continued Contribution to Open Source
+Participants are encouraged to keep contributing to scikit-learn or other Python libraries.
+
+Some considerations:
+- office hours?
+- collation of issues that can be worked on?
+- 
+- 
 
 
 ## Blogs
