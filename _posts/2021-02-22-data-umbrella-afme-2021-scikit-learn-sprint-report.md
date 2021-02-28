@@ -189,14 +189,38 @@ One suggestion for improvement:
 >- *Have single comprehensive source of information for preparing the environment.*
 
 
+### Contributing to Other Libraries Post-Sprint
+One sprint participant used his open source skills to contribute to another Python library.
+
+<p float="left">
+   <a href="https://www.linkedin.com/posts/manailengmj_dataumbrella-africa-middle-east-scikit-learn-activity-6764474200422932480-2YL_">
+  <img  src="../assets/images/2021-afme/mabu2-pytorch.png" width="99%" height="99%" style="border:0px;margin:0px">
+      </a>
+</p>
 
 ### Social Media
+
+#### Mabu
+
+<p float="left">
+   <a href="https://www.linkedin.com/posts/manailengmj_if-youre-a-scikit-learn-and-pytorch-lighting-activity-6765559648826212352-Pj6t">
+  <img  src="../assets/images/2021-afme/mabu1-li.png" width="99%" height="99%" style="border:0px;margin:0px">
+      </a>
+</p>
+
+
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6764474199814770688" height="538" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+
+#### Fortune
 
 <p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats <a href="https://twitter.com/fortune_uwha?ref_src=twsrc%5Etfw">@fortune_uwha</a>! 🌟🌟<br><br>&gt; LGTM. Adding tests as a first time contributor, respect! <a href="https://t.co/wE6qdHHkHb">pic.twitter.com/wE6qdHHkHb</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1358148474739560448?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-#### Fortune
+
 <p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">First time contributor to open source/scikit learn 🎉🎉. The <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> session was so much fun! We got a chance to meet the core contributors. Super grateful to <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> and <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a> for supporting <a href="https://twitter.com/DataUmbrellaAFR?ref_src=twsrc%5Etfw">@DataUmbrellaAFR</a> <br><br>Submitted PR. 🤞on getting merged.<a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a></p>&mdash; Fortune Uwha🦋 (@fortune_uwha) <a href="https://twitter.com/fortune_uwha/status/1358075788457889792?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
