@@ -142,7 +142,9 @@ There are two videos for newcomers to [Get Started with Contributing to Scikit-l
 
 ### Videos
 
-
+<p float="left">
+  <img href="https://www.dataumbrella.org/open-source/contributing-to-scikit-learn" src="../assets/images/2021-afme/afme-videos.png" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
 
 ### Checklist
 Here is a *checklist* to begin contributing to scikit-learn.  Interested contributors can organize your own sprint, work with a pair programming partner or work on their own.  Click on the image and it will link you to a document that can be copied and used
