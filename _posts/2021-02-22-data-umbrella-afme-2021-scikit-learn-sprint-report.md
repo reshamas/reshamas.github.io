@@ -9,7 +9,9 @@
 <p float="left">
    <a href="https://afme2021.dataumbrella.org/">
   <img src="../assets/images/2021-afme/afme-social-media.png" width="99%" height="99%" style="border:0px;margin:0px">
+</a>
 </p>
+
 
 ## Sprint Background
 This "sprint" is a hands-on hackathon where participants learn to contribute to scikit-learn, a widely-used Python open source, machine learning library.
