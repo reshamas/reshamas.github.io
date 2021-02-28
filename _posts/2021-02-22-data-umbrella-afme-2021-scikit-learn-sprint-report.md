@@ -11,18 +11,15 @@
 </p>
 
 # Reminders
-
 - submit draft report to core contributors for review
 - add screenshot of checklist and link to it.
-- 
+- update PR numbers
 
 
 ## Sprint Background
-A "sprint" is a hands-on hackathon where participants learn to contribute to scikit-learn, a well-known Python open source, machine learning library.
+This "sprint" is a hands-on hackathon where participants learn to contribute to scikit-learn, a well-known Python open source, machine learning library.
 
 This sprint was organized by [Data Umbrella](https://www.dataumbrella.org) to increase the participation of underrepresented persons in data science, with a focus on the geographic regions of Africa and the Middle East (AFME).  
-
-
 
 This report focuses on the summary, impact and lessons learned of the AFME scikit-learn sprint.  
 
@@ -44,7 +41,7 @@ Participants are encouraged to keep contributing to scikit-learn or other Python
 [b] Even though the event ended at 2pm EAT, participants continued to work on their sprint PRs (pull requests) throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs.  
 
 ### Sprint Day
-Even though the sprint ran 4 hours (10am to 2pm EAT),, participants continued to work on their sprint PRs (pull requests) throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs.  
+Even though the sprint ran 4 hours (10am to 2pm EAT),, participants continued to work on their sprint PRs throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs.  
 
 ### Follow-up Office Hours
 Office hours were set up 2 weeks after the sprint where some of the scikit-learn core contributors were available to answer questions on open PRs.  
@@ -97,12 +94,6 @@ Two-thirds of participants identified as having "none" or "beginner" level exper
 - 31 participants joined the sprint
 - 7 participants joined the post-sprint event
 
-Post-sprint event well.  Programming partners disappeared.  They have been contributing after the sprint.  
-Maren: pair programming connection issues Isaac
-
-
-
-
 ## Impact Report for Data Umbrella Scikit-learn Sprint
 
 |                                       | Sprint 2020    |
@@ -124,14 +115,10 @@ Maren: pair programming connection issues Isaac
 |                                    |                |
 | Sponsor: | Grant [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from [Gordon and Betty Moore Foundation](https://www.moore.org) & [Code for Science and Society](https://eventfund.codeforscience.org)   |
 |            |                |
-| [PULL REQUESTS] ( ) **(PRs)**                 |          |
-| PRs [MRG] at sprint            | xx             |
-| PRs [MRG] post-sprint            | xx             |
-| PRs open                    | xx        |
-| PRs returned to issue pool      | ?        |
-| <a style="color:red"><b>TOTAL PRs MERGED</b> </a>    |  <a style="color:red"><b>57</b> </a> |
-| PRs [merged](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged++%23DataUmbrella+)          |      |
-| PRs [open](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen++%23DataUmbrella+)              |      |
+| PULL REQUESTS **(PRs)**                 |          |
+| PRs [MRG] at sprint            | 7             |
+| PRs [MRG] post-sprint            | 3             |
+| PRs open                    | 9        |
 |                                    |          |
 | Attendees:  Initial Registrations  | 45       |
 | Attendees:  Participated           | ~ 31     |
@@ -139,28 +126,30 @@ Maren: pair programming connection issues Isaac
 |                                    |          |
 | Post-sprint Survey                 | [survey form] (closed)
 |                                    |          |  
-| Blog 1: by Fortune Uwha               | [First Time Contributor to Open Source — Data Umbrella Scikit-learn Virtual Sprint February 2021](https://fortune-uwha.medium.com/first-time-contributor-to-open-source-data-umbrella-scikit-learn-virtual-sprint-february-2021-362208ba0710) |
+| Blog: by Fortune Uwha               | [First Time Contributor to Open Source — Data Umbrella Scikit-learn Virtual Sprint February 2021](https://fortune-uwha.medium.com/first-time-contributor-to-open-source-data-umbrella-scikit-learn-virtual-sprint-february-2021-362208ba0710) |
 |              |  |
 
 
-
-
 ## Preparation Work
-Because this was a virtual event and the idea of having an 8-hour online sprint was not appealing (to me), I reduced the time in half and increased the preparation work that attendees could do.
+Because this was a virtual event and there is a limited capacity for being online for a full 8-hour day, a checklist was provided so folks could do preparation work at their own pace prior to the sprint.  
 
 There are two videos for newcomers to [Get Started with Contributing to Scikit-learn](https://www.dataumbrella.org/open-source/contributing-to-scikit-learn):  
 - Andreas Mueller: [Crash Course in Contributing to Scikit-learn](https://www.youtube.com/watch?v=5OL8XoMMOfA)
 - Reshama Shaikh: [Contributing to Scikit-Learn: An Example Pull Request](https://youtu.be/PU1WyDPGePI)
 
 
-## Resources for Contributing to scikit-learn (outside of a sprint)
+## Resources for Contributing to scikit-learn 
 
-Checklist
+### Videos
 
-Discord video / slides
-[c] https://youtu.be/w2A8SknM-68
 
-[d] https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint/blob/master/intro-to-discord.pdf
+
+### Checklist
+Here is a *checklist* to begin contributing to scikit-learn.  Interested contributors can organize your own sprint, work with a pair programming partner or work on their own.  Click on the image and it will link you to a document that can be copied and used
+
+<p float="left">
+  <img href="https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing" src="../assets/images/2021-afme/afme-checklist.png" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
 
 
 
@@ -307,7 +296,8 @@ We typically observe 10% no-show rates for this type of online event.  For this 
 
 
 ## Pull Request Statistics
-
+- [PRs merged on sprint day](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+pr%3Amerged%3A>%3D2021-02-06+pr%3Acreated%3A<%3D2021-02-07+%23DataUmbrella+): 7 (from AFME sprint)
+    -  Query:  `is:pr is:merged pr:merged:>=2021-02-06 pr:created:<=2021-02-07 #DataUmbrella `
 - [Open PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen+pr%3Acreated%3A>%3D2021-02-06+pr%3Acreated%3A<%3D2021-03-01+%23DataUmbrella+): 9 (from AFME sprint)
     -  Query:  `is:pr is:open pr:created:>=2021-02-06 pr:created:<=2021-03-01 #DataUmbrella `
 - [Open](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen++%23DataUmbrella+) (w/o date range): 10
