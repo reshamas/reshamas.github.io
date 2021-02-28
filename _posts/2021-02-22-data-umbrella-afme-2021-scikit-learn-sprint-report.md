@@ -185,15 +185,6 @@ One suggestion for improvement:
 >- *Have single comprehensive source of information for preparing the environment.*
 
 
-### Contributing to Other Libraries Post-Sprint
-One sprint participant used his open source skills to contribute to another Python library.
-
-<p float="left">
-   <a href="https://www.linkedin.com/posts/manailengmj_dataumbrella-africa-middle-east-scikit-learn-activity-6764474200422932480-2YL_">
-  <img  src="../assets/images/2021-afme/mabu2-pytorch.png" width="99%" height="99%" style="border:0px;margin:0px">
-      </a>
-</p>
-
 ### Social Media
 
 #### Mabu
@@ -203,11 +194,6 @@ One sprint participant used his open source skills to contribute to another Pyth
   <img  src="../assets/images/2021-afme/mabu1-li.png" width="99%" height="99%" style="border:0px;margin:0px">
       </a>
 </p>
-
-
-
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6764474199814770688" height="538" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
 
 
 #### Fortune
@@ -289,6 +275,17 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 - networking
 - building confidence (making a dent in "imposter syndrome")
 - having fun
+
+
+
+## Contributing to Other Libraries Post-Sprint
+One sprint participant used his open source skills to contribute to another Python library.
+
+<p float="left">
+   <a href="https://www.linkedin.com/posts/manailengmj_dataumbrella-africa-middle-east-scikit-learn-activity-6764474200422932480-2YL_">
+  <img  src="../assets/images/2021-afme/mabu2-pytorch.png" width="99%" height="99%" style="border:0px;margin:0px">
+      </a>
+</p>
 
 ## Adjustments for Next Sprint
 
