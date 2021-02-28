@@ -21,8 +21,8 @@ This report focuses on the summary, impact and lessons learned of the Data Umbre
 This event was funded in part by a grant from Code for Science & Society, made possible by grant number [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from the Gordon and Betty Moore Foundation.
 
 <p float="left">
-  <img src="../assets/images/2021-afme/css-logo.png" width="55%" height="55%" />
-  <img src="../assets/images/2021-afme/moore-logo.jpg" width="40%" height="40%" /> 
+  <img src="../assets/images/2021-afme/css-logo.png" width="50%" height="50%" style="padding:1px;border:thick solid black;" align="top" />
+  <img src="../assets/images/2021-afme/moore-logo.jpg" width="40%" height="40%" style="padding:1px;border:thick solid black;" align="top"/> 
 </p>
 
 
