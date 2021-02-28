@@ -10,21 +10,22 @@
   <img src="../assets/images/2021-afme/afme-social-media.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
-# Reminders
-- submit draft report to core contributors for review
-- add screenshot of checklist and link to it.
-- update PR numbers
-
-
 ## Sprint Background
-This "sprint" is a hands-on hackathon where participants learn to contribute to scikit-learn, a well-known Python open source, machine learning library.
+This "sprint" is a hands-on hackathon where participants learn to contribute to scikit-learn, a widely-used Python open source, machine learning library.
 
 This sprint was organized by [Data Umbrella](https://www.dataumbrella.org) to increase the participation of underrepresented persons in data science, with a focus on the geographic regions of Africa and the Middle East (AFME).  
 
-This report focuses on the summary, impact and lessons learned of the AFME scikit-learn sprint.  
+This report focuses on the summary, impact and lessons learned of the Data Umbrella AFME scikit-learn sprint.  
 
 ## Event Sponsor
 This event was funded in part by a grant from Code for Science & Society, made possible by grant number [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from the Gordon and Betty Moore Foundation.
+
+<p float="left">
+  <img src="../assets/images/2021-afme/css-logo.png" width="80%" height="80%" />
+  <img src="../assets/images/2021-afme/moore-logo.jpg" width="80%" height="80%" /> 
+</p>
+
+
 
 ## Continued Contribution to Open Source
 This sprint was a 4-hour block of time with pre- and post-sprint work required. 
@@ -41,7 +42,7 @@ Participants are encouraged to keep contributing to scikit-learn or other Python
 [b] Even though the event ended at 2pm EAT, participants continued to work on their sprint PRs (pull requests) throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs.  
 
 ### Sprint Day
-Even though the sprint ran 4 hours (10am to 2pm EAT),, participants continued to work on their sprint PRs throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs.  
+The sprint officially ran 4 hours (10am to 2pm EAT), which is limited time to submit a PR.  Despite the limited time, the participants continued to work on their sprint PRs throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs.  
 
 ### Follow-up Office Hours
 Office hours were set up 2 weeks after the sprint where some of the scikit-learn core contributors were available to answer questions on open PRs.  
@@ -99,20 +100,19 @@ Two-thirds of participants identified as having "none" or "beginner" level exper
 |                                       | Sprint 2020    |
 |---------------------------------------|----------------|
 | Report date                           | 28-Feb-2021    |
+| Report author                          | Reshama Shaikh   |
 | Sprint date                           | 06-Feb-2021    |
 | Location                              | Online; Africa & Middle East (AFME)         |
 | Sprint website | [afme2021.dataumbrella.org](https://afme2021.dataumbrella.org) |
 |                | Twitter [Moment](https://twitter.com/reshamas/status/1358409282006450178) |
 | Open source library                   | [scikit-learn](https://github.com/scikit-learn/scikit-learn) |  
-| GitHub repository link                | [data-umbrella/data-umbrella-scikit-learn-sprint](https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint)| 
-|                                       |               |
+| GitHub repository link                | [data-umbrella/data-umbrella-scikit-learn-sprint](https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint)| |
 | Organizers      | [Reshama Shaikh](https://twitter.com/reshamas) & [Mariam Haji](https://www.linkedin.com/in/mariamhaji/)    |
 | Lead Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml) |
 | Scikit-learn core contributors    | Adrin Jalali, Olivier Grisel, Guillaume LeMaitre  |  
 | Invited Contributors | Amanda D'Souza & Maren Westerman |
 | Teaching Assistants                   | None |
 | Platforms                          | Discord & Zoom |
-|                                    |                |
 | Sponsor: | Grant [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from [Gordon and Betty Moore Foundation](https://www.moore.org) & [Code for Science and Society](https://eventfund.codeforscience.org)   |
 |            |                |
 | PULL REQUESTS **(PRs)**                 |          |
@@ -124,33 +124,27 @@ Two-thirds of participants identified as having "none" or "beginner" level exper
 | Attendees:  Participated           | ~ 31     |
 | Attendee List                      | [Sprint Contributors](https://afme2021.dataumbrella.org/contributors)   |
 |                                    |          |
-| Post-sprint Survey                 | [survey form] (closed)
-|                                    |          |  
+| Post-sprint Survey                 | [survey form] (closed) 
 | Blog: by Fortune Uwha               | [First Time Contributor to Open Source — Data Umbrella Scikit-learn Virtual Sprint February 2021](https://fortune-uwha.medium.com/first-time-contributor-to-open-source-data-umbrella-scikit-learn-virtual-sprint-february-2021-362208ba0710) |
-|              |  |
-
-
-## Preparation Work
-Because this was a virtual event and there is a limited capacity for being online for a full 8-hour day, a checklist was provided so folks could do preparation work at their own pace prior to the sprint.  
-
-There are two videos for newcomers to [Get Started with Contributing to Scikit-learn](https://www.dataumbrella.org/open-source/contributing-to-scikit-learn):  
-- Andreas Mueller: [Crash Course in Contributing to Scikit-learn](https://www.youtube.com/watch?v=5OL8XoMMOfA)
-- Reshama Shaikh: [Contributing to Scikit-Learn: An Example Pull Request](https://youtu.be/PU1WyDPGePI)
 
 
 ## Resources for Contributing to scikit-learn 
+Because this was a virtual event and there is a limited capacity for being online for a full 8-hour day, a checklist was provided so folks could do preparation work at their own pace prior to the sprint.  
 
 ### Videos
 
 <p float="left">
-  <img href="https://www.dataumbrella.org/open-source/contributing-to-scikit-learn" src="../assets/images/2021-afme/afme-videos.png" width="99%" height="99%" style="border:0px;margin:0px">
+   <a href="https://www.dataumbrella.org/open-source/contributing-to-scikit-learn">
+  <img  src="../assets/images/2021-afme/afme-videos.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
 ### Checklist
 Here is a *checklist* to begin contributing to scikit-learn.  Interested contributors can organize your own sprint, work with a pair programming partner or work on their own.  Click on the image and it will link you to a document that can be copied and used
 
 <p float="left">
-  <img href="https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing" src="../assets/images/2021-afme/afme-checklist.png" width="99%" height="99%" style="border:0px;margin:0px">
+   <a href="https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing">
+  <img  src="../assets/images/2021-afme/afme-checklist.png" width="99%" height="99%" style="border:0px;margin:0px">
+      </a>
 </p>
 
 
@@ -282,6 +276,9 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 Reviewing PRs will also be added on the list of issues that the sprint participants can work on. 
 
 For sprint attendees who have submitted a PR, then can review other contributor's PRs and provide feedback.  
+
+### Video: Reviewing PRs
+Create a video that shows how contributors can review PRs with tips.  
 
 ### scikit-learn branch: "master" to "main"
 Include a note that scikit-learn has changed their default branch name from "master" to "main".  Currently all the videos and documentation refer to "master."
