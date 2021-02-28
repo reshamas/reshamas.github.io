@@ -53,11 +53,6 @@ Office hours were set up 2 weeks after the sprint where some of the scikit-learn
 - Post-sprint office hours:  7
 
 
-
----
-
-
-
 ## Demographics
 
 <p>
@@ -132,21 +127,22 @@ Two-thirds of participants identified as having "none" or "beginner" level exper
 Because this was a virtual event and there is a limited capacity for being online for a full 8-hour day, a checklist was provided so folks could do preparation work at their own pace prior to the sprint.  
 
 ### Videos
+Here are some videos in a [playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir-b1fwjNabO3b8ebs9ez5ga) that provide useful information on contributing to scikit-learn.
 
 <p float="left">
    <a href="https://www.dataumbrella.org/open-source/contributing-to-scikit-learn">
   <img  src="../assets/images/2021-afme/afme-videos.png" width="99%" height="99%" style="border:0px;margin:0px">
+</a>
 </p>
 
 ### Checklist
-Here is a *checklist* to begin contributing to scikit-learn.  Interested contributors can organize your own sprint, work with a pair programming partner or work on their own.  Click on the image and it will link you to a document that can be copied and used
+Here is a [Checklist](https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing) to begin contributing to scikit-learn.  Interested contributors can organize your own sprint, work with a pair programming partner or work on their own.  Click on the image and it will link you to a document that can be copied and used
 
 <p float="left">
    <a href="https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing">
   <img  src="../assets/images/2021-afme/afme-checklist.png" width="99%" height="99%" style="border:0px;margin:0px">
       </a>
 </p>
-
 
 
 ## Sprint Feedback
