@@ -242,7 +242,10 @@ One suggestion for improvement:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats <a href="https://twitter.com/fortune_uwha?ref_src=twsrc%5Etfw">@fortune_uwha</a>! 🌟🌟<br><br>&gt; LGTM. Adding tests as a first time contributor, respect! <a href="https://t.co/wE6qdHHkHb">pic.twitter.com/wE6qdHHkHb</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1358148474739560448?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-
+#### Anas
+<p>
+  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">very happy to be part of <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>, many thanks to <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> for this amazing opportunity. <a href="https://t.co/M34gNPX5Qd">https://t.co/M34gNPX5Qd</a></p>&mdash; anas (@hasnii_anas) <a href="https://twitter.com/hasnii_anas/status/1358161456185962497?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </p>
 #### Feras
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a><br>for organizing <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a><br>It was a pleasure meeting you <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> and the great team!</p>&mdash; Feras O (@Feras_Oughali) <a href="https://twitter.com/Feras_Oughali/status/1358012520322203649?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
