@@ -32,7 +32,7 @@ This event was funded in part by a grant from Code for Science & Society, made p
 ## Continued Contribution to Open Source
 This sprint was a 4-hour block of time with pre- and post-sprint work required. 
 
-Participants are encouraged to keep contributing to scikit-learn or other Python libraries, using the skills learned in this event. 
+Participants were encouraged to keep contributing to scikit-learn or other Python libraries, using the skills learned in this event. 
 
 
 ## Sprint Agenda
@@ -40,11 +40,11 @@ Participants are encouraged to keep contributing to scikit-learn or other Python
 - 06-Feb-2021:  Sprint  (10am to 2pm EAT)  [b]
 - 20-Feb-2021:  Sprint Follow-up Office Hours (10am to 11am EAT)
 
-[a] EAT = East Africa Time
+[a] EAT = East Africa Time  
 [b] Even though the event ended at 2pm EAT, participants continued to work on their sprint PRs (pull requests) throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs.  
 
 ### Sprint Day
-The sprint officially ran 4 hours (10am to 2pm EAT), which is limited time to submit a PR.  Despite the limited time, the participants continued to work on their sprint PRs throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs.  
+The sprint officially ran 4 hours (10am to 2pm EAT), which is limited time to submit a PR.  The participants continued to work on their sprint PRs throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs over the weekend and provide feedback.    
 
 ### Follow-up Office Hours
 Office hours were set up 2 weeks after the sprint where some of the scikit-learn core contributors were available to answer questions on open PRs.  
