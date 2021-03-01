@@ -157,7 +157,7 @@ Feedback has been shared a number of ways:
 - Casually, in conversation during the sprint, pre-sprint and post-sprint events
 
 ## Data Umbrella Feedback Survey
-Data Umbrella received 19 responses to our internal sprint survey. (19/31 = 61% response rate).
+Data Umbrella received 19 responses to our internal sprint survey. (20/31 = 65% response rate).
 
 Respondents rated their overall sprint experience highly favorably and had a positive experience working with their pair programming partner.  
 
@@ -176,7 +176,8 @@ In response to the question "*What are your favorite parts about the sprint?*"
 >- The pair programming and the feedback session with the core developers
 >- There was ample knowledge to start working on things. It was very easy to get going with the shared information.
 >- Working on an issue with a partner alongside a contributor. I got a better perspective on working on issues.
->- Getting help from the core contributors/developers and learning from my programming partner*
+>- Getting help from the core contributors/developers and learning from my programming partner
+>- discussing details of technical problems and solutions in small groups on discord / github
 
 Some general feedback in the survey:  
 
