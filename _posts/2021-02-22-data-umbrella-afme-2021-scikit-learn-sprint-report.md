@@ -210,6 +210,12 @@ One suggestion for improvement:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">First time contributor to open source/scikit learn 🎉🎉. The <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> session was so much fun! We got a chance to meet the core contributors. Super grateful to <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> and <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a> for supporting <a href="https://twitter.com/DataUmbrellaAFR?ref_src=twsrc%5Etfw">@DataUmbrellaAFR</a> <br><br>Submitted PR. 🤞on getting merged.<a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a></p>&mdash; Fortune Uwha🦋 (@fortune_uwha) <a href="https://twitter.com/fortune_uwha/status/1358075788457889792?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
+#### Haidar
+<p>
+  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I got my first <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> PR merged it was a very small contribution but a big event for me<br>Thanks to <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> for organizing the <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a><br><br>I might write a short description about my experience @ <a href="https://t.co/gwlHNy22yU">https://t.co/gwlHNy22yU</a> <a href="https://t.co/3uHaD80LzP">pic.twitter.com/3uHaD80LzP</a></p>&mdash; Haidar AlMubarak (@HALMUBARAK) <a href="https://twitter.com/HALMUBARAK/status/1366860526593179652?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+  
+  </p>
+  
 #### Amanda
 <p>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">As always, a great time at <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a>&#39;s <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>. Pair programming works! <a href="https://t.co/k6uVQsffL5">https://t.co/k6uVQsffL5</a></p>&mdash; amanda dsouza (@amanda_dsouza) <a href="https://twitter.com/amanda_dsouza/status/1358079552518381572?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
