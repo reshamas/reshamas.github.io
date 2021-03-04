@@ -146,6 +146,60 @@ Here is a [Checklist](https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j
       </a>
 </p>
 
+## Impact
+
+
+## Non-measurable Impact
+Aside from the number of PRs that were merged, there is non-quantifiable impact of the open source sprint. Some examples include:
+- learning to set up virtual environment
+- using Git (fork, clone, branch, fetching another's PR)
+- introduction to tests such as:  flake8 (linting, formatting), pytest, "continuous integration"
+- navigating through the codebase structure of scikit-learn
+- digging into functions, learning about errors
+- learning about unit tests
+- interacting with contributors on GitHub
+- learning, in general
+- networking
+- building confidence (making a dent in "imposter syndrome")
+- having fun
+
+
+## Documentation Impact
+These are the statistics for the two videos considered documentation:    
+1.  Andreas Mueller (+500 views)
+  - Jan 1, 2021: 1100   
+  - Mar 1, 2021: 1600
+2.  Reshama Shaikh (+200 views)
+  - Jan 1, 2021: 545 
+  - Mar 1, 2021: 745
+
+Sprint outreach can be considered an impact.  Even if folks do not attend or apply, the sprint outreach brings more visibility and interest to the project.
+
+## Contributing to Other Libraries Post-Sprint
+One sprint participant used his open source skills to contribute to another Python library.
+
+<p float="left">
+   <a href="https://www.linkedin.com/posts/manailengmj_dataumbrella-africa-middle-east-scikit-learn-activity-6764474200422932480-2YL_">
+  <img  src="../assets/images/2021-afme/mabu2-pytorch.png" width="99%" height="99%" style="border:0px;margin:0px">
+      </a>
+</p>
+
+## Adjustments for Next Sprint
+
+### Reviewing Pull Requests
+Reviewing PRs will also be added on the list of issues that the sprint participants can work on. 
+
+For sprint attendees who have submitted a PR, then can review other contributor's PRs and provide feedback.  
+
+### Video: Reviewing PRs
+Create a video that shows how contributors can review PRs with tips.  
+
+### scikit-learn branch: "master" to "main"
+Include a note that scikit-learn has changed their default branch name from "master" to "main".  Currently all the videos and documentation refer to "master."
+
+### Applicant Attrition
+We typically observe 10% no-show rates for this type of online event.  For this event it was much higher.  For future sprints, we will do more outreach, aim for more applications so that overall turnout is about 40 attendees.
+
 
 ## Sprint Feedback
 
@@ -157,7 +211,7 @@ Feedback has been shared a number of ways:
 - Casually, in conversation during the sprint, pre-sprint and post-sprint events
 
 ## Data Umbrella Feedback Survey
-Data Umbrella received 19 responses to our internal sprint survey. (20/31 = 65% response rate).
+Data Umbrella received 20 responses to our internal sprint survey. (20/31 = 65% response rate).
 
 Respondents rated their overall sprint experience highly favorably and had a positive experience working with their pair programming partner.  
 
@@ -275,46 +329,6 @@ One suggestion for improvement:
 
 
 
-## Non-measurable Impact
-Aside from the number of PRs that were merged, there is non-quantifiable impact of the open source sprint. Some examples include:
-- learning to set up virtual environment
-- using Git (fork, clone, branch, fetching another's PR)
-- introduction to tests such as:  flake8 (linting, formatting), pytest, "continuous integration"
-- navigating through the codebase structure of scikit-learn
-- digging into functions, learning about errors
-- learning about unit tests
-- interacting with contributors on GitHub
-- learning, in general
-- networking
-- building confidence (making a dent in "imposter syndrome")
-- having fun
-
-
-
-## Contributing to Other Libraries Post-Sprint
-One sprint participant used his open source skills to contribute to another Python library.
-
-<p float="left">
-   <a href="https://www.linkedin.com/posts/manailengmj_dataumbrella-africa-middle-east-scikit-learn-activity-6764474200422932480-2YL_">
-  <img  src="../assets/images/2021-afme/mabu2-pytorch.png" width="99%" height="99%" style="border:0px;margin:0px">
-      </a>
-</p>
-
-## Adjustments for Next Sprint
-
-### Reviewing Pull Requests
-Reviewing PRs will also be added on the list of issues that the sprint participants can work on. 
-
-For sprint attendees who have submitted a PR, then can review other contributor's PRs and provide feedback.  
-
-### Video: Reviewing PRs
-Create a video that shows how contributors can review PRs with tips.  
-
-### scikit-learn branch: "master" to "main"
-Include a note that scikit-learn has changed their default branch name from "master" to "main".  Currently all the videos and documentation refer to "master."
-
-### Applicant Attrition
-We typically observe 10% no-show rates for this type of online event.  For this event it was much higher.  For future sprints, we will do more outreach, aim for more applications so that overall turnout is about 40 attendees.
 
 ---
 
