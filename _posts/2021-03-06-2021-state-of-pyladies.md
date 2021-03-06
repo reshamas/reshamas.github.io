@@ -121,7 +121,7 @@ Note:  While Brazil has the highest count, these statistic include the country-l
 ## What is the estimated membership, by chapter?
 These *cities* have the highest membership:  
 1. San Francisco, CA, USA:  6200
-1. São Paulo, SP, Brazil:  
+1. São Paulo, SP, Brazil:  5408
 1. New York, NY, USA:  4200
 1. Teresina, Piauí, Brazil: 3253
 1. London, UK:  2486
