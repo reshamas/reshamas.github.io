@@ -118,6 +118,23 @@ Note:  While Brazil has the highest count, these statistic include the country-l
 </iframe>
 
 
+## What is the estimated membership, by Chapter?
+These *cities* have the highest membership:  
+1. San Francisco, CA, USA:  6200
+1. São Paulo, SP, Brazil:  
+1. New York, NY, USA:  4200
+1. Teresina, Piauí, Brazil: 3253
+1. London, UK:  2486
+1. Seattle, WA, USA: 2200
+1. Madrid, Spain: 2100
+1. Poland: 2050
+1. Berlin: 2025
+1. Remote: 1921
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://reshamas.github.io/assets/images/pyladies2021/7_m_chapters.html" height="500" width="1000">
+</iframe>
+
+
 ## Resources to Identify Chapters
 The following platforms were researched to discover existence of PyLadies chapters:  
 - [Meetup Dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
@@ -176,7 +193,7 @@ If you have any questions, you can inquire on the PyLadies Slack.
 
 
 ## About the Author
-Reshama Shaikh has been an organizer for the New York City chapter for the past 4 years.  She is a statistician who enjoys exploring data, creating data visualizations, and working with Python and plotly.  
+Reshama Shaikh has been an organizer for the New York City chapter for the past 4 years, which is the third largest PyLadies chapter.  She is a statistician who enjoys exploring data, creating data visualizations, and working with Python and plotly.  
 
 ## Tools
 - Data was analyzed from csv files using Python and pandas 
