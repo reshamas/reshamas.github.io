@@ -41,7 +41,7 @@ The analysis in this article uses three primary sources of data:
 | [PyLadies Meetup Dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)            | 77      | -2                   | 75     | ~58,300
 | PyLadies Registered Chapters | 243     |  -7                   | 236    | ?
 | Reshama Shaikh Inventory     | 260     |                      | 260    | ~100,000 to 120,000
-|     |    |                      |    |
+
 
 A total of **260 chapters** have been identified. 
 
@@ -59,22 +59,20 @@ This Venn diagram shows how many records are in each data source.
 
 
 ## Overall Chapter Summary
+
 | Metric            | Count                          |
 |-------------------|--------------------------------|
 | Chapters Total    | 260                            |
 | Chapters Active   | 119                            |
-| Chapters Inactive/Other | 141                            |
+| Chapters Inactive/Other | 141                      |
 | Members           | 100,000 to 120,000 (estimated) |
-| | |
 
 
-### What is the status of these chapters?
-Chapters are considered "active" if they have some activity on one of their social media platforms in the past year.  
-This is the breakdown of status:  
+Chapters are considered "active" if they have some activity on one of their social media platforms in the past year. This is the breakdown of status:  
 - active:    119
 - inactive:   78
 - not found:  59
-- "new":       2
+- new:       2
 - transferred: 2
 
 
