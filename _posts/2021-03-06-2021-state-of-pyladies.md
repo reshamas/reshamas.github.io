@@ -100,7 +100,7 @@ Summary:
 1. India: 5
 1. Germany: 5
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://reshamas.github.io/assets/images/pyladies2021/3_country.html" height="600" width="1000">
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://reshamas.github.io/assets/images/pyladies2021/3_country.html" height="700" width="1000">
 </iframe>
 
 ## What are the main platforms used for community building?
