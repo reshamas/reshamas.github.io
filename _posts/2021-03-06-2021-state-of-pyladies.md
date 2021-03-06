@@ -92,7 +92,7 @@ Summary:
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://reshamas.github.io/assets/images/pyladies2021/2_region.html" height="500" width="1000">
 </iframe>
 
-## How many countries are represented and What is the breakdown by country?
+## How many countries are represented and what is the breakdown by country?
 62 countries have a PyLadies chapter.  The top 5 countries with the most active chapters are:  
 1. Brazil: 30
 1. United States: 21
