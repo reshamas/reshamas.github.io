@@ -100,7 +100,7 @@ Summary:
 1. India: 5
 1. Germany: 5
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://reshamas.github.io/assets/images/pyladies2021/3_country.html" height="500" width="1000">
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://reshamas.github.io/assets/images/pyladies2021/3_country.html" height="600" width="1000">
 </iframe>
 
 ## What are the main platforms used for community building?
@@ -192,4 +192,4 @@ Reshama Shaikh has been an organizer for the New York City chapter for the past 
 - [pyladies/global-organizing](https://github.com/pyladies/global-organizing)
 - [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
 - [Presenting PyLadies Dashboard](https://reshamas.github.io/presenting-pyladies-dashboard/)
-- [List of Brazil Chapters](https://brasil.pyladies.com/)
+
