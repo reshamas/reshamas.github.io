@@ -165,13 +165,17 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 
 
 ## Documentation Impact
-These are the statistics for the two videos considered documentation:    
-1.  Andreas Mueller (+500 views)
+These are the statistics for the videos that are considered documentation:    
+1.  Andreas Mueller: [Crash Course in Contributing to scikit-learn](https://youtu.be/5OL8XoMMOfA) 
   - Jan 1, 2021: 1100   
-  - Mar 1, 2021: 1600
-2.  Reshama Shaikh (+200 views)
+  - Mar 1, 2021: 1600  (+500 views)
+1.  Reshama Shaikh:  [Example of scikit-learn Pull Request](https://youtu.be/PU1WyDPGePI) 
   - Jan 1, 2021: 545 
-  - Mar 1, 2021: 745
+  - Mar 1, 2021: 745   (+200 views)
+1.  Andreas Mueller: [Sprint FAQs](https://youtu.be/p_2Uw2BxdhA) 
+  - Mar 7, 2021: 398
+3.  Reshama Shaikh: [Intro to Discord](https://youtu.be/w2A8SknM-68) 
+  - Mar 7, 2021: 99 
 
 Sprint outreach can be considered an impact.  Even if folks do not attend or apply, the sprint outreach brings more visibility and interest to the project.
 
@@ -211,7 +215,7 @@ Feedback has been shared a number of ways:
 - Casually, in conversation during the sprint, pre-sprint and post-sprint events
 
 ## Data Umbrella Feedback Survey
-Data Umbrella received 20 responses to our internal sprint survey. (20/31 = 65% response rate).
+Data Umbrella received 21 responses to our internal sprint survey. (21/31 = 68% response rate).
 
 Respondents rated their overall sprint experience highly favorably and had a positive experience working with their pair programming partner.  
 
