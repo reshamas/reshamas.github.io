@@ -358,8 +358,9 @@ One suggestion for improvement:
 
 ## References
 - [List of Upcoming scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events)
-- [List of scikit-learn Sprints](https://reshamas.github.io/resources/scikit_learn_sprints/)
-- [Sprints Organized by Reshama Shaikh](https://www.dataumbrella.org/open-source/sprints)
+- [List of Past scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints)
+- [List of scikit-learn Sprints](https://reshamas.github.io/resources/scikit_learn_sprints/) (compiled by Reshama Shaikh)
+- [scikit-learn Sprints Organized by Reshama Shaikh](https://www.dataumbrella.org/open-source/sprints)
 
 ---
 ## Addendum
