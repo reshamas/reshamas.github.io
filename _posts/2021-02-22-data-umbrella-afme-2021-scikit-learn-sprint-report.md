@@ -200,7 +200,7 @@ Google Analytics shows the reach of our marketing efforts:
 
 <p float="left">
   <img  src="../assets/images/2021-afme/ga-map.png" width="99%" height="99%" style="border:0px;margin:0px">
-      </a>
+
 </p>
 
 
