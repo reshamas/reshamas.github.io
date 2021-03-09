@@ -133,7 +133,7 @@ Here are some videos in a [playlist](https://www.youtube.com/playlist?list=PLBKc
 </p>
 
 ### Checklist
-Here is a [Checklist](https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing) to begin contributing to scikit-learn.  Interested contributors can organize your own sprint, work with a pair programming partner or work on their own.  Click on the image and it will link you to a document that can be copied and used
+Here is a [Checklist](https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing) to begin contributing to scikit-learn.  Interested contributors can organize their own sprint, work with a pair programming partner or work on their own.  Click on the image and it will link to a document that can be copied and edited for individual use.
 
 <p float="left">
    <a href="https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing">
