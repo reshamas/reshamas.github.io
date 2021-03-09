@@ -49,11 +49,6 @@ The sprint officially ran 4 hours (10am to 2pm EAT), which is limited time to su
 ### Follow-up Office Hours
 Office hours were set up 2 weeks after the sprint where some of the scikit-learn core contributors were available to answer questions on open PRs.  
 
-## Number of Attendees
-- Pre-sprint event: 15
-- Sprint day: 31
-- Post-sprint office hours:  7
-
 
 ## Demographics
 
