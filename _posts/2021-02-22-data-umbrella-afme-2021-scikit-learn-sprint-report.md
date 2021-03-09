@@ -149,7 +149,7 @@ Here is a [Checklist](https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j
 ## Impact
 
 
-## Non-measurable Impact
+### Non-measurable Impact
 Aside from the number of PRs that were merged, there is non-quantifiable impact of the open source sprint. Some examples include:
 - learning to set up virtual environment
 - using Git (fork, clone, branch, fetching another's PR)
@@ -164,7 +164,7 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 - having fun
 
 
-## Documentation Impact
+### Documentation Impact
 These are the statistics for the videos that are considered documentation:    
 1.  Andreas Mueller: [Crash Course in Contributing to scikit-learn](https://youtu.be/5OL8XoMMOfA) 
   - Jan 1, 2021: 1100   
@@ -187,6 +187,27 @@ One sprint participant used his open source skills to contribute to another Pyth
   <img  src="../assets/images/2021-afme/mabu2-pytorch.png" width="99%" height="99%" style="border:0px;margin:0px">
       </a>
 </p>
+
+## Event Outreach
+
+This tweet had 90K+ impressions and 320 link clicks:  
+<p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📣Join us for our <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> <br>👉🏽with a focus on Africa &amp; Middle East (AFME)<br><br>🗓️06-Feb-2021<br>🕙10am to 2pm EAT<br>🏢 Online<br><br>Thank you to our sponsors: <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> &amp; <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a><br><br>Details on application: <a href="https://t.co/TOMAJpkcF0">https://t.co/TOMAJpkcF0</a> <a href="https://t.co/oXq4yjq3XI">pic.twitter.com/oXq4yjq3XI</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1346486322958131202?ref_src=twsrc%5Etfw">January 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+This LinkedIn post had ~2500 views and 35 shares:  
+
+<p>
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6752255119921876992" height="869" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+</p>
+
+Google Analytics shows the reach of our marketing efforts:  
+
+<p float="left">
+  <img  src="../assets/images/2021-afme/ga-map.png" width="99%" height="99%" style="border:0px;margin:0px">
+      </a>
+</p>
+
 
 ## Adjustments for Next Sprint
 
