@@ -12,6 +12,12 @@ PyLadies is a trademark and falls under the legal administration of the [Python 
 
 This article explores the current state of PyLadies, specifically data around chapters, locations and members.  
 
+## Video Talk (15 minutes in duration)
+Below is my presentation for [PyLadies International Women's Day](https://iwd.pyladies.com).  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hkfC1iPTFo0?start=3705" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ## Summary
 Here is a summary of various platforms in use by PyLadies and the related numbers of followers, updated 06-Mar-2021.
 
