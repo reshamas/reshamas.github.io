@@ -196,6 +196,8 @@ To start a new chapter:
 
 If you have any questions, you can inquire on the PyLadies Slack.  
 
+## PyLadies Organizers Around the World
+Here is a Twitter list of [PyLadies Organizers] that you can subscribe to.
 
 ## About the Author
 Reshama Shaikh has been an organizer for the New York City chapter for the past 4 years, which is the third largest PyLadies chapter.  She is a statistician who enjoys exploring data, creating data visualizations, and working with Python and plotly.  
@@ -214,4 +216,5 @@ Reshama Shaikh has been an organizer for the New York City chapter for the past 
 - [pyladies/global-organizing](https://github.com/pyladies/global-organizing)
 - [Why Women Are Flourishing In R Community But Lagging In Python](https://reshamas.github.io/why-women-are-flourishing-in-r-community-but-lagging-in-python/)
 - [Presenting PyLadies Dashboard](https://reshamas.github.io/presenting-pyladies-dashboard/)
+
 
