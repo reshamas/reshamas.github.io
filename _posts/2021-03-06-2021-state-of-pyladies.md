@@ -93,7 +93,6 @@ Summary:
 - South America has the most active chapters (n=41)
 - North America and Europe have similar number of active chapters (n=23, n=22)
 - North America has the most number of inactive chapters (n=23)
-- 
 
 <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://reshamas.github.io/assets/images/pyladies2021/2_region.html" height="500" width="1000">
 </iframe>
