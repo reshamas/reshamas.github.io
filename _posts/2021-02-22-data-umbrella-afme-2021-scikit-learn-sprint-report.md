@@ -220,6 +220,12 @@ Include a note that scikit-learn has changed their default branch name from "mas
 ### Applicant Attrition
 We typically observe 10% no-show rates for this type of online event.  For this event it was much higher.  For future sprints, we will do more outreach, aim for more applications so that overall turnout is about 40 attendees.
 
+### #DataUmbrella Hashtag 
+Reminder to sprint participants to include this hashtag #DataUmbrella on their pull requests so we can track them.
+
+### Post any questions on #help_queue channel on Discord
+A number of sprint participants were waiting alone at their virtual table.  They did not proactively join the #help_queue channel to let us know their pair programming partner was not present.  We should include a reminder for this in our email communications and intro presentation.
+
 
 ## Sprint Feedback
 
