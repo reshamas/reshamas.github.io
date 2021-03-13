@@ -28,7 +28,7 @@ Here is a summary of various platforms in use by PyLadies and the related number
 | YouTube: [pyladies](https://www.youtube.com/channel/UCs0-1JQdb1YkVxN4hnNKsNQ)                 | 245       |
 | Facebook: [PyLadies](https://www.facebook.com/pyladies/)                                      | 3995      |
 | LinkedIn page: [PyLadies Global](https://www.linkedin.com/company/pyladies-global/)           | 486       |
-| LinkedIn group: [PyLadies](https://www.linkedin.com/groups/3984711/)                          | 1050      |
+| LinkedIn group: [PyLadies](https://www.linkedin.com/groups/3984711/)                          | 2104      |
 | Instagram: [@pyladies_global](https://www.instagram.com/pyladies_global/?hl=en)               | 742       |
 | Meetup Dashboard: [Chapters](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html) | 77        |
 | GitHub:  [@pyladies](https://github.com/pyladies)                                             | NA        |
