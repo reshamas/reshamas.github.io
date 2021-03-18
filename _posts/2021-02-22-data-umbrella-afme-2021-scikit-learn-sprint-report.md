@@ -37,11 +37,10 @@ Participants were encouraged to keep contributing to scikit-learn or other Pytho
 
 ## Sprint Agenda
 - 30-Jan-2021:  pre-sprint Kickoff  (10am to 11am EAT)  [a]
-- 06-Feb-2021:  Sprint  (10am to 2pm EAT)  [b]
+- 06-Feb-2021:  Sprint  (10am to 2pm EAT)  
 - 20-Feb-2021:  Sprint Follow-up Office Hours (10am to 11am EAT)
 
 [a] EAT = East Africa Time  
-[b] Even though the event ended at 2pm EAT, participants continued to work on their sprint PRs (pull requests) throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs.  
 
 ### Sprint Day
 The sprint officially ran 4 hours (10am to 2pm EAT), which is limited time to submit a PR.  The participants continued to work on their sprint PRs throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs over the weekend and provide feedback.    
