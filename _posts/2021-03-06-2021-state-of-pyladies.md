@@ -38,7 +38,7 @@ Here is a summary of various platforms in use by PyLadies and the related number
 
 ## Data Sources
 The analysis in this article uses three primary sources of data:  
-1. [PyLadies Meetup Dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html)
+1. [PyLadies Meetup Dashboard](https://nyc-pyladies.github.io/pyladies-dashboard/pyladies.html): this dashboard was created by Ben U to provide a helpful summary of PyLadies Meetup chapters.
 1. PyLadies Registered Chapters Email List:  this is an official list provided by PyLadies of all chapters ever registered. 
 1. PyLadies Inventory:  this is a list compiled by Reshama Shaikh using internet searches of various social media platforms.  This is a manual method.
 
@@ -197,7 +197,7 @@ To start a new chapter:
 If you have any questions, you can inquire on the PyLadies Slack.  
 
 ## PyLadies Organizers Around the World
-Here is a Twitter list of [PyLadies Organizers] that you can subscribe to.
+Here is a Twitter list of [PyLadies Organizers](https://twitter.com/i/lists/1356050848812556294) that you can subscribe to.
 
 ## About the Author
 Reshama Shaikh has been an organizer for the New York City chapter for the past 4 years, which is the third largest PyLadies chapter.  She is a statistician who enjoys exploring data, creating data visualizations, and working with Python and plotly.  
