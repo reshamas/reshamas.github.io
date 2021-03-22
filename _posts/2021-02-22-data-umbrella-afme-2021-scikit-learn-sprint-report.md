@@ -225,6 +225,9 @@ Reminder to sprint participants to include this hashtag #DataUmbrella on their p
 ### Post any questions on #help_queue channel on Discord
 A number of sprint participants were waiting alone at their virtual table.  They did not proactively join the #help_queue channel to let us know their pair programming partner was not present.  We should include a reminder for this in our email communications and intro presentation.
 
+### Time of Event
+Due to availability of the lead organizer and scikit-learn core contributor, the sprint began at 8am WET (Western European Time), which was 8am Nigeria / West Africa time.  That is likely too early for a Saturday event.  Schedule event so focused participants begin at 9am or 10am at the earliest.
+
 
 ## Sprint Feedback
 
