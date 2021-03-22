@@ -11,9 +11,9 @@ When I joined WiMLDS in 2015, the NYC chapter was just a few months old, and the
 
 After 5 years as a WiMLDS organizer, global team and board member, I will be moving on in January 2020 to pursue other projects.  My last day will be January 15, 2020. 
 
-### Moving on to:  URGs and Allies in Data Science
+### Moving on to:  Data Umbrella
 My next endeavor is exploring intersectional diversity (meaning considering dimensions of diversity outside of gender), beginning with **Data Umbrella** (for URGs and Allies in Data Science:  where URGs = under-represented groups):  
-- Meetup:  [Data Umbrella](https://www.meetup.com/nyc-uads/) 
+- Meetup:  [Data Umbrella](https://www.meetup.com/data-umbrella/) 
 - Twitter:  [@DataUmbrella](https://twitter.com/DataUmbrella)
 - LinkedIn:  [Data Umbrella](https://www.linkedin.com/company/dataumbrella/)
 
