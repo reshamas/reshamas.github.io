@@ -53,6 +53,7 @@ Publications while [affiliated with Thomas Jefferson University](https://www.res
 
 
 ## Git Workshops
+- [List of 15+ Git Workshops Given](https://github.com/reshamas/git-intro-workshop/blob/master/git-workshops.MD) (2016-2020)
 - [Intro to Git: workshop content](https://github.com/reshamas/git-intro-workshop)
 - [Getting Started with Git: video](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID])
 
