@@ -331,7 +331,7 @@ Becky Davis gives some blunt advice on mentorship in her article, [Unable To Fin
 
 
 <p>
-<img src="../assets/images/hanselman.jpg" />
+<img src="../assets/images/hanselman.png" />
 </p>
 
 ---
