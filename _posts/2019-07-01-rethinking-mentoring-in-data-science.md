@@ -324,7 +324,15 @@ Becky Davis gives some blunt advice on mentorship in her article, [Unable To Fin
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I agree, I already do approximately a hundred times more mentoring than I received from senior women.</p>&mdash; Anne Carpenter (@DrAnneCarpenter) <a href="https://twitter.com/DrAnneCarpenter/status/1061030140656918528?ref_src=twsrc%5Etfw">November 9, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### Scott Hanselman:  Mentorship vs. Sponsorship + Storytelling 
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8HE5LJwAv1k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<p>
+<img src="../assets/images/hanselman.jpg" />
+</p>
 
 ---
 
