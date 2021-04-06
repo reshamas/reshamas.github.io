@@ -15,7 +15,6 @@ comments: false
 
 ## Tech Groups
 - [Women Who Code](https://www.womenwhocode.com/networks) 75 chapters
-- [WiMLDS](http://wimlds.org/chapters/) 31 chapters
 - [RLadies](https://rladies.org) 80 chapters
 - [PyLadies](https://www.pyladies.com) ~80 chapters
 - [Write/Speak/Code](https://www.writespeakcode.com) ~6 chapters (have a national conference)
@@ -25,6 +24,7 @@ comments: false
 
 | Group Name    | Twitter   |  
 |----|----|
+| [WiD: Women in Data](https://www.womenindata.org) | |
 | [WiDS:  Women in Data Science](https://www.widsconference.org/) |   |
 | [WiML:  Women in Machine Learning](https://wimlworkshop.org/) |   |
 | [WiMLDS:  Women in Machine Learning & Data Science](http://wimlds.org) |    |
