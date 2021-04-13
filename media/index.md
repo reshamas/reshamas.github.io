@@ -5,6 +5,16 @@ tags:
 comments: false
 ---
 
+## 2021 State of PyLadies
+Article:  [2021 State of PyLadies](https://reshamas.github.io/2021-state-of-pyladies/)
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GgCB0-EjSnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+
+
 ## Open Source: Contributing to Scikit-Learn
 
 <p>
