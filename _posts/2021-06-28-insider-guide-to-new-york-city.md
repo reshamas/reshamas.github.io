@@ -22,13 +22,21 @@ Coming up is a list of favorite places in NYC of mine and my friends.
 ### [The Edge](https://www.edgenyc.com/en)
 >Edge is the highest outdoor sky deck in the Western Hemisphere located at 30 Hudson Yards, with a one-of-a-kind design. It’s suspended in mid-air, giving you the feeling of floating in the sky with 360-degree views you can’t get anywhere else.
 
+### [Central Park Conservatory Garden](https://www.centralpark.com/things-to-do/attractions/conservatory-garden/)
+- 5th Ave, 105th St
+- Free
+
+---
+
+## The Water
 
 ### [Staten Island Ferry](https://www.siferry.com)
 
 ### [Architecture Boat Tour Around Manhattan](https://fareharbor.com/embeds/book/sail-nyc/items/25950/calendar/2019/06/?asn=aia&full-items=yes)
 
+### [Roosevelt Island](http://rioc.ny.gov/339/Transportation)
 
-### [Little Island](https://littleisland.org/) 
+### [Statue of Liberty & Ellis Island](https://www.statueofliberty.org/ellis-island/)
 
 ### [Governor's Island](https://www.govisland.com)
 - free entrance
@@ -36,14 +44,11 @@ Coming up is a list of favorite places in NYC of mine and my friends.
 
 ### [Brooklyn Bridge](https://www1.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml)
 
+### [Little Island](https://littleisland.org/) 
 
-### [Central Park Conservatory Garden](https://www.centralpark.com/things-to-do/attractions/conservatory-garden/)
-- 5th Ave, 105th St
-- Free
 
-### [Roosevelt Island](http://rioc.ny.gov/339/Transportation)
 
-### [Statue of Liberty & Ellis Island](https://www.statueofliberty.org/ellis-island/)
+---
 
 ## Performing Arts
 
@@ -88,6 +93,8 @@ Take the A train to 190th Street and exit the station by elevator. Walk north al
 >Despite the new security measures, there are still many ways to experience the New York Stock Exchange without going inside. So there is no need to feel left out!
 
 ### [Federal Reserve](https://www.newyorkfed.org/aboutthefed/visiting)
+
+---
 
 ## Acknowledgments
 - [Noemy Derzsy](https://twitter.com/NoemiDerzsy)
