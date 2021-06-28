@@ -1,4 +1,4 @@
-
+<p> <img src="../assets/images/highline.jpg" width="99%" height="99%" style="border:0px;margin:0px"></p>
 
 
 # Where To Go When Visiting New York City
