@@ -4,10 +4,10 @@
 # Where To Go When Visiting New York City
 As a resident of New York City, I am often asked what places I would recommend to visitors. Here is a list of my favorites.
 
-## Main Attractions
 There are the well-known tourist attractions which I will not delve into too deeply, as they are available in most tour guides. Examples include: Times Square, Empire State Building, Central Park, etc. 
 
-## My Favorite Places in New York 
+Coming up is a list of favorite places in NYC of mine and my friends.
+
 
 ## Outdoors
 
@@ -45,6 +45,18 @@ There are the well-known tourist attractions which I will not delve into too dee
 
 ### [Statue of Liberty & Ellis Island](https://www.statueofliberty.org/ellis-island/)
 
+## Performing Arts
+
+### Lincoln Center
+
+### Carnegie Hall
+
+### Comedy Cellar
+
+### Upright Citizen's Brigade
+
+---
+
 ## Museums
 
 ### [The Cloisters](https://www.metmuseum.org/visit/plan-your-visit/met-cloisters)
@@ -66,11 +78,7 @@ Take the A train to 190th Street and exit the station by elevator. Walk north al
 
 ### [The Neue Galerie](https://www.neuegalerie.org)
 
-## Arts
 
-### Lincoln Center
-
-### Carnegie Hall
 
 ### [Trinity Place](https://www.trinityplacenyc.com)
 >A Restaurant & Bar built inside a turn of the century wall street Bank vault commissioned by none other than Andrew Carnegie, advertised as the worlds largest and strongest bank vault in the world in 1904 now a place for social gatherings where a modern American restaurant meets old world splendor.
@@ -82,5 +90,4 @@ Take the A train to 190th Street and exit the station by elevator. Walk north al
 
 ## Acknowledgments
 - [Noemy Derzsy](https://twitter.com/NoemiDerzsy)
-- 
 
