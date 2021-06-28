@@ -71,7 +71,7 @@ Take the A train to 190th Street and exit the station by elevator. Walk north al
 ### [Guggenheim Museum](https://www.guggenheim.org/)
 - 5th Ave, 89th St
 
-### [Basilica of St. Patrick’s Old Cathedral: historic cemetery and nderground catacombs](https://oldcathedral.org/cemetery)
+### [Basilica of St. Patrick’s Old Cathedral: historic cemetery and underground catacombs](https://oldcathedral.org/cemetery)
 
 >For over 200 years, the grounds of the Basilica of St. Patrick’s Old Cathedral have been used as thefinal resting place for the faithful departed. The Basilica’s historic cemetery and underground catacombs have been a silent witness to the many struggles and accomplishments of prominent New York Catholics. It is where bishops rest beside noteworthy New Yorkers who have played important roles in New York, American, and Catholic history. Due to the lack of space, this practice was suspended. 
 
