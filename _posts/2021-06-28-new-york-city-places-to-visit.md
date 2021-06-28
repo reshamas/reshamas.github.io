@@ -24,21 +24,30 @@ There are the well-known tourist attractions which I will not delve into too dee
 
 ### [Brooklyn Bridge](https://www1.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml)
 
-### [The Cloisters](https://www.metmuseum.org/visit/plan-your-visit/met-cloisters)
-By Subway/Bus
-Take the A train to 190th Street and exit the station by elevator. Walk north along Margaret Corbin Drive for approximately ten minutes or transfer to the M4 bus and ride north one stop. If you are coming from the Museum's Main Building, you may also take the M4 bus directly from Madison Avenue/83rd Street to the last stop. (Please allow more time for this option.)
+
 
 ### [Central Park Conservatory Garden](https://www.centralpark.com/things-to-do/attractions/conservatory-garden/)
 - 5th Ave, 105th St
 - Free
 
-### [Guggenheim Museum](https://www.guggenheim.org/)
-- 5th Ave, 89th St
+
 
 ### [Roosevelt Island](http://rioc.ny.gov/339/Transportation)
 
 ### Lincoln Center
 
 ### Carnegie Hall
+
+## Museums
+
+### [The Cloisters](https://www.metmuseum.org/visit/plan-your-visit/met-cloisters)
+By Subway/Bus
+Take the A train to 190th Street and exit the station by elevator. Walk north along Margaret Corbin Drive for approximately ten minutes or transfer to the M4 bus and ride north one stop. If you are coming from the Museum's Main Building, you may also take the M4 bus directly from Madison Avenue/83rd Street to the last stop. (Please allow more time for this option.)
+
+### [Guggenheim Museum](https://www.guggenheim.org/)
+- 5th Ave, 89th St
+
+
+### [The Morgan Library and Museum](https://www.themorgan.org)
 
 
