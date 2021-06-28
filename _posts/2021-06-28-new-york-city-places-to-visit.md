@@ -46,6 +46,11 @@ Take the A train to 190th Street and exit the station by elevator. Walk north al
 
 
 ### [The Morgan Library and Museum](https://www.themorgan.org)
+- The [Morgan Library & Museum](https://www.newyorkjourney.com/attractions-the-morgan-library-museum.htm) was established in New York City by J.P. Morgan, a prominent businessman and philanthropist. This complex includes an extensive permanent collection of rare books, drawings and printed materials dating back to ancient times. Most of the items on display are derived from Morgan's private collection that was acquired through auctions and other exclusive transactions.
+
+### [The Frick Collection]((https://www.newyorkjourney.com/attractions-the-morgan-library-museum.htm)
+
+### [The Neue Galerie](https://www.neuegalerie.org)
 
 ## Arts
 
