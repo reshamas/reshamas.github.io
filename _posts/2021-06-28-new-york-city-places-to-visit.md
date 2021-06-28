@@ -15,6 +15,16 @@ There are the well-known tourist attractions which I will not delve into too dee
 - park
 - free
 
+### [The Vessel](https://www.hudsonyardsnewyork.com/discover/vessel)
+- free with reservations
+- at Hudson Yards 
+
+### [The Edge](https://www.edgenyc.com/en)
+>Edge is the highest outdoor sky deck in the Western Hemisphere located at 30 Hudson Yards, with a one-of-a-kind design. It’s suspended in mid-air, giving you the feeling of floating in the sky with 360-degree views you can’t get anywhere else.
+
+
+### [Staten Island Ferry](https://www.siferry.com)
+
 ### [Architecture Boat Tour Around Manhattan](https://fareharbor.com/embeds/book/sail-nyc/items/25950/calendar/2019/06/?asn=aia&full-items=yes)
 
 
@@ -33,7 +43,7 @@ There are the well-known tourist attractions which I will not delve into too dee
 
 ### [Roosevelt Island](http://rioc.ny.gov/339/Transportation)
 
-
+### [Statue of Liberty & Ellis Island](https://www.statueofliberty.org/ellis-island/)
 
 ## Museums
 
@@ -43,6 +53,10 @@ Take the A train to 190th Street and exit the station by elevator. Walk north al
 
 ### [Guggenheim Museum](https://www.guggenheim.org/)
 - 5th Ave, 89th St
+
+### [Basilica of St. Patrick’s Old Cathedral: historic cemetery and nderground catacombs](https://oldcathedral.org/cemetery)
+
+>For over 200 years, the grounds of the Basilica of St. Patrick’s Old Cathedral have been used as thefinal resting place for the faithful departed. The Basilica’s historic cemetery and underground catacombs have been a silent witness to the many struggles and accomplishments of prominent New York Catholics. It is where bishops rest beside noteworthy New Yorkers who have played important roles in New York, American, and Catholic history. Due to the lack of space, this practice was suspended. 
 
 
 ### [The Morgan Library and Museum](https://www.themorgan.org)
@@ -58,4 +72,15 @@ Take the A train to 190th Street and exit the station by elevator. Walk north al
 
 ### Carnegie Hall
 
+### [Trinity Place](https://www.trinityplacenyc.com)
+>A Restaurant & Bar built inside a turn of the century wall street Bank vault commissioned by none other than Andrew Carnegie, advertised as the worlds largest and strongest bank vault in the world in 1904 now a place for social gatherings where a modern American restaurant meets old world splendor.
+
+
+### NY Stock Exchange: [The Wall Street Experience](https://www.thewallstreetexperience.com/blog/experience-the-nyse/#0)
+>Despite the new security measures, there are still many ways to experience the New York Stock Exchange without going inside. So there is no need to feel left out!
+
+
+## Acknowledgments
+- [Noemy Derzsy](https://twitter.com/NoemiDerzsy)
+- 
 
