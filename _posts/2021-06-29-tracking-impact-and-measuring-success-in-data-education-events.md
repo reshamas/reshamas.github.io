@@ -1,0 +1,9 @@
+
+## Full Article
+For the full article, see [Tracking Impact and Measuring Success in Data Education Events](https://eventfund.codeforscience.org/tracking-impact-and-measuring-success-in-data-education-events/) on the CS&S (Code for Science & Society) Event Fund website.  
+
+## Authors
+Emily Lescak, Beth Duckles, Yo Yehudi, Reshama Shaikh, Leslie Alanis, Ciera Martinez, Yanina Bellini Saibene, Esther Plomp
+
+## Summary
+With the increase in computing power and available technologies to store and analyze data, the demand for data science skills has grown. To address this need, numerous entities are creating training via institutional and community-led events. Data education events upskill and train anyone who works with data, from new researchers to experienced data science practitioners. Organizers of such events strive to measure immediate and long-term impact so that they can improve training efficacy, recruit new partners and event participants, acquire funding, and fulfill funding requirements. Measuring the impact of these events can be challenging as the impact is often only shown after the event has completed, as skills are applied in real world scenarios. Also, impact is multi-dimensional and not always quantifiable. This csv,conf,v6 birds of a feather session, co-developed by Emily Lescak, Beth Duckles, Yo Yehudi, Yanina Bellini Saibene, Ciera Martinez, Leslie Alanis, and Reshama Shaikh, facilitated discussion for newcomers and experienced event outcome measurers alike, covering topics such as motivation for measuring impact, determining what we can measure and how we can measure it, challenges to measuring impact, and designing impact strategies for different stakeholders (e.g., funders, co-organizers, and the larger community). This post summarizes conversations surrounding these topics and provides resources to help you develop an impact strategy for your next event.
