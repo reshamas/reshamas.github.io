@@ -98,6 +98,10 @@ Take the A train to 190th Street and exit the station by elevator. Walk north al
 
 ### Flushing Main Street: The Other Chinatown
 
+### [Queens Night Market](http://queensnightmarket.com)
+- 7 train to 111 St.
+- Every Saturday at 4pm
+
 ---
 
 ## Food
