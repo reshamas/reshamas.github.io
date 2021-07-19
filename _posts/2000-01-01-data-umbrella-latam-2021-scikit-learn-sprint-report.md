@@ -139,25 +139,10 @@ Two-thirds of participants identified as having "none" or "beginner" level exper
 
 
 ## Resources for Contributing to scikit-learn 
-Because this was a virtual event and there is a limited capacity for being online for a full 8-hour day, a checklist was provided so folks could do preparation work at their own pace prior to the sprint.  
+Because this was a virtual event and there is a limited capacity for being online for a full 8-hour day, a checklist was provided so folks could do preparation work at their own pace prior to the sprint.  [Resources for Prep Work](https://latam2021.dataumbrella.org/about/prep-work) are available on the sprint website.
 
-### Videos
-Here are some videos in a [playlist](https://www.youtube.com/playlist?list=PLBKcU7Ik-ir-b1fwjNabO3b8ebs9ez5ga) that provide useful information on contributing to scikit-learn.
+A [Checklist](https://docs.google.com/document/d/1QknhXDJ4qtP8Co2SfqaPGaZ8J5grsMq08onxTXVvAFU/edit?usp=sharing) with highlighted notes to indicate updates from videos was also included.
 
-<p float="left">
-   <a href="https://www.dataumbrella.org/open-source/contributing-to-scikit-learn">
-  <img  src="../assets/images/2021-afme/afme-videos.png" width="99%" height="99%" style="border:0px;margin:0px">
-</a>
-</p>
-
-### Checklist
-Here is a [Checklist](https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing) to begin contributing to scikit-learn.  Interested contributors can organize their own sprint, work with a pair programming partner or work on their own.  Click on the image and it will link to a document that can be copied and edited for individual use.
-
-<p float="left">
-   <a href="https://docs.google.com/document/d/1uOnNUVs7Y-c3-CC4IEf42j8TSlP-UNFb53_lQZBvXEg/edit?usp=sharing">
-  <img  src="../assets/images/2021-afme/afme-checklist.png" width="99%" height="99%" style="border:0px;margin:0px">
-      </a>
-</p>
 
 ## Impact
 
@@ -192,14 +177,6 @@ These are the statistics for the videos that are considered documentation:
 
 Sprint outreach can be considered an impact.  Even if folks do not attend or apply, the sprint outreach brings more visibility and interest to the project.
 
-## Contributing to Other Libraries Post-Sprint
-One sprint participant used his open source skills to contribute to another Python library.
-
-<p float="left">
-   <a href="https://www.linkedin.com/posts/manailengmj_dataumbrella-africa-middle-east-scikit-learn-activity-6764474200422932480-2YL_">
-  <img  src="../assets/images/2021-afme/mabu2-pytorch.png" width="99%" height="99%" style="border:0px;margin:0px">
-      </a>
-</p>
 
 ## Event Outreach
 
@@ -237,8 +214,13 @@ The videos that were created can be quickly outdated compared to static print. V
 Some of the video content created is outdated.  A few of the following items need to be updated:  
 - branch on GitHub repo changed from `master` to `main` in January 2021
 - instructions for setting up virtual environment has been updated in the past year
-- 
 
+### Language Translations
+Responses to the sprint outreach were initially low.  The website and social media announcements were translated into Spanish and Portuguese.  Also, a number of other resources were translated, including video transcripts and feedback surveys.
+
+We had translators at all 3 events: pre-sprint, sprint, post-sprint.
+
+It's challenging and resource intensive to provide translations in 3 different languages.
 
 ## Adjustments for Next Sprint
 
@@ -259,53 +241,75 @@ We typically observe 10% no-show rates for this type of online event.  For this 
 ### #DataUmbrella Hashtag 
 Reminder to sprint participants to include this hashtag #DataUmbrella on their pull requests so we can track them.
 
-### Post any questions on #help_queue channel on Discord
-A number of sprint participants were waiting alone at their virtual table.  They did not proactively join the #help_queue channel to let us know their pair programming partner was not present.  We should include a reminder for this in our email communications and intro presentation.
 
-### Time of Event
-Due to availability of the lead organizer and scikit-learn core contributor, the sprint began at 8am WET (Western European Time), which was 8am Nigeria / West Africa time.  That is likely too early for a Saturday event.  Schedule event so focused participants begin at 9am or 10am at the earliest.
+
+
 
 
 ## Sprint Feedback
 
 Feedback has been shared a number of ways:  
-- Twitter [Moment](https://twitter.com/i/events/1358408128753238017)
-- Blogs
+- Twitter [Moment](https://twitter.com/i/moment_maker/preview/1409666048144596996
+)
+- Blogs (* none yet* )
 - Sprint survey
 - Social media (LinkedIn)
 - Casually, in conversation during the sprint, pre-sprint and post-sprint events
 
 ## Data Umbrella Feedback Survey
-Data Umbrella received 21 responses to our internal sprint survey. (21/31 = 68% response rate).
+Data Umbrella received 21 responses to our internal sprint survey. (21/40 = 52.5% response rate).
 
 Respondents rated their overall sprint experience highly favorably and had a positive experience working with their pair programming partner.  
 
+### Language
+The survey was translated from English to both Spanish and Portuguese.  This is the breakdown in responses received, by language:  
+- English: 16
+- Spanish: 4
+- Portuguese: 1
+
 In response to the question "*What are your favorite parts about the sprint?*"  
->- Pair programming
->- Getting to directly interact with sklearn's core contributors.
->- Working on issues and collaborating with my partner.
->- The amazing feeling of being part of a large community that cares.
->- Meeting people from different countries
->- Overall good arrangement + the presence of core-contributors to support through the whole process from setting the development environment to submitting and merging a PR
->- Meeting new people and getting to know core team 
->- Getting to meet the core contributors to sckit-learn. So helpful and friendly!
->- Pair programming, an Excellent sprint strategy
->- The communication with my pair programming partner
->- The community is great and friendly 
->- The pair programming and the feedback session with the core developers
->- There was ample knowledge to start working on things. It was very easy to get going with the shared information.
->- Working on an issue with a partner alongside a contributor. I got a better perspective on working on issues.
->- Getting help from the core contributors/developers and learning from my programming partner
->- discussing details of technical problems and solutions in small groups on discord / github
+- Pull request (PR)
+- The pre sprint was very helpful 
+- Everything! I was nervous but I could enjoy and learn all the event, was really good to meet everyone in Zoom and working with a partner.
+- All, was ok!
+- Working on the PR!
+- I could work on two issues and meet some interesting people.
+- Meeting new people and working in an open source project.
+- The mentors that were ready to answer our questions, made me feel really secure about contributing
+- Support from organizers and contributors. Engangement of the newbies. Overall networking.
+- I liked the whole process,  I can see the effort in the organization.
+- Being able to be in touch with an open source project and realizing how I can contribute to it, even with limited coding skills.
+- Discord time
+- Nothing to comment about it, all was fine.
 
-Some general feedback in the survey:  
 
->- I had a very good pair programming partner from a different country and profession. The sprint was planned very well. I definitely would love to participate in more of such sprints.
->- The experience was amazing and worth it I really learnt a lot and hopefully to keep up on working on more OS. Love the diversity and networking that comes along with am proud to have collaborated with my pair and contribution on the OS thank you for the great platform.
+#### Some general feedback in the survey:  
 
-One suggestion for improvement:  
->- *Have single comprehensive source of information for preparing the environment.*
+>"I think the difficulty of contributing to open source is two-fold: 
+(1) the tools: are not straightforward - `git`, `pytest`, etc. 
+(2) the knowledge: is very specific.
 
+>Maybe the preparation for the sprint could split the preparation into this steps. With github actions, learning the tools can be even easier."
+
+>I loved that. It has been my first experience in contributing with open source.
+
+>Overall the sprint was a good experience, the one slight "issue" I had was with the prework. I stressed a bit trying to get it all done before the deadline, but that didn't end up being important. It definitely was useful, though, I just happened to have a very busy week at work while preparing.
+
+>I was a bit shy to talk at the end of the event. I am really thankful to all the organizers. I am a great fan of sklearn so being able to participate was fantastic. Also, a great opportunity to learn in general and to learn how to contribute. Now I will continue contributing, but this was not something I thought I could do before, the Sprint and the mentors really help me to change my mind. The videos and documentation we had to read before the sprint were very useful. 
+
+>It was a really nice experience. I felt supported by the mentors and my partner, the code was appropriate. It's a great place to begin on contribute on open source.
+
+
+#### Suggestions for Improvement
+- A more step-by-step explanation for the "beginner PR" would have speed up things.
+- If I had installed all required packages previously. I just installed the development and not the documentation ones.
+- Maybe having two shorter separate sessions
+- Issue selection and categorization. 
+- Probably the way to inform the time of the event, there were some misunderstandings with the time zones
+- I didn't have this problem, but I saw many people were waiting on an issue to be merged (that made them loose the momentum) and then they had a few merge conflicts. I think the attendees with the problem should have immeditaly banded together as a team with a few mentors that could guide them and explain them the process, because some confessed to me that they were scared of the merge conflicts and that more advanced git stuff.
+- Instructions to test before submitting. For instance: to run `black`, besides `flake8`.
+- Having the videos updated
+- It would be nice to have an article about free pair programming tools.
 
 ### Social Media
 
