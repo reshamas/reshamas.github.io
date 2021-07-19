@@ -15,6 +15,11 @@ comments: false
 
 There is a list on the [scikit-learn wiki](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints). 
 
+2021
+- [Data Umbrella Latin America Sprint]()  (June 2021)
+- [Data Umbrella Africa & Middle East Sprint](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints) (Feb 2021)
+- [Fujitsu Research](https://www.fujitsu.com/global/about/research/article/202104-devsprint.html) (May 2021)
+
 - 2020
   - [EuroPython 2020 Sprints](https://wiki.python.org/moin/EuroPython2020/Sprints) (Jul 2020)
   - Data Umbrella + NYC PyLadies [First ONLINE sprint](https://tinyurl.com/sklearn-online) (Jun 2020)
