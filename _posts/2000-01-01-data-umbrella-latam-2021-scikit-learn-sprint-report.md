@@ -367,9 +367,15 @@ One suggestion for improvement:
 
 ### Karen
 
-<a>
+<p float="left">
+   <a href="https://www.linkedin.com/posts/karen-pal_scikitlearn-scikitlearnsprint-datascience-activity-6815275979380940801-t5b0g">
   <img  src="../assets/images/2021-latam/karen_li.png" width="99%" height="99%" style="border:0px;margin:0px">
       </a>
+</p>
+
+
+
+#### note
 
 [EN: merged!! 🥳 This saturday I made my first pull request to #scikitlearn ... and it got merged to main!](https://www.linkedin.com/posts/karen-pal_scikitlearn-scikitlearnsprint-datascience-activity-6815275979380940801-t5b0)
 ---
