@@ -441,6 +441,16 @@ One suggestion for improvement:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last time I had some issues with my laptop during the The <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> Latin America (LATAM) <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>, but today I&#39;m on about to do my first PR to <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> 🤞but first I&#39;ve to fix all the failing test :P <a href="https://t.co/LE6kpJKqFu">pic.twitter.com/LE6kpJKqFu</a></p>&mdash; J. M. Nápoles (@napoles3D) <a href="https://twitter.com/napoles3D/status/1413933539750412288?ref_src=twsrc%5Etfw">July 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+## Gloria
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6819656217850347520" height="775" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+## Karen
+
+  <img  src="../assets/images/2021-afme/karen_li.png" width="99%" height="99%" style="border:0px;margin:0px">
+      </a>
+
+[EN: merged!! 🥳 This saturday I made my first pull request to #scikitlearn ... and it got merged to main!](https://www.linkedin.com/posts/karen-pal_scikitlearn-scikitlearnsprint-datascience-activity-6815275979380940801-t5b0)
 ---
 
 ## Social Media Promotion
@@ -448,6 +458,7 @@ One suggestion for improvement:
 ### Twitter (English)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧵<br>📣Join us for our <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> <br>👉🏽with a focus on Latin America (LATAM)<br>🗓️26-Jun-2021<br>🕙11am-3pm UTC-5 (CDMX)<br>12-4pm EDT (NYC)<br>1-5pm UTC-3 (Sao Paolo)<br>🏢 Online<br><br>Thank you to our sponsors: <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> &amp; <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a> <br><br>Details on application: <a href="https://t.co/XkO2ytLKcH">https://t.co/XkO2ytLKcH</a> <a href="https://t.co/M1AWgXupPr">pic.twitter.com/M1AWgXupPr</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1394661734275821573?ref_src=twsrc%5Etfw">May 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 ### Twitter (Spanish)
 
@@ -459,6 +470,7 @@ One suggestion for improvement:
 
 ### LinkedIn (English)
 
+
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6800434143978156032" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 ### LinkedIn (Spanish)
@@ -468,4 +480,3 @@ One suggestion for improvement:
 ### LinkedIn (Portuguese)
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6808768331861118976" height="854" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
