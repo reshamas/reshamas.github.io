@@ -1,20 +1,16 @@
 
 
-
-
-
-
 <p float="left">
-  <img src="../assets/images/2021-afme/afme-group1.png" width="300" height="220"/>
-  <img src="../assets/images/2021-afme/afme-group2.png"  width="300" height="220"/> 
+  <img src="../assets/images/2021-latam/latam-group-cover.png" width="99%" height="99%"/> 
 </p>
+
 
 <p>
 </p>
 
 <p float="left">
    <a href="https://afme2021.dataumbrella.org/">
-  <img src="../assets/images/2021-afme/afme-social-media.png" width="99%" height="99%" style="border:0px;margin:0px">
+  <img src="../assets/images/2021-latam/DU_Latin_America_Sprint.png" width="99%" height="99%" style="border:0px;margin:0px">
 </a>
 </p>
 
@@ -42,14 +38,14 @@ Participants were encouraged to keep contributing to scikit-learn or other Pytho
 
 
 ## Sprint Agenda
-- 19-Jun-2021:  Pre-sprint Kickoff (12pm - 1pm) (UTC-4)
-- 26-Jun-2021:  Sprint  (12pm to 4pm) (UTC-4) 
-- 20-Feb-2021:  Sprint Follow-up Office Hours (12pm to 1pm) (UTC-4)
+- 19-Jun-2021:  Pre-sprint Kickoff (11am - 1pm) (UTC-5)
+- 26-Jun-2021:  Sprint  (11pm to 1pm) (UTC-5) 
+- 10-Jul-2021:  Sprint Follow-up Office Hours (11am to 12pm) (UTC-5)
 
-[a] UTC-4 = Sao Paolo Time  
+[a] UTC-5 = São Paulo, Brazil Time  
 
 ### Sprint Day
-The sprint officially ran 4 hours, which is limited time to submit a PR.  The participants continued to work on their sprint PRs throughout the day and weekend. Also, many scikit-learn core contributors were online to review the PRs over the weekend and provide feedback.    
+The sprint officially ran 4 hours, which is limited time to submit a PR.  The participants continued to work on their sprint PRs throughout the weekend.
 
 ### Follow-up Office Hours
 Office hours were set up 2 weeks after the sprint where some of the scikit-learn core contributors were available to answer questions on open PRs.  
@@ -395,3 +391,70 @@ One suggestion for improvement:
 ---
 ## Addendum
 - [no addendums or updates at the time of publication]
+
+## Sprint:  Social Media
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> Latin America (LATAM) <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> has kicked off!<a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/oss?src=hash&amp;ref_src=twsrc%5Etfw">#oss</a> <a href="https://twitter.com/hashtag/machinelearning?src=hash&amp;ref_src=twsrc%5Etfw">#machinelearning</a><br><br>With a great turnout. <br>First PR (#20367) has been submitted! <a href="https://t.co/opJdHtLXT7">pic.twitter.com/opJdHtLXT7</a></p>&mdash; Reshama Shaikh (@reshamas) <a href="https://twitter.com/reshamas/status/1408841488482590721?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Sofi 
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Yeey tengo commits en el repo de sklearn!! ❤️<br><br>Acaban de mergear el PR que hicimos con <a href="https://twitter.com/DrGleeks?ref_src=twsrc%5Etfw">@DrGleeks</a> en el <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>  🙌🏼 <br><br>Mil gracias <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> por organizar el evento, estuvo muy bueno! <a href="https://t.co/WM7hvnMkqE">pic.twitter.com/WM7hvnMkqE</a></p>&mdash; Sofi Denner (@sofide_) <a href="https://twitter.com/sofide_/status/1409594659429662720?ref_src=twsrc%5Etfw">June 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Anavelyz
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Alguien: Y... ¿qué es el open source?<br><br>Yo: Es la posibilidad de sumar y convertir pequeñas líneas de código en un proyecto fuerte que cambia constantemente para mejor...<br><br>¡Gracias <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> y <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> por hacer posible nuestro primer Pull requests!<a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> <a href="https://t.co/mf8XDURzP5">pic.twitter.com/mf8XDURzP5</a></p>&mdash; Anavelyz Perez (@AnavelyzJPR) <a href="https://twitter.com/AnavelyzJPR/status/1408969933149585408?ref_src=twsrc%5Etfw">June 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Cristina 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Second <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> done. Happy to be part of this family! <a href="https://twitter.com/hashtag/dataumbrella?src=hash&amp;ref_src=twsrc%5Etfw">#dataumbrella</a> <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://t.co/rePO07cSSK">https://t.co/rePO07cSSK</a></p>&mdash; CristinaMulas (@MulasCristina) <a href="https://twitter.com/MulasCristina/status/1408925138448535557?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Jenn
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Learning with <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> and <a href="https://twitter.com/hashtag/ScikitLearn?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearn</a> about <a href="https://twitter.com/hashtag/machine?src=hash&amp;ref_src=twsrc%5Etfw">#machine</a> <a href="https://twitter.com/hashtag/learning?src=hash&amp;ref_src=twsrc%5Etfw">#learning</a> <a href="https://twitter.com/hashtag/OpenSource?src=hash&amp;ref_src=twsrc%5Etfw">#OpenSource</a> was a great experience! <a href="https://t.co/98wdS2ykgN">https://t.co/98wdS2ykgN</a></p>&mdash; Jenn (@j3nnn1) <a href="https://twitter.com/j3nnn1/status/1408903045870665730?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Maren
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">So happy to be part of another scikit-learn sprint. I&#39;m having a great time and am learning lots. 🙂👩🏼‍🎓 <a href="https://t.co/581dGmG7jk">https://t.co/581dGmG7jk</a></p>&mdash; Maren Westermann (@MarenWestermann) <a href="https://twitter.com/MarenWestermann/status/1408884511195140096?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Kardaver
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">yay! 🥳 my first PR merged to <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> , all thanks to <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> organized by <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> <br>Go team LATAM!!!<a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/oss?src=hash&amp;ref_src=twsrc%5Etfw">#oss</a> <a href="https://twitter.com/hashtag/machinelearning?src=hash&amp;ref_src=twsrc%5Etfw">#machinelearning</a> <a href="https://t.co/HV9JrA5C6B">pic.twitter.com/HV9JrA5C6B</a></p>&mdash; kardaver (@kardaver2) <a href="https://twitter.com/kardaver2/status/1408849671959744514?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">and a second PR merged! congrats for such a great event <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> Everyone was really helpful and welcoming at <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>. I can totally see myself continuing to contribute to sklearn 🤩 love the community!<a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/oss?src=hash&amp;ref_src=twsrc%5Etfw">#oss</a> <a href="https://twitter.com/hashtag/machinelearning?src=hash&amp;ref_src=twsrc%5Etfw">#machinelearning</a> <a href="https://t.co/xWpgReJT2T">pic.twitter.com/xWpgReJT2T</a></p>&mdash; kardaver (@kardaver2) <a href="https://twitter.com/kardaver2/status/1408878315675525124?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### Andres
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Learning how to <a href="https://twitter.com/hashtag/GivingBack?src=hash&amp;ref_src=twsrc%5Etfw">#GivingBack</a> to <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> in <a href="https://twitter.com/hashtag/latam?src=hash&amp;ref_src=twsrc%5Etfw">#latam</a><br>whit <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> and <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> <br>🤓🐍❤<a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/oss?src=hash&amp;ref_src=twsrc%5Etfw">#oss</a> <a href="https://twitter.com/hashtag/machinelearning?src=hash&amp;ref_src=twsrc%5Etfw">#machinelearning</a> <a href="https://t.co/FQFORF5zog">https://t.co/FQFORF5zog</a></p>&mdash; Andres Rios (@ariosramirez) <a href="https://twitter.com/ariosramirez/status/1408875364701589504?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Sebastian
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My first PR submitted to <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> during <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> :<a href="https://t.co/jdsTRUmCgI">https://t.co/jdsTRUmCgI</a></p>&mdash; Sebastian Flores (@sebastiandres) <a href="https://twitter.com/sebastiandres/status/1408860077319196678?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Pablo
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First time at the <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> LatAm <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>. <a href="https://t.co/S3hh8uH51B">https://t.co/S3hh8uH51B</a></p>&mdash; Pablo Ibieta (@pabloibieta) <a href="https://twitter.com/pabloibieta/status/1408859492058603521?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Mariela
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">Empezando el Latin America (LATAM) <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> !!!!<br><br>🤓🥳🤓<a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> <a href="https://t.co/ZWQgaNyYXm">https://t.co/ZWQgaNyYXm</a></p>&mdash; )*.*( (@mariela_rajng) <a href="https://twitter.com/mariela_rajng/status/1408842643736600585?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+## Social Media Promotion
+
+### Twitter (English)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🧵<br>📣Join us for our <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> <br>👉🏽with a focus on Latin America (LATAM)<br>🗓️26-Jun-2021<br>🕙11am-3pm UTC-5 (CDMX)<br>12-4pm EDT (NYC)<br>1-5pm UTC-3 (Sao Paolo)<br>🏢 Online<br><br>Thank you to our sponsors: <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> &amp; <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a> <br><br>Details on application: <a href="https://t.co/XkO2ytLKcH">https://t.co/XkO2ytLKcH</a> <a href="https://t.co/M1AWgXupPr">pic.twitter.com/M1AWgXupPr</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1394661734275821573?ref_src=twsrc%5Etfw">May 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Twitter (Spanish)
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">en español <a href="https://t.co/UWvMD4Lrq2">https://t.co/UWvMD4Lrq2</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1398631578088116231?ref_src=twsrc%5Etfw">May 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Twitter (Portuguese)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">en pt_br (Brazilian Portuguese) 🇧🇷<a href="https://t.co/TMk1PL8EnA">https://t.co/TMk1PL8EnA</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1400168384722051076?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### LinkedIn (English)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6800434143978156032" height="670" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+### LinkedIn (Spanish)
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6804481435530002432" height="857" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+### LinkedIn (Portuguese)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6808768331861118976" height="854" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
