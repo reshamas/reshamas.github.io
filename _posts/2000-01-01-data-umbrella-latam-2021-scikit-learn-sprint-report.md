@@ -385,11 +385,11 @@ One suggestion for improvement:
 
 ### Twitter (Spanish)
 
-<blockquote class="twitter-tweet"><p lang="es" dir="ltr">en español <a href="https://t.co/UWvMD4Lrq2">https://t.co/UWvMD4Lrq2</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1398631578088116231?ref_src=twsrc%5Etfw">May 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">🎉Únete a <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> <br>👉América Latina (LATAM)<br>📆26-Jun-2021<br>⏰11am-3pm UTC-5 (CDMX)<br>12-4pm EDT (NYC)<br>1-5pm UTC-3 (Sao Paolo)<br>🏢Online<br><br>Patrocinadores: <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> &amp; <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a><br><br> Aplicación: <a href="https://t.co/wLNX2uhugf">https://t.co/wLNX2uhugf</a><br>No te olvides de enviar la aplicación<a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> <a href="https://t.co/RoiPrUuXHP">pic.twitter.com/RoiPrUuXHP</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1397952184541716484?ref_src=twsrc%5Etfw">May 27, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Twitter (Portuguese)
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">en pt_br (Brazilian Portuguese) 🇧🇷<a href="https://t.co/TMk1PL8EnA">https://t.co/TMk1PL8EnA</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1400168384722051076?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">pt_br (Brazilian Portuguese) 🇧🇷<br>📣Junte-se ao <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a><br>👉🏽América Latina (LATAM)<br>🗓️26-Jun-2021<br>• 11am-3pm UTC-5 (CDMX)<br>• 12-4pm EDT (NYC)<br>• 1-5pm UTC-3 (São Paulo)<br>Inscrição: <a href="https://t.co/wLNX2uhugf">https://t.co/wLNX2uhugf</a><br>Não esqueça de se inscrever <a href="https://t.co/EP23Sqrnog">pic.twitter.com/EP23Sqrnog</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1400168178903404544?ref_src=twsrc%5Etfw">June 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### LinkedIn (English)
 
