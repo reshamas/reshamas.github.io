@@ -421,6 +421,9 @@ One suggestion for improvement:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Learning how to <a href="https://twitter.com/hashtag/GivingBack?src=hash&amp;ref_src=twsrc%5Etfw">#GivingBack</a> to <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> in <a href="https://twitter.com/hashtag/latam?src=hash&amp;ref_src=twsrc%5Etfw">#latam</a><br>whit <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> and <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> <br>🤓🐍❤<a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/oss?src=hash&amp;ref_src=twsrc%5Etfw">#oss</a> <a href="https://twitter.com/hashtag/machinelearning?src=hash&amp;ref_src=twsrc%5Etfw">#machinelearning</a> <a href="https://t.co/FQFORF5zog">https://t.co/FQFORF5zog</a></p>&mdash; Andres Rios (@ariosramirez) <a href="https://twitter.com/ariosramirez/status/1408875364701589504?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Sebastian
+
+<blockquote class="twitter-tweet"><p lang="es" dir="ltr">¡Llegó el día! Comienza el <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> de <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> con foco en Latinoamérica.</p>&mdash; Sebastian Flores (@sebastiandres) <a href="https://twitter.com/sebastiandres/status/1408817665137905667?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My first PR submitted to <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> during <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> :<a href="https://t.co/jdsTRUmCgI">https://t.co/jdsTRUmCgI</a></p>&mdash; Sebastian Flores (@sebastiandres) <a href="https://twitter.com/sebastiandres/status/1408860077319196678?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Pablo
@@ -429,6 +432,14 @@ One suggestion for improvement:
 ### Mariela
 
 <blockquote class="twitter-tweet"><p lang="es" dir="ltr">Empezando el Latin America (LATAM) <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> !!!!<br><br>🤓🥳🤓<a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a> <a href="https://t.co/ZWQgaNyYXm">https://t.co/ZWQgaNyYXm</a></p>&mdash; )*.*( (@mariela_rajng) <a href="https://twitter.com/mariela_rajng/status/1408842643736600585?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Ludimila
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is my first time contributing to open-source projects and starting contributing to sklearn makes me so happy cause it&#39;s a lib that changed everything in ML, thanks <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> for the opportunity <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a></p>&mdash; Ludimila Carvalho (@ludigoncalves) <a href="https://twitter.com/ludigoncalves/status/1408815690111492099?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## JM
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last time I had some issues with my laptop during the The <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> Latin America (LATAM) <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>, but today I&#39;m on about to do my first PR to <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> 🤞but first I&#39;ve to fix all the failing test :P <a href="https://t.co/LE6kpJKqFu">pic.twitter.com/LE6kpJKqFu</a></p>&mdash; J. M. Nápoles (@napoles3D) <a href="https://twitter.com/napoles3D/status/1413933539750412288?ref_src=twsrc%5Etfw">July 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
