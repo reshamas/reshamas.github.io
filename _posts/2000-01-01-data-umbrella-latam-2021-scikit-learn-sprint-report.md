@@ -9,7 +9,7 @@
 </p>
 
 <p float="left">
-   <a href="https://afme2021.dataumbrella.org/">
+   <a href="https://latam2021.dataumbrella.org/">
   <img src="../assets/images/2021-latam/DU_Latin_America_Sprint.png" width="99%" height="99%" style="border:0px;margin:0px">
 </a>
 </p>
@@ -68,13 +68,27 @@ Given the migration in the region, these other countries were also represented i
 There were two invited contributors, joining from India and Germany.  Invited contributors were those who participated in a prior sprint and have continued contributing to scikit-learn.  They were paired with a new contributor.  
 
 ### Applications Received
-The countries in the AFME region with the most applicants are:  
-- Nigeria:  20
-- Kenya:  12
-- Saudi Arabia:  8
-- South Africa:  5
-- Sweden: 4
-- Morocco:  4
+The countries in the Latin America region with the most applicants are:  
+- Brasil: 36
+- Argentina: 26
+- Colombia: 11
+- Venezuela:  9
+- Mexico:  5
+- Peru: 3
+- Ecuador: 3
+- Chile: 2
+- Bolivia: 1
+- Costa Rica: 1
+- Guatemala: 1
+
+Applications from regions outside of Latin America include: 
+- United States: 10 
+- India: 7 
+- Canada: 2 
+- Germany: 2 
+- Spain: 2 
+
+Other countries with 1 application each: Australia, Greece, Poland, Romania, Saudi Arabia, United Kingdom.
 
 ### Spoken Languages
 All communication was in English. All participants felt comfortable conversing in English. Languages spoken by participants included:  English, Arabic, French, Kishwahli, Persian, Hindi, Urdu, Turkish and German.
@@ -104,7 +118,7 @@ Two-thirds of participants identified as having "none" or "beginner" level exper
 | Organizers      | [Reshama Shaikh](https://twitter.com/reshamas) & [Mariam Haji](https://www.linkedin.com/in/mariamhaji/)    |
 | Helpers      | Cristina Mulas Lopez, Sara El-Ateif   |
 | Lead Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml) |
-| Mentors / Translations | Melissa Mendoncz Weber, Cristian Ferreira  |  
+| Mentors / Translations | Melissa Mendonca Weber, Cristian Ferreira, Michael Eickenberg  |  
 | Scikit-learn core contributors    | Thomas Fan, Adrin Jalali, Guillaume LeMaitre  |  
 | Invited Contributors | Maren Westerman |
 | Teaching Assistants  | None |
@@ -189,23 +203,41 @@ One sprint participant used his open source skills to contribute to another Pyth
 
 ## Event Outreach
 
-This tweet had 90K+ impressions and 320 link clicks:  
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">📣Join us for our <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> <br>👉🏽with a focus on Africa &amp; Middle East (AFME)<br><br>🗓️06-Feb-2021<br>🕙10am to 2pm EAT<br>🏢 Online<br><br>Thank you to our sponsors: <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> &amp; <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a><br><br>Details on application: <a href="https://t.co/TOMAJpkcF0">https://t.co/TOMAJpkcF0</a> <a href="https://t.co/oXq4yjq3XI">pic.twitter.com/oXq4yjq3XI</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1346486322958131202?ref_src=twsrc%5Etfw">January 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
+This [LATAM sprint tweet](https://twitter.com/DataUmbrella/status/1394661734275821573)
+ had 80K+ impressions and 160+ link clicks:
 
-This LinkedIn post had ~3200 views and 53 shares:  
+  <img  src="../assets/images/2021-latam/twitter_stats.png" width="99%" height="99%" style="border:0px;margin:0px">
+      </a>
 
-<p>
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6752255119921876992" height="869" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-</p>
+This [LATAM LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6800434144624070656/)
+ had 3200 impressions and 50 reshares:
+
+  <img  src="../assets/images/2021-latam/li_stats.png" width="99%" height="99%" style="border:0px;margin:0px">
+      </a>
 
 Google Analytics shows the reach of our marketing efforts:  
 
 <p float="left">
-  <img  src="../assets/images/2021-afme/ga-map.png" width="99%" height="99%" style="border:0px;margin:0px">
-
+  <img  src="../assets/images/2021-latam/latam_language.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
+
+<p float="left">
+  <img  src="../assets/images/2021-latam/latam_map.png" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
+
+<p float="left">
+  <img  src="../assets/images/2021-latam/latam_countries.png" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
+
+## Challenges
+
+### Videos
+The videos that were created can be quickly outdated compared to static print. Videos are more accessible, but also take more effort to create.
+
+Some of the video content created is outdated.  A few of the following items need to be updated:  
+- branch on GitHub repo changed from `master` to `main` in January 2021
+- instructions for setting up virtual environment has been updated in the past year
+- 
 
 
 ## Adjustments for Next Sprint
@@ -325,17 +357,18 @@ One suggestion for improvement:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Today is my first time contributing to open-source projects and starting contributing to sklearn makes me so happy cause it&#39;s a lib that changed everything in ML, thanks <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> for the opportunity <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a></p>&mdash; Ludimila Carvalho (@ludigoncalves) <a href="https://twitter.com/ludigoncalves/status/1408815690111492099?ref_src=twsrc%5Etfw">June 26, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## JM
+### JM
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last time I had some issues with my laptop during the The <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> Latin America (LATAM) <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>, but today I&#39;m on about to do my first PR to <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> 🤞but first I&#39;ve to fix all the failing test :P <a href="https://t.co/LE6kpJKqFu">pic.twitter.com/LE6kpJKqFu</a></p>&mdash; J. M. Nápoles (@napoles3D) <a href="https://twitter.com/napoles3D/status/1413933539750412288?ref_src=twsrc%5Etfw">July 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Gloria
+### Gloria
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6819656217850347520" height="775" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
-## Karen
+### Karen
 
-  <img  src="../assets/images/2021-afme/karen_li.png" width="99%" height="99%" style="border:0px;margin:0px">
+<a>
+  <img  src="../assets/images/2021-latam/karen_li.png" width="99%" height="99%" style="border:0px;margin:0px">
       </a>
 
 [EN: merged!! 🥳 This saturday I made my first pull request to #scikitlearn ... and it got merged to main!](https://www.linkedin.com/posts/karen-pal_scikitlearn-scikitlearnsprint-datascience-activity-6815275979380940801-t5b0)
