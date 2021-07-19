@@ -84,28 +84,31 @@ Two-thirds of participants identified as having "none" or "beginner" level exper
 
 
 ### Number of Participants
-- About 15 participants joined the pre-sprint event
-- 31 participants joined the sprint
-- 7 participants joined the post-sprint event
+- Pre-sprint event:  ~ 29
+- Sprint:  ~ 40
+- Post-sprint event:  12
+
 
 ## Impact Report for Data Umbrella Scikit-learn Sprint
 
-|                                       | Sprint 2020    |
+|                                       | Sprint 2021    |
 |---------------------------------------|----------------|
-| Report date                           | 28-Feb-2021    |
+| Report date                           | 19-Jul-2021    |
 | Report author                          | Reshama Shaikh   |
-| Sprint date                           | 06-Feb-2021    |
-| Location                              | Online; Africa & Middle East (AFME)         |
-| Sprint website | [afme2021.dataumbrella.org](https://afme2021.dataumbrella.org) |
-|                | Twitter [Moment](https://twitter.com/reshamas/status/1358409282006450178) |
+| Sprint date                           | 26-Jun-2021    |
+| Location                              | Online; Latin America (LATAM)         |
+| Sprint website | [latam2021.dataumbrella.org](https://latam2021.dataumbrella.org) |
+| Twitter | [Moment](https://twitter.com/i/moment_maker/preview/1409666048144596996) |
 | Open source library                   | [scikit-learn](https://github.com/scikit-learn/scikit-learn) |  
 | GitHub repository link                | [data-umbrella/data-umbrella-scikit-learn-sprint](https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint)| |
 | Organizers      | [Reshama Shaikh](https://twitter.com/reshamas) & [Mariam Haji](https://www.linkedin.com/in/mariamhaji/)    |
+| Helpers      | Cristina Mulas Lopez, Sara El-Ateif   |
 | Lead Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml) |
-| Scikit-learn core contributors    | Adrin Jalali, Olivier Grisel, Guillaume LeMaitre  |  
-| Invited Contributors | Amanda D'Souza & Maren Westerman |
-| Teaching Assistants                   | None |
-| Platforms                          | Discord & Zoom |
+| Mentors / Translations | Melissa Mendoncz Weber, Cristian Ferreira  |  
+| Scikit-learn core contributors    | Thomas Fan, Adrin Jalali, Guillaume LeMaitre  |  
+| Invited Contributors | Maren Westerman |
+| Teaching Assistants  | None |
+| Platforms            | Discord & Zoom |
 | Sponsor: | Grant [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from [Gordon and Betty Moore Foundation](https://www.moore.org) & [Code for Science and Society](https://eventfund.codeforscience.org)   |
 |            |                |
 | PULL REQUESTS **(PRs)**                 |          |
@@ -191,7 +194,7 @@ This tweet had 90K+ impressions and 320 link clicks:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">📣Join us for our <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> <br>👉🏽with a focus on Africa &amp; Middle East (AFME)<br><br>🗓️06-Feb-2021<br>🕙10am to 2pm EAT<br>🏢 Online<br><br>Thank you to our sponsors: <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> &amp; <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a><br><br>Details on application: <a href="https://t.co/TOMAJpkcF0">https://t.co/TOMAJpkcF0</a> <a href="https://t.co/oXq4yjq3XI">pic.twitter.com/oXq4yjq3XI</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1346486322958131202?ref_src=twsrc%5Etfw">January 5, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
-This LinkedIn post had ~2500 views and 35 shares:  
+This LinkedIn post had ~3200 views and 53 shares:  
 
 <p>
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6752255119921876992" height="869" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
@@ -391,8 +394,11 @@ One suggestion for improvement:
 ---
 
 ## References
+### Upcoming Sprints
 - [List of Upcoming scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events)
-- [List of Past scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints)
+
+### Past Sprints
+- [List of Past scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints) (scikit-learn wiki)
 - [List of scikit-learn Sprints](https://reshamas.github.io/resources/scikit_learn_sprints/) (compiled by Reshama Shaikh)
 - [scikit-learn Sprints Organized by Reshama Shaikh](https://www.dataumbrella.org/open-source/sprints)
 
