@@ -274,123 +274,8 @@ One suggestion for improvement:
 
 ### Social Media
 
-#### Mabu
-
-<p float="left">
-   <a href="https://www.linkedin.com/posts/manailengmj_if-youre-a-scikit-learn-and-pytorch-lighting-activity-6765559648826212352-Pj6t">
-  <img  src="../assets/images/2021-afme/mabu1-li.png" width="99%" height="99%" style="border:0px;margin:0px">
-      </a>
-</p>
 
 
-#### Fortune
-
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats <a href="https://twitter.com/fortune_uwha?ref_src=twsrc%5Etfw">@fortune_uwha</a>! 🌟🌟<br><br>&gt; LGTM. Adding tests as a first time contributor, respect! <a href="https://t.co/wE6qdHHkHb">pic.twitter.com/wE6qdHHkHb</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1358148474739560448?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First time contributor to open source/scikit learn 🎉🎉. The <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> session was so much fun! We got a chance to meet the core contributors. Super grateful to <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> and <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a> for supporting <a href="https://twitter.com/DataUmbrellaAFR?ref_src=twsrc%5Etfw">@DataUmbrellaAFR</a> <br><br>Submitted PR. 🤞on getting merged.<a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a></p>&mdash; Fortune Uwha🦋 (@fortune_uwha) <a href="https://twitter.com/fortune_uwha/status/1358075788457889792?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-#### Haidar
-<p>
-  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I got my first <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> PR merged it was a very small contribution but a big event for me<br>Thanks to <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> for organizing the <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a><br><br>I might write a short description about my experience @ <a href="https://t.co/gwlHNy22yU">https://t.co/gwlHNy22yU</a> <a href="https://t.co/3uHaD80LzP">pic.twitter.com/3uHaD80LzP</a></p>&mdash; Haidar AlMubarak (@HALMUBARAK) <a href="https://twitter.com/HALMUBARAK/status/1366860526593179652?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-  
-  </p>
-  
-#### Amanda
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">As always, a great time at <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a>&#39;s <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>. Pair programming works! <a href="https://t.co/k6uVQsffL5">https://t.co/k6uVQsffL5</a></p>&mdash; amanda dsouza (@amanda_dsouza) <a href="https://twitter.com/amanda_dsouza/status/1358079552518381572?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-#### Clifford
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">First time wrangling through the sklearn code base. The <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a> session was enlightening. We met the core developers too. And my programming partner was ❤️❤️<br><br>Thank you <a href="https://twitter.com/DataUmbrellaAFR?ref_src=twsrc%5Etfw">@DataUmbrellaAFR</a>.<br><br>✌️ on the PR review though😅<a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/datascience?src=hash&amp;ref_src=twsrc%5Etfw">#datascience</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a></p>&mdash; Clifford Emmanuel Akai-Nettey (@ce_akainettey) <a href="https://twitter.com/ce_akainettey/status/1358028354537091073?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-#### Maren
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m very grateful for having been invited as a returning contributor to assist a first time contributor with getting a pull request submitted. My pair programming partner and I successfully made a PR. Fingers crossed our changes pass the tests and get merged. 🤞🏾 <a href="https://t.co/Lga4eIA67L">https://t.co/Lga4eIA67L</a></p>&mdash; Maren Westermann (@MarenWestermann) <a href="https://twitter.com/MarenWestermann/status/1358020745788616704?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-#### Ogbonna
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Special thanks to the sponsors, core contributors <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> <a href="https://twitter.com/glemaitre58?ref_src=twsrc%5Etfw">@glemaitre58</a> <a href="https://twitter.com/xlorentzen?ref_src=twsrc%5Etfw">@xlorentzen</a> <a href="https://twitter.com/ogrisel?ref_src=twsrc%5Etfw">@ogrisel</a> for their guidance, assistance and enabling me to learn and contribute, and to my pair programmer, Rukuyat Amzat. <a href="https://twitter.com/hashtag/opensource?src=hash&amp;ref_src=twsrc%5Etfw">#opensource</a> <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/MachineLearning?src=hash&amp;ref_src=twsrc%5Etfw">#MachineLearning</a></p>&mdash; Ogbonna Chibuike (@OgbonnaChibuiks) <a href="https://twitter.com/OgbonnaChibuiks/status/1359539381586042881?ref_src=twsrc%5Etfw">February 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-#### Muhammad
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Made my first open-source contribution last week, with 2 pull requests merged into the <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> project! 🥳🥳<br><br>Huge thanks to <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> and <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> for organising the event and to <a href="https://twitter.com/glemaitre58?ref_src=twsrc%5Etfw">@glemaitre58</a> and <a href="https://twitter.com/ogrisel?ref_src=twsrc%5Etfw">@ogrisel</a> for guiding me through it!</p>&mdash; Muhammed Jarir Kanji (@mjkanji) <a href="https://twitter.com/mjkanji/status/1360000590550601732?ref_src=twsrc%5Etfw">February 11, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-#### Fortune
-
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Two issues. Two PR approved and merged 🎉🎉. This sure feels good. Me and my pair programming partner(Cee thinwa) rock😁. Thanks to <a href="https://twitter.com/ogrisel?ref_src=twsrc%5Etfw">@ogrisel</a> <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> for making this possible.<br><br>Meanwhile, I wrote an article about my experience on medium. 👇 <a href="https://t.co/RoHLSSmM7S">https://t.co/RoHLSSmM7S</a> <a href="https://t.co/kKQn3ItDkb">pic.twitter.com/kKQn3ItDkb</a></p>&mdash; Fortune Uwha🦋 (@fortune_uwha) <a href="https://twitter.com/fortune_uwha/status/1360271175293763586?ref_src=twsrc%5Etfw">February 12, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Congrats <a href="https://twitter.com/fortune_uwha?ref_src=twsrc%5Etfw">@fortune_uwha</a>! 🌟🌟<br><br>&gt; LGTM. Adding tests as a first time contributor, respect! <a href="https://t.co/wE6qdHHkHb">pic.twitter.com/wE6qdHHkHb</a></p>&mdash; Data Umbrella (@DataUmbrella) <a href="https://twitter.com/DataUmbrella/status/1358148474739560448?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-#### Anas
-<p>
-  <blockquote class="twitter-tweet"><p lang="en" dir="ltr">very happy to be part of <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a>, many thanks to <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> for this amazing opportunity. <a href="https://t.co/M34gNPX5Qd">https://t.co/M34gNPX5Qd</a></p>&mdash; anas (@hasnii_anas) <a href="https://twitter.com/hasnii_anas/status/1358161456185962497?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-#### Feras
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> <a href="https://twitter.com/codeforsociety?ref_src=twsrc%5Etfw">@codeforsociety</a> <a href="https://twitter.com/MooreFound?ref_src=twsrc%5Etfw">@MooreFound</a><br>for organizing <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a><br>It was a pleasure meeting you <a href="https://twitter.com/reshamas?ref_src=twsrc%5Etfw">@reshamas</a> and the great team!</p>&mdash; Feras O (@Feras_Oughali) <a href="https://twitter.com/Feras_Oughali/status/1358012520322203649?ref_src=twsrc%5Etfw">February 6, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-#### Cindy
-<p>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thank you <a href="https://twitter.com/DataUmbrella?ref_src=twsrc%5Etfw">@DataUmbrella</a> for organising a great sprint and to all the <a href="https://twitter.com/scikit_learn?ref_src=twsrc%5Etfw">@scikit_learn</a> contributors for supporting! <a href="https://twitter.com/hashtag/ScikitLearnSprint?src=hash&amp;ref_src=twsrc%5Etfw">#ScikitLearnSprint</a></p>&mdash; Cindy Bezuidehout (@CBezuidehout) <a href="https://twitter.com/CBezuidehout/status/1358379866836631552?ref_src=twsrc%5Etfw">February 7, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
-
-
-#### [Sohayb Elmraoui](https://www.linkedin.com/in/sohayb-elamraoui/) 
-
->Thank you Reshama Shaikh, Data Umbrella, Andreas Mueller, and Scikit-Learn team for organizing this event. It was a great opportunity meeting you all and contributing to the library. [LI post](https://www.linkedin.com/posts/sohayb-elamraoui_scikitlearnsprint-opensource-datascience-activity-6764528402184646657-5QmY)
-
-
-#### [Feras](ww.linkedin.com/in/ferasoughali/) 
-
->Thank you Reshama Shaikh, Data Umbrella, Andreas Mueller, and Scikit-Learn team for organizing this event. It was a great opportunity meeting you all and contributing to the library. [LI post](https://www.linkedin.com/posts/ferasoughali_scikitlearnsprint-opensource-datascience-activity-6763776157331574784-IJAc)
-
-
-
-
----
-
-## Acknowledgments
-- All the [scikit-learn core contributors](https://scikit-learn.org/stable/about.html) who mentored at the sprint and those who were online during the weekend afterwards to promptly review the submitted pull requests.
-
-
-
-
-## Pull Request Statistics
-- [PRs merged on sprint day](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+pr%3Amerged%3A>%3D2021-02-06+pr%3Acreated%3A<%3D2021-02-07+%23DataUmbrella+): 7 (from AFME sprint)
-    -  Query:  `is:pr is:merged pr:merged:>=2021-02-06 pr:created:<=2021-02-07 #DataUmbrella `
-- [Open PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen+pr%3Acreated%3A>%3D2021-02-06+pr%3Acreated%3A<%3D2021-03-01+%23DataUmbrella+): 9 (from AFME sprint)
-    -  Query:  `is:pr is:open pr:created:>=2021-02-06 pr:created:<=2021-03-01 #DataUmbrella `
-- [Open](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen++%23DataUmbrella+) (w/o date range): 10
-    - Query: `is:pr is:open  #DataUmbrella`
-- [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2021-02-06+%23DataUmbrella+): 19 (>= 2021-02-06)
-    - Query: `is:pr is:merged created:>=2021-02-06 #DataUmbrella`
-- [Merged](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2021-02-06+%23DataUmbrella) (w/o date range): 79
-    - Query: `is:pr is:merged #DataUmbrella`
-
----
-
-## References
-- [List of Upcoming scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events)
-- [List of Past scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints)
-- [List of scikit-learn Sprints](https://reshamas.github.io/resources/scikit_learn_sprints/) (compiled by Reshama Shaikh)
-- [scikit-learn Sprints Organized by Reshama Shaikh](https://www.dataumbrella.org/open-source/sprints)
-
----
-## Addendum
-- [no addendums or updates at the time of publication]
 
 ## Sprint:  Social Media
 
@@ -480,3 +365,37 @@ One suggestion for improvement:
 ### LinkedIn (Portuguese)
 
 <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6808768331861118976" height="854" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
+
+
+---
+
+## Acknowledgments
+- All the [scikit-learn core contributors](https://scikit-learn.org/stable/about.html) who mentored at the sprint and those who were online during the weekend afterwards to promptly review the submitted pull requests.
+
+
+
+
+## Pull Request Statistics
+- [PRs merged on sprint day](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+pr%3Amerged%3A>%3D2021-02-06+pr%3Acreated%3A<%3D2021-02-07+%23DataUmbrella+): 7 (from AFME sprint)
+    -  Query:  `is:pr is:merged pr:merged:>=2021-02-06 pr:created:<=2021-02-07 #DataUmbrella `
+- [Open PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen+pr%3Acreated%3A>%3D2021-02-06+pr%3Acreated%3A<%3D2021-03-01+%23DataUmbrella+): 9 (from AFME sprint)
+    -  Query:  `is:pr is:open pr:created:>=2021-02-06 pr:created:<=2021-03-01 #DataUmbrella `
+- [Open](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen++%23DataUmbrella+) (w/o date range): 10
+    - Query: `is:pr is:open  #DataUmbrella`
+- [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2021-02-06+%23DataUmbrella+): 19 (>= 2021-02-06)
+    - Query: `is:pr is:merged created:>=2021-02-06 #DataUmbrella`
+- [Merged](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2021-02-06+%23DataUmbrella) (w/o date range): 79
+    - Query: `is:pr is:merged #DataUmbrella`
+
+---
+
+## References
+- [List of Upcoming scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events)
+- [List of Past scikit-learn Sprints](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints)
+- [List of scikit-learn Sprints](https://reshamas.github.io/resources/scikit_learn_sprints/) (compiled by Reshama Shaikh)
+- [scikit-learn Sprints Organized by Reshama Shaikh](https://www.dataumbrella.org/open-source/sprints)
+
+---
+## Addendum
+- [no addendums or updates at the time of publication]
