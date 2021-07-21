@@ -1,7 +1,9 @@
 
 
 <p float="left">
+<a href="https://twitter.com/reshamas/status/1408841488482590721">
   <img src="../assets/images/2021-latam/latam-group-cover.png" width="99%" height="99%"/> 
+</a>
 </p>
 
 
@@ -23,7 +25,7 @@ This sprint was organized by [Data Umbrella](https://www.dataumbrella.org) to in
 This report focuses on the summary, impact and lessons learned of the Data Umbrella LATAM scikit-learn sprint.  
 
 ## Event Sponsor
-This event was funded in part by a grant from Code for Science & Society, made possible by grant number [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from the Gordon and Betty Moore Foundation.
+This event was funded in part by a grant from [Code for Science & Society](https://eventfund.codeforscience.org/), made possible by grant number [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from the [Gordon and Betty Moore Foundation](https://www.moore.org/).
 
 
 
@@ -43,10 +45,10 @@ Participants were encouraged to keep contributing to scikit-learn or other Pytho
 
 ## Sprint Agenda
 - 19-Jun-2021:  Pre-sprint Kickoff (11am - 1pm) (UTC-5)
-- 26-Jun-2021:  Sprint  (11pm to 1pm) (UTC-5) 
+- 26-Jun-2021:  Sprint  (11am to 3pm) (UTC-5) 
 - 10-Jul-2021:  Sprint Follow-up Office Hours (11am to 12pm) (UTC-5)
 
-[a] UTC-5 = São Paulo, Brazil Time  
+Note: UTC-5 = São Paulo, Brazil Time  
 
 ### Sprint Day
 The sprint officially ran 4 hours, which is limited time to submit a PR.  The participants continued to work on their sprint PRs throughout the weekend.
@@ -65,39 +67,39 @@ A total of 40 contributors attended the sprint. 13 of 40 (32.5%) identified as s
 
 Contributors joined from 9 different countries.  Country information was provided based on where participants were joining from. Argentina and Brasil had the most participants, for a total of 25 of 40, almost 63%.
 
- Other Latin American countries represented include: Colombia, México, Costa Rica, Chile and Venezuela.
+Other Latin American countries represented include: Colombia, México, Costa Rica, Chile and Venezuela.
 
-Given the migration in the region, these other countries were also represented in terms of contributor background: United States and Germany.  
+These other countries were also represented in terms of contributor background: United States and Germany.  
 
 There was one invited contributor who joined from Germany.  Invited contributors were those who participated in a prior sprint and have continued contributing to scikit-learn.  
 
 There were two returning contributors, participants who had previously participated in a scikit-learn open source sprint.  The invited and returning contributors were paired with a new contributor.  
 
 ### Applications Received
-The countries in the Latin America region with the most applicants are:  
+The countries in the Latin America region with the most *applicants* are:  
 - Brasil: 36
 - Argentina: 26
 - Colombia: 11
 - Venezuela:  9
-- Mexico:  5
-- Peru: 3
+- México:  5
+- Péru: 3
 - Ecuador: 3
 - Chile: 2
 - Bolivia: 1
 - Costa Rica: 1
 - Guatemala: 1
 
-Applications from regions outside of Latin America include: 
-- United States: 10 
-- India: 7 
-- Canada: 2 
+Applications from regions outside of Latin America include:  
+- United States: 10
+- India: 7
+- Canada: 2
 - Germany: 2 
-- Spain: 2 
+- Spain: 2
 
-Other countries with 1 application each: Australia, Greece, Poland, Romania, Saudi Arabia, United Kingdom.
+Other countries with one application each: Australia, Greece, Poland, Romania, Saudi Arabia, United Kingdom.
 
 ### Spoken Languages
-All communication was in English. All participants felt comfortable conversing in English. Languages spoken by participants included:  English, Arabic, French, Kishwahli, Persian, Hindi, Urdu, Turkish and German.
+The sprint was in English with translators available to translate into Spanish and Portuguese.  Languages spoken by participants included:  Spanish, Portuguese, English, and German. 
 
 ### Open Source Background
 75% of participants identified as having "none" or "beginner" level experience in contributing to open source.
@@ -113,7 +115,7 @@ All communication was in English. All participants felt comfortable conversing i
 
 |                                       | Sprint 2021    |
 |---------------------------------------|----------------|
-| Report date                           | 19-Jul-2021    |
+| Report date                           | 20-Jul-2021    |
 | Report author                          | Reshama Shaikh   |
 | Sprint date                           | 26-Jun-2021    |
 | Location                              | Online; Latin America (LATAM)         |
@@ -126,7 +128,6 @@ All communication was in English. All participants felt comfortable conversing i
 | Lead Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml) |
 | Mentors / Translations | Melissa Mendonca Weber, Cristian Ferreira, Michael Eickenberg  |  
 | Scikit-learn core contributors    | Thomas Fan, Adrin Jalali, Guillaume LeMaitre  |  
-| Invited Contributors | Maren Westerman |
 | Teaching Assistants  | None |
 | Platforms            | Discord & Zoom |
 | Sponsor: | Grant [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from [Gordon and Betty Moore Foundation](https://www.moore.org) & [Code for Science and Society](https://eventfund.codeforscience.org)   |
@@ -199,6 +200,9 @@ Google Analytics shows the reach of our marketing efforts:
 
 ## Challenges
 
+### Outreach
+Outreach was resource intensive. The communities exist, and it takes intensive networking and meetings to find communities, the community leaders and the platforms to reach potential sprint participants.
+
 ### Videos
 The videos that were created can be quickly outdated compared to static print. Videos are more accessible, but also take more effort to create.
 
@@ -213,32 +217,21 @@ We had translators at all 3 events: pre-sprint, sprint, post-sprint.
 
 It's challenging and resource intensive to provide translations in 3 different languages.
 
-### Collecting Names
-Important to have a field for "Middle Name" in addition to "First Name" and "Last Name".
+
 
 ## Adjustments for Next Sprint
 
-### Reviewing Pull Requests
-Reviewing PRs will also be added on the list of issues that the sprint participants can work on. 
+### Collecting Names
+Important to have an optional field for "Middle Name" in addition to "First Name" and "Last Name" in the application form for Latin America region.
 
-For sprint attendees who have submitted a PR, then can review other contributor's PRs and provide feedback.  
-
-### Video: Reviewing PRs
-Create a video that shows how contributors can review PRs with tips.  
-
-### scikit-learn branch: "master" to "main"
-Include a note that scikit-learn has changed their default branch name from "master" to "main".  Currently all the videos and documentation refer to "master."
-
-### Applicant Attrition
-We typically observe 10% no-show rates for this type of online event.  For this event it was much higher.  For future sprints, we will do more outreach, aim for more applications so that overall turnout is about 40 attendees.
+### Visual Studio Code
+Explore live pair programming tools.
 
 ### #DataUmbrella Hashtag 
 Reminder to sprint participants to include this hashtag #DataUmbrella on their pull requests so we can track them.
 
-
-
-
-
+### Videos    
+Videos are outdated. Consider if it is helpful to include them in the pre-work.
 
 ## Sprint Feedback
 
