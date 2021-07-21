@@ -120,7 +120,7 @@ The sprint was in English with translators available to translate into Spanish a
 | Sprint date                           | 26-Jun-2021    |
 | Location                              | Online; Latin America (LATAM)         |
 | Sprint website | [latam2021.dataumbrella.org](https://latam2021.dataumbrella.org) |
-| Twitter | [Moment](https://twitter.com/i/moment_maker/preview/1409666048144596996) |
+| Twitter | [Moment](https://twitter.com/i/events/1409666048144596996) |
 | Open source library                   | [scikit-learn](https://github.com/scikit-learn/scikit-learn) |  
 | GitHub repository link                | [data-umbrella/data-umbrella-scikit-learn-sprint](https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint)| |
 | Lead Organizer      | [Reshama Shaikh](https://twitter.com/reshamas)     |
@@ -236,8 +236,7 @@ Videos are outdated. Consider if it is helpful to include them in the pre-work.
 ## Sprint Feedback
 
 Feedback has been shared a number of ways:  
-- Twitter [Moment](https://twitter.com/i/moment_maker/preview/1409666048144596996
-)
+- Twitter [Moment](https://twitter.com/i/events/1409666048144596996)
 - Blogs (* none yet* )
 - Sprint survey
 - Social media (LinkedIn)
