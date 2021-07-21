@@ -132,12 +132,12 @@ All communication was in English. All participants felt comfortable conversing i
 | Sponsor: | Grant [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from [Gordon and Betty Moore Foundation](https://www.moore.org) & [Code for Science and Society](https://eventfund.codeforscience.org)   |
 |            |                |
 | PULL REQUESTS **(PRs)**                 |          |
-| PRs [MRG] at sprint            | 7             |
-| PRs [MRG] post-sprint            | 3             |
-| PRs open                    | 9        |
+| PRs [MRG] at sprint            | 10             |
+| PRs [MRG] post-sprint            | 50+             |
+| PRs open                    | 10+        |
 |                                    |          |
-| Attendees:  Initial Registrations  | 45       |
-| Attendees:  Participated           | ~ 31     |
+| Attendees:  Initial Registrations  | ~55       |
+| Attendees:  Participated           | ~40     |
 | Attendee List                      | [Sprint Contributors](https://latam2021.dataumbrella.org/contributors)   |
 |                                    |          |
 | Post-sprint Survey                 | [survey form] (closed) 
@@ -168,23 +168,8 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 - having fun
 
 
-### Documentation Impact
-These are the statistics for the videos that are considered documentation:    
-1.  Andreas Mueller: [Crash Course in Contributing to scikit-learn](https://youtu.be/5OL8XoMMOfA) 
-  - Jan 1, 2021: 1100   
-  - Mar 1, 2021: 1600  (+500 views)
-1.  Reshama Shaikh:  [Example of scikit-learn Pull Request](https://youtu.be/PU1WyDPGePI) 
-  - Jan 1, 2021: 545 
-  - Mar 1, 2021: 745   (+200 views)
-1.  Andreas Mueller: [Sprint FAQs](https://youtu.be/p_2Uw2BxdhA) 
-  - Mar 7, 2021: 398
-3.  Reshama Shaikh: [Intro to Discord](https://youtu.be/w2A8SknM-68) 
-  - Mar 7, 2021: 99 
-
-Sprint outreach can be considered an impact.  Even if folks do not attend or apply, the sprint outreach brings more visibility and interest to the project.
-
-
 ## Event Outreach
+Sprint outreach can be considered an impact.  Even if folks do not attend or apply, the sprint outreach brings more visibility and interest to the project.
 
 This [LATAM sprint tweet](https://twitter.com/DataUmbrella/status/1394661734275821573)
  had 80K+ impressions and 160+ link clicks:
@@ -424,20 +409,6 @@ In response to the question "*What are your favorite parts about the sprint?*"
 ## Acknowledgments
 - All the [scikit-learn core contributors](https://scikit-learn.org/stable/about.html) who mentored at the sprint and those who were online during the weekend afterwards to promptly review the submitted pull requests.
 
-
-
-
-## Pull Request Statistics
-- [PRs merged on sprint day](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+pr%3Amerged%3A>%3D2021-02-06+pr%3Acreated%3A<%3D2021-02-07+%23DataUmbrella+): 7 (from AFME sprint)
-    -  Query:  `is:pr is:merged pr:merged:>=2021-02-06 pr:created:<=2021-02-07 #DataUmbrella `
-- [Open PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen+pr%3Acreated%3A>%3D2021-02-06+pr%3Acreated%3A<%3D2021-03-01+%23DataUmbrella+): 9 (from AFME sprint)
-    -  Query:  `is:pr is:open pr:created:>=2021-02-06 pr:created:<=2021-03-01 #DataUmbrella `
-- [Open](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Aopen++%23DataUmbrella+) (w/o date range): 10
-    - Query: `is:pr is:open  #DataUmbrella`
-- [Merged PRs](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2021-02-06+%23DataUmbrella+): 19 (>= 2021-02-06)
-    - Query: `is:pr is:merged created:>=2021-02-06 #DataUmbrella`
-- [Merged](https://github.com/scikit-learn/scikit-learn/pulls?q=is%3Apr+is%3Amerged+created%3A>%3D2021-02-06+%23DataUmbrella) (w/o date range): 79
-    - Query: `is:pr is:merged #DataUmbrella`
 
 ---
 
