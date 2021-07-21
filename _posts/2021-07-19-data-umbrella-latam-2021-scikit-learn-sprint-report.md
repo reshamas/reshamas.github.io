@@ -25,8 +25,12 @@ This report focuses on the summary, impact and lessons learned of the Data Umbre
 ## Event Sponsor
 This event was funded in part by a grant from Code for Science & Society, made possible by grant number [GBMF8449](https://www.moore.org/grant-detail?grantId=GBMF8449) from the Gordon and Betty Moore Foundation.
 
+
+
 <p float="left">
+   <a href="https://eventfund.codeforscience.org/">
   <img src="../assets/images/2021-afme/css-logo.png" width="50%" height="50%" style="padding:1px;border:thick solid black;" align="top" />
+   <a href="https://www.moore.org/">
   <img src="../assets/images/2021-afme/moore-logo.jpg" width="40%" height="40%" style="padding:1px;border:thick solid black;" align="top"/> 
 </p>
 
@@ -54,18 +58,20 @@ Office hours were set up 2 weeks after the sprint where some of the scikit-learn
 ## Demographics
 
 <p>
- <img src="../assets/images/2021-afme/afme-graphs.png" width="99%" height="99%" style="border:0px;margin:0px">
+ <img src="../assets/images/2021-latam/latam-demog.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
-A total of 31 contributors attended the sprint. 12 of 31 (39%) identified at female or non-binary.  18 of 31 (58%) identified as male.  
+A total of 40 contributors attended the sprint. 13 of 40 (32.5%) identified as she/her.  25 of 40 (62.5%) identified as he/him. 2 of 40 (5%) identified as "they".
 
-Contributors joined from 14 different countries.  Country information was provided based on where participants were joining from. Saudi Arabia, Kenya and Nigeria had the most participants, for a total of 16 of 31, almost 55%.
+Contributors joined from 9 different countries.  Country information was provided based on where participants were joining from. Argentina and Brasil had the most participants, for a total of 25 of 40, almost 63%.
 
- Other countries represented include Morocco, South Africa, Ghana, Iran, Congo, Malawi, as well as Sweden and France.
+ Other Latin American countries represented include: Colombia, México, Costa Rica, Chile and Venezuela.
 
-Given the migration in the region, these other countries were also represented in terms of contributor background:  Sudan, Turkey, Syria. 
+Given the migration in the region, these other countries were also represented in terms of contributor background: United States and Germany.  
 
-There were two invited contributors, joining from India and Germany.  Invited contributors were those who participated in a prior sprint and have continued contributing to scikit-learn.  They were paired with a new contributor.  
+There was one invited contributor who joined from Germany.  Invited contributors were those who participated in a prior sprint and have continued contributing to scikit-learn.  
+
+There were two returning contributors, participants who had previously participated in a scikit-learn open source sprint.  The invited and returning contributors were paired with a new contributor.  
 
 ### Applications Received
 The countries in the Latin America region with the most applicants are:  
@@ -94,7 +100,7 @@ Other countries with 1 application each: Australia, Greece, Poland, Romania, Sau
 All communication was in English. All participants felt comfortable conversing in English. Languages spoken by participants included:  English, Arabic, French, Kishwahli, Persian, Hindi, Urdu, Turkish and German.
 
 ### Open Source Background
-Two-thirds of participants identified as having "none" or "beginner" level experience in contributing to open source.
+75% of participants identified as having "none" or "beginner" level experience in contributing to open source.
 
 
 ### Number of Participants
@@ -115,8 +121,8 @@ Two-thirds of participants identified as having "none" or "beginner" level exper
 | Twitter | [Moment](https://twitter.com/i/moment_maker/preview/1409666048144596996) |
 | Open source library                   | [scikit-learn](https://github.com/scikit-learn/scikit-learn) |  
 | GitHub repository link                | [data-umbrella/data-umbrella-scikit-learn-sprint](https://github.com/data-umbrella/data-umbrella-scikit-learn-sprint)| |
-| Organizers      | [Reshama Shaikh](https://twitter.com/reshamas) & [Mariam Haji](https://www.linkedin.com/in/mariamhaji/)    |
-| Helpers      | Cristina Mulas Lopez, Sara El-Ateif   |
+| Lead Organizer      | [Reshama Shaikh](https://twitter.com/reshamas)     |
+| Assistant Organizers      | Mariam Haji, Cristina Mulas Lopez, Sara El-Ateif |
 | Lead Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml) |
 | Mentors / Translations | Melissa Mendonca Weber, Cristian Ferreira, Michael Eickenberg  |  
 | Scikit-learn core contributors    | Thomas Fan, Adrin Jalali, Guillaume LeMaitre  |  
@@ -132,10 +138,10 @@ Two-thirds of participants identified as having "none" or "beginner" level exper
 |                                    |          |
 | Attendees:  Initial Registrations  | 45       |
 | Attendees:  Participated           | ~ 31     |
-| Attendee List                      | [Sprint Contributors](https://afme2021.dataumbrella.org/contributors)   |
+| Attendee List                      | [Sprint Contributors](https://latam2021.dataumbrella.org/contributors)   |
 |                                    |          |
 | Post-sprint Survey                 | [survey form] (closed) 
-| Blog: by Fortune Uwha               | [First Time Contributor to Open Source — Data Umbrella Scikit-learn Virtual Sprint February 2021](https://fortune-uwha.medium.com/first-time-contributor-to-open-source-data-umbrella-scikit-learn-virtual-sprint-february-2021-362208ba0710) |
+| Blog               | None |
 
 
 ## Resources for Contributing to scikit-learn 
@@ -221,6 +227,9 @@ Responses to the sprint outreach were initially low.  The website and social med
 We had translators at all 3 events: pre-sprint, sprint, post-sprint.
 
 It's challenging and resource intensive to provide translations in 3 different languages.
+
+### Collecting Names
+Important to have a field for "Middle Name" in addition to "First Name" and "Last Name".
 
 ## Adjustments for Next Sprint
 
