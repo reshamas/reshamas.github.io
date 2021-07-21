@@ -126,7 +126,7 @@ The sprint was in English with translators available to translate into Spanish a
 | Lead Organizer      | [Reshama Shaikh](https://twitter.com/reshamas)     |
 | Assistant Organizers      | Mariam Haji, Cristina Mulas Lopez, Sara El-Ateif |
 | Lead Facilitator    | [Andreas Mueller](https://twitter.com/amuellerml) |
-| Mentors / Translations | Melissa Weber Mendonça, Cristián Maureira-Fredes, Michael Eickenberg  |  
+| Mentors / Translations | Melissa Weber Mendonça, Cristián Maureira-Fredes, Michael Eickenberg, Bruno Goncalves  |  
 | Scikit-learn core contributors    | Thomas Fan, Adrin Jalali, Guillaume LeMaitre  |  
 | Teaching Assistants  | None |
 | Platforms            | Discord & Zoom |
