@@ -203,6 +203,12 @@ Google Analytics shows the reach of our marketing efforts:
 ### Outreach
 Outreach was resource intensive. The communities exist, and it takes intensive networking and meetings to find communities, the community leaders and the platforms to reach potential sprint participants.
 
+For those who attended the sprint, this is how they learned of the event. The main avenues were Twitter, LinkedIn and their network ("word of mouth").
+
+<p float="left">
+  <img  src="../assets/images/2021-latam/found-sprint.png" width="99%" height="99%" style="border:0px;margin:0px">
+</p>
+
 ### Videos
 The videos that were created can be quickly outdated compared to static print. Videos are more accessible, but also take more effort to create.
 
