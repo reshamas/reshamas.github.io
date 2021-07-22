@@ -150,6 +150,11 @@ Because this was a virtual event and there is a limited capacity for being onlin
 
 A [Checklist](https://docs.google.com/document/d/1QknhXDJ4qtP8Co2SfqaPGaZ8J5grsMq08onxTXVvAFU/edit?usp=sharing) with highlighted notes to indicate updates from videos was also included.
 
+This visualization shows which resources were used for sprint preparation.  Note that n=21, which represents those participants who completed the feedback survey.
+
+<p>
+  <img  src="../assets/images/2021-latam/resources-sprint-prep.png" width="99%" height="99%" style="border:0px;margin:0px">
+</p>      
 
 ## Impact
 
@@ -176,7 +181,7 @@ This [LATAM sprint tweet](https://twitter.com/DataUmbrella/status/13946617342758
  had 80K+ impressions and 160+ link clicks:
 
   <img  src="../assets/images/2021-latam/twitter_stats.png" width="99%" height="99%" style="border:0px;margin:0px">
-      </a>
+      </img>
 
 This [LATAM LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6800434144624070656/)
  had 3200 impressions and 50 reshares:
