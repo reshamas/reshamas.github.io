@@ -55,7 +55,7 @@ Office hours were set up 2 weeks after the sprint where some of the scikit-learn
  <img src="../assets/images/2021-afme/afme-graphs.png" width="99%" height="99%" style="border:0px;margin:0px">
 </p>
 
-A total of 31 contributors attended the sprint. 12 of 31 (39%) identified at female or non-binary.  18 of 31 (58%) identified as male.  
+A total of 31 contributors attended the sprint. 12 of 31 (39%) identified as women or non-binary.  18 of 31 (58%) identified as men.  
 
 Contributors joined from 14 different countries.  Country information was provided based on where participants were joining from. Saudi Arabia, Kenya and Nigeria had the most participants, for a total of 16 of 31, almost 55%.
 
