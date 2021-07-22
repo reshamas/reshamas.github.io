@@ -178,7 +178,7 @@ Aside from the number of PRs that were merged, there is non-quantifiable impact 
 Sprint outreach can be considered an impact.  Even if folks do not attend or apply, the sprint outreach brings more visibility and interest to the project.
 
 This [LATAM sprint tweet](https://twitter.com/DataUmbrella/status/1394661734275821573)
- had 80K+ impressions and 160+ link clicks:
+ had ~80K+ impressions and 160+ link clicks:
 
   <img  src="../assets/images/2021-latam/twitter_stats.png" width="99%" height="99%" style="border:0px;margin:0px">
       </img>
@@ -186,8 +186,9 @@ This [LATAM sprint tweet](https://twitter.com/DataUmbrella/status/13946617342758
 This [LATAM LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:6800434144624070656/)
  had 3200 impressions and 50 reshares:
 
+<p>
   <img  src="../assets/images/2021-latam/li_stats.png" width="99%" height="99%" style="border:0px;margin:0px">
-      </a>
+</p>
 
 Google Analytics shows the reach of our marketing efforts:  
 
