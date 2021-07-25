@@ -1,4 +1,4 @@
-<p> <img src="../assets/images/nyc_insider/highline.jpg" width="99%" height="99%" style="border:0px;margin:0px"></p>
+<p> <img src="../assets/images/nyc_insider/centralpark.jpeg" width="99%" height="99%" style="border:0px;margin:0px"></p>
 
 
 
@@ -45,10 +45,23 @@ The High Line is an elevated linear park, greenway and rail trail created on a f
 #### About the High Bridge
 The High Bridge, famed centerpiece of the Old Croton Aqueduct, carried Croton water across the Harlem River from the mainland to Manhattan in pipes still beneath its deck. A civic destination and public space and now New York City’s oldest bridge, it has never had vehicular traffic and never will.
 
+
+### [Wave Hill](https://www.wavehill.org/)
+<figure>
+ <img src="../assets/images/nyc_insider/wavehill.jpeg" alt="photo of high bridge" width="75%" height="75%" /> 
+ <figcaption>
+ Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
+ </figcaption>
+</figure>
+
+- park
+- Bronx
+
+
 ### [The Vessel](https://www.hudsonyardsnewyork.com/discover/vessel)
 
 <figure>
- <img src="../assets/images/nyc_insider/highline.jpg" alt="photo of railroad tracks with flowers on high line park" width="75%" height="75%" /> 
+ <img src="../assets/images/nyc_insider/vessel.jpeg" alt="outside sculpture" width="75%" height="75%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
