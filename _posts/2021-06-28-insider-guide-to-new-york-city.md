@@ -61,7 +61,7 @@ The High Bridge, famed centerpiece of the Old Croton Aqueduct, carried Croton wa
 ### [The Vessel](https://www.hudsonyardsnewyork.com/discover/vessel)
 
 <figure>
- <img src="../assets/images/nyc_insider/vessel.jpeg" alt="outside sculpture" width="75%" height="75%" /> 
+ <img src="../assets/images/nyc_insider/vessel.jpeg" alt="outside sculpture" width="50%" height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
@@ -103,7 +103,7 @@ Comprised of 154 intricately interconnecting flights of stairs -- almost 2,500 i
 ### [Brooklyn Bridge](https://www1.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml)
 
 <figure>
- <img src="../assets/images/nyc_insider/brooklyn_bridge.jpeg" alt="photo of brooklyn bridge" width="55%" height="55%" /> 
+ <img src="../assets/images/nyc_insider/brooklyn_bridge.jpeg" alt="photo of brooklyn bridge" width="50%" height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
@@ -112,7 +112,7 @@ Comprised of 154 intricately interconnecting flights of stairs -- almost 2,500 i
 ### [Little Island](https://littleisland.org/) 
 
 <figure>
- <img src="../assets/images/nyc_insider/little_island.jpeg" alt="photo of railroad tracks with flowers on high line park" width="75%" height="75%" /> 
+ <img src="../assets/images/nyc_insider/little_island.jpeg" alt="photo of railroad tracks with flowers on high line park" width="50%" height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
@@ -138,7 +138,7 @@ Comprised of 154 intricately interconnecting flights of stairs -- almost 2,500 i
 
 ### [Sahadi's](https://sahadis.com/)
 <figure>
- <img src="../assets/images/nyc_insider/sahadis.jpeg" alt="photo of sahadi bulk grains" width="75%" height="75%" /> 
+ <img src="../assets/images/nyc_insider/sahadis.jpeg" alt="photo of sahadi bulk grains" width="50%" height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
@@ -168,7 +168,7 @@ Take the A train to 190th Street and exit the station by elevator. Walk north al
 ### [The Morgan Library and Museum](https://www.themorgan.org)
 
 <figure>
- <img src="../assets/images/nyc_insider/morgan_library.jpg" alt="photo of morgan library inside" width="75%" height="75%" /> 
+ <img src="../assets/images/nyc_insider/morgan_library.jpg" alt="photo of morgan library inside" width="50%" height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/NoemiDerzsy">@NoemiDerzsy</a>
  </figcaption>
