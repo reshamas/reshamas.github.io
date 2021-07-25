@@ -1,4 +1,12 @@
-<p> <img src="../assets/images/highline.jpg" width="99%" height="99%" style="border:0px;margin:0px"></p>
+<p> <img src="../assets/images/nyc_insider/highline.jpg" width="99%" height="99%" style="border:0px;margin:0px"></p>
+
+
+<figure>
+ <img src="../assets/images/nyc_insider/highline.jpg" alt="photo of railroad tracks with flowers on high line park" />
+ <figcaption>
+ Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
+ </figcaption>
+</figure>
 
 
 # Where To Go When Visiting New York City
@@ -12,12 +20,19 @@ Coming up is a list of favorite places in NYC of mine and my friends.
 ## Outdoors
 
 ### [The High Line](https://www.thehighline.org/)
-- park
+- park, ~1.5 miles (2.5km)
 - free
+- the park runs from Gansevoort Street – three blocks below 14th Street – through Chelsea to the northern edge of the West Side Yard on 34th Street near the Javits Center.
+
+#### [About the High Line](https://en.wikipedia.org/wiki/High_Line)
+The High Line is an elevated linear park, greenway and rail trail created on a former New York Central Railroad spur on the west side of Manhattan in New York City. Since opening in June 2009, the High Line has become an icon of contemporary landscape architecture.
+
 
 ### [The Vessel](https://www.hudsonyardsnewyork.com/discover/vessel)
 - free with reservations
-- at Hudson Yards 
+- at Hudson Yards
+
+
 
 ### [The Edge](https://www.edgenyc.com/en)
 >Edge is the highest outdoor sky deck in the Western Hemisphere located at 30 Hudson Yards, with a one-of-a-kind design. It’s suspended in mid-air, giving you the feeling of floating in the sky with 360-degree views you can’t get anywhere else.
