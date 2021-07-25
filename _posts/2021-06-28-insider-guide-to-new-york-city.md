@@ -2,7 +2,7 @@
 
 
 <figure>
- <img src="../assets/images/nyc_insider/highline.jpg" alt="photo of railroad tracks with flowers on high line park" />
+ <img src="../assets/images/nyc_insider/highline.jpg" alt="photo of railroad tracks with flowers on high line park" width="75%" height="75%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
