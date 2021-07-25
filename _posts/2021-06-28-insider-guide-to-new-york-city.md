@@ -90,7 +90,7 @@ Comprised of 154 intricately interconnecting flights of stairs -- almost 2,500 i
 ### [Brooklyn Bridge](https://www1.nyc.gov/html/dot/html/infrastructure/brooklyn-bridge.shtml)
 
 <figure>
- <img src="../assets/images/nyc_insider/brooklyn_bridge.jpeg" alt="photo of brooklyn bridge" width="75%" height="75%" /> 
+ <img src="../assets/images/nyc_insider/brooklyn_bridge.jpeg" alt="photo of brooklyn bridge" width="55%" height="55%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
