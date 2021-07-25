@@ -66,7 +66,6 @@
 | 2019-11-18    | DataCamp:  [Martijn Theuwissen Officially Steps Into CEO Role](https://www.datacamp.com/community/blog/martijn-theuwissen-officially-steps-into-ceo-role)
 | 2020-07-01    | DataCamp: [RStudio - Pending Legal Matter](https://www.datacamp.com/community/blog/rstudio-pending-legal-matter) 
 | 2020-07    | Richard Cotton: [DataCamp and RStudio](https://www.linkedin.com/posts/richierocks_rstudio-pending-legal-matter-activity-6684151767883743232-0arp) 
-
-
+| 2020-07-05    | Daniel McNichol: [A timeline of transgressions & community response](https://dnlmc.medium.com/dont-use-datacamp-ef04adcf1b7f) 
 
 
