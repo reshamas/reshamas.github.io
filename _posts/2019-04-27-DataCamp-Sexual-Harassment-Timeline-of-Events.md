@@ -64,7 +64,8 @@
 | 2019-10-23    | RLadies:  [R-Ladies Global's response to the DataCamp Assessment Report](https://blog.rladies.org/post/datacamp-third-party-review/)
 | 2019-11       | DataCamp:  [Instructor Advisory Board FAQs](https://instructor-support.datacamp.com/en/articles/3151139-instructor-advisory-board-iab-faqs)
 | 2019-11-18    | DataCamp:  [Martijn Theuwissen Officially Steps Into CEO Role](https://www.datacamp.com/community/blog/martijn-theuwissen-officially-steps-into-ceo-role)
-| 2020-07-01    | DataCamp: [Rstudio - Pending Legal Matter](https://www.datacamp.com/community/blog/rstudio-pending-legal-matter) 
+| 2020-07-01    | DataCamp: [RStudio - Pending Legal Matter](https://www.datacamp.com/community/blog/rstudio-pending-legal-matter) 
+| 2020-07    | Richard Cotton: [DataCamp and RStudio](https://www.linkedin.com/posts/richierocks_rstudio-pending-legal-matter-activity-6684151767883743232-0arp) 
 
 
 
