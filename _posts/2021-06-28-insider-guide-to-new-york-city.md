@@ -16,7 +16,7 @@ Coming up is a list of favorite places in NYC of mine and my friends.
 
 ### [The High Line](https://www.thehighline.org/)
 <figure>
- <img src="../assets/images/nyc_insider/highline.jpg" alt="photo of railroad tracks with flowers on high line park" width="50%" height="50%" /> 
+ <img src="../assets/images/nyc_insider/highline.jpg" alt="photo of railroad tracks with flowers on high line park" max-width="50%" max-height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
@@ -138,7 +138,7 @@ Comprised of 154 intricately interconnecting flights of stairs -- almost 2,500 i
 
 ### [Sahadi's](https://sahadis.com/)
 <figure>
- <img src="../assets/images/nyc_insider/sahadis.jpeg" alt="photo of sahadi bulk grains" width="50%" height="50%" /> 
+ <img src="../assets/images/nyc_insider/sahadis.jpeg" alt="photo of sahadi bulk grains" max-width="50%" max-height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
