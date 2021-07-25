@@ -16,7 +16,7 @@ Coming up is a list of favorite places in NYC of mine and my friends.
 
 ### [The High Line](https://www.thehighline.org/)
 <figure>
- <img src="../assets/images/nyc_insider/highline.jpg" alt="photo of railroad tracks with flowers on high line park" width="75%" height="75%" /> 
+ <img src="../assets/images/nyc_insider/highline.jpg" alt="photo of railroad tracks with flowers on high line park" width="50%" height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
@@ -31,7 +31,7 @@ The High Line is an elevated linear park, greenway and rail trail created on a f
 
 ### [The High Bridge Acqueduct](https://aqueduct.org/high-bridge)
 <figure>
- <img src="../assets/images/nyc_insider/highbridge.jpeg" alt="photo of high bridge" width="75%" height="75%" /> 
+ <img src="../assets/images/nyc_insider/highbridge.jpeg" alt="photo of high bridge" width="50%" height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
@@ -48,7 +48,7 @@ The High Bridge, famed centerpiece of the Old Croton Aqueduct, carried Croton wa
 
 ### [Wave Hill](https://www.wavehill.org/)
 <figure>
- <img src="../assets/images/nyc_insider/wavehill.jpeg" alt="photo of high bridge" width="75%" height="75%" /> 
+ <img src="../assets/images/nyc_insider/wavehill.jpeg" alt="photo of high bridge" width="50%" height="50%" /> 
  <figcaption>
  Photo credit: <a href="https://twitter.com/reshamas">@reshamas</a>
  </figcaption>
