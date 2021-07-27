@@ -142,7 +142,9 @@ The sprint was in English with translators available to translate into Spanish a
 | Attendee List                      | [Sprint Contributors](https://latam2021.dataumbrella.org/contributors)   |
 |                                    |          |
 | Post-sprint Survey                 | [survey form] (closed) 
-| Blog               | None |
+| Blog 1: English              | [Data Umbrella Sprint - My Experience](https://sebastiandres.github.io/blog/sprint-data-umbrella-eng/) Sebastian Andres |
+| Blog 2: Spanish              | [Experiencias del Sprint de Data Umbrella](https://sebastiandres.github.io/blog/sprint-data-umbrella/) Sebastian Andres |
+
 
 
 ## Resources for Contributing to scikit-learn 
