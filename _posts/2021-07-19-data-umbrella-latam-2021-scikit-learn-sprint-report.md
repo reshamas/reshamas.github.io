@@ -252,7 +252,7 @@ Videos are outdated. Consider if it is helpful to include them in the pre-work.
 
 Feedback has been shared a number of ways:  
 - Twitter [Moment](https://twitter.com/i/events/1409666048144596996)
-- Blogs (* none yet* )
+- Blogs 
 - Sprint survey
 - Social media (LinkedIn)
 - Casually, in conversation during the sprint, pre-sprint and post-sprint events
