@@ -6,10 +6,10 @@ comments: false
 ---
 
 ## WiMLDS Contributions
-These are contributions I have made to WiMLDS over the past 5 years.  
+These are contributions I have made to WiMLDS from 2015 to 2020.   
 
 ### New York Chapter of WiMLDS
-- NYC chapter organizer since spring 2015 to present
+- NYC chapter organizer:  2015 to 2020
     - organized dozens of meetup events and workshops over the course of 5 years:  [past NYC WiMLDS events](https://www.meetup.com/NYC-WiMLDS/events/past/)
 - Mentored new organizers in 2018 and 2019
 - Advisor to NYC WiMLDS from January 2015 to spring 2015, prior to joining as an organizer
