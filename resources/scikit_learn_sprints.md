@@ -14,10 +14,13 @@ comments: false
 ## Listing of Scikit-learn Sprints
 
 There is a list on the [scikit-learn wiki](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints). 
-
+- 2022
+  - [TO BE ADDED]
 - 2021
-  - [Data Umbrella Latin America Sprint]()  (June 2021)
-  - [Data Umbrella Africa & Middle East Sprint](https://github.com/scikit-learn/scikit-learn/wiki/Past-sprints) (Feb 2021)
+  - [Fujitsu](https://www.fujitsu.com/global/about/research/article/202111-devsprint2021a.html) (Dec 2021)
+  - Data Umbrella [Africa & Middle East Sprint](https://blog.dataumbrella.org/data-umbrella-afme2-2021-scikit-learn-sprint-report) (Oct 2021)
+  - Data Umbrella [Latin America Sprint](https://blog.dataumbrella.org/data-umbrella-latam-2021-scikit-learn-sprint-report)  (Jun 2021)
+  - Data Umbrella [Africa & Middle East Sprint](https://blog.dataumbrella.org/data-umbrella-afme1-2021-scikit-learn-sprint-report) (Feb 2021)
   - [Fujitsu Research](https://www.fujitsu.com/global/about/research/article/202104-devsprint.html) (May 2021)
 
 - 2020
