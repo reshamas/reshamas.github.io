@@ -5,6 +5,43 @@ tags:
 comments: false
 ---
 
+# 2022
+
+## An Example Pull Request to PyMC
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NbmdFJsnuuo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+---
+
+# 2021
+
+## Deploying a Mobile App on Tensorflow - Reshama Shaikh, Nidhin Pattaniyil | PyData Global 2021
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tqk2eCsd_Fs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+
+## Animating Visualizations in Python with Plotly [PyGotham 2021]
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kMFvpmOaF2I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+## Enriching Data Visualizations with Annotations in Plotly [PyOhio 2021]
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D2vsLy85rog" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+## Spreading the Word: The 5-minute Interview with Reshama Shaikh [Neo4j Graphie Award]
+
+<p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bkyr37dtavI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 ## 2021 State of PyLadies
 Article:  [2021 State of PyLadies](https://reshamas.github.io/2021-state-of-pyladies/)
 
@@ -12,10 +49,11 @@ Article:  [2021 State of PyLadies](https://reshamas.github.io/2021-state-of-pyla
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GgCB0-EjSnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+---
 
+# 2020
 
-
-## Open Source: Contributing to Scikit-Learn
+## Open Source: Contributing to scikit-Learn
 
 <p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PU1WyDPGePI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
