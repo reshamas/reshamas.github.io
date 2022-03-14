@@ -36,7 +36,7 @@ Most attendees learned of the event via Twitter and word-of-mouth, followed by s
 |                                       | Sprint 2020    |
 |---------------------------------------|----------------|
 | Report date                           | 27-Jun-2020    |
-| Sprint date                           | 06-Jun-2019    |
+| Sprint date                           | 06-Jun-2020    |
 | Location                              | Online; Global         |
 | Sprint website | [2020 Online Sprint](https://sites.google.com/view/nyc-2020-scikit-sprint) |
 |                | Twitter [Moment](https://twitter.com/i/events/1269710860202770434) |
