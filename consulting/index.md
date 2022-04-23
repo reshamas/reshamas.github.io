@@ -7,7 +7,7 @@ comments: false
 
 ## Consulting Requests
 
-I am available for **consulting** in these areas:  data science, diversity and community building.  
+I am available for **consulting** in these areas:  data science, statistics, community building.  
 
 ## Contacting Me
 
