@@ -1,6 +1,6 @@
 
 <figure>
- <img src="../assets/images/reshama_pyconde.png" alt="conference card with title and speaker photo" max-width="50%" max-height="50%" /> 
+ <img src="../assets/images/reshama-pyconde.png" alt="conference card with title and speaker photo" max-width="50%" max-height="50%" /> 
  <figcaption>
  Image credit: <a href="https://reshamas.github.io">PyCon DE and PyData Berlin</a>
  </figcaption>
