@@ -8,6 +8,6 @@ I am happy to share that in July 2022 I was named a Fellow of the Python Softwar
 ## References
 - [LinkedIn post announcement](https://www.linkedin.com/posts/reshamas_announcing-python-software-foundation-fellow-activity-6952355866704588800-3wfF)
 - [PSF July 2022 Fellow Announcement](https://pyfound.blogspot.com/2022/07/announcing-python-software-foundation.html)
-- [PSF List of Fellow](https://www.python.org/psf/fellows/)
+- [PSF List of Fellows](https://www.python.org/psf/fellows/)
 - [Reshama Shaikh: 2022 PSF Board Nomination Statement](https://www.python.org/nominations/elections/2022-python-software-foundation-board/nominees/reshama-shaikh/)
 
