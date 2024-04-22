@@ -24,6 +24,7 @@ A background on the CoC events at JupyterCon 2020 are as follows:
 - [I Violated a Code of Conduct](https://www.fast.ai/2020/10/28/code-of-conduct/), Jeremy Howard, October 28, 2020  
 - [Public Apology to Jeremy Howard](https://numfocus.org/blog/jeremy-howard-apology), NumFOCUS, October 31, 2020
 - [A Personal Apology to Jeremy Howard and the Community](http://andy.terrel.us/blog/2020/11/01/personal-apology/), Andy Terrel, November 1, 2020
+- Web archivee: [Andy Terrel apology](https://web.archive.org/web/20201101222924/http://andy.terrel.us/blog/2020/11/01/personal-apology/)
 - [JupyerCon 2020: Code of Conduct Findings](https://numfocus.org/blog/jupytercon2020-coc), NumFOCUS, November 3, 2020
 - Keynote talk:  [I Love Notebooks](https://youtu.be/HKt19-GsA1I) posted on YouTube, November 13, 2020
 
