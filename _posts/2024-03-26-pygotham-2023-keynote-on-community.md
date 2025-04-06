@@ -12,7 +12,10 @@
 
 <br>
 
+Reshama Shaikh was invited to be a keynote speaker at [PyGotham 2023](https://2023.pygotham.tv/talks/a-look-at-the-community-life-cycle-in-the-open-source-space/). 
+
 ## About
+
 In 2023, the US Surgeon General issued a report on the [Our Epidemic of Loneliness & Isolation: Healing Effects of Social Connection and Community](https://www.hhs.gov/sites/default/files/surgeon-general-social-connection-advisory.pdf). In this talk, we examine the importance of community and the experiences of a few community organizers in the open source space. We explore getting started, staying involved and leaving communities.
 
 Reshama talks about Python and open source communities: the good parts (motivations of joining and contributing), and the bad (things that cause people to leave). She shared examples of communities that did great work but are now no longer operating.
