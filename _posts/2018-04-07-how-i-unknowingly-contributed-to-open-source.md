@@ -38,14 +38,19 @@ We can expand the purview of open source to include the following contributions:
 - contributing to programming languages by fixing bugs or adding features via GitHub
 - documentation
 - tutorials and training materials (text, video)
-- blogs
-- research papers
+- writing blogs
+- writing research papers
 - answering user questions on forums ([StackOverflow](https://stackoverflow.com/questions))
 - useful tweets <a href="https://twitter.com/reshamas/lists/notable-data-scientists/members" style="color:blue">(Notable Data Scientists)</a>
 - talk slides and videos
 - datasets ([Kaggle](https://www.kaggle.com/datasets))
 - [trending repositories on GitHub](https://github.com/trending)
 - translations of English documentation
+- organizing events (webinars, workshops)
+- creating designs and logos
+- creating social media posts
+- creating newsletters
+- creating surveys, user research
 
 An updated definition could be:  
 >Free software whose source code is open to the public, as well as any documentation, examples, applications, maintenance and support of software and related tools for all users.
