@@ -33,9 +33,12 @@ Examples include:
 
 In November 2017, I participated in the inaugural [Diversity & Inclusion in Scientific Computing (DISC)](https://pydata.org/nyc2017/diversity-inclusion/disc-unconference-2017/) Unconference where I broadened my knowledge of open source.    
 
+### Types of Open Source Contributions
 We can expand the purview of open source to include the following contributions:
 - creating additional libraries for programming languages
 - contributing to programming languages by fixing bugs or adding features via GitHub
+- reviewing issues and pull requests
+- triaging: categorizing types of issues and pull requests
 - documentation
 - tutorials and training materials (text, video)
 - writing blogs
