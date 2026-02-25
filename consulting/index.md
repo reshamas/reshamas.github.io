@@ -17,7 +17,7 @@ I am involved in many projects, and due to number of inquiries received and limi
 
 2.  **PROFESSIONAL DEVELOPMENT**:  Business and educational development activities which move me forward professionally.
 
-3.  **VOLUNTEER**:  [Data Umbrella](https://www.dataumbrella.org). Donate to the [Data Umbrella Collective](https://www.every.org/data-umbrella).
+3.  **[Data Umbrella](https://www.dataumbrella.org)**: Donate to the [Data Umbrella Collective](https://www.every.org/data-umbrella).
 
 4.  **MENTORING**: Not available.
 
