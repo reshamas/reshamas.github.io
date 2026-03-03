@@ -21,9 +21,8 @@ I am involved in many projects, and due to number of inquiries received and limi
 
 4.  **MENTORING**: Not available.
 
-5.  **MEETING REQUESTS**:   Coffee / General advice / Informational calls.  
+5.  **OTHER**:   Meeting requests / Coffee / General advice / Informational calls / Other miscellaneous requests.  
 
-6.  **OTHER**:  Other miscellaneous requests. 
 
  
 
